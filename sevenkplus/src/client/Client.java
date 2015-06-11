@@ -11,7 +11,7 @@ public class Client {
 		int portNumber = args.length >= 1 ? Integer.parseInt(args[0]) : 5000;
 		String hostName = "localhost";
 		try {			
-			System.out.println("connecting.");
+			System.out.println("connecting to port " + portNumber);
 		    Socket socket = new Socket(hostName, portNumber);
 		    System.out.println("connected.");
 		    PrintWriter out = new PrintWriter(socket.getOutputStream(), true);

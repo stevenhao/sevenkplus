@@ -6,5 +6,14 @@
 	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-lib/mysql-connector-java-5.1.35-bin.jar"/>
 	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-lib/jooq-codegen-3.6.2.jar"/>
 	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-lib/jooq-meta-3.6.2.jar"/>
+	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-lib/jooq-meta-extensions-3.6.2.jar"/>
+	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-javadoc/jooq-3.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-javadoc/jooq-codegen-3.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-javadoc/jooq-codegen-maven-3.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-javadoc/jooq-meta-3.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-javadoc/jooq-meta-extensions-3.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-javadoc/jooq-scala-3.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-lib/jooq-codegen-maven-3.6.2.jar"/>
+	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-lib/jooq-scala-3.6.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
