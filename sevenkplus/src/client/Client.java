@@ -8,8 +8,8 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 public class Client {
-  private String host;
-  private int port;
+  private final String host;
+  private final int port;
   private Socket clientSocket;
   private ServerSocket serverSocket;
   private PrintWriter out;
@@ -37,6 +37,5 @@ public class Client {
   public static void main(String[] args) {
     int portNumber = args.length >= 1 ? Integer.parseInt(args[0]) : 5000;
     String hostName = "localhost";
-
   }
 }

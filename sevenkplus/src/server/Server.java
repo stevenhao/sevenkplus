@@ -13,9 +13,8 @@ import org.jooq.DSLContext;
 import org.jooq.Record;
 import org.jooq.Result;
 import org.jooq.SQLDialect;
+import org.jooq.generated.tables.Player;
 import org.jooq.impl.DSL;
-
-import static org.jooq.generated.Tables.PLAYER;
 
 public class Server {
   private final int port;
@@ -38,10 +37,10 @@ public class Server {
     // PreparedStatement and ResultSet are handled by jOOQ, internally
     try (Connection conn = DriverManager.getConnection(url, userName, password)) {
       DSLContext create = DSL.using(conn, SQLDialect.MYSQL);
-      Result<Record> result = create.select().from(PLAYER).fetch();
+      Result<Record> result = create.select().from(Player.PLAYER).fetch();
       for (Record r : result) {
-        Integer id = r.getValue(PLAYER.ID);
-        String name = r.getValue(PLAYER.NAME);
+        Integer id = r.getValue(Player.PLAYER.ID);
+        String name = r.getValue(Player.PLAYER.NAME);
         System.out.println("ID: " + id + " title: " + name);
       }
     } catch (Exception e) {
