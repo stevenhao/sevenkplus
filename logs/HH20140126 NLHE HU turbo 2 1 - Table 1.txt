@@ -1,0 +1,1245 @@
+Hand #17178719-2 - 2014-01-26 03:13:00
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1450)
+Seat 2: sevenk (1550)
+sevenk has the dealer button
+sevenk posts small blind 25
+love2gamble posts big blind 50
+** Hole Cards **
+Dealt to sevenk [6c 3c]
+sevenk calls 25
+love2gamble checks
+** Flop ** [9d 7d 4d]
+love2gamble bets 50
+sevenk folds
+love2gamble refunded 50
+love2gamble wins Pot (100)
+
+
+
+Hand #17178749-3 - 2014-01-26 03:13:22
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1500)
+Seat 2: sevenk (1500)
+love2gamble has the dealer button
+love2gamble posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [3s Kc]
+love2gamble raises to 100
+sevenk calls 50
+** Flop ** [3c 7c 6s]
+sevenk checks
+love2gamble bets 75
+sevenk raises to 150
+love2gamble calls 75
+** Turn ** [Qs]
+sevenk checks
+love2gamble checks
+** River ** [8c]
+sevenk checks
+love2gamble checks
+** Pot Show Down ** [3c 7c 6s Qs 8c]
+love2gamble shows [6h Jh] (a Pair of Sixes +QJ8)
+sevenk shows [3s Kc] (a Pair of Threes +KQ8)
+love2gamble wins Pot (500) with a Pair
+
+
+
+Hand #17178789-4 - 2014-01-26 03:14:10
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1750)
+Seat 2: sevenk (1250)
+sevenk has the dealer button
+sevenk posts small blind 25
+love2gamble posts big blind 50
+** Hole Cards **
+Dealt to sevenk [6s 8h]
+sevenk calls 25
+love2gamble checks
+** Flop ** [4h 3h 5c]
+love2gamble bets 50
+sevenk calls 50
+** Turn ** [Kh]
+love2gamble checks
+sevenk checks
+** River ** [Jd]
+love2gamble bets 75
+sevenk raises to 250
+love2gamble folds
+sevenk refunded 175
+sevenk wins Pot (350)
+
+
+
+Hand #17178829-5 - 2014-01-26 03:15:01
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1575)
+Seat 2: sevenk (1425)
+love2gamble has the dealer button
+love2gamble posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [8d Tc]
+love2gamble folds
+sevenk refunded 25
+sevenk wins Pot (50)
+
+
+
+Hand #17178836-6 - 2014-01-26 03:15:09
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1550)
+Seat 2: sevenk (1450)
+sevenk has the dealer button
+sevenk posts small blind 25
+love2gamble posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Ah Ks]
+sevenk raises to 100
+love2gamble calls 50
+** Flop ** [Ac 8s 9d]
+love2gamble checks
+sevenk bets 50
+love2gamble folds
+sevenk refunded 50
+sevenk wins Pot (200)
+
+
+
+Hand #17178861-7 - 2014-01-26 03:15:32
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1450)
+Seat 2: sevenk (1550)
+love2gamble has the dealer button
+love2gamble posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Kc 4c]
+love2gamble calls 25
+sevenk raises to 100
+love2gamble calls 50
+** Flop ** [Ac 2c As]
+sevenk bets 50
+love2gamble calls 50
+** Turn ** [Tc]
+sevenk bets 50
+love2gamble calls 50
+** River ** [8c]
+sevenk checks
+love2gamble checks
+** Pot Show Down ** [Ac 2c As Tc 8c]
+love2gamble shows [Ks 2d] (Two Pair, Aces and Deuces +K)
+sevenk shows [Kc 4c] (a Flush, Ace high +KT84)
+sevenk wins Pot (400) with a Flush
+
+
+
+Hand #17178901-8 - 2014-01-26 03:16:16
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1250)
+Seat 2: sevenk (1750)
+sevenk has the dealer button
+sevenk posts small blind 25
+love2gamble posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Jh 3c]
+sevenk calls 25
+love2gamble checks
+** Flop ** [8s 5h Jc]
+love2gamble bets 50
+sevenk raises to 100
+love2gamble folds
+sevenk refunded 50
+sevenk wins Pot (200)
+
+
+
+Hand #17178918-9 - 2014-01-26 03:16:40
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1150)
+Seat 2: sevenk (1850)
+love2gamble has the dealer button
+love2gamble posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Kh 2h]
+love2gamble calls 25
+sevenk checks
+** Flop ** [2s 5c 4d]
+sevenk bets 155
+love2gamble calls 155
+** Turn ** [Jd]
+sevenk checks
+love2gamble bets 200
+sevenk calls 200
+** River ** [7h]
+sevenk checks
+love2gamble bets 500
+sevenk folds
+love2gamble refunded 500
+love2gamble wins Pot (810)
+
+
+
+Hand #17179016-10 - 2014-01-26 03:18:07
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1555)
+Seat 2: sevenk (1445)
+sevenk has the dealer button
+sevenk posts small blind 25
+love2gamble posts big blind 50
+** Hole Cards **
+Dealt to sevenk [5c 3s]
+sevenk folds
+love2gamble refunded 25
+love2gamble wins Pot (50)
+
+
+
+Hand #17179028-11 - 2014-01-26 03:18:16
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1580)
+Seat 2: sevenk (1420)
+love2gamble has the dealer button
+love2gamble posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [8d 9h]
+love2gamble raises to 100
+sevenk calls 50
+** Flop ** [2d 8c 4h]
+sevenk checks
+love2gamble bets 75
+sevenk raises to 200
+love2gamble has timed out
+love2gamble folds
+sevenk refunded 125
+sevenk wins Pot (350)
+
+
+
+Hand #17179081-12 - 2014-01-26 03:19:11
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1405)
+Seat 2: sevenk (1595)
+sevenk has the dealer button
+sevenk posts small blind 30
+love2gamble posts big blind 60
+** Hole Cards **
+Dealt to sevenk [3d 6c]
+sevenk folds
+love2gamble refunded 30
+love2gamble wins Pot (60)
+
+
+
+Hand #17179089-13 - 2014-01-26 03:19:21
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1435)
+Seat 2: sevenk (1565)
+love2gamble has the dealer button
+love2gamble posts small blind 30
+sevenk posts big blind 60
+** Hole Cards **
+Dealt to sevenk [2h 6s]
+love2gamble calls 30
+sevenk checks
+** Flop ** [Th 4c 4d]
+sevenk checks
+love2gamble checks
+** Turn ** [7s]
+sevenk checks
+love2gamble bets 60
+sevenk folds
+love2gamble refunded 60
+love2gamble wins Pot (120)
+
+
+
+Hand #17179116-14 - 2014-01-26 03:19:49
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1495)
+Seat 2: sevenk (1505)
+sevenk has the dealer button
+sevenk posts small blind 30
+love2gamble posts big blind 60
+** Hole Cards **
+Dealt to sevenk [8c 4s]
+sevenk folds
+love2gamble refunded 30
+love2gamble wins Pot (60)
+
+
+
+Hand #17179126-15 - 2014-01-26 03:20:00
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1525)
+Seat 2: sevenk (1475)
+love2gamble has the dealer button
+love2gamble posts small blind 30
+sevenk posts big blind 60
+** Hole Cards **
+Dealt to sevenk [3s 2d]
+love2gamble raises to 120
+sevenk folds
+love2gamble refunded 60
+love2gamble wins Pot (120)
+
+
+
+Hand #17179134-16 - 2014-01-26 03:20:10
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1585)
+Seat 2: sevenk (1415)
+sevenk has the dealer button
+sevenk posts small blind 30
+love2gamble posts big blind 60
+** Hole Cards **
+Dealt to sevenk [Kc 9h]
+sevenk raises to 330
+love2gamble folds
+sevenk refunded 270
+sevenk wins Pot (120)
+
+
+
+Hand #17179147-17 - 2014-01-26 03:20:22
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1525)
+Seat 2: sevenk (1475)
+love2gamble has the dealer button
+love2gamble posts small blind 30
+sevenk posts big blind 60
+** Hole Cards **
+Dealt to sevenk [Tc 4c]
+love2gamble raises to 150
+sevenk folds
+love2gamble refunded 90
+love2gamble wins Pot (120)
+
+
+
+Hand #17179161-18 - 2014-01-26 03:20:37
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1585)
+Seat 2: sevenk (1415)
+sevenk has the dealer button
+sevenk posts small blind 30
+love2gamble posts big blind 60
+** Hole Cards **
+Dealt to sevenk [As 9c]
+sevenk calls 30
+love2gamble raises to 120
+sevenk raises to 381
+love2gamble raises to 642
+sevenk calls 261
+** Flop ** [Qh 5d Kd]
+love2gamble bets 943 (All-in)
+sevenk folds
+love2gamble refunded 943
+love2gamble wins Pot (1284)
+
+
+
+Hand #17179215-19 - 2014-01-26 03:21:41
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (2227)
+Seat 2: sevenk (773)
+love2gamble has the dealer button
+love2gamble posts small blind 30
+sevenk posts big blind 60
+** Hole Cards **
+Dealt to sevenk [2h 9c]
+love2gamble raises to 150
+sevenk folds
+love2gamble refunded 90
+love2gamble wins Pot (120)
+
+
+
+Hand #17179232-20 - 2014-01-26 03:21:58
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (2287)
+Seat 2: sevenk (713)
+sevenk has the dealer button
+sevenk posts small blind 30
+love2gamble posts big blind 60
+** Hole Cards **
+Dealt to sevenk [9s Js]
+sevenk raises to 713 (All-in)
+love2gamble folds
+sevenk refunded 653
+sevenk wins Pot (120)
+
+
+
+Hand #17179241-21 - 2014-01-26 03:22:10
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (2227)
+Seat 2: sevenk (773)
+love2gamble has the dealer button
+love2gamble posts small blind 30
+sevenk posts big blind 60
+** Hole Cards **
+Dealt to sevenk [6s Ac]
+love2gamble raises to 150
+sevenk calls 90
+** Flop ** [Qs Ad 6h]
+sevenk checks
+love2gamble bets 100
+sevenk calls 100
+** Turn ** [8d]
+sevenk checks
+love2gamble bets 200
+sevenk calls 200
+** River ** [8s]
+sevenk bets 274
+love2gamble calls 274
+** Pot Show Down ** [Qs Ad 6h 8d 8s]
+love2gamble shows [As Td] (Two Pair, Aces and Eights +Q)
+sevenk shows [6s Ac] (Two Pair, Aces and Eights +Q)
+love2gamble splits Pot (724) with Two Pair
+sevenk splits Pot (724) with Two Pair
+
+
+
+Hand #17179305-22 - 2014-01-26 03:23:16
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (2227)
+Seat 2: sevenk (773)
+sevenk has the dealer button
+sevenk posts small blind 30
+love2gamble posts big blind 60
+** Hole Cards **
+Dealt to sevenk [4h 4c]
+sevenk raises to 349
+love2gamble folds
+sevenk refunded 289
+sevenk wins Pot (120)
+
+
+
+Hand #17179319-23 - 2014-01-26 03:23:29
+Game: NL Hold'em (1.96+0.04) - Blinds 30/60
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (2167)
+Seat 2: sevenk (833)
+love2gamble has the dealer button
+love2gamble posts small blind 30
+sevenk posts big blind 60
+** Hole Cards **
+Dealt to sevenk [Kd As]
+love2gamble raises to 150
+sevenk calls 90
+** Flop ** [Qc Ac Ts]
+sevenk checks
+love2gamble bets 100
+sevenk raises to 200
+love2gamble calls 100
+** Turn ** [5d]
+sevenk checks
+love2gamble checks
+** River ** [5h]
+sevenk bets 483 (All-in)
+love2gamble calls 483
+** Pot Show Down ** [Qc Ac Ts 5d 5h]
+love2gamble shows [Js 9c] (a Pair of Fives +AQJ)
+sevenk shows [Kd As] (Two Pair, Aces and Fives +K)
+sevenk wins Pot (1666) with Two Pair
+
+
+
+Hand #17179387-24 - 2014-01-26 03:24:36
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1334)
+Seat 2: sevenk (1666)
+sevenk has the dealer button
+sevenk posts small blind 50
+love2gamble posts big blind 100
+** Hole Cards **
+Dealt to sevenk [Kd Td]
+sevenk raises to 200
+love2gamble calls 100
+** Flop ** [2s 2d As]
+love2gamble checks
+sevenk bets 200
+love2gamble raises to 400
+sevenk calls 200
+** Turn ** [5h]
+love2gamble checks
+sevenk checks
+** River ** [7s]
+love2gamble checks
+sevenk checks
+** Pot Show Down ** [2s 2d As 5h 7s]
+love2gamble shows [5c Qc] (Two Pair, Fives and Deuces +A)
+sevenk shows [Kd Td] (a Pair of Deuces +AKT)
+love2gamble wins Pot (1200) with Two Pair
+
+
+
+Hand #17179440-25 - 2014-01-26 03:25:27
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1934)
+Seat 2: sevenk (1066)
+love2gamble has the dealer button
+love2gamble posts small blind 50
+sevenk posts big blind 100
+** Hole Cards **
+Dealt to sevenk [Ad 5s]
+love2gamble calls 50
+sevenk raises to 400
+love2gamble folds
+sevenk refunded 300
+sevenk wins Pot (200)
+
+
+
+Hand #17179453-26 - 2014-01-26 03:25:43
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1834)
+Seat 2: sevenk (1166)
+sevenk has the dealer button
+sevenk posts small blind 50
+love2gamble posts big blind 100
+** Hole Cards **
+Dealt to sevenk [8c 4d]
+sevenk folds
+love2gamble refunded 50
+love2gamble wins Pot (100)
+
+
+
+Hand #17179459-27 - 2014-01-26 03:25:52
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1884)
+Seat 2: sevenk (1116)
+love2gamble has the dealer button
+love2gamble posts small blind 50
+sevenk posts big blind 100
+** Hole Cards **
+Dealt to sevenk [4h 7h]
+love2gamble folds
+sevenk refunded 50
+sevenk wins Pot (100)
+
+
+
+Hand #17179467-28 - 2014-01-26 03:26:01
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1834)
+Seat 2: sevenk (1166)
+sevenk has the dealer button
+sevenk posts small blind 50
+love2gamble posts big blind 100
+** Hole Cards **
+Dealt to sevenk [Th 6c]
+sevenk calls 50
+love2gamble checks
+** Flop ** [8h 3s Kh]
+love2gamble checks
+sevenk checks
+** Turn ** [5h]
+love2gamble bets 100
+sevenk calls 100
+** River ** [Td]
+love2gamble bets 200
+sevenk raises to 966 (All-in)
+love2gamble folds
+sevenk refunded 766
+sevenk wins Pot (800)
+
+
+
+Hand #17179516-29 - 2014-01-26 03:26:53
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1434)
+Seat 2: sevenk (1566)
+love2gamble has the dealer button
+love2gamble posts small blind 50
+sevenk posts big blind 100
+** Hole Cards **
+Dealt to sevenk [5d 7h]
+love2gamble raises to 200
+sevenk calls 100
+** Flop ** [4h 3d 4s]
+sevenk bets 100
+love2gamble raises to 300
+sevenk calls 200
+** Turn ** [4c]
+sevenk checks
+love2gamble bets 250
+sevenk calls 250
+** River ** [Jd]
+sevenk checks
+love2gamble bets 684 (All-in)
+sevenk folds
+love2gamble refunded 684
+love2gamble wins Pot (1500)
+
+
+
+Hand #17179566-30 - 2014-01-26 03:27:47
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (2184)
+Seat 2: sevenk (816)
+sevenk has the dealer button
+sevenk posts small blind 50
+love2gamble posts big blind 100
+** Hole Cards **
+Dealt to sevenk [2d Ks]
+sevenk raises to 816 (All-in)
+love2gamble calls 716
+** Flop ** [5d 4d Kh]
+** Turn ** [Qs]
+** River ** [3s]
+** Pot Show Down ** [5d 4d Kh Qs 3s]
+love2gamble shows [2s 2c] (a Pair of Deuces +KQ5)
+sevenk shows [2d Ks] (a Pair of Kings +Q54)
+sevenk wins Pot (1632) with a Pair
+
+
+
+Hand #17179582-31 - 2014-01-26 03:28:04
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1368)
+Seat 2: sevenk (1632)
+love2gamble has the dealer button
+love2gamble posts small blind 50
+sevenk posts big blind 100
+** Hole Cards **
+Dealt to sevenk [Td Jc]
+love2gamble raises to 200
+sevenk raises to 300
+love2gamble calls 100
+** Flop ** [Ah 8s Ac]
+sevenk checks
+love2gamble bets 200
+sevenk folds
+love2gamble refunded 200
+love2gamble wins Pot (600)
+
+
+
+Hand #17179616-32 - 2014-01-26 03:28:38
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (1668)
+Seat 2: sevenk (1332)
+sevenk has the dealer button
+sevenk posts small blind 50
+love2gamble posts big blind 100
+** Hole Cards **
+Dealt to sevenk [9h 9c]
+sevenk calls 50
+love2gamble checks
+** Flop ** [6d 7c 8d]
+love2gamble bets 100
+sevenk raises to 300
+love2gamble calls 200
+** Turn ** [4c]
+love2gamble checks
+sevenk bets 200
+love2gamble calls 200
+** River ** [2h]
+love2gamble checks
+sevenk bets 300
+love2gamble calls 300
+** Pot Show Down ** [6d 7c 8d 4c 2h]
+love2gamble shows [2c 9s] (a Pair of Deuces +987)
+sevenk shows [9h 9c] (a Pair of Nines +876)
+sevenk wins Pot (1800) with a Pair
+
+
+
+Hand #17179690-33 - 2014-01-26 03:29:48
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (768)
+Seat 2: sevenk (2232)
+love2gamble has the dealer button
+love2gamble posts small blind 50
+sevenk posts big blind 100
+** Hole Cards **
+Dealt to sevenk [Kh 2d]
+love2gamble folds
+sevenk refunded 50
+sevenk wins Pot (100)
+
+
+
+Hand #17179698-34 - 2014-01-26 03:29:57
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (718)
+Seat 2: sevenk (2282)
+sevenk has the dealer button
+sevenk posts small blind 50
+love2gamble posts big blind 100
+** Hole Cards **
+Dealt to sevenk [3h 7c]
+sevenk folds
+love2gamble refunded 50
+love2gamble wins Pot (100)
+
+
+
+Hand #17179715-35 - 2014-01-26 03:30:07
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (768)
+Seat 2: sevenk (2232)
+love2gamble has the dealer button
+love2gamble posts small blind 50
+sevenk posts big blind 100
+** Hole Cards **
+Dealt to sevenk [7c 2d]
+love2gamble folds
+sevenk refunded 50
+sevenk wins Pot (100)
+
+
+
+Hand #17179723-36 - 2014-01-26 03:30:17
+Game: NL Hold'em (1.96+0.04) - Blinds 50/100
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: love2gamble (718)
+Seat 2: sevenk (2282)
+sevenk has the dealer button
+sevenk posts small blind 50
+love2gamble posts big blind 100
+** Hole Cards **
+Dealt to sevenk [5d Ad]
+sevenk raises to 200
+love2gamble calls 100
+** Flop ** [9s 9c 3d]
+love2gamble bets 200
+sevenk calls 200
+** Turn ** [Ts]
+love2gamble checks
+sevenk checks
+** River ** [5s]
+love2gamble bets 318 (All-in)
+sevenk calls 318
+** Pot Show Down ** [9s 9c 3d Ts 5s]
+love2gamble shows [7c 6s] (a Pair of Nines +T76)
+sevenk shows [5d Ad] (Two Pair, Nines and Fives +A)
+sevenk wins Pot (1436) with Two Pair
+love2gamble finishes tournament in place #2
+sevenk finishes tournament in place #1 and wins 3.92 chips
+
+
+
+Hand #17202250-2 - 2014-01-26 13:36:30
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: SlickyRicky (1475)
+Seat 2: sevenk (1525)
+sevenk has the dealer button
+sevenk posts small blind 25
+SlickyRicky posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Qs 4s]
+sevenk calls 25
+SlickyRicky checks
+** Flop ** [As 3s 3h]
+SlickyRicky checks
+sevenk bets 100
+SlickyRicky folds
+sevenk refunded 100
+sevenk wins Pot (100)
+
+
+
+Hand #17202272-3 - 2014-01-26 13:36:53
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: SlickyRicky (1425)
+Seat 2: sevenk (1575)
+SlickyRicky has the dealer button
+SlickyRicky posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [5s 8h]
+SlickyRicky folds
+sevenk refunded 25
+sevenk wins Pot (50)
+
+
+
+Hand #17202278-4 - 2014-01-26 13:37:05
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: SlickyRicky (1400)
+Seat 2: sevenk (1600)
+sevenk has the dealer button
+sevenk posts small blind 25
+SlickyRicky posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Jd 8c]
+sevenk calls 25
+SlickyRicky checks
+** Flop ** [3h Kc 8h]
+SlickyRicky checks
+sevenk bets 50
+SlickyRicky folds
+sevenk refunded 50
+sevenk wins Pot (100)
+
+
+
+Hand #17202297-5 - 2014-01-26 13:37:25
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: SlickyRicky (1350)
+Seat 2: sevenk (1650)
+SlickyRicky has the dealer button
+SlickyRicky posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Ts 5c]
+SlickyRicky raises to 100
+sevenk calls 50
+** Flop ** [6s 4c Ad]
+sevenk checks
+SlickyRicky bets 100
+sevenk folds
+SlickyRicky refunded 100
+SlickyRicky wins Pot (200)
+
+
+
+Hand #17202313-6 - 2014-01-26 13:37:51
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: SlickyRicky (1450)
+Seat 2: sevenk (1550)
+sevenk has the dealer button
+sevenk posts small blind 25
+SlickyRicky posts big blind 50
+** Hole Cards **
+Dealt to sevenk [7c Ah]
+sevenk raises to 100
+SlickyRicky raises to 300
+sevenk calls 200
+** Flop ** [4s Ts 3d]
+SlickyRicky checks
+sevenk bets 150
+SlickyRicky raises to 550
+sevenk folds
+SlickyRicky refunded 400
+SlickyRicky wins Pot (900)
+
+
+
+Hand #17202352-7 - 2014-01-26 13:38:42
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: SlickyRicky (1900)
+Seat 2: sevenk (1100)
+SlickyRicky has the dealer button
+SlickyRicky posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [4d 7h]
+SlickyRicky raises to 100
+sevenk calls 50
+** Flop ** [Ts 7c Jh]
+sevenk bets 100
+SlickyRicky calls 100
+** Turn ** [2s]
+sevenk bets 100
+SlickyRicky calls 100
+** River ** [2d]
+sevenk checks
+SlickyRicky bets 200
+sevenk calls 200
+** Pot Show Down ** [Ts 7c Jh 2s 2d]
+SlickyRicky shows [Kh Td] (Two Pair, Tens and Deuces +K)
+sevenk shows [4d 7h] (Two Pair, Sevens and Deuces +J)
+SlickyRicky wins Pot (1000) with Two Pair
+
+
+
+Hand #17202397-8 - 2014-01-26 13:39:33
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: SlickyRicky (2400)
+Seat 2: sevenk (600)
+sevenk has the dealer button
+sevenk posts small blind 25
+SlickyRicky posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Jh Ts]
+sevenk raises to 100
+SlickyRicky folds
+sevenk refunded 50
+sevenk wins Pot (100)
+
+
+
+Hand #17202407-9 - 2014-01-26 13:39:45
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: SlickyRicky (2350)
+Seat 2: sevenk (650)
+SlickyRicky has the dealer button
+SlickyRicky posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [4c 2h]
+SlickyRicky folds
+sevenk refunded 25
+sevenk wins Pot (50)
+
+
+
+Hand #17202418-10 - 2014-01-26 13:39:54
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: SlickyRicky (2325)
+Seat 2: sevenk (675)
+sevenk has the dealer button
+sevenk posts small blind 25
+SlickyRicky posts big blind 50
+** Hole Cards **
+Dealt to sevenk [6c 3c]
+sevenk folds
+SlickyRicky refunded 25
+SlickyRicky wins Pot (50)
+
+
+
+Hand #17202423-11 - 2014-01-26 13:40:05
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: SlickyRicky (2350)
+Seat 2: sevenk (650)
+SlickyRicky has the dealer button
+SlickyRicky posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Qd Jh]
+SlickyRicky raises to 100
+sevenk calls 50
+** Flop ** [6h 3c 6d]
+sevenk bets 150
+SlickyRicky raises to 1850
+sevenk calls 400 (All-in)
+SlickyRicky refunded 1300
+** Turn ** [7h]
+** River ** [As]
+** Pot Show Down ** [6h 3c 6d 7h As]
+SlickyRicky shows [9d 9h] (Two Pair, Nines and Sixes +A)
+sevenk shows [Qd Jh] (a Pair of Sixes +AQJ)
+SlickyRicky wins Pot (1300) with Two Pair
+sevenk finishes tournament in place #2
+SlickyRicky finishes tournament in place #1 and wins 3.92 chips
+
+
+
+Hand #17202518-2 - 2014-01-26 13:42:14
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: sevenk (1550)
+Seat 2: SlickyRicky (1450)
+SlickyRicky has the dealer button
+SlickyRicky posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [6h Kh]
+SlickyRicky raises to 100
+sevenk calls 50
+** Flop ** [5d Js 3h]
+sevenk checks
+SlickyRicky bets 100
+sevenk folds
+SlickyRicky refunded 100
+SlickyRicky wins Pot (200)
+
+
+
+Hand #17202541-3 - 2014-01-26 13:42:37
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: sevenk (1450)
+Seat 2: SlickyRicky (1550)
+sevenk has the dealer button
+sevenk posts small blind 25
+SlickyRicky posts big blind 50
+** Hole Cards **
+Dealt to sevenk [3h Ts]
+sevenk folds
+SlickyRicky refunded 25
+SlickyRicky wins Pot (50)
+
+
+
+Hand #17202549-4 - 2014-01-26 13:42:46
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: sevenk (1425)
+Seat 2: SlickyRicky (1575)
+SlickyRicky has the dealer button
+SlickyRicky posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [3c 8d]
+SlickyRicky raises to 100
+sevenk calls 50
+** Flop ** [5d Jd 5s]
+sevenk checks
+SlickyRicky checks
+** Turn ** [2c]
+sevenk checks
+SlickyRicky checks
+** River ** [6d]
+sevenk checks
+SlickyRicky checks
+** Pot Show Down ** [5d Jd 5s 2c 6d]
+sevenk shows [3c 8d] (a Pair of Fives +J86)
+SlickyRicky shows [Ks Td] (a Pair of Fives +KJT)
+SlickyRicky wins Pot (200) with a Pair
+
+
+
+Hand #17202578-5 - 2014-01-26 13:43:23
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: sevenk (1325)
+Seat 2: SlickyRicky (1675)
+sevenk has the dealer button
+sevenk posts small blind 25
+SlickyRicky posts big blind 50
+** Hole Cards **
+Dealt to sevenk [6s Qd]
+sevenk calls 25
+SlickyRicky checks
+** Flop ** [2c Th Qh]
+SlickyRicky checks
+sevenk checks
+** Turn ** [6c]
+SlickyRicky bets 100
+sevenk calls 100
+** River ** [Kh]
+SlickyRicky bets 200
+sevenk raises to 700
+SlickyRicky calls 500
+** Pot Show Down ** [2c Th Qh 6c Kh]
+sevenk shows [6s Qd] (Two Pair, Queens and Sixes +K)
+SlickyRicky shows [Qc 2h] (Two Pair, Queens and Deuces +K)
+sevenk wins Pot (1700) with Two Pair
+
+
+
+Hand #17202624-6 - 2014-01-26 13:44:19
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: sevenk (2175)
+Seat 2: SlickyRicky (825)
+SlickyRicky has the dealer button
+SlickyRicky posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Qh 4s]
+SlickyRicky folds
+sevenk refunded 25
+sevenk wins Pot (50)
+
+
+
+Hand #17202637-7 - 2014-01-26 13:44:32
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: sevenk (2200)
+Seat 2: SlickyRicky (800)
+sevenk has the dealer button
+sevenk posts small blind 25
+SlickyRicky posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Ks Ah]
+sevenk calls 25
+SlickyRicky raises to 200
+sevenk calls 150
+** Flop ** [Kh 8c 4d]
+SlickyRicky bets 150
+sevenk calls 150
+** Turn ** [Ts]
+SlickyRicky checks
+sevenk bets 250
+SlickyRicky raises to 450 (All-in)
+sevenk calls 200
+** River ** [3s]
+** Pot Show Down ** [Kh 8c 4d Ts 3s]
+sevenk shows [Ks Ah] (a Pair of Kings +AT8)
+SlickyRicky shows [Kc As] (a Pair of Kings +AT8)
+sevenk splits Pot (800) with a Pair
+SlickyRicky splits Pot (800) with a Pair
+
+
+
+Hand #17202687-8 - 2014-01-26 13:45:28
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: sevenk (2200)
+Seat 2: SlickyRicky (800)
+SlickyRicky has the dealer button
+SlickyRicky posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [8c 3s]
+SlickyRicky raises to 100
+sevenk calls 50
+** Flop ** [5d 6c 2c]
+sevenk bets 200
+SlickyRicky folds
+sevenk refunded 200
+sevenk wins Pot (200)
+
+
+
+Hand #17202710-9 - 2014-01-26 13:45:54
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: sevenk (2300)
+Seat 2: SlickyRicky (700)
+sevenk has the dealer button
+sevenk posts small blind 25
+SlickyRicky posts big blind 50
+** Hole Cards **
+Dealt to sevenk [7s 5d]
+sevenk folds
+SlickyRicky refunded 25
+SlickyRicky wins Pot (50)
+
+
+
+Hand #17202729-10 - 2014-01-26 13:46:03
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: sevenk (2275)
+Seat 2: SlickyRicky (725)
+SlickyRicky has the dealer button
+SlickyRicky posts small blind 25
+sevenk posts big blind 50
+** Hole Cards **
+Dealt to sevenk [Jc 9s]
+SlickyRicky folds
+sevenk refunded 25
+sevenk wins Pot (50)
+
+
+
+Hand #17202734-11 - 2014-01-26 13:46:13
+Game: NL Hold'em (1.96+0.04) - Blinds 25/50
+Site: Seals With Clubs
+Table: NLHE HU turbo 2 #1 - Table 1
+Seat 1: sevenk (2300)
+Seat 2: SlickyRicky (700)
+sevenk has the dealer button
+sevenk posts small blind 25
+SlickyRicky posts big blind 50
+** Hole Cards **
+Dealt to sevenk [8d 5s]
+sevenk calls 25
+SlickyRicky checks
+** Flop ** [6s 2c 7h]
+SlickyRicky checks
+sevenk bets 100
+SlickyRicky calls 100
+** Turn ** [9h]
+SlickyRicky checks
+sevenk bets 100
+SlickyRicky raises to 550 (All-in)
+sevenk calls 450
+** River ** [4c]
+** Pot Show Down ** [6s 2c 7h 9h 4c]
+sevenk shows [8d 5s] (a Straight, Five to Nine)
+SlickyRicky shows [8s 6h] (a Pair of Sixes +987)
+sevenk wins Pot (1400) with a Straight
+SlickyRicky finishes tournament in place #2
+sevenk finishes tournament in place #1 and wins 3.92 chips

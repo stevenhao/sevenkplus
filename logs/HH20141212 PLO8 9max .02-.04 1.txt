@@ -1,0 +1,1603 @@
+Hand #36442291-51 - 2014-12-12 22:21:29
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (0.80)
+Seat 2: sevenk (4) - waiting for big blind
+Seat 5: vxxxtxxx2 (5.38)
+vxxxtxxx2 has the dealer button
+Calculon posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Kh 9h 5s 4c]
+vxxxtxxx2 calls 0.04
+Calculon calls 0.02
+sevenk checks
+** Flop ** [9c 4d 3d]
+Calculon bets 0.12
+sevenk calls 0.12
+vxxxtxxx2 folds
+** Turn ** [5d]
+Calculon bets 0.25
+sevenk folds
+Calculon refunded 0.25
+Calculon wins Pot (0.36)
+Rake (0)
+
+
+
+Hand #36442364-52 - 2014-12-12 22:22:35
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1)
+Seat 2: sevenk (3.84)
+Seat 5: vxxxtxxx2 (5.34)
+Seat 8: FAQdumASS (3.75)
+Calculon has the dealer button
+sevenk posts small blind 0.02
+vxxxtxxx2 posts big blind 0.04
+FAQdumASS posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [5d Jd Qc Qd]
+FAQdumASS checks
+Calculon folds
+sevenk calls 0.02
+vxxxtxxx2 checks
+** Flop ** [8h Kc Ks]
+sevenk checks
+vxxxtxxx2 checks
+FAQdumASS bets 0.12
+sevenk calls 0.12
+vxxxtxxx2 folds
+** Turn ** [9c]
+sevenk checks
+FAQdumASS bets 0.36
+sevenk folds
+FAQdumASS refunded 0.36
+FAQdumASS wins Pot (0.36)
+Rake (0)
+
+
+
+Hand #36442418-53 - 2014-12-12 22:23:31
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1)
+Seat 2: sevenk (3.68)
+Seat 5: vxxxtxxx2 (5.30)
+Seat 8: FAQdumASS (3.95)
+sevenk has the dealer button
+vxxxtxxx2 posts small blind 0.02
+FAQdumASS posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [3d Ks 4s Qs]
+Calculon raises to 0.12
+sevenk calls 0.12
+vxxxtxxx2 folds
+FAQdumASS calls 0.08
+** Flop ** [9d 9s Qc]
+FAQdumASS checks
+Calculon bets 0.20
+sevenk folds
+FAQdumASS raises to 0.98
+Calculon folds
+FAQdumASS refunded 0.78
+FAQdumASS wins Pot (0.77)
+Rake (0.01)
+Calculon adds 0.12 chips
+
+
+
+Hand #36442478-54 - 2014-12-12 22:24:35
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (0.80)
+Seat 2: sevenk (3.56)
+Seat 5: vxxxtxxx2 (5.28)
+Seat 8: FAQdumASS (4.40)
+vxxxtxxx2 has the dealer button
+FAQdumASS posts small blind 0.02
+Calculon posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [6c Ts Qs 9c]
+sevenk calls 0.04
+vxxxtxxx2 folds
+FAQdumASS calls 0.02
+Calculon checks
+** Flop ** [4d 5h Td]
+FAQdumASS checks
+Calculon checks
+sevenk checks
+** Turn ** [5d]
+FAQdumASS bets 0.12
+Calculon folds
+sevenk folds
+FAQdumASS refunded 0.12
+FAQdumASS wins Pot (0.12)
+Rake (0)
+
+
+
+Hand #36442509-55 - 2014-12-12 22:25:16
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (0.76)
+Seat 2: sevenk (3.52)
+Seat 5: vxxxtxxx2 (5.28)
+Seat 8: FAQdumASS (4.48)
+FAQdumASS has the dealer button
+Calculon posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [7s 5h Qc 4h]
+vxxxtxxx2 folds
+FAQdumASS raises to 0.14
+Calculon raises to 0.46
+sevenk folds
+FAQdumASS raises to 1.42
+Calculon calls 0.30 (All-in)
+FAQdumASS refunded 0.66
+** Flop ** [9c Td Jc]
+** Turn ** [3c]
+** River ** [8h]
+** Pot Show Down ** [9c Td Jc 3c 8h]
+Calculon shows [3s 7d 2c Ac] (Hi: a Flush, Ace high +J932  Lo: None)
+FAQdumASS shows [Qh Ah 2d Qd] (Hi: a Pair of Queens +JT9  Lo: None)
+Calculon wins Pot (1.53) with a Flush
+No low hand qualified
+Rake (0.03)
+
+
+
+Hand #36442547-56 - 2014-12-12 22:25:59
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.53)
+Seat 2: sevenk (3.48)
+Seat 5: vxxxtxxx2 (5.28)
+Seat 8: FAQdumASS (3.72)
+Calculon has the dealer button
+sevenk posts small blind 0.02
+vxxxtxxx2 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Js 6d 9c 7h]
+FAQdumASS calls 0.04
+Calculon calls 0.04
+sevenk calls 0.02
+vxxxtxxx2 checks
+** Flop ** [6s 9s Ah]
+sevenk checks
+vxxxtxxx2 bets 0.12
+FAQdumASS calls 0.12
+Calculon folds
+sevenk calls 0.12
+** Turn ** [6c]
+sevenk checks
+vxxxtxxx2 bets 0.12
+FAQdumASS folds
+sevenk raises to 0.44
+vxxxtxxx2 calls 0.32
+** River ** [5d]
+sevenk bets 0.68
+vxxxtxxx2 folds
+sevenk refunded 0.68
+sevenk wins Pot (1.37)
+Rake (0.03)
+
+
+
+Hand #36442642-57 - 2014-12-12 22:27:41
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.49)
+Seat 2: sevenk (4.25)
+Seat 5: vxxxtxxx2 (4.68)
+Seat 8: FAQdumASS (3.56)
+sevenk has the dealer button
+vxxxtxxx2 posts small blind 0.02
+FAQdumASS posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [6c 4c 5c 9d]
+Calculon folds
+sevenk folds
+vxxxtxxx2 calls 0.02
+FAQdumASS raises to 0.12
+vxxxtxxx2 calls 0.08
+** Flop ** [3d Ad 3c]
+vxxxtxxx2 checks
+FAQdumASS checks
+** Turn ** [Qs]
+vxxxtxxx2 bets 0.20
+FAQdumASS folds
+vxxxtxxx2 refunded 0.20
+vxxxtxxx2 wins Pot (0.24)
+Rake (0)
+
+
+
+Hand #36442677-58 - 2014-12-12 22:28:25
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.49)
+Seat 2: sevenk (4.25)
+Seat 5: vxxxtxxx2 (4.80)
+Seat 8: FAQdumASS (3.44)
+vxxxtxxx2 has the dealer button
+FAQdumASS posts small blind 0.02
+Calculon posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Kd 9d 6h 6d]
+sevenk calls 0.04
+vxxxtxxx2 raises to 0.12
+FAQdumASS calls 0.10
+Calculon calls 0.08
+sevenk calls 0.08
+** Flop ** [6s 7h 9c]
+FAQdumASS checks
+Calculon checks
+sevenk checks
+vxxxtxxx2 bets 0.20
+FAQdumASS calls 0.20
+Calculon folds
+sevenk calls 0.20
+** Turn ** [9s]
+FAQdumASS checks
+sevenk bets 0.52
+vxxxtxxx2 calls 0.52
+FAQdumASS folds
+** River ** [Td]
+sevenk bets 0.72
+vxxxtxxx2 folds
+sevenk refunded 0.72
+sevenk wins Pot (2.07)
+Rake (0.05)
+
+
+
+Hand #36442758-59 - 2014-12-12 22:30:04
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.37)
+Seat 2: sevenk (5.48)
+Seat 3: keepfloppin (4) - waiting for big blind
+Seat 5: vxxxtxxx2 (3.96)
+Seat 8: FAQdumASS (3.12)
+FAQdumASS has the dealer button
+Calculon posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [6c As Jc 5h]
+vxxxtxxx2 calls 0.04
+FAQdumASS calls 0.04
+Calculon calls 0.02
+sevenk checks
+** Flop ** [2h 4d 3c]
+Calculon checks
+sevenk bets 0.12
+vxxxtxxx2 folds
+FAQdumASS folds
+Calculon folds
+sevenk refunded 0.12
+sevenk wins Pot (0.16)
+Rake (0)
+
+
+
+Hand #36442790-60 - 2014-12-12 22:30:44
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.33)
+Seat 2: sevenk (5.60)
+Seat 3: keepfloppin (4) - waiting for big blind
+Seat 5: vxxxtxxx2 (3.92)
+Seat 8: FAQdumASS (3.08)
+Calculon has the dealer button
+sevenk posts small blind 0.02
+keepfloppin posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [3s Js 4d 6d]
+vxxxtxxx2 folds
+FAQdumASS calls 0.04
+Calculon folds
+sevenk calls 0.02
+keepfloppin raises to 0.16
+FAQdumASS calls 0.12
+sevenk folds
+** Flop ** [2s 9h Ah]
+keepfloppin bets 0.36
+FAQdumASS raises to 1.44
+keepfloppin folds
+FAQdumASS refunded 1.08
+keepfloppin adds 0.52 chips
+FAQdumASS wins Pot (1.06)
+Rake (0.02)
+
+
+
+Hand #36442827-61 - 2014-12-12 22:31:32
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.33)
+Seat 2: sevenk (5.56)
+Seat 3: keepfloppin (4)
+Seat 5: vxxxtxxx2 (3.92)
+Seat 8: FAQdumASS (3.62)
+sevenk has the dealer button
+keepfloppin posts small blind 0.02
+vxxxtxxx2 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Th 8c Js Kd]
+FAQdumASS raises to 0.14
+Calculon folds
+sevenk folds
+keepfloppin folds
+keepfloppin adds 0.02 chips
+vxxxtxxx2 folds
+FAQdumASS refunded 0.10
+FAQdumASS wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #36442851-62 - 2014-12-12 22:31:56
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.33)
+Seat 2: sevenk (5.56)
+Seat 3: keepfloppin (4)
+Seat 5: vxxxtxxx2 (3.88)
+Seat 8: FAQdumASS (3.68)
+keepfloppin has the dealer button
+vxxxtxxx2 posts small blind 0.02
+FAQdumASS posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Qs 9s 4d 5c]
+Calculon folds
+sevenk folds
+keepfloppin raises to 0.12
+vxxxtxxx2 folds
+FAQdumASS calls 0.08
+** Flop ** [8c As Ts]
+FAQdumASS checks
+keepfloppin checks
+** Turn ** [Tc]
+FAQdumASS bets 0.26
+keepfloppin calls 0.26
+** River ** [5h]
+FAQdumASS checks
+keepfloppin bets 0.77
+FAQdumASS calls 0.77
+** Pot Show Down ** [8c As Ts Tc 5h]
+keepfloppin shows [2c Qh 4c 3h] (Hi: a Pair of Tens +AQ4  Lo: 8532A)
+FAQdumASS shows [2h 8d 9c Ad] (Hi: Two Pair, Aces and Tens +9  Lo: None)
+FAQdumASS wins Hi Pot (1.14) with Two Pair
+keepfloppin wins Lo Pot (1.13) with 8532A
+Rake (0.05)
+keepfloppin adds 0.02 chips
+
+
+
+Hand #36442890-63 - 2014-12-12 22:32:43
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.33)
+Seat 2: sevenk (5.56)
+Seat 3: keepfloppin (4)
+Seat 5: vxxxtxxx2 (3.86)
+Seat 8: FAQdumASS (3.67)
+vxxxtxxx2 has the dealer button
+FAQdumASS posts small blind 0.02
+Calculon posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [As 6s 5h Kc]
+sevenk calls 0.04
+keepfloppin calls 0.04
+vxxxtxxx2 folds
+FAQdumASS calls 0.02
+Calculon checks
+** Flop ** [4s Ts Th]
+FAQdumASS checks
+Calculon checks
+sevenk checks
+keepfloppin checks
+** Turn ** [6d]
+FAQdumASS checks
+Calculon checks
+sevenk checks
+keepfloppin bets 0.16
+FAQdumASS calls 0.16
+Calculon folds
+sevenk calls 0.16
+** River ** [Ac]
+FAQdumASS checks
+sevenk checks
+keepfloppin checks
+** Pot Show Down ** [4s Ts Th 6d Ac]
+sevenk shows [As 6s 5h Kc] (Hi: Two Pair, Aces and Tens +K  Lo: None)
+keepfloppin shows [Qc Jd Jh Ah] (Hi: Two Pair, Aces and Tens +Q  Lo: None)
+FAQdumASS shows [Js Jc Kd 4d] (Hi: Two Pair, Jacks and Tens +A  Lo: None)
+sevenk wins Pot (0.63) with Two Pair
+No low hand qualified
+Rake (0.01)
+keepfloppin adds 0.20 chips
+
+
+
+Hand #36443834-95 - 2014-12-12 22:50:55
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.29)
+Seat 2: sevenk (5.99) - waiting for big blind
+Seat 5: vxxxtxxx2 (5.15)
+vxxxtxxx2 has the dealer button
+Calculon posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [9s Qd 9c 6d]
+vxxxtxxx2 folds
+Calculon calls 0.02
+sevenk checks
+** Flop ** [5s 2s 2d]
+Calculon checks
+sevenk bets 0.06
+Calculon folds
+sevenk refunded 0.06
+sevenk wins Pot (0.08)
+Rake (0)
+
+
+
+Hand #36443865-96 - 2014-12-12 22:51:26
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.25)
+Seat 2: sevenk (6.03)
+Seat 5: vxxxtxxx2 (5.15)
+Calculon has the dealer button
+sevenk posts small blind 0.02
+vxxxtxxx2 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [6c Qh 6s 7d]
+Calculon folds
+sevenk calls 0.02
+vxxxtxxx2 checks
+** Flop ** [Kd 4h 2s]
+sevenk checks
+vxxxtxxx2 bets 0.04
+sevenk calls 0.04
+** Turn ** [6d]
+sevenk checks
+vxxxtxxx2 checks
+** River ** [8d]
+sevenk bets 0.12
+vxxxtxxx2 calls 0.12
+** Pot Show Down ** [Kd 4h 2s 6d 8d]
+sevenk shows [6c Qh 6s 7d] (Hi: Three of a Kind, Sixes +K8  Lo: 87642)
+vxxxtxxx2 shows [4s Jd 2c 5h] (Hi: Two Pair, Fours and Deuces +K  Lo: 86542)
+sevenk wins Hi Pot (0.20) with Three of a Kind
+vxxxtxxx2 wins Lo Pot (0.19) with 86542
+Rake (0.01)
+
+
+
+Hand #36443912-97 - 2014-12-12 22:52:24
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.25)
+Seat 2: sevenk (6.03)
+Seat 5: vxxxtxxx2 (5.14)
+sevenk has the dealer button
+vxxxtxxx2 posts small blind 0.02
+Calculon posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [4s Qd 2d 5h]
+sevenk calls 0.04
+vxxxtxxx2 folds
+Calculon checks
+** Flop ** [6c 9c Js]
+Calculon checks
+sevenk checks
+** Turn ** [5c]
+Calculon checks
+sevenk checks
+** River ** [8c]
+Calculon checks
+sevenk checks
+** Pot Show Down ** [6c 9c Js 5c 8c]
+Calculon shows [Kh Jd 6d Ks] (Hi: Two Pair, Jacks and Sixes +9  Lo: None)
+sevenk shows [4s Qd 2d 5h] (Hi: a Pair of Fives +QJ9  Lo: 86542)
+Calculon wins Hi Pot (0.05) with Two Pair
+sevenk wins Lo Pot (0.05) with 86542
+Rake (0)
+
+
+
+Hand #36443950-98 - 2014-12-12 22:53:02
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.26)
+Seat 2: sevenk (6.04)
+Seat 5: vxxxtxxx2 (5.12)
+vxxxtxxx2 has the dealer button
+Calculon posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [6h 6d 3h Js]
+vxxxtxxx2 calls 0.04
+Calculon calls 0.02
+sevenk checks
+** Flop ** [6c Td 5s]
+Calculon checks
+sevenk checks
+vxxxtxxx2 bets 0.04
+Calculon calls 0.04
+sevenk calls 0.04
+** Turn ** [8d]
+Calculon checks
+sevenk checks
+vxxxtxxx2 bets 0.04
+Calculon calls 0.04
+sevenk calls 0.04
+** River ** [3c]
+Calculon checks
+sevenk checks
+vxxxtxxx2 checks
+** Pot Show Down ** [6c Td 5s 8d 3c]
+Calculon shows [2d 2c As 9h] (Hi: a Pair of Deuces +T86  Lo: 6532A)
+sevenk shows [6h 6d 3h Js] (Hi: Three of a Kind, Sixes +T8  Lo: None)
+vxxxtxxx2 shows [3d Ks Jc 4s] (Hi: a Pair of Threes +KT8  Lo: 86543)
+sevenk wins Hi Pot (0.18) with Three of a Kind
+Calculon wins Lo Pot (0.18) with 6532A
+Rake (0)
+
+
+
+Hand #36443990-99 - 2014-12-12 22:53:56
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.32)
+Seat 2: sevenk (6.10)
+Seat 5: vxxxtxxx2 (5)
+Calculon has the dealer button
+sevenk posts small blind 0.02
+vxxxtxxx2 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [4d Ah 7d Kc]
+Calculon folds
+sevenk calls 0.02
+vxxxtxxx2 checks
+** Flop ** [8c 4s 3s]
+sevenk bets 0.06
+vxxxtxxx2 folds
+sevenk refunded 0.06
+sevenk wins Pot (0.08)
+Rake (0)
+
+
+
+Hand #36444017-100 - 2014-12-12 22:54:26
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.32)
+Seat 2: sevenk (6.14)
+Seat 5: vxxxtxxx2 (4.96)
+Seat 8: Demonic (4)
+sevenk has the dealer button
+vxxxtxxx2 posts small blind 0.02
+Demonic posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Ac 7d 6h 3h]
+Calculon raises to 0.12
+sevenk calls 0.12
+vxxxtxxx2 calls 0.10
+Demonic calls 0.08
+** Flop ** [Kc 9h Th]
+vxxxtxxx2 checks
+Demonic bets 0.16
+Calculon folds
+sevenk calls 0.16
+vxxxtxxx2 folds
+** Turn ** [6d]
+Demonic checks
+sevenk checks
+** River ** [9c]
+Demonic checks
+sevenk checks
+** Pot Show Down ** [Kc 9h Th 6d 9c]
+sevenk shows [Ac 7d 6h 3h] (Hi: Two Pair, Nines and Sixes +A  Lo: None)
+Demonic shows [Kd 7h Ah 2s] (Hi: Two Pair, Kings and Nines +A  Lo: None)
+Demonic wins Pot (0.78) with Two Pair
+No low hand qualified
+Rake (0.02)
+
+
+
+Hand #36444070-101 - 2014-12-12 22:55:31
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.20)
+Seat 2: sevenk (5.86)
+Seat 5: vxxxtxxx2 (4.84)
+Seat 8: Demonic (4.50)
+vxxxtxxx2 has the dealer button
+Demonic posts small blind 0.02
+Calculon posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [8c 5h 4d 2s]
+sevenk calls 0.04
+vxxxtxxx2 folds
+Demonic calls 0.02
+Calculon checks
+** Flop ** [Jh 7s 4s]
+Demonic bets 0.12
+Calculon folds
+sevenk folds
+Demonic refunded 0.12
+Demonic wins Pot (0.12)
+Rake (0)
+
+
+
+Hand #36444107-102 - 2014-12-12 22:56:11
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.16)
+Seat 2: sevenk (5.82)
+Seat 5: vxxxtxxx2 (4.84)
+Seat 8: Demonic (4.58)
+Demonic has the dealer button
+Calculon posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [4d 4c 5c Kh]
+vxxxtxxx2 folds
+Demonic calls 0.04
+Calculon calls 0.02
+sevenk checks
+** Flop ** [3s 6h 5s]
+Calculon checks
+sevenk bets 0.08
+Demonic calls 0.08
+Calculon folds
+** Turn ** [7h]
+sevenk bets 0.12
+Demonic folds
+sevenk refunded 0.12
+sevenk wins Pot (0.28)
+Rake (0)
+
+
+
+Hand #36444169-103 - 2014-12-12 22:57:24
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.12)
+Seat 2: sevenk (5.98)
+Seat 5: vxxxtxxx2 (4.84)
+Seat 8: Demonic (4.46)
+Calculon has the dealer button
+sevenk posts small blind 0.02
+vxxxtxxx2 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [4d 9h 5h 7s]
+Demonic calls 0.04
+Calculon folds
+sevenk calls 0.02
+vxxxtxxx2 checks
+** Flop ** [As Th Kd]
+sevenk checks
+vxxxtxxx2 checks
+Demonic checks
+** Turn ** [5c]
+sevenk checks
+vxxxtxxx2 checks
+Demonic bets 0.12
+sevenk folds
+vxxxtxxx2 folds
+Demonic refunded 0.12
+Demonic wins Pot (0.12)
+Rake (0)
+
+
+
+Hand #36444220-104 - 2014-12-12 22:58:19
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.12)
+Seat 2: sevenk (5.94)
+Seat 5: vxxxtxxx2 (4.80)
+Seat 8: Demonic (4.54)
+sevenk has the dealer button
+vxxxtxxx2 posts small blind 0.02
+Demonic posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [8h 9h 5s 5c]
+Calculon folds
+sevenk calls 0.04
+vxxxtxxx2 calls 0.02
+Demonic raises to 0.16
+sevenk folds
+vxxxtxxx2 calls 0.12
+** Flop ** [8c Ac 3s]
+vxxxtxxx2 bets 0.16
+Demonic calls 0.16
+** Turn ** [Jh]
+vxxxtxxx2 bets 0.28
+Demonic calls 0.28
+** River ** [Ad]
+vxxxtxxx2 bets 0.76
+Demonic folds
+vxxxtxxx2 refunded 0.76
+vxxxtxxx2 wins Pot (1.21)
+Rake (0.03)
+
+
+
+Hand #36444288-105 - 2014-12-12 22:59:35
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.12)
+Seat 2: sevenk (5.90)
+Seat 5: vxxxtxxx2 (5.41)
+Seat 8: Demonic (3.94)
+vxxxtxxx2 has the dealer button
+Demonic posts small blind 0.02
+Calculon posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [9d 7s 5h Qd]
+sevenk folds
+vxxxtxxx2 folds
+Demonic calls 0.02
+Calculon checks
+** Flop ** [9c Qc 2s]
+Demonic checks
+Calculon bets 0.08
+Demonic folds
+Calculon refunded 0.08
+Calculon wins Pot (0.08)
+Rake (0)
+
+
+
+Hand #36444331-106 - 2014-12-12 23:00:21
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.16)
+Seat 2: sevenk (5.90)
+Seat 5: vxxxtxxx2 (5.41)
+Seat 8: Demonic (3.90)
+Demonic has the dealer button
+Calculon posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [3d Td Qh Ts]
+vxxxtxxx2 calls 0.04
+Demonic calls 0.04
+Calculon folds
+sevenk checks
+** Flop ** [3c 9s Ad]
+sevenk checks
+vxxxtxxx2 checks
+Demonic checks
+** Turn ** [6s]
+sevenk checks
+vxxxtxxx2 checks
+Demonic checks
+** River ** [As]
+sevenk checks
+vxxxtxxx2 checks
+Demonic checks
+** Pot Show Down ** [3c 9s Ad 6s As]
+sevenk shows [3d Td Qh Ts] (Hi: Two Pair, Aces and Tens +9  Lo: None)
+vxxxtxxx2 shows [Kh Ah Qd 8d] (Hi: Three of a Kind, Aces +K9  Lo: None)
+Demonic shows [2h 8c Ks 6d] (Hi: Two Pair, Aces and Sixes +K  Lo: 8632A)
+vxxxtxxx2 wins Hi Pot (0.07) with Three of a Kind
+Demonic wins Lo Pot (0.07) with 8632A
+Rake (0)
+
+
+
+Hand #36444408-107 - 2014-12-12 23:01:31
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.14)
+Seat 2: sevenk (5.86)
+Seat 5: vxxxtxxx2 (5.44)
+Seat 8: Demonic (3.93)
+Calculon has the dealer button
+sevenk posts small blind 0.02
+vxxxtxxx2 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [5d 7c Ts 8c]
+Demonic raises to 0.08
+Calculon folds
+sevenk folds
+vxxxtxxx2 calls 0.04
+** Flop ** [7s 9c 3h]
+vxxxtxxx2 checks
+Demonic checks
+** Turn ** [3d]
+vxxxtxxx2 checks
+Demonic checks
+** River ** [Kc]
+vxxxtxxx2 checks
+Demonic bets 0.04
+vxxxtxxx2 calls 0.04
+** Pot Show Down ** [7s 9c 3h 3d Kc]
+vxxxtxxx2 shows [Qc 4c 8s Ks] (Hi: Two Pair, Kings and Threes +Q  Lo: None)
+Demonic shows [4d 2h Jc 9h] (Hi: Two Pair, Nines and Threes +J  Lo: None)
+vxxxtxxx2 wins Pot (0.26) with Two Pair
+No low hand qualified
+Rake (0)
+
+
+
+Hand #36444478-108 - 2014-12-12 23:02:35
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.14)
+Seat 2: sevenk (5.84)
+Seat 5: vxxxtxxx2 (5.58)
+Seat 8: Demonic (3.81)
+sevenk has the dealer button
+vxxxtxxx2 posts small blind 0.02
+Demonic posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [7d 5h 5c Ad]
+Calculon folds
+sevenk calls 0.04
+vxxxtxxx2 calls 0.02
+Demonic checks
+** Flop ** [4c Td 7h]
+vxxxtxxx2 checks
+Demonic checks
+sevenk bets 0.08
+vxxxtxxx2 folds
+Demonic calls 0.08
+** Turn ** [3d]
+Demonic bets 0.12
+sevenk calls 0.12
+** River ** [7s]
+Demonic bets 0.32
+sevenk calls 0.32
+** Pot Show Down ** [4c Td 7h 3d 7s]
+sevenk shows [7d 5h 5c Ad] (Hi: Three of a Kind, Sevens +AT  Lo: 7543A)
+Demonic shows [7c Ac 3s 4d] (Hi: a Full House, Sevens full of Fours  Lo: None)
+Demonic wins Hi Pot (0.57) with a Full House
+sevenk wins Lo Pot (0.57) with 7543A
+Rake (0.02)
+
+
+
+Hand #36444558-109 - 2014-12-12 23:03:55
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.14)
+Seat 2: sevenk (5.85)
+Seat 5: vxxxtxxx2 (5.54)
+Seat 8: Demonic (3.82)
+Seat 9: m42c0 (4) - waiting for big blind
+vxxxtxxx2 has the dealer button
+Demonic posts small blind 0.02
+m42c0 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Td Kc Js 5s]
+Calculon folds
+sevenk folds
+vxxxtxxx2 folds
+Demonic calls 0.02
+m42c0 checks
+** Flop ** [Ks 4c 7s]
+Demonic bets 0.08
+m42c0 calls 0.08
+** Turn ** [3h]
+Demonic bets 0.24
+m42c0 folds
+Demonic refunded 0.24
+Demonic wins Pot (0.24)
+Rake (0)
+
+
+
+Hand #36444614-110 - 2014-12-12 23:04:44
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.14)
+Seat 2: sevenk (5.85)
+Seat 5: vxxxtxxx2 (5.54)
+Seat 8: Demonic (3.94)
+Seat 9: m42c0 (3.88)
+Demonic has the dealer button
+m42c0 posts small blind 0.02
+Calculon posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Ad Js 7d 5d]
+sevenk calls 0.04
+vxxxtxxx2 folds
+Demonic raises to 0.18
+m42c0 folds
+Calculon folds
+sevenk calls 0.14
+** Flop ** [Ts Qd Jh]
+sevenk checks
+Demonic checks
+** Turn ** [7s]
+sevenk bets 0.24
+Demonic calls 0.24
+** River ** [Td]
+sevenk checks
+Demonic checks
+** Pot Show Down ** [Ts Qd Jh 7s Td]
+sevenk shows [Ad Js 7d 5d] (Hi: Two Pair, Jacks and Tens +A  Lo: None)
+Demonic shows [As 6h 9s 9c] (Hi: Two Pair, Tens and Nines +Q  Lo: None)
+sevenk wins Pot (0.88) with Two Pair
+No low hand qualified
+Rake (0.02)
+
+
+
+Hand #36444698-111 - 2014-12-12 23:06:08
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.10)
+Seat 2: sevenk (6.31)
+Seat 5: vxxxtxxx2 (5.54)
+Seat 8: Demonic (3.52)
+Seat 9: m42c0 (3.86)
+m42c0 has the dealer button
+Calculon posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [7c 8c Qd 7h]
+vxxxtxxx2 folds
+Demonic calls 0.04
+m42c0 calls 0.04
+Calculon calls 0.02
+sevenk checks
+** Flop ** [Jh Ah 7d]
+Calculon checks
+sevenk bets 0.12
+Demonic folds
+m42c0 folds
+Calculon folds
+sevenk refunded 0.12
+sevenk wins Pot (0.16)
+Rake (0)
+
+
+
+Hand #36444756-112 - 2014-12-12 23:07:03
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.06)
+Seat 2: sevenk (6.43)
+Seat 8: Demonic (3.48)
+Seat 9: m42c0 (3.82)
+Calculon has the dealer button
+sevenk posts small blind 0.02
+Demonic posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [5s Qh Kc 2c]
+m42c0 folds
+Calculon folds
+sevenk calls 0.02
+Demonic checks
+** Flop ** [7d 6c Td]
+sevenk checks
+Demonic checks
+** Turn ** [5h]
+sevenk bets 0.06
+Demonic raises to 0.26
+sevenk folds
+Demonic refunded 0.20
+Demonic wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #36444846-113 - 2014-12-12 23:08:35
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.06)
+Seat 2: sevenk (6.33)
+Seat 8: Demonic (3.58)
+Seat 9: m42c0 (3.82)
+sevenk has the dealer button
+Demonic posts small blind 0.02
+m42c0 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [3c 7c Qs 9s]
+Calculon folds
+sevenk calls 0.04
+Demonic has timed out
+Demonic folds
+m42c0 checks
+** Flop ** [Ad 7h Kc]
+m42c0 checks
+sevenk bets 0.06
+m42c0 folds
+sevenk refunded 0.06
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #36444908-114 - 2014-12-12 23:09:43
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.06)
+Seat 2: sevenk (6.39)
+Seat 8: Demonic (3.56)
+Seat 9: m42c0 (3.78)
+Demonic has the dealer button
+m42c0 posts small blind 0.02
+Calculon posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [3s Ks 5s Kh]
+sevenk raises to 0.12
+Demonic calls 0.12
+m42c0 folds
+Calculon folds
+** Flop ** [Td 6c 9d]
+sevenk bets 0.18
+Demonic calls 0.18
+** Turn ** [2h]
+sevenk checks
+Demonic checks
+** River ** [5c]
+sevenk checks
+Demonic checks
+** Pot Show Down ** [Td 6c 9d 2h 5c]
+sevenk shows [3s Ks 5s Kh] (Hi: a Pair of Kings +T96  Lo: None)
+Demonic shows [Tc 2d 3h Qh] (Hi: Two Pair, Tens and Deuces +9  Lo: None)
+Demonic wins Pot (0.65) with Two Pair
+No low hand qualified
+Rake (0.01)
+
+
+
+Hand #36444982-115 - 2014-12-12 23:10:58
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (1.02)
+Seat 2: sevenk (6.09)
+Seat 8: Demonic (3.91)
+Seat 9: m42c0 (3.76)
+m42c0 has the dealer button
+Calculon posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Qd 7c 3h 8s]
+Demonic calls 0.04
+m42c0 folds
+Calculon calls 0.02
+sevenk checks
+** Flop ** [5d 8c 8h]
+Calculon checks
+sevenk bets 0.08
+Demonic folds
+Calculon calls 0.08
+** Turn ** [Ts]
+Calculon checks
+sevenk bets 0.15
+Calculon calls 0.15
+** River ** [7s]
+Calculon checks
+sevenk bets 0.40
+Calculon folds
+sevenk refunded 0.40
+sevenk wins Pot (0.57)
+Rake (0.01)
+
+
+
+Hand #36445054-116 - 2014-12-12 23:12:08
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (0.75)
+Seat 2: sevenk (6.39)
+Seat 8: Demonic (3.87)
+Seat 9: m42c0 (3.76)
+Calculon has the dealer button
+sevenk posts small blind 0.02
+Demonic posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Ks Kh Th Td]
+m42c0 folds
+Calculon raises to 0.12
+sevenk calls 0.10
+Demonic calls 0.08
+** Flop ** [Jh 4h 6s]
+sevenk checks
+Demonic checks
+Calculon checks
+** Turn ** [Ad]
+sevenk checks
+Demonic checks
+Calculon bets 0.36
+sevenk folds
+Demonic folds
+Calculon refunded 0.36
+Calculon wins Pot (0.36)
+Rake (0)
+
+
+
+Hand #36445125-117 - 2014-12-12 23:13:15
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (0.99)
+Seat 2: sevenk (6.27)
+Seat 8: Demonic (3.75)
+Seat 9: m42c0 (3.76)
+sevenk has the dealer button
+Demonic posts small blind 0.02
+m42c0 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [5c Qd Qc Kc]
+Calculon folds
+sevenk calls 0.04
+Demonic raises to 0.16
+m42c0 folds
+sevenk calls 0.12
+** Flop ** [Jd 4h Ks]
+Demonic bets 0.12
+sevenk calls 0.12
+** Turn ** [6c]
+Demonic bets 0.08
+sevenk calls 0.08
+** River ** [Ts]
+Demonic bets 0.08
+sevenk raises to 0.56
+Demonic calls 0.48
+** Pot Show Down ** [Jd 4h Ks 6c Ts]
+sevenk shows [5c Qd Qc Kc] (Hi: a Pair of Kings +QJT  Lo: None)
+Demonic shows [Ah Kd Tc 2h] (Hi: Two Pair, Kings and Tens +J  Lo: None)
+Demonic wins Pot (1.84) with Two Pair
+No low hand qualified
+Rake (0.04)
+
+
+
+Hand #36445212-118 - 2014-12-12 23:14:46
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (0.99)
+Seat 2: sevenk (5.35)
+Seat 8: Demonic (4.67)
+Seat 9: m42c0 (3.72)
+Demonic has the dealer button
+m42c0 posts small blind 0.02
+Calculon posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [2d Kh 5h 7s]
+sevenk calls 0.04
+Demonic calls 0.04
+m42c0 folds
+Calculon checks
+** Flop ** [Ts Qh 4h]
+Calculon bets 0.14
+sevenk calls 0.14
+Demonic calls 0.14
+** Turn ** [Ac]
+Calculon bets 0.55
+sevenk calls 0.55
+Demonic folds
+** River ** [Js]
+Calculon bets 0.26 (All-in)
+sevenk calls 0.26
+** Pot Show Down ** [Ts Qh 4h Ac Js]
+Calculon shows [Ah Td 2h 5s] (Hi: Two Pair, Aces and Tens +Q  Lo: None)
+sevenk shows [2d Kh 5h 7s] (Hi: High Card Ace +KQJ7  Lo: None)
+Calculon wins Pot (2.13) with Two Pair
+No low hand qualified
+Rake (0.05)
+
+
+
+Hand #36445306-119 - 2014-12-12 23:16:27
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (2.13)
+Seat 2: sevenk (4.36)
+Seat 3: beano52 (4) - waiting for big blind
+Seat 8: Demonic (4.49)
+Seat 9: m42c0 (3.70)
+m42c0 has the dealer button
+Calculon posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [5c Ah 9d Ts]
+Demonic raises to 0.14
+m42c0 folds
+Calculon folds
+sevenk folds
+Demonic refunded 0.10
+Demonic wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #36445327-120 - 2014-12-12 23:16:52
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (2.11)
+Seat 2: sevenk (4.32)
+Seat 3: beano52 (4) - waiting for big blind
+Seat 4: schlegified (0.80)
+Seat 8: Demonic (4.55)
+Seat 9: m42c0 (3.70)
+Calculon has the dealer button
+sevenk posts small blind 0.02
+beano52 posts big blind 0.04
+schlegified posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [7c Ad Ah 4c]
+schlegified checks
+Demonic calls 0.04
+m42c0 folds
+Calculon folds
+sevenk raises to 0.16
+beano52 folds
+beano52 adds 0.04 chips
+schlegified folds
+Demonic calls 0.12
+** Flop ** [6c Tc 4s]
+sevenk bets 0.24
+Demonic calls 0.24
+** Turn ** [6d]
+sevenk checks
+Demonic checks
+** River ** [8h]
+sevenk checks
+Demonic checks
+** Pot Show Down ** [6c Tc 4s 6d 8h]
+sevenk shows [7c Ad Ah 4c] (Hi: Two Pair, Aces and Sixes +T  Lo: 8764A)
+Demonic shows [Kh 5s 3s 5h] (Hi: Two Pair, Sixes and Fives +T  Lo: 86543)
+sevenk wins Hi Pot (0.43) with Two Pair
+Demonic wins Lo Pot (0.43) with 86543
+Rake (0.02)
+
+
+
+Hand #36445421-121 - 2014-12-12 23:18:28
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (2.11)
+Seat 2: sevenk (4.35)
+Seat 3: beano52 (4)
+Seat 4: schlegified (0.76)
+Seat 8: Demonic (4.58)
+Seat 9: m42c0 (3.70)
+sevenk has the dealer button
+beano52 posts small blind 0.02
+schlegified posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [3c Ad Jd Tc]
+Demonic raises to 0.14
+m42c0 folds
+Calculon folds
+sevenk calls 0.14
+beano52 folds
+beano52 adds 0.02 chips
+schlegified calls 0.10
+** Flop ** [Td Kd 6c]
+schlegified checks
+Demonic checks
+sevenk bets 0.24
+schlegified folds
+Demonic folds
+sevenk refunded 0.24
+sevenk wins Pot (0.43)
+Rake (0.01)
+
+
+
+Hand #36445482-122 - 2014-12-12 23:19:26
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (2.11)
+Seat 2: sevenk (4.64)
+Seat 3: beano52 (4)
+Seat 4: schlegified (0.62)
+Seat 8: Demonic (4.44)
+Seat 9: m42c0 (3.70)
+beano52 has the dealer button
+schlegified posts small blind 0.02
+Demonic posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Qd Ts 3h 2d]
+m42c0 folds
+Calculon folds
+sevenk calls 0.04
+beano52 calls 0.04
+schlegified calls 0.02
+Demonic checks
+** Flop ** [5d Qs 4s]
+schlegified checks
+Demonic bets 0.08
+sevenk calls 0.08
+beano52 calls 0.08
+schlegified calls 0.08
+** Turn ** [6d]
+schlegified checks
+Demonic checks
+sevenk bets 0.32
+beano52 calls 0.32
+schlegified folds
+Demonic calls 0.32
+** River ** [3d]
+Demonic checks
+sevenk checks
+beano52 checks
+** Pot Show Down ** [5d Qs 4s 6d 3d]
+sevenk shows [Qd Ts 3h 2d] (Hi: a Flush, Queen high +6532  Lo: 65432)
+beano52 shows [5c As Ad 6h] (Hi: Two Pair, Sixes and Fives +Q  Lo: 6543A)
+Demonic shows [3s 5s 8s Ah] (Hi: Two Pair, Fives and Threes +Q  Lo: 6543A)
+sevenk wins Hi Pot (0.71) with a Flush
+beano52 splits Lo Pot (0.35) with 6543A
+Demonic splits Lo Pot (0.35) with 6543A
+Rake (0.03)
+beano52 adds 0.09 chips
+
+
+
+Hand #36445580-123 - 2014-12-12 23:21:30
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (2.11)
+Seat 2: sevenk (4.91)
+Seat 3: beano52 (4)
+Seat 4: schlegified (0.50)
+Seat 5: BluffinBully (4)
+Seat 7: cAPSLOCK (4) - waiting for big blind
+Seat 8: Demonic (4.35)
+Seat 9: m42c0 (3.70)
+schlegified has the dealer button
+Demonic posts small blind 0.02
+m42c0 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [As Jd Td Qc]
+Calculon calls 0.04
+sevenk calls 0.04
+beano52 calls 0.04
+schlegified calls 0.04
+Demonic calls 0.02
+m42c0 checks
+** Flop ** [5h Qs Ts]
+Demonic checks
+m42c0 checks
+Calculon checks
+sevenk bets 0.16
+beano52 folds
+beano52 adds 0.04 chips
+schlegified folds
+Demonic folds
+m42c0 folds
+Calculon folds
+sevenk refunded 0.16
+sevenk wins Pot (0.24)
+Rake (0)
+
+
+
+Hand #36445644-124 - 2014-12-12 23:22:41
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (2.07)
+Seat 2: sevenk (5.11)
+Seat 3: beano52 (4)
+Seat 4: schlegified (0.46)
+Seat 5: BluffinBully (4)
+Seat 6: Bioluminous (4) - waiting for big blind
+Seat 7: cAPSLOCK (4)
+Seat 8: Demonic (4.31)
+Seat 9: m42c0 (3.66)
+Demonic has the dealer button
+m42c0 posts small blind 0.02
+Calculon posts big blind 0.04
+BluffinBully posts big blind 0.04
+cAPSLOCK posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [4h Qc 7c 4d]
+sevenk calls 0.04
+beano52 calls 0.04
+schlegified calls 0.04
+BluffinBully checks
+cAPSLOCK checks
+Demonic calls 0.04
+m42c0 folds
+Calculon checks
+** Flop ** [9d 6d 8h]
+Calculon checks
+sevenk checks
+beano52 checks
+schlegified checks
+BluffinBully checks
+cAPSLOCK bets 0.08
+Demonic calls 0.08
+Calculon folds
+sevenk folds
+beano52 calls 0.08
+schlegified calls 0.08
+BluffinBully calls 0.08
+** Turn ** [2h]
+beano52 checks
+schlegified checks
+BluffinBully bets 0.69
+cAPSLOCK calls 0.69
+Demonic folds
+beano52 calls 0.69
+schlegified calls 0.34 (All-in)
+** River ** [9s]
+beano52 checks
+BluffinBully checks
+cAPSLOCK bets 0.48
+beano52 calls 0.48
+BluffinBully calls 0.48
+** Side Pot 1 Show Down ** [9d 6d 8h 2h 9s]
+beano52 shows [5d 3d Ac 9c] (Hi: Three of a Kind, Nines +A8  Lo: 8632A)
+BluffinBully shows [3c 5s 7h 8s] (Hi: a Straight, Five to Nine  Lo: 86532)
+cAPSLOCK shows [Ad 2c 7d 2s] (Hi: a Full House, Deuces full of Nines  Lo: 8762A)
+cAPSLOCK wins Hi Side Pot 1 (1.22) with a Full House
+beano52 wins Lo Side Pot 1 (1.21) with 8632A
+Rake (0.06)
+** Main Pot Show Down ** [9d 6d 8h 2h 9s]
+schlegified shows [8c 9h Ah 8d] (Hi: a Full House, Nines full of Eights  Lo: None)
+schlegified wins Hi Main Pot (1.01) with a Full House
+beano52 wins Lo Main Pot (1) with 8632A
+Rake (0.05)
+cAPSLOCK adds 0.07 chips
+
+
+
+Hand #36445807-125 - 2014-12-12 23:25:54
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (2.03)
+Seat 2: sevenk (5.07)
+Seat 3: beano52 (4.92)
+Seat 4: schlegified (1.01)
+Seat 5: BluffinBully (2.71)
+Seat 6: Bioluminous (4) - waiting for big blind
+Seat 7: cAPSLOCK (4)
+Seat 8: Demonic (4.19)
+Seat 9: m42c0 (3.64)
+m42c0 has the dealer button
+Calculon posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Td Kd 5h 9s]
+beano52 calls 0.04
+schlegified folds
+BluffinBully calls 0.04
+cAPSLOCK calls 0.04
+Demonic calls 0.04
+m42c0 raises to 0.16
+Calculon folds
+sevenk folds
+beano52 calls 0.12
+BluffinBully calls 0.12
+cAPSLOCK calls 0.12
+Demonic calls 0.12
+** Flop ** [Ac 9c 4d]
+beano52 checks
+BluffinBully checks
+cAPSLOCK checks
+Demonic bets 0.16
+m42c0 calls 0.16
+beano52 calls 0.16
+BluffinBully folds
+cAPSLOCK folds
+cAPSLOCK adds 0.16 chips
+** Turn ** [7d]
+beano52 checks
+Demonic bets 0.04
+m42c0 calls 0.04
+beano52 calls 0.04
+** River ** [8s]
+beano52 checks
+Demonic checks
+m42c0 checks
+** Pot Show Down ** [Ac 9c 4d 7d 8s]
+beano52 shows [As 4h 2h 7c] (Hi: Two Pair, Aces and Sevens +9  Lo: 8742A)
+Demonic shows [2d 6c 9h 4c] (Hi: Two Pair, Nines and Fours +A  Lo: 7642A)
+m42c0 shows [Kc Qd Tc Ks] (Hi: a Pair of Kings +A98  Lo: None)
+beano52 wins Hi Pot (0.72) with Two Pair
+Demonic wins Lo Pot (0.71) with 7642A
+Rake (0.03)
+
+
+
+Hand #36445974-126 - 2014-12-12 23:28:49
+Game: PL Omaha Hi-Lo (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: PLO8 9max .02/.04 #1
+Seat 1: Calculon (2.01)
+Seat 2: sevenk (5.03)
+Seat 3: beano52 (5.28)
+Seat 4: schlegified (1.01)
+Seat 5: BluffinBully (2.55)
+Seat 6: Bioluminous (4)
+Seat 7: cAPSLOCK (4)
+Seat 8: Demonic (4.54)
+Seat 9: m42c0 (3.28)
+Calculon has the dealer button
+sevenk posts small blind 0.02
+beano52 posts big blind 0.04
+Bioluminous posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [8d 6d 2s 5s]
+schlegified calls 0.04
+BluffinBully folds
+BluffinBully adds 1.45 chips
+Bioluminous checks
+cAPSLOCK raises to 0.22
+Demonic calls 0.22
+m42c0 folds
+Calculon folds
+sevenk folds
+beano52 folds
+schlegified folds
+Bioluminous calls 0.18
+** Flop ** [5c 8h 2d]
+Bioluminous checks
+cAPSLOCK bets 0.75
+Demonic calls 0.75
+Bioluminous folds
+Bioluminous adds 0.22 chips
+** Turn ** [7s]
+cAPSLOCK bets 1.04
+Demonic raises to 3.57 (All-in)
+cAPSLOCK calls 1.99 (All-in)
+Demonic refunded 0.54
+** River ** [Qs]
+** Pot Show Down ** [5c 8h 2d 7s Qs]
+cAPSLOCK shows [8s 2c 3s Ad] (Hi: Two Pair, Eights and Deuces +Q  Lo: 7532A)
+Demonic shows [8c 7d Ah Ac] (Hi: Two Pair, Eights and Sevens +Q  Lo: 8752A)
+Demonic wins Hi Pot (4.06) with Two Pair
+cAPSLOCK wins Lo Pot (4.06) with 7532A
+Rake (0.20)

@@ -1,0 +1,462 @@
+Hand #35363229-385 - 2014-11-23 01:33:18
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (1)
+Seat 2: FoxMullder (2.92)
+Seat 3: Codfather (4) - waiting for big blind
+Seat 4: unknown05 (1.51)
+Seat 5: Aether (1.51)
+Seat 6: 22lr (6.18)
+Seat 7: uknowme (1.20) - sitting out
+Seat 8: nil8u (3.97)
+Seat 9: SmallZombie (13.83)
+Aether has the dealer button
+22lr posts small blind 0.01
+nil8u posts big blind 0.02
+** Hole Cards **
+SmallZombie folds
+sealwithbtc raises to 0.08
+FoxMullder folds
+unknown05 folds
+Aether folds
+22lr folds
+nil8u folds
+sealwithbtc refunded 0.06
+sealwithbtc wins Pot (0.05)
+
+
+
+Hand #35363268-386 - 2014-11-23 01:34:13
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (1.03)
+Seat 2: FoxMullder (2.92)
+Seat 3: Codfather (4) - waiting for big blind
+Seat 4: unknown05 (1.51)
+Seat 5: Aether (1.51)
+Seat 6: 22lr (6.17)
+Seat 7: uknowme (1.20) - sitting out
+Seat 8: nil8u (3.95)
+Seat 9: SmallZombie (13.83)
+22lr has the dealer button
+nil8u posts small blind 0.01
+SmallZombie posts big blind 0.02
+** Hole Cards **
+sealwithbtc folds
+FoxMullder folds
+unknown05 folds
+Aether calls 0.02
+22lr folds
+nil8u folds
+SmallZombie checks
+** Flop ** [9s Qs 4s]
+SmallZombie checks
+Aether checks
+** Turn ** [6c]
+SmallZombie checks
+Aether checks
+** River ** [3h]
+SmallZombie checks
+Aether checks
+** Pot Show Down ** [9s Qs 4s 6c 3h]
+Aether shows [Kd As] (High Card Ace +KQ96)
+SmallZombie shows [2c 7s] (High Card Queen +9764)
+Aether wins Pot (0.05) with High Card
+
+
+
+Hand #35363301-387 - 2014-11-23 01:35:02
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (1.03)
+Seat 2: FoxMullder (2.92)
+Seat 3: Codfather (4) - waiting for big blind
+Seat 4: unknown05 (1.51)
+Seat 5: Aether (1.54)
+Seat 6: 22lr (6.17)
+Seat 7: uknowme (1.20)
+Seat 8: nil8u (3.94)
+Seat 9: SmallZombie (13.81)
+nil8u has the dealer button
+SmallZombie posts small blind 0.01
+sealwithbtc posts big blind 0.02
+uknowme posts small & big blind 0.03
+** Hole Cards **
+FoxMullder folds
+unknown05 folds
+Aether folds
+22lr folds
+uknowme checks
+nil8u folds
+SmallZombie folds
+sealwithbtc checks
+** Flop ** [Ah Js 7s]
+sealwithbtc checks
+uknowme checks
+** Turn ** [9s]
+sealwithbtc checks
+uknowme checks
+** River ** [4h]
+sealwithbtc checks
+uknowme checks
+** Pot Show Down ** [Ah Js 7s 9s 4h]
+sealwithbtc shows [2h 3h] (High Card Ace +J974)
+uknowme shows [4c 6h] (a Pair of Fours +AJ9)
+uknowme wins Pot (0.06) with a Pair
+
+
+
+Hand #35363362-388 - 2014-11-23 01:36:21
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (1.01)
+Seat 2: FoxMullder (2.92)
+Seat 3: Codfather (4) - waiting for big blind
+Seat 4: unknown05 (1.51)
+Seat 5: Aether (1.54)
+Seat 6: 22lr (6.17)
+Seat 7: uknowme (1.23)
+Seat 8: nil8u (3.94)
+Seat 9: SmallZombie (13.80)
+SmallZombie has the dealer button
+sealwithbtc posts small blind 0.01
+FoxMullder posts big blind 0.02
+** Hole Cards **
+unknown05 folds
+Aether folds
+22lr folds
+uknowme folds
+nil8u raises to 0.06
+SmallZombie folds
+sealwithbtc folds
+FoxMullder folds
+nil8u refunded 0.04
+nil8u wins Pot (0.05)
+
+
+
+Hand #35363392-389 - 2014-11-23 01:37:06
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (1)
+Seat 2: FoxMullder (2.90)
+Seat 3: Codfather (4) - waiting for big blind
+Seat 4: unknown05 (1.51)
+Seat 5: Aether (1.54)
+Seat 6: 22lr (6.17)
+Seat 7: uknowme (1.23)
+Seat 8: nil8u (3.97)
+Seat 9: SmallZombie (13.80)
+sealwithbtc has the dealer button
+FoxMullder posts small blind 0.01
+Codfather posts big blind 0.02
+** Hole Cards **
+unknown05 raises to 0.06
+Aether folds
+22lr folds
+uknowme folds
+nil8u has timed out
+nil8u folds
+SmallZombie folds
+sealwithbtc folds
+FoxMullder folds
+Codfather folds
+unknown05 refunded 0.04
+unknown05 wins Pot (0.05)
+
+
+
+Hand #35363424-390 - 2014-11-23 01:38:01
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (1)
+Seat 2: FoxMullder (2.89)
+Seat 3: Codfather (3.98)
+Seat 4: unknown05 (1.54)
+Seat 5: Aether (1.54)
+Seat 6: 22lr (6.17)
+Seat 7: uknowme (1.23)
+Seat 8: nil8u (3.97) - sitting out
+Seat 9: SmallZombie (13.80)
+FoxMullder has the dealer button
+Codfather posts small blind 0.01
+unknown05 posts big blind 0.02
+** Hole Cards **
+Aether folds
+22lr folds
+uknowme folds
+SmallZombie folds
+sealwithbtc raises to 0.06
+FoxMullder folds
+Codfather raises to 0.10
+unknown05 folds
+sealwithbtc folds
+Codfather refunded 0.04
+Codfather wins Pot (0.14)
+
+
+
+Hand #35363456-391 - 2014-11-23 01:38:51
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (0.94)
+Seat 2: FoxMullder (2.89)
+Seat 3: Codfather (4.06)
+Seat 4: unknown05 (1.52)
+Seat 5: Aether (1.54)
+Seat 6: 22lr (6.17)
+Seat 7: uknowme (1.23)
+Seat 8: nil8u (3.97)
+Seat 9: SmallZombie (13.80)
+Codfather has the dealer button
+unknown05 posts small blind 0.01
+Aether posts big blind 0.02
+** Hole Cards **
+22lr calls 0.02
+uknowme calls 0.02
+nil8u has timed out
+nil8u folds
+SmallZombie folds
+sealwithbtc folds
+FoxMullder folds
+Codfather calls 0.02
+unknown05 folds
+Aether checks
+** Flop ** [8h 8d 9h]
+Aether checks
+22lr checks
+uknowme checks
+Codfather bets 0.09
+Aether folds
+22lr folds
+uknowme folds
+Codfather refunded 0.09
+Codfather wins Pot (0.09)
+
+
+
+Hand #35363510-392 - 2014-11-23 01:40:17
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (0.94)
+Seat 2: FoxMullder (2.89)
+Seat 3: Codfather (4.13)
+Seat 4: unknown05 (1.51)
+Seat 5: Aether (1.52)
+Seat 6: 22lr (6.15)
+Seat 7: uknowme (1.21)
+Seat 8: nil8u (3.97)
+Seat 9: SmallZombie (13.80)
+unknown05 has the dealer button
+Aether posts small blind 0.01
+22lr posts big blind 0.02
+** Hole Cards **
+uknowme raises to 0.04
+nil8u folds
+SmallZombie folds
+sealwithbtc folds
+FoxMullder folds
+Codfather folds
+unknown05 folds
+Aether folds
+22lr folds
+uknowme refunded 0.02
+uknowme wins Pot (0.05)
+
+
+
+Hand #35363555-393 - 2014-11-23 01:41:09
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (0.94)
+Seat 2: FoxMullder (2.89)
+Seat 3: Codfather (4.13)
+Seat 4: unknown05 (1.51)
+Seat 5: Aether (1.51)
+Seat 6: 22lr (6.13)
+Seat 7: uknowme (1.24)
+Seat 8: nil8u (3.97)
+Seat 9: SmallZombie (13.80)
+Aether has the dealer button
+22lr posts small blind 0.01
+uknowme posts big blind 0.02
+** Hole Cards **
+nil8u folds
+SmallZombie folds
+sealwithbtc folds
+FoxMullder folds
+Codfather folds
+unknown05 folds
+Aether folds
+22lr calls 0.01
+uknowme checks
+** Flop ** [Td 3s Ad]
+22lr checks
+uknowme checks
+** Turn ** [Th]
+22lr checks
+uknowme checks
+** River ** [3h]
+22lr bets 0.04
+uknowme folds
+22lr refunded 0.04
+22lr wins Pot (0.04)
+
+
+
+Hand #35363618-394 - 2014-11-23 01:42:31
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (0.94)
+Seat 2: FoxMullder (2.89)
+Seat 3: Codfather (4.13)
+Seat 4: unknown05 (1.51)
+Seat 5: Aether (1.51)
+Seat 6: 22lr (6.15)
+Seat 7: uknowme (1.22)
+Seat 8: nil8u (3.97)
+Seat 9: SmallZombie (13.80)
+22lr has the dealer button
+uknowme posts small blind 0.01
+nil8u posts big blind 0.02
+** Hole Cards **
+SmallZombie folds
+sealwithbtc folds
+FoxMullder raises to 2.89 (All-in)
+Codfather folds
+unknown05 folds
+Aether folds
+22lr folds
+uknowme folds
+nil8u folds
+FoxMullder refunded 2.87
+FoxMullder wins Pot (0.05)
+
+
+
+Hand #35363652-395 - 2014-11-23 01:43:17
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (0.94)
+Seat 2: FoxMullder (2.92)
+Seat 3: Codfather (4.13)
+Seat 4: unknown05 (1.51)
+Seat 5: Aether (1.51)
+Seat 6: 22lr (6.15)
+Seat 7: uknowme (1.21)
+Seat 8: nil8u (3.95)
+Seat 9: SmallZombie (13.80)
+uknowme has the dealer button
+nil8u posts small blind 0.01
+SmallZombie posts big blind 0.02
+** Hole Cards **
+sealwithbtc folds
+FoxMullder raises to 2.92 (All-in)
+Codfather folds
+unknown05 folds
+Aether has timed out
+Aether folds
+22lr folds
+uknowme folds
+nil8u calls 2.91
+SmallZombie calls 2.90
+** Flop ** [4c 6c Ac]
+nil8u checks
+SmallZombie bets 1.03
+nil8u calls 1.03 (All-in)
+** Turn ** [9c]
+** River ** [Kh]
+** Side Pot 1 Show Down ** [4c 6c Ac 9c Kh]
+nil8u shows [Jh Jd] (a Pair of Jacks +AK9)
+SmallZombie shows [Ad As] (Three of a Kind, Aces +K9)
+SmallZombie wins Side Pot 1 (2.06) with Three of a Kind
+** Main Pot Show Down ** [4c 6c Ac 9c Kh]
+FoxMullder shows [Td Th] (a Pair of Tens +AK9)
+SmallZombie wins Main Pot (8.76) with Three of a Kind
+
+
+
+Hand #35363720-396 - 2014-11-23 01:44:53
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (0.94)
+Seat 2: FoxMullder (0) - sitting out
+Seat 3: Codfather (4.13)
+Seat 4: unknown05 (1.51)
+Seat 5: Aether (1.51)
+Seat 6: 22lr (6.15)
+Seat 7: uknowme (1.21)
+Seat 8: nil8u (0) - sitting out
+Seat 9: SmallZombie (20.67)
+SmallZombie has the dealer button
+sealwithbtc posts small blind 0.01
+Codfather posts big blind 0.02
+** Hole Cards **
+unknown05 raises to 0.06
+Aether folds
+22lr folds
+uknowme folds
+SmallZombie calls 0.06
+sealwithbtc folds
+Codfather calls 0.04
+** Flop ** [9c 6d 7s]
+nil8u adds 3 chips
+Codfather bets 0.19
+unknown05 calls 0.19
+SmallZombie calls 0.19
+** Turn ** [Ts]
+Codfather checks
+unknown05 checks
+SmallZombie bets 0.50
+Codfather folds
+unknown05 calls 0.50
+** River ** [Jc]
+unknown05 bets 0.34
+SmallZombie raises to 1
+unknown05 calls 0.42 (All-in)
+SmallZombie refunded 0.24
+** Pot Show Down ** [9c 6d 7s Ts Jc]
+unknown05 shows [Ks Kd] (a Pair of Kings +JT9)
+SmallZombie shows [8s As] (a Straight, Seven to Jack)
+SmallZombie wins Pot (3.28) with a Straight
+
+
+
+Hand #35363801-397 - 2014-11-23 01:46:47
+Game: NL Hold'em (0.40 - 4) - Blinds 0.01/0.02
+Site: Seals With Clubs
+Table: No Rake Micro Stakes
+Seat 1: sealwithbtc (0.93)
+Seat 2: PocketAce360 (4) - waiting for big blind
+Seat 3: Codfather (3.88)
+Seat 4: unknown05 (0) - sitting out
+Seat 5: Aether (1.51)
+Seat 6: 22lr (6.15)
+Seat 7: uknowme (1.21)
+Seat 8: nil8u (3)
+Seat 9: SmallZombie (22.44)
+sealwithbtc has the dealer button
+Codfather posts small blind 0.01
+Aether posts big blind 0.02
+** Hole Cards **
+22lr folds
+uknowme folds
+nil8u folds
+SmallZombie folds
+sealwithbtc folds
+Codfather raises to 0.04
+Aether folds
+Codfather refunded 0.02
+Codfather wins Pot (0.04)

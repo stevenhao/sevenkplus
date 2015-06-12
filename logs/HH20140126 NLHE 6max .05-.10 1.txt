@@ -1,0 +1,1359 @@
+Hand #17202861-443 - 2014-01-26 13:48:58
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (5.98)
+Seat 2: geniusturtle (15.71)
+Seat 3: seven4suited (3.70)
+Seat 4: sevenk (2) - waiting for big blind
+Seat 5: Slacker27 (8.97)
+Seat 6: kate93 (2.69)
+kate93 has the dealer button
+geniusturtle posts small blind 0.05
+seven4suited posts big blind 0.10
+** Hole Cards **
+Slacker27 folds
+kate93 raises to 0.30
+geniusturtle folds
+seven4suited raises to 0.70
+kate93 raises to 2.69 (All-in)
+seven4suited calls 1.99
+** Flop ** [As 3c 4c]
+** Turn ** [4d]
+** River ** [Jh]
+** Pot Show Down ** [As 3c 4c 4d Jh]
+seven4suited shows [9c 9d] (Two Pair, Nines and Fours +A)
+kate93 shows [Ad Kh] (Two Pair, Aces and Fours +K)
+kate93 wins Pot (5.30) with Two Pair
+Rake (0.13)
+
+
+
+Hand #17202892-444 - 2014-01-26 13:49:33
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (5.98)
+Seat 2: geniusturtle (15.66)
+Seat 3: seven4suited (1.01)
+Seat 4: sevenk (2)
+Seat 5: Slacker27 (8.97)
+Seat 6: kate93 (5.30)
+geniusturtle has the dealer button
+seven4suited posts small blind 0.05
+sevenk posts big blind 0.10
+JeanClaude posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kd 4h]
+Slacker27 folds
+kate93 folds
+JeanClaude checks
+geniusturtle folds
+seven4suited calls 0.05
+sevenk checks
+** Flop ** [Kh Qc 8d]
+seven4suited checks
+sevenk bets 0.20
+JeanClaude folds
+seven4suited folds
+sevenk refunded 0.20
+sevenk wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #17202930-445 - 2014-01-26 13:50:33
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (5.88)
+Seat 2: geniusturtle (15.66)
+Seat 3: seven4suited (0.91)
+Seat 4: sevenk (2.20)
+Seat 5: Slacker27 (8.97)
+Seat 6: kate93 (5.30)
+seven4suited has the dealer button
+sevenk posts small blind 0.05
+Slacker27 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4d Tc]
+kate93 folds
+JeanClaude raises to 0.30
+geniusturtle folds
+seven4suited folds
+sevenk folds
+Slacker27 folds
+JeanClaude refunded 0.20
+JeanClaude wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #17202955-446 - 2014-01-26 13:51:04
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (6.03)
+Seat 2: geniusturtle (15.66)
+Seat 3: seven4suited (0.91)
+Seat 4: sevenk (2.15)
+Seat 5: Slacker27 (8.87)
+Seat 6: kate93 (5.30)
+sevenk has the dealer button
+Slacker27 posts small blind 0.05
+JeanClaude posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6h 2c]
+geniusturtle folds
+seven4suited folds
+sevenk folds
+Slacker27 calls 0.05
+JeanClaude raises to 0.30
+Slacker27 folds
+JeanClaude refunded 0.20
+JeanClaude wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #17202972-447 - 2014-01-26 13:51:32
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (6.13)
+Seat 2: geniusturtle (15.66)
+Seat 3: seven4suited (0.91)
+Seat 4: sevenk (2.15)
+Seat 5: Slacker27 (8.77)
+Seat 6: kate93 (5.30) - sitting out
+Slacker27 has the dealer button
+JeanClaude posts small blind 0.05
+geniusturtle posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ks 6d]
+seven4suited raises to 0.40
+sevenk folds
+Slacker27 folds
+JeanClaude folds
+geniusturtle folds
+seven4suited refunded 0.30
+seven4suited wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #17202996-448 - 2014-01-26 13:52:04
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (6.08)
+Seat 2: geniusturtle (15.56)
+Seat 3: seven4suited (1.06)
+Seat 4: sevenk (2.15)
+Seat 5: Slacker27 (8.77)
+Seat 6: kate93 (5.30) - sitting out
+JeanClaude has the dealer button
+geniusturtle posts small blind 0.05
+seven4suited posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2d 9d]
+sevenk folds
+Slacker27 folds
+JeanClaude raises to 0.20
+geniusturtle folds
+seven4suited calls 0.10
+** Flop ** [Ad 4s Ks]
+seven4suited checks
+JeanClaude bets 0.40
+seven4suited folds
+JeanClaude refunded 0.40
+JeanClaude wins Pot (0.44)
+Rake (0.01)
+
+
+
+Hand #17203025-449 - 2014-01-26 13:52:40
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (6.32)
+Seat 2: geniusturtle (15.51)
+Seat 3: seven4suited (0.86)
+Seat 4: sevenk (2.15)
+Seat 5: Slacker27 (8.77)
+Seat 6: SilverFuture (4) - waiting for big blind
+geniusturtle has the dealer button
+seven4suited posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8s 5h]
+Slacker27 calls 0.10
+JeanClaude raises to 0.30
+geniusturtle folds
+seven4suited raises to 0.86 (All-in)
+sevenk folds
+Slacker27 folds
+JeanClaude calls 0.56
+** Flop ** [Kh 6h Qs]
+** Turn ** [Kc]
+** River ** [Kd]
+** Pot Show Down ** [Kh 6h Qs Kc Kd]
+JeanClaude shows [Ac 4h] (Three of a Kind, Kings +AQ)
+seven4suited shows [Qh Ah] (a Full House, Kings full of Queens)
+seven4suited wins Pot (1.88) with a Full House
+Rake (0.04)
+
+
+
+Hand #17203056-450 - 2014-01-26 13:53:22
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (5.46)
+Seat 2: geniusturtle (15.51)
+Seat 3: seven4suited (1.88)
+Seat 4: sevenk (2.05)
+Seat 5: Slacker27 (8.67)
+Seat 6: SilverFuture (4) - waiting for big blind
+seven4suited has the dealer button
+sevenk posts small blind 0.05
+Slacker27 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2d Tc]
+JeanClaude calls 0.10
+geniusturtle raises to 0.30
+seven4suited raises to 1.88 (All-in)
+sevenk folds
+Slacker27 folds
+JeanClaude folds
+geniusturtle calls 1.58
+** Flop ** [Kd 5d 8h]
+** Turn ** [Kc]
+** River ** [8s]
+** Pot Show Down ** [Kd 5d 8h Kc 8s]
+geniusturtle shows [Jc Ks] (a Full House, Kings full of Eights)
+seven4suited shows [Ah 3d] (Two Pair, Kings and Eights +A)
+geniusturtle wins Pot (3.91) with a Full House
+Rake (0.10)
+
+
+
+Hand #17203087-451 - 2014-01-26 13:54:02
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (5.36)
+Seat 2: geniusturtle (17.54)
+Seat 3: seven4suited (0) - sitting out
+Seat 4: sevenk (2)
+Seat 5: Slacker27 (8.57)
+Seat 6: SilverFuture (4) - waiting for big blind
+sevenk has the dealer button
+Slacker27 posts small blind 0.05
+SilverFuture posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6c 9h]
+JeanClaude folds
+geniusturtle raises to 0.30
+sevenk folds
+Slacker27 folds
+SilverFuture folds
+geniusturtle refunded 0.20
+geniusturtle wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #17203102-452 - 2014-01-26 13:54:25
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (5.36)
+Seat 2: geniusturtle (17.69)
+Seat 4: sevenk (2)
+Seat 5: Slacker27 (8.52)
+Seat 6: SilverFuture (3.90)
+Slacker27 has the dealer button
+SilverFuture posts small blind 0.05
+JeanClaude posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8h 8d]
+geniusturtle folds
+sevenk raises to 0.30
+Slacker27 calls 0.30
+SilverFuture folds
+JeanClaude calls 0.20
+** Flop ** [7h Ac 5s]
+JeanClaude checks
+sevenk bets 0.30
+Slacker27 folds
+JeanClaude folds
+sevenk refunded 0.30
+sevenk wins Pot (0.93)
+Rake (0.02)
+
+
+
+Hand #17203139-453 - 2014-01-26 13:55:21
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (5.06)
+Seat 2: geniusturtle (17.69)
+Seat 3: shabutie (10)
+Seat 4: sevenk (2.63)
+Seat 5: Slacker27 (8.22)
+Seat 6: SilverFuture (3.85)
+SilverFuture has the dealer button
+JeanClaude posts small blind 0.05
+geniusturtle posts big blind 0.10
+shabutie posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7s 8c]
+shabutie checks
+sevenk folds
+Slacker27 folds
+SilverFuture calls 0.10
+JeanClaude raises to 0.30
+geniusturtle calls 0.20
+shabutie folds
+SilverFuture calls 0.20
+** Flop ** [7d Td Ts]
+JeanClaude bets 0.30
+geniusturtle calls 0.30
+SilverFuture raises to 0.90
+JeanClaude calls 0.60
+geniusturtle folds
+** Turn ** [2d]
+JeanClaude checks
+SilverFuture bets 1
+JeanClaude calls 1
+** River ** [As]
+JeanClaude checks
+SilverFuture bets 1.65 (All-in)
+JeanClaude calls 1.65
+** Pot Show Down ** [7d Td Ts 2d As]
+JeanClaude shows [Qs Qd] (Two Pair, Queens and Tens +A)
+SilverFuture shows [Tc Ac] (a Full House, Tens full of Aces)
+SilverFuture wins Pot (8.19) with a Full House
+Rake (0.21)
+
+
+
+Hand #17203209-454 - 2014-01-26 13:57:12
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (1.21)
+Seat 2: geniusturtle (17.09)
+Seat 3: shabutie (9.90)
+Seat 4: sevenk (2.63)
+Seat 5: Slacker27 (8.22)
+Seat 6: SilverFuture (8.19)
+JeanClaude has the dealer button
+geniusturtle posts small blind 0.05
+shabutie posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s Jc]
+sevenk folds
+Slacker27 folds
+SilverFuture folds
+JeanClaude raises to 0.40
+geniusturtle folds
+shabutie calls 0.30
+** Flop ** [Js 6c Td]
+shabutie checks
+JeanClaude bets 0.81 (All-in)
+shabutie folds
+JeanClaude refunded 0.81
+JeanClaude wins Pot (0.83)
+Rake (0.02)
+
+
+
+Hand #17203243-455 - 2014-01-26 13:58:04
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (1.64)
+Seat 2: geniusturtle (17.04)
+Seat 3: shabutie (9.50)
+Seat 4: sevenk (2.63)
+Seat 5: Slacker27 (8.22)
+Seat 6: SilverFuture (8.19)
+geniusturtle has the dealer button
+shabutie posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ad 7d]
+Slacker27 folds
+SilverFuture folds
+JeanClaude folds
+geniusturtle folds
+shabutie calls 0.05
+sevenk raises to 0.30
+shabutie calls 0.20
+** Flop ** [Tc Th Qs]
+shabutie checks
+sevenk bets 0.30
+shabutie folds
+sevenk refunded 0.30
+sevenk wins Pot (0.59)
+Rake (0.01)
+
+
+
+Hand #17203272-456 - 2014-01-26 13:58:47
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (1.64)
+Seat 2: geniusturtle (17.04)
+Seat 3: shabutie (9.20)
+Seat 4: sevenk (2.92)
+Seat 5: Slacker27 (8.22)
+Seat 6: SilverFuture (8.19)
+shabutie has the dealer button
+sevenk posts small blind 0.05
+Slacker27 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5h 4c]
+SilverFuture folds
+JeanClaude folds
+geniusturtle folds
+shabutie folds
+sevenk raises to 0.30
+JeanClaude adds 0.36 chips
+Slacker27 calls 0.20
+** Flop ** [Ad As Kc]
+sevenk bets 0.30
+Slacker27 folds
+sevenk refunded 0.30
+sevenk wins Pot (0.59)
+Rake (0.01)
+JeanClaude adds 8 chips
+
+
+
+Hand #17203294-457 - 2014-01-26 13:59:29
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (10)
+Seat 2: geniusturtle (17.04)
+Seat 3: shabutie (9.20)
+Seat 4: sevenk (3.21)
+Seat 5: Slacker27 (7.92)
+Seat 6: SilverFuture (8.19)
+sevenk has the dealer button
+Slacker27 posts small blind 0.05
+SilverFuture posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7d 4h]
+JeanClaude folds
+geniusturtle folds
+shabutie folds
+sevenk folds
+Slacker27 calls 0.05
+SilverFuture checks
+** Flop ** [3d 2c Kd]
+Slacker27 checks
+SilverFuture checks
+** Turn ** [Ac]
+Slacker27 checks
+SilverFuture checks
+** River ** [Kh]
+Slacker27 bets 0.76
+SilverFuture folds
+Slacker27 refunded 0.76
+Slacker27 wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #17203345-458 - 2014-01-26 14:00:44
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (10)
+Seat 2: geniusturtle (17.04)
+Seat 3: shabutie (9.20)
+Seat 4: sevenk (3.21)
+Seat 5: Slacker27 (8.02)
+Seat 6: SilverFuture (8.09)
+Slacker27 has the dealer button
+SilverFuture posts small blind 0.05
+JeanClaude posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kh Ad]
+geniusturtle folds
+shabutie raises to 0.20
+sevenk raises to 0.40
+Slacker27 folds
+SilverFuture folds
+JeanClaude calls 0.30
+shabutie calls 0.20
+** Flop ** [3c 7s 9d]
+JeanClaude checks
+shabutie checks
+sevenk bets 0.40
+JeanClaude calls 0.40
+shabutie folds
+** Turn ** [Ts]
+JeanClaude bets 0.40
+sevenk calls 0.40
+** River ** [9s]
+JeanClaude checks
+sevenk checks
+** Pot Show Down ** [3c 7s 9d Ts 9s]
+JeanClaude shows [Jh Qd] (a Pair of Nines +QJT)
+sevenk shows [Kh Ad] (a Pair of Nines +AKT)
+sevenk wins Pot (2.78) with a Pair
+Rake (0.07)
+
+
+
+Hand #17203413-459 - 2014-01-26 14:02:23
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (8.80)
+Seat 2: geniusturtle (17.04)
+Seat 3: shabutie (8.80)
+Seat 4: sevenk (4.79)
+Seat 5: Slacker27 (8.02)
+Seat 6: SilverFuture (8.04)
+SilverFuture has the dealer button
+JeanClaude posts small blind 0.05
+geniusturtle posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6d 2c]
+shabutie folds
+sevenk folds
+Slacker27 folds
+SilverFuture calls 0.10
+JeanClaude calls 0.05
+geniusturtle checks
+** Flop ** [Tc 3s As]
+JeanClaude checks
+geniusturtle checks
+SilverFuture checks
+** Turn ** [3c]
+JeanClaude bets 0.30
+geniusturtle calls 0.30
+SilverFuture folds
+** River ** [8h]
+JeanClaude checks
+geniusturtle bets 0.50
+JeanClaude folds
+geniusturtle refunded 0.50
+geniusturtle wins Pot (0.88)
+Rake (0.02)
+
+
+
+Hand #17203474-460 - 2014-01-26 14:03:44
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (8.40)
+Seat 2: geniusturtle (17.52)
+Seat 3: shabutie (8.80)
+Seat 4: sevenk (4.79)
+Seat 5: Slacker27 (8.02)
+Seat 6: SilverFuture (7.94)
+JeanClaude has the dealer button
+geniusturtle posts small blind 0.05
+shabutie posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ad 7s]
+sevenk calls 0.10
+Slacker27 folds
+SilverFuture folds
+JeanClaude folds
+geniusturtle raises to 0.40
+shabutie calls 0.30
+sevenk calls 0.30
+** Flop ** [4c 5d 8h]
+geniusturtle checks
+shabutie bets 0.40
+sevenk calls 0.40
+geniusturtle folds
+** Turn ** [3c]
+shabutie bets 0.80
+sevenk folds
+shabutie refunded 0.80
+shabutie wins Pot (1.95)
+Rake (0.05)
+
+
+
+Hand #17203526-461 - 2014-01-26 14:05:06
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (8.40)
+Seat 2: geniusturtle (17.12)
+Seat 3: shabutie (9.95)
+Seat 4: sevenk (3.99)
+Seat 5: Slacker27 (8.02)
+Seat 6: SilverFuture (7.94)
+geniusturtle has the dealer button
+shabutie posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3h 7h]
+Slacker27 folds
+SilverFuture folds
+JeanClaude folds
+geniusturtle folds
+shabutie folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #17203540-462 - 2014-01-26 14:05:28
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (8.40)
+Seat 2: geniusturtle (17.12)
+Seat 3: shabutie (9.90)
+Seat 4: sevenk (4.04)
+Seat 5: Slacker27 (8.02)
+Seat 6: SilverFuture (7.94)
+shabutie has the dealer button
+sevenk posts small blind 0.05
+Slacker27 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8c 3s]
+SilverFuture folds
+JeanClaude raises to 0.20
+geniusturtle folds
+shabutie folds
+sevenk folds
+Slacker27 folds
+JeanClaude refunded 0.10
+JeanClaude wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #17203573-463 - 2014-01-26 14:06:13
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (8.55)
+Seat 2: geniusturtle (17.12)
+Seat 3: shabutie (9.90)
+Seat 4: sevenk (3.99)
+Seat 5: Slacker27 (7.92)
+Seat 6: remco2412 (10) - waiting for big blind
+sevenk has the dealer button
+Slacker27 posts small blind 0.05
+remco2412 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc 6d]
+JeanClaude folds
+geniusturtle folds
+shabutie folds
+sevenk calls 0.10
+Slacker27 calls 0.05
+remco2412 checks
+** Flop ** [3d Th 9c]
+Slacker27 checks
+remco2412 checks
+sevenk bets 0.20
+Slacker27 folds
+remco2412 folds
+sevenk refunded 0.20
+sevenk wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #17203616-464 - 2014-01-26 14:07:12
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (8.55)
+Seat 2: geniusturtle (17.12)
+Seat 3: shabutie (9.90)
+Seat 4: sevenk (4.19)
+Seat 5: Slacker27 (7.82)
+Seat 6: remco2412 (9.90)
+Slacker27 has the dealer button
+remco2412 posts small blind 0.05
+JeanClaude posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc As]
+geniusturtle has timed out
+geniusturtle folds
+shabutie folds
+sevenk raises to 0.30
+Slacker27 folds
+remco2412 calls 0.25
+JeanClaude folds
+** Flop ** [Kc 4d Js]
+remco2412 checks
+sevenk bets 0.30
+remco2412 folds
+sevenk refunded 0.30
+sevenk wins Pot (0.69)
+Rake (0.01)
+
+
+
+Hand #17203665-465 - 2014-01-26 14:08:29
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (8.45)
+Seat 2: geniusturtle (17.12) - sitting out
+Seat 3: shabutie (9.90)
+Seat 4: sevenk (4.58)
+Seat 5: Slacker27 (7.82)
+Seat 6: remco2412 (9.60)
+remco2412 has the dealer button
+JeanClaude posts small blind 0.05
+shabutie posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ad 3c]
+sevenk calls 0.10
+Slacker27 folds
+remco2412 folds
+JeanClaude calls 0.05
+shabutie checks
+** Flop ** [5d Jd 9s]
+JeanClaude bets 0.30
+shabutie folds
+sevenk folds
+JeanClaude refunded 0.30
+JeanClaude wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #17203702-466 - 2014-01-26 14:09:12
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (8.65)
+Seat 3: shabutie (9.80)
+Seat 4: sevenk (4.48)
+Seat 5: Slacker27 (7.82)
+Seat 6: remco2412 (9.60)
+JeanClaude has the dealer button
+shabutie posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Js 8c]
+Slacker27 calls 0.10
+remco2412 folds
+JeanClaude raises to 0.30
+shabutie folds
+sevenk calls 0.20
+Slacker27 calls 0.20
+** Flop ** [Jc Ks 9d]
+sevenk checks
+Slacker27 checks
+JeanClaude bets 0.70
+sevenk folds
+Slacker27 folds
+JeanClaude refunded 0.70
+JeanClaude wins Pot (0.93)
+Rake (0.02)
+
+
+
+Hand #17203769-467 - 2014-01-26 14:10:38
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (9.28)
+Seat 2: raynor83 (2)
+Seat 3: shabutie (9.75)
+Seat 4: sevenk (4.18)
+Seat 5: Slacker27 (7.52)
+Seat 6: remco2412 (9.60)
+shabutie has the dealer button
+sevenk posts small blind 0.05
+Slacker27 posts big blind 0.10
+raynor83 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4h Jc]
+remco2412 folds
+JeanClaude raises to 0.20
+raynor83 folds
+shabutie folds
+sevenk folds
+Slacker27 calls 0.10
+** Flop ** [6d 3d 9c]
+Slacker27 checks
+JeanClaude bets 0.40
+Slacker27 folds
+JeanClaude refunded 0.40
+JeanClaude wins Pot (0.54)
+Rake (0.01)
+
+
+
+Hand #17203811-468 - 2014-01-26 14:11:36
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (9.62)
+Seat 2: raynor83 (1.90)
+Seat 3: shabutie (9.75)
+Seat 4: sevenk (4.13)
+Seat 5: Slacker27 (7.32)
+Seat 6: remco2412 (9.60)
+sevenk has the dealer button
+Slacker27 posts small blind 0.05
+remco2412 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qc 3c]
+JeanClaude folds
+raynor83 folds
+shabutie calls 0.10
+sevenk calls 0.10
+Slacker27 folds
+remco2412 checks
+** Flop ** [As 2d 5s]
+remco2412 checks
+shabutie checks
+sevenk bets 0.20
+remco2412 folds
+shabutie folds
+sevenk refunded 0.20
+sevenk wins Pot (0.35)
+Rake (0)
+
+
+
+Hand #17203847-469 - 2014-01-26 14:12:19
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (9.62)
+Seat 2: raynor83 (1.90)
+Seat 3: shabutie (9.65)
+Seat 4: sevenk (4.38)
+Seat 5: Slacker27 (7.27)
+Seat 6: remco2412 (9.50)
+Slacker27 has the dealer button
+remco2412 posts small blind 0.05
+JeanClaude posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3h 8h]
+raynor83 folds
+shabutie calls 0.10
+sevenk folds
+Slacker27 folds
+remco2412 calls 0.05
+JeanClaude raises to 0.60
+shabutie folds
+remco2412 folds
+JeanClaude refunded 0.50
+JeanClaude wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #17203889-470 - 2014-01-26 14:13:05
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (9.82)
+Seat 2: raynor83 (1.90)
+Seat 3: shabutie (9.55)
+Seat 4: sevenk (4.38) - sitting out
+Seat 5: Slacker27 (7.27)
+Seat 6: remco2412 (9.40)
+remco2412 has the dealer button
+JeanClaude posts small blind 0.05
+raynor83 posts big blind 0.10
+** Hole Cards **
+shabutie folds
+Slacker27 folds
+remco2412 folds
+JeanClaude raises to 0.30
+raynor83 folds
+JeanClaude refunded 0.20
+JeanClaude wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #17203908-471 - 2014-01-26 14:13:29
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (9.92)
+Seat 2: raynor83 (1.80)
+Seat 3: shabutie (9.55)
+Seat 4: sevenk (4.38) - sitting out
+Seat 5: Slacker27 (7.27)
+Seat 6: remco2412 (9.40)
+JeanClaude has the dealer button
+raynor83 posts small blind 0.05
+shabutie posts big blind 0.10
+** Hole Cards **
+Slacker27 folds
+remco2412 raises to 0.30
+JeanClaude folds
+raynor83 folds
+shabutie calls 0.20
+** Flop ** [Jc 9h 3s]
+shabutie checks
+remco2412 bets 0.50
+shabutie calls 0.50
+** Turn ** [2s]
+shabutie checks
+remco2412 bets 1.10
+shabutie folds
+remco2412 refunded 1.10
+remco2412 wins Pot (1.61)
+Rake (0.04)
+
+
+
+Hand #17203942-472 - 2014-01-26 14:14:11
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (9.92)
+Seat 2: raynor83 (1.75)
+Seat 3: shabutie (8.75)
+Seat 4: sevenk (4.38) - sitting out
+Seat 5: Slacker27 (7.27)
+Seat 6: remco2412 (10.21)
+raynor83 has the dealer button
+shabutie posts small blind 0.05
+Slacker27 posts big blind 0.10
+** Hole Cards **
+remco2412 folds
+JeanClaude folds
+raynor83 calls 0.10
+shabutie calls 0.05
+Slacker27 checks
+** Flop ** [9h Qs Qd]
+shabutie checks
+Slacker27 checks
+raynor83 bets 0.20
+shabutie folds
+Slacker27 folds
+raynor83 refunded 0.20
+raynor83 wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #17203998-473 - 2014-01-26 14:15:09
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (9.92)
+Seat 2: raynor83 (1.95)
+Seat 3: shabutie (8.65)
+Seat 4: sevenk (4.38)
+Seat 5: Slacker27 (7.17)
+Seat 6: remco2412 (10.21)
+shabutie has the dealer button
+Slacker27 posts small blind 0.05
+remco2412 posts big blind 0.10
+** Hole Cards **
+JeanClaude folds
+raynor83 folds
+shabutie folds
+Slacker27 calls 0.05
+remco2412 checks
+** Flop ** [Kd 5h Qc]
+Slacker27 checks
+remco2412 bets 0.10
+Slacker27 calls 0.10
+** Turn ** [Ah]
+Slacker27 checks
+remco2412 checks
+** River ** [9h]
+Slacker27 bets 0.51
+remco2412 raises to 3.33
+Slacker27 folds
+remco2412 refunded 2.82
+remco2412 wins Pot (1.39)
+Rake (0.03)
+
+
+
+Hand #17204075-474 - 2014-01-26 14:16:42
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (9.92)
+Seat 2: raynor83 (1.95)
+Seat 3: shabutie (8.65)
+Seat 4: sevenk (4.38)
+Seat 5: Slacker27 (6.46)
+Seat 6: remco2412 (10.89)
+Slacker27 has the dealer button
+remco2412 posts small blind 0.05
+JeanClaude posts big blind 0.10
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5h 3s]
+raynor83 folds
+shabutie folds
+sevenk checks
+Slacker27 calls 0.10
+remco2412 calls 0.05
+JeanClaude checks
+** Flop ** [Tc 6c 2d]
+remco2412 checks
+JeanClaude bets 0.30
+sevenk folds
+Slacker27 folds
+remco2412 calls 0.30
+** Turn ** [Qd]
+remco2412 checks
+JeanClaude bets 0.60
+remco2412 folds
+JeanClaude refunded 0.60
+JeanClaude wins Pot (0.98)
+Rake (0.02)
+
+
+
+Hand #17204112-475 - 2014-01-26 14:17:40
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (10.50)
+Seat 2: raynor83 (1.95)
+Seat 3: shabutie (8.65)
+Seat 4: sevenk (4.28)
+Seat 5: Slacker27 (6.36)
+Seat 6: remco2412 (10.49)
+remco2412 has the dealer button
+JeanClaude posts small blind 0.05
+raynor83 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2h 9h]
+shabutie folds
+sevenk folds
+Slacker27 folds
+remco2412 raises to 0.20
+JeanClaude folds
+raynor83 folds
+remco2412 refunded 0.10
+remco2412 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #17204134-476 - 2014-01-26 14:18:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (10.45)
+Seat 2: raynor83 (1.85)
+Seat 3: shabutie (8.65)
+Seat 4: sevenk (4.28)
+Seat 5: Slacker27 (6.36)
+Seat 6: remco2412 (10.64)
+JeanClaude has the dealer button
+raynor83 posts small blind 0.05
+shabutie posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3c Ah]
+sevenk calls 0.10
+Slacker27 folds
+remco2412 folds
+JeanClaude calls 0.10
+raynor83 folds
+shabutie checks
+** Flop ** [8h 3s Tc]
+shabutie checks
+sevenk bets 0.20
+JeanClaude raises to 0.40
+shabutie folds
+sevenk calls 0.20
+** Turn ** [Qh]
+sevenk checks
+JeanClaude bets 0.80
+sevenk folds
+JeanClaude refunded 0.80
+JeanClaude wins Pot (1.13)
+Rake (0.02)
+
+
+
+Hand #17204180-477 - 2014-01-26 14:19:08
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (11.08)
+Seat 2: raynor83 (1.80)
+Seat 3: shabutie (8.55)
+Seat 4: sevenk (3.78)
+Seat 5: Slacker27 (6.36)
+Seat 6: remco2412 (10.64)
+raynor83 has the dealer button
+shabutie posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ts 4c]
+Slacker27 folds
+remco2412 raises to 0.20
+JeanClaude folds
+raynor83 folds
+shabutie calls 0.15
+sevenk calls 0.10
+** Flop ** [5d Kd Ah]
+shabutie checks
+sevenk checks
+remco2412 checks
+** Turn ** [Jd]
+shabutie checks
+sevenk checks
+remco2412 bets 0.20
+shabutie calls 0.20
+sevenk calls 0.20
+** River ** [7h]
+shabutie checks
+sevenk checks
+remco2412 bets 1.75
+shabutie folds
+sevenk folds
+remco2412 refunded 1.75
+remco2412 wins Pot (1.17)
+Rake (0.03)
+
+
+
+Hand #17204238-478 - 2014-01-26 14:20:29
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (11.08)
+Seat 2: raynor83 (1.80)
+Seat 3: shabutie (8.15)
+Seat 4: sevenk (3.38)
+Seat 5: Slacker27 (6.36)
+Seat 6: remco2412 (11.41)
+shabutie has the dealer button
+sevenk posts small blind 0.05
+Slacker27 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qc 4c]
+remco2412 folds
+JeanClaude folds
+raynor83 raises to 0.30
+shabutie calls 0.30
+sevenk folds
+Slacker27 folds
+** Flop ** [Kh Ts Ac]
+raynor83 bets 0.30
+shabutie calls 0.30
+** Turn ** [5s]
+raynor83 bets 0.50
+shabutie calls 0.50
+** River ** [4h]
+raynor83 bets 0.70 (All-in)
+shabutie folds
+raynor83 refunded 0.70
+raynor83 wins Pot (2.30)
+Rake (0.05)
+
+
+
+Hand #17204292-479 - 2014-01-26 14:21:38
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (11.08)
+Seat 2: raynor83 (3)
+Seat 3: shabutie (7.05)
+Seat 4: sevenk (3.33)
+Seat 5: Slacker27 (6.26)
+Seat 6: remco2412 (11.41)
+sevenk has the dealer button
+Slacker27 posts small blind 0.05
+remco2412 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8h 8c]
+JeanClaude folds
+raynor83 raises to 0.30
+shabutie folds
+sevenk raises to 0.60
+Slacker27 folds
+remco2412 folds
+raynor83 calls 0.30
+** Flop ** [3c 7c 6c]
+raynor83 checks
+sevenk bets 0.40
+raynor83 folds
+sevenk refunded 0.40
+sevenk wins Pot (1.32)
+Rake (0.03)
+
+
+
+Hand #17204324-480 - 2014-01-26 14:22:22
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (11.08)
+Seat 2: raynor83 (2.40)
+Seat 4: sevenk (4.05)
+Seat 5: Slacker27 (6.21)
+Seat 6: remco2412 (11.31)
+Slacker27 has the dealer button
+remco2412 posts small blind 0.05
+JeanClaude posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc Qs]
+raynor83 folds
+sevenk calls 0.10
+Slacker27 folds
+remco2412 folds
+JeanClaude checks
+** Flop ** [Ac Qc Kh]
+JeanClaude checks
+sevenk bets 0.10
+JeanClaude calls 0.10
+** Turn ** [As]
+JeanClaude checks
+sevenk bets 0.30
+JeanClaude calls 0.30
+** River ** [6s]
+JeanClaude bets 2.20
+sevenk has timed out
+sevenk folds
+JeanClaude refunded 2.20
+JeanClaude wins Pot (1.03)
+Rake (0.02)
+
+
+
+Hand #17204387-481 - 2014-01-26 14:23:39
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (11.61)
+Seat 2: raynor83 (2.40)
+Seat 3: davecards (10) - waiting for big blind
+Seat 4: sevenk (3.55) - sitting out
+Seat 5: Slacker27 (6.21)
+Seat 6: remco2412 (11.26)
+remco2412 has the dealer button
+JeanClaude posts small blind 0.05
+raynor83 posts big blind 0.10
+** Hole Cards **
+Slacker27 folds
+remco2412 folds
+JeanClaude raises to 0.20
+raynor83 calls 0.10
+** Flop ** [5d 6d Ac]
+JeanClaude bets 0.30
+raynor83 folds
+JeanClaude refunded 0.30
+JeanClaude wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #17204415-482 - 2014-01-26 14:24:12
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (11.80)
+Seat 2: raynor83 (2.20)
+Seat 3: davecards (10) - waiting for big blind
+Seat 4: sevenk (3.55)
+Seat 5: Slacker27 (6.21)
+Seat 6: remco2412 (11.26)
+JeanClaude has the dealer button
+raynor83 posts small blind 0.05
+davecards posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [As 8h]
+sevenk raises to 0.30
+Slacker27 folds
+remco2412 folds
+JeanClaude folds
+raynor83 folds
+davecards folds
+sevenk refunded 0.20
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #17204441-483 - 2014-01-26 14:24:47
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (11.80)
+Seat 2: raynor83 (2.15)
+Seat 3: davecards (9.90)
+Seat 4: sevenk (3.70)
+Seat 5: Slacker27 (6.21)
+Seat 6: remco2412 (11.26)
+raynor83 has the dealer button
+davecards posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ah 9s]
+Slacker27 folds
+remco2412 folds
+JeanClaude folds
+raynor83 folds
+davecards raises to 0.30
+sevenk calls 0.20
+** Flop ** [6d 4h 2c]
+davecards bets 0.40
+sevenk folds
+davecards refunded 0.40
+davecards wins Pot (0.59)
+Rake (0.01)
+
+
+
+Hand #17204485-484 - 2014-01-26 14:25:40
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: JeanClaude (11.80)
+Seat 2: raynor83 (2.15)
+Seat 3: davecards (10.19)
+Seat 4: sevenk (3.40)
+Seat 5: Slacker27 (6.21)
+Seat 6: remco2412 (11.26)
+davecards has the dealer button
+sevenk posts small blind 0.05
+Slacker27 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Th Ad]
+remco2412 folds
+JeanClaude raises to 0.30
+raynor83 folds
+davecards raises to 1
+sevenk calls 0.95
+Slacker27 folds
+JeanClaude folds
+** Flop ** [4d Qd 3d]
+sevenk bets 0.50
+davecards calls 0.50
+** Turn ** [7s]
+sevenk bets 0.50
+davecards calls 0.50
+** River ** [Kd]
+sevenk bets 1.40 (All-in)
+davecards calls 1.40
+** Pot Show Down ** [4d Qd 3d 7s Kd]
+davecards shows [5d 7h] (a Flush, King high +Q543)
+sevenk shows [Th Ad] (a Flush, Ace high +KQ43)
+sevenk wins Pot (7.02) with a Flush
+Rake (0.18)
