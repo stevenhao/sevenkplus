@@ -17,9 +17,6 @@ public class Parser {
   private static final File logsDir = new File("../logs");
   private static DSLContext db;
 
-  // Identifier for indication of a player. Username follows immediately after this string
-  private static final String PLAYER_STRING = "Seat #: ";
-
   private static DSLContext getDatabaseContext() throws SQLException {
     // TODO: move these to config file
     String userName = "root";
@@ -32,6 +29,31 @@ public class Parser {
     return DSL.using(conn, SQLDialect.MYSQL);
   }
 
+  private static void parseFile(BufferedReader in) throws IOException {
+    String nextLine = in.readLine();
+    while (nextLine != null) {
+      String[] tokens = nextLine.split("\\s+");
+
+      if ("Hand".equals(tokens[0])) {
+        // Starting a new hand
+
+        System.out.println("Reading hand " + tokens[1]);
+      } else if ("Seat".equals(tokens[0])) {
+        // Info on a player at the table
+
+        String player = tokens[2]; // Format: "Seat #: (username)"
+
+        if (db.select().from(Player.PLAYER).where(Player.PLAYER.NAME.equal(player)).fetch()
+            .isEmpty()) {
+          db.insertInto(Player.PLAYER, Player.PLAYER.NAME).values(player).execute();
+          System.out.println("Added new player: " + player);
+        }
+      }
+
+      nextLine = in.readLine();
+    }
+  }
+
   public static void main(String[] args) throws IOException, SQLException {
     System.out.println(logsDir.getName());
     db = getDatabaseContext();
@@ -40,29 +62,13 @@ public class Parser {
     for (File file : listOfFiles) {
       if (file.isFile()) {
         System.out.println("Parsing " + file.getName());
+
         BufferedReader in = new BufferedReader(new FileReader(file));
-
-        String nextLine = in.readLine();
-        while (nextLine != null) {
-          if (nextLine.startsWith(PLAYER_STRING)) {
-            String player = "";
-            int cloc = PLAYER_STRING.length();
-            while (nextLine.charAt(cloc) != ' ') {
-              player += nextLine.charAt(cloc);
-              cloc++;
-            }
-
-            if (db.select().from(Player.PLAYER).where(Player.PLAYER.NAME.equal(player)).fetch()
-                .isEmpty()) {
-              db.insertInto(Player.PLAYER, Player.PLAYER.NAME).values(player).execute();
-              System.out.println("Added new player: " + player);
-            }
-          }
-
-          nextLine = in.readLine();
+        try {
+          parseFile(in);
+        } finally {
+          in.close();
         }
-
-        in.close();
       }
     }
   }
