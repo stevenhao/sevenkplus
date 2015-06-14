@@ -22,6 +22,7 @@ public class Server {
   private ServerSocket serverSocket;
   private PrintWriter out;
   private BufferedReader in;
+  private DSLContext db;
 
   public Server(int port) {
     this.port = port;
@@ -36,13 +37,15 @@ public class Server {
     // Connection is the only JDBC resource that we need
     // PreparedStatement and ResultSet are handled by jOOQ, internally
     try (Connection conn = DriverManager.getConnection(url, userName, password)) {
-      DSLContext create = DSL.using(conn, SQLDialect.MYSQL);
-      Result<Record> result = create.select().from(Player.PLAYER).fetch();
+      db = DSL.using(conn, SQLDialect.MYSQL);
+      Result<Record> result = db.select().from(Player.PLAYER).fetch();
       for (Record r : result) {
         Integer id = r.getValue(Player.PLAYER.ID);
         String name = r.getValue(Player.PLAYER.NAME);
         System.out.println("ID: " + id + " title: " + name);
       }
+
+      System.out.println("Connected to database.");
     } catch (Exception e) {
       e.printStackTrace();
     }
@@ -59,16 +62,17 @@ public class Server {
     }
     out.println("Sup Client.");
     out.flush();
+    System.out.println("Connected to client.");
   }
 
   public static void main(String[] args) {
     int portNumber = args.length >= 1 ? Integer.parseInt(args[0]) : 5000;
     System.out.println("Serving at port " + portNumber);
+
     Server server = new Server(portNumber);
     System.out.println("Server started.");
+
     server.connectToDB();
-    System.out.println("Connected to database.");
     server.connectToClient();
-    System.out.println("Connected to client.");
   }
 }

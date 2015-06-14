@@ -18,10 +18,14 @@ import org.jooq.generated.tables.Player;
 import org.jooq.impl.DSL;
 
 public class Parser {
-  private static final File logsDir = new File("../logs");
-  private static DSLContext db;
+  private final File logsDir;
+  private DSLContext db;
 
-  private static DSLContext getDatabaseContext() throws SQLException {
+  public Parser(File logsDir) {
+    this.logsDir = logsDir;
+  }
+
+  private DSLContext getDatabaseContext() throws SQLException {
     // TODO: move these to config file
     String userName = "root";
     String password = "";
@@ -33,7 +37,7 @@ public class Parser {
     return DSL.using(conn, SQLDialect.MYSQL);
   }
 
-  private static Integer getOrInsertHand(String handTag) {
+  private Integer getOrInsertHand(String handTag) {
     Result<Record1<Integer>> handIds =
         db.select(Hand.HAND.ID).from(Hand.HAND).where(Hand.HAND.TAG.equal(handTag)).fetch();
     if (handIds.isEmpty()) {
@@ -49,7 +53,7 @@ public class Parser {
     return handIds.get(0).value1();
   }
 
-  private static Integer getPlayer(String playerName) {
+  private Integer getPlayer(String playerName) {
     Result<Record1<Integer>> playerIds = db.select(Player.PLAYER.ID).from(Player.PLAYER).where(
         Player.PLAYER.NAME.equal(playerName)).fetch();
 
@@ -63,7 +67,7 @@ public class Parser {
     return playerIds.get(0).value1();
   }
 
-  private static Integer getOrInsertPlayer(String playerName) {
+  private Integer getOrInsertPlayer(String playerName) {
     if (getPlayer(playerName) == null) {
       db.insertInto(Player.PLAYER, Player.PLAYER.NAME).values(playerName).execute();
       System.out.println("Added new player: " + playerName);
@@ -72,7 +76,7 @@ public class Parser {
     return getPlayer(playerName);
   }
 
-  private static void addToHand(int playerId, int handId) {
+  private void addToHand(int playerId, int handId) {
     if (!db.select().from(Play.PLAY).where(Play.PLAY.PLAYERID.equal(playerId))
         .and(Play.PLAY.HANDID.equal(handId)).fetch().isEmpty()) {
       return;
@@ -82,17 +86,17 @@ public class Parser {
         .execute();
   }
 
-  private static void updateVPIP(int playerId, int handId) {
+  private void updateVPIP(int playerId, int handId) {
     db.update(Play.PLAY).set(Play.PLAY.VPIP, (byte) 1).where(Play.PLAY.PLAYERID.equal(playerId)
         .and(Play.PLAY.HANDID.equal(handId))).execute();
   }
 
-  private static void updatePFR(int playerId, int handId) {
+  private void updatePFR(int playerId, int handId) {
     db.update(Play.PLAY).set(Play.PLAY.PFR, (byte) 1).where(Play.PLAY.PLAYERID.equal(playerId)
         .and(Play.PLAY.HANDID.equal(handId))).execute();
   }
 
-  private static void parseFile(BufferedReader in) throws IOException {
+  private void parseFile(BufferedReader in) throws IOException {
     String nextLine = in.readLine();
     String currentStreet = ""; // hole (PF), flop, turn, river, main/side/pot (showdown)
     Integer currentHand = null;
@@ -176,14 +180,19 @@ public class Parser {
     }
   }
 
-  public static void main(String[] args) throws IOException, SQLException {
-    System.out.println(logsDir.getName());
-    db = getDatabaseContext();
+  public void run() throws IOException {
+    System.out.println("Searching in " + logsDir.getPath());
+    try {
+      db = getDatabaseContext();
+    } catch (SQLException e) {
+      e.printStackTrace();
+      return;
+    }
 
     File[] listOfFiles = logsDir.listFiles();
     for (File file : listOfFiles) {
       if (file.isFile()) {
-        System.out.println("Parsing " + file.getName());
+        System.out.println("Parsing file " + file.getName());
 
         BufferedReader in = new BufferedReader(new FileReader(file));
         try {
@@ -192,6 +201,15 @@ public class Parser {
           in.close();
         }
       }
+    }
+  }
+
+  public static void main(String[] args) {
+    Parser parser = new Parser(new File("../logs"));
+    try {
+      parser.run();
+    } catch (Exception e) {
+      e.printStackTrace();
     }
   }
 }

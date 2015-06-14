@@ -37,5 +37,8 @@ public class Client {
   public static void main(String[] args) {
     int portNumber = args.length >= 1 ? Integer.parseInt(args[0]) : 5000;
     String hostName = "localhost";
+
+    Client client = new Client(hostName, portNumber);
+    client.connectToServer();
   }
 }
