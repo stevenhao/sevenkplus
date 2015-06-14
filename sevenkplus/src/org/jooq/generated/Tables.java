@@ -7,6 +7,7 @@ package org.jooq.generated;
 import javax.annotation.Generated;
 
 import org.jooq.generated.tables.Hand;
+import org.jooq.generated.tables.Play;
 import org.jooq.generated.tables.Player;
 
 
@@ -27,6 +28,11 @@ public class Tables {
 	 * The table sevenkplus.hand
 	 */
 	public static final Hand HAND = org.jooq.generated.tables.Hand.HAND;
+
+	/**
+	 * The table sevenkplus.play
+	 */
+	public static final Play PLAY = org.jooq.generated.tables.Play.PLAY;
 
 	/**
 	 * The table sevenkplus.player

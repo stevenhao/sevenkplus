@@ -12,6 +12,7 @@ import javax.annotation.Generated;
 
 import org.jooq.Table;
 import org.jooq.generated.tables.Hand;
+import org.jooq.generated.tables.Play;
 import org.jooq.generated.tables.Player;
 import org.jooq.impl.SchemaImpl;
 
@@ -29,7 +30,7 @@ import org.jooq.impl.SchemaImpl;
 @SuppressWarnings({ "all", "unchecked", "rawtypes" })
 public class Sevenkplus extends SchemaImpl {
 
-	private static final long serialVersionUID = 1729025018;
+	private static final long serialVersionUID = -2073730064;
 
 	/**
 	 * The reference instance of <code>sevenkplus</code>
@@ -53,6 +54,7 @@ public class Sevenkplus extends SchemaImpl {
 	private final List<Table<?>> getTables0() {
 		return Arrays.<Table<?>>asList(
 			Hand.HAND,
+			Play.PLAY,
 			Player.PLAYER);
 	}
 }
