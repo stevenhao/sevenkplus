@@ -9,7 +9,10 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 import org.jooq.DSLContext;
+import org.jooq.Record1;
+import org.jooq.Result;
 import org.jooq.SQLDialect;
+import org.jooq.generated.tables.Hand;
 import org.jooq.generated.tables.Player;
 import org.jooq.impl.DSL;
 
@@ -29,25 +32,59 @@ public class Parser {
     return DSL.using(conn, SQLDialect.MYSQL);
   }
 
+  private static int getOrInsertHand(String handTag) {
+    Result<Record1<Integer>> handIds =
+        db.select(Hand.HAND.ID).from(Hand.HAND).where(Hand.HAND.TAG.equal(handTag)).fetch();
+    if (handIds.isEmpty()) {
+      db.insertInto(Hand.HAND, Hand.HAND.TAG).values(handTag).execute();
+      System.out.println("Added new hand: " + handTag);
+      handIds = db.select(Hand.HAND.ID).from(Hand.HAND).where(Hand.HAND.TAG.equal(handTag)).fetch();
+    }
+
+    if (handIds.size() > 1) {
+      throw new IllegalArgumentException("More than one ID found for hand tag!");
+    }
+
+    return handIds.get(0).value1();
+  }
+
+  private static int getOrInsertPlayer(String playerName) {
+    Result<Record1<Integer>> playerIds = db.select(Player.PLAYER.ID).from(Player.PLAYER).where(
+        Player.PLAYER.NAME.equal(playerName)).fetch();
+    if (playerIds.isEmpty()) {
+      db.insertInto(Player.PLAYER, Player.PLAYER.NAME).values(playerName).execute();
+      System.out.println("Added new player: " + playerName);
+      playerIds = db.select(Player.PLAYER.ID).from(Player.PLAYER).where(
+          Player.PLAYER.NAME.equal(playerName)).fetch();
+    }
+
+    if (playerIds.size() > 1) {
+      throw new IllegalArgumentException("More than one ID found for player name!");
+    }
+
+    return playerIds.get(0).value1();
+  }
+
   private static void parseFile(BufferedReader in) throws IOException {
     String nextLine = in.readLine();
+    int currentHand = -1;
+
     while (nextLine != null) {
       String[] tokens = nextLine.split("\\s+");
 
       if ("Hand".equals(tokens[0])) {
         // Starting a new hand
 
-        System.out.println("Reading hand " + tokens[1]);
+        String hand = tokens[1];
+        currentHand = getOrInsertHand(hand);
       } else if ("Seat".equals(tokens[0])) {
         // Info on a player at the table
 
-        String player = tokens[2]; // Format: "Seat #: (username)"
-
-        if (db.select().from(Player.PLAYER).where(Player.PLAYER.NAME.equal(player)).fetch()
-            .isEmpty()) {
-          db.insertInto(Player.PLAYER, Player.PLAYER.NAME).values(player).execute();
-          System.out.println("Added new player: " + player);
+        if (currentHand == -1) {
+          throw new IllegalArgumentException("No hand tag found before player mentioned!");
         }
+        String player = tokens[2]; // Format: "Seat #: (username)"
+        getOrInsertPlayer(player);
       }
 
       nextLine = in.readLine();
