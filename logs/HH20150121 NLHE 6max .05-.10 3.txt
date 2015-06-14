@@ -1,0 +1,795 @@
+Hand #38852457-504 - 2015-01-22 03:17:06
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: rodanman (3.59)
+Seat 2: Redskies2 (5.02)
+Seat 3: stenotopic (8.49)
+Seat 4: Jollybug (2.99)
+Seat 5: Turtleboy117 (6.99)
+Seat 6: sevenk (10) - waiting for big blind
+Jollybug has the dealer button
+Turtleboy117 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Js Ks]
+rodanman calls 0.10
+Redskies2 folds
+stenotopic calls 0.10
+Jollybug calls 0.10
+Turtleboy117 folds
+sevenk checks
+** Flop ** [5s 9h 8c]
+sevenk checks
+rodanman checks
+stenotopic checks
+Jollybug checks
+** Turn ** [6h]
+sevenk checks
+rodanman bets 0.30
+stenotopic folds
+Jollybug raises to 0.60
+sevenk folds
+rodanman calls 0.30
+** River ** [2h]
+rodanman checks
+Jollybug checks
+** Pot Show Down ** [5s 9h 8c 6h 2h]
+rodanman shows [8s Qs] (a Pair of Eights +Q96)
+Jollybug shows [7d Kc] (a Straight, Five to Nine)
+Jollybug wins Pot (1.61) with a Straight
+Rake (0.04)
+
+
+
+Hand #38852518-505 - 2015-01-22 03:18:35
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: rodanman (2.89)
+Seat 2: Redskies2 (5.02)
+Seat 3: stenotopic (8.39)
+Seat 4: Jollybug (3.90)
+Seat 5: Turtleboy117 (6.94)
+Seat 6: sevenk (9.90)
+Turtleboy117 has the dealer button
+sevenk posts small blind 0.05
+rodanman posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7d 6s]
+Redskies2 calls 0.10
+stenotopic folds
+Jollybug folds
+Turtleboy117 folds
+sevenk calls 0.05
+rodanman raises to 0.20
+Redskies2 calls 0.10
+sevenk calls 0.10
+** Flop ** [6d Jd 8d]
+sevenk checks
+rodanman checks
+Redskies2 checks
+** Turn ** [Qd]
+sevenk checks
+rodanman folds
+Redskies2 bets 0.30
+sevenk calls 0.30
+** River ** [2h]
+sevenk checks
+Redskies2 bets 0.30
+sevenk calls 0.30
+** Pot Show Down ** [6d Jd 8d Qd 2h]
+Redskies2 shows [Ad 8h] (a Flush, Ace high +QJ86)
+sevenk shows [7d 6s] (a Flush, Queen high +J876)
+Redskies2 wins Pot (1.76) with a Flush
+Rake (0.04)
+
+
+
+Hand #38852568-506 - 2015-01-22 03:19:58
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: rodanman (2.69)
+Seat 2: Redskies2 (5.98)
+Seat 3: stenotopic (8.39)
+Seat 4: Jollybug (3.90)
+Seat 5: Turtleboy117 (6.94)
+Seat 6: sevenk (9.10)
+sevenk has the dealer button
+rodanman posts small blind 0.05
+Redskies2 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qh 2h]
+stenotopic calls 0.10
+Jollybug folds
+Turtleboy117 raises to 0.20
+sevenk folds
+rodanman calls 0.15
+Redskies2 folds
+stenotopic calls 0.10
+** Flop ** [Ks 6s 5d]
+rodanman checks
+stenotopic bets 0.40
+Turtleboy117 folds
+rodanman calls 0.40
+** Turn ** [2c]
+rodanman checks
+stenotopic bets 1.20
+rodanman raises to 2.09 (All-in)
+stenotopic calls 0.89
+** River ** [2d]
+** Pot Show Down ** [Ks 6s 5d 2c 2d]
+rodanman shows [Kc 6d] (Two Pair, Kings and Sixes +5)
+stenotopic shows [Kh 8c] (Two Pair, Kings and Deuces +8)
+rodanman wins Pot (5.54) with Two Pair
+Rake (0.14)
+
+
+
+Hand #38852605-507 - 2015-01-22 03:21:09
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: rodanman (5.54)
+Seat 2: Redskies2 (5.88)
+Seat 3: stenotopic (5.70)
+Seat 4: Jollybug (3.90)
+Seat 5: Turtleboy117 (6.74)
+Seat 6: sevenk (9.10)
+rodanman has the dealer button
+Redskies2 posts small blind 0.05
+stenotopic posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jh 5d]
+Jollybug folds
+Turtleboy117 folds
+sevenk folds
+rodanman folds
+Redskies2 folds
+stenotopic refunded 0.05
+stenotopic wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38852616-508 - 2015-01-22 03:21:24
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: rodanman (5.54)
+Seat 2: Redskies2 (5.83)
+Seat 3: stenotopic (5.75)
+Seat 4: Jollybug (3.90)
+Seat 5: Turtleboy117 (6.74)
+Seat 6: sevenk (9.10)
+Redskies2 has the dealer button
+stenotopic posts small blind 0.05
+Jollybug posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4c Ks]
+Turtleboy117 folds
+sevenk folds
+rodanman has timed out
+rodanman folds
+Redskies2 raises to 0.20
+stenotopic calls 0.15
+Jollybug folds
+** Flop ** [3h 4h Jd]
+stenotopic checks
+Redskies2 bets 0.30
+stenotopic folds
+Redskies2 refunded 0.30
+Redskies2 wins Pot (0.49)
+Rake (0.01)
+
+
+
+Hand #38852664-509 - 2015-01-22 03:22:42
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: rodanman (5.54) - sitting out
+Seat 2: Redskies2 (6.12)
+Seat 3: stenotopic (5.55)
+Seat 4: Jollybug (3.80)
+Seat 5: Turtleboy117 (6.74)
+Seat 6: sevenk (9.10)
+stenotopic has the dealer button
+Jollybug posts small blind 0.05
+Turtleboy117 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9s 2c]
+sevenk folds
+Redskies2 folds
+stenotopic calls 0.10
+Jollybug calls 0.05
+Turtleboy117 raises to 0.50
+stenotopic folds
+Jollybug folds
+Turtleboy117 refunded 0.40
+Turtleboy117 wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #38852682-510 - 2015-01-22 03:23:20
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: rodanman (5.54)
+Seat 2: Redskies2 (6.12)
+Seat 3: stenotopic (5.45)
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (6.94)
+Seat 6: sevenk (9.10)
+Turtleboy117 has the dealer button
+sevenk posts small blind 0.05
+rodanman posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jc Tc]
+Redskies2 calls 0.10
+stenotopic folds
+Turtleboy117 raises to 0.20
+sevenk calls 0.15
+rodanman calls 0.10
+Redskies2 calls 0.10
+** Flop ** [3s 6s 6c]
+sevenk checks
+rodanman checks
+Redskies2 checks
+Turtleboy117 checks
+** Turn ** [2d]
+sevenk checks
+rodanman checks
+Redskies2 bets 0.30
+Turtleboy117 folds
+sevenk folds
+rodanman folds
+Redskies2 refunded 0.30
+Redskies2 wins Pot (0.78)
+Rake (0.02)
+
+
+
+Hand #38852719-511 - 2015-01-22 03:24:17
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: rodanman (5.34)
+Seat 2: Redskies2 (6.70)
+Seat 3: stenotopic (5.45)
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (6.74)
+Seat 6: sevenk (8.90)
+sevenk has the dealer button
+rodanman posts small blind 0.05
+Redskies2 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3s 5s]
+stenotopic folds
+Turtleboy117 folds
+sevenk raises to 0.25
+rodanman calls 0.20
+Redskies2 calls 0.15
+** Flop ** [4h 9d 6s]
+rodanman checks
+Redskies2 checks
+sevenk bets 0.40
+rodanman folds
+Redskies2 folds
+sevenk refunded 0.40
+sevenk wins Pot (0.74)
+Rake (0.01)
+
+
+
+Hand #38852763-512 - 2015-01-22 03:25:24
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: rodanman (5.09)
+Seat 2: Redskies2 (6.45)
+Seat 3: stenotopic (5.45)
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (6.74)
+Seat 6: sevenk (9.39)
+rodanman has the dealer button
+Redskies2 posts small blind 0.05
+stenotopic posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5c Ad]
+Turtleboy117 raises to 0.20
+sevenk folds
+rodanman calls 0.20
+Redskies2 calls 0.15
+stenotopic raises to 0.30
+Turtleboy117 raises to 0.40
+rodanman raises to 0.50
+Redskies2 folds
+stenotopic calls 0.20
+Turtleboy117 raises to 6.34
+rodanman calls 4.59 (All-in)
+stenotopic calls 4.95 (All-in)
+Turtleboy117 refunded 0.89
+** Flop ** [Kh 7c Th]
+** Turn ** [8d]
+** River ** [4d]
+** Side Pot 1 Show Down ** [Kh 7c Th 8d 4d]
+stenotopic shows [9s 5s] (High Card King +T987)
+Turtleboy117 shows [As Kc] (a Pair of Kings +AT8)
+Turtleboy117 wins Side Pot 1 (0.71) with a Pair
+Rake (0.01)
+** Main Pot Show Down ** [Kh 7c Th 8d 4d]
+rodanman shows [Qh Jh] (High Card King +QJT8)
+Turtleboy117 wins Main Pot (15.09) with a Pair
+Rake (0.38)
+
+
+
+Hand #38852804-513 - 2015-01-22 03:26:50
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: rodanman (0) - sitting out
+Seat 2: Redskies2 (6.25)
+Seat 3: stenotopic (0) - sitting out
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (17.09)
+Seat 6: sevenk (9.39)
+Redskies2 has the dealer button
+Turtleboy117 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4c 6c]
+Redskies2 folds
+Turtleboy117 folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38852810-514 - 2015-01-22 03:27:03
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 2: Redskies2 (6.25)
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (17.04)
+Seat 6: sevenk (9.44)
+Turtleboy117 has the dealer button
+sevenk posts small blind 0.05
+Redskies2 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2s 5s]
+Turtleboy117 folds
+sevenk calls 0.05
+Redskies2 checks
+** Flop ** [Td Ac Qh]
+sevenk bets 0.10
+Redskies2 folds
+sevenk refunded 0.10
+sevenk wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38852820-515 - 2015-01-22 03:27:28
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (4) - waiting for big blind
+Seat 2: Redskies2 (6.15)
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (17.04)
+Seat 6: sevenk (9.54)
+sevenk has the dealer button
+Redskies2 posts small blind 0.05
+Turtleboy117 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4h Js]
+sevenk raises to 0.25
+Redskies2 folds
+Turtleboy117 calls 0.15
+** Flop ** [Th 6h Ad]
+Turtleboy117 bets 0.50
+sevenk folds
+Turtleboy117 refunded 0.50
+Turtleboy117 wins Pot (0.54)
+Rake (0.01)
+
+
+
+Hand #38852837-516 - 2015-01-22 03:27:59
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (4) - waiting for big blind
+Seat 2: Redskies2 (6.10)
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (17.33)
+Seat 6: sevenk (9.29)
+Redskies2 has the dealer button
+Turtleboy117 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc Jh]
+Redskies2 folds
+Turtleboy117 folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38852845-517 - 2015-01-22 03:28:14
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (4) - waiting for big blind
+Seat 2: Redskies2 (6.10)
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (17.28)
+Seat 6: sevenk (9.34)
+Turtleboy117 has the dealer button
+sevenk posts small blind 0.05
+Gorillosaur posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kh 4c]
+Redskies2 calls 0.10
+Turtleboy117 raises to 0.50
+sevenk folds
+Gorillosaur calls 0.40
+Redskies2 folds
+** Flop ** [Jd Th Jh]
+Gorillosaur checks
+Turtleboy117 checks
+** Turn ** [6h]
+Gorillosaur bets 0.40
+Turtleboy117 calls 0.40
+** River ** [As]
+Gorillosaur bets 1.50
+Turtleboy117 raises to 16.38 (All-in)
+Gorillosaur calls 1.60 (All-in)
+Turtleboy117 refunded 13.28
+** Pot Show Down ** [Jd Th Jh 6h As]
+Gorillosaur shows [Tc Td] (a Full House, Tens full of Jacks)
+Turtleboy117 shows [Ad Kc] (Two Pair, Aces and Jacks +K)
+Gorillosaur wins Pot (7.95) with a Full House
+Rake (0.20)
+
+
+
+Hand #38852892-518 - 2015-01-22 03:29:30
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (7.95)
+Seat 2: Redskies2 (6)
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (13.28)
+Seat 6: sevenk (9.29)
+sevenk has the dealer button
+Gorillosaur posts small blind 0.05
+Redskies2 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc Jc]
+Turtleboy117 folds
+sevenk raises to 0.25
+Gorillosaur folds
+Gorillosaur adds 2.10 chips
+Redskies2 folds
+sevenk refunded 0.15
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38852905-519 - 2015-01-22 03:29:51
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (10)
+Seat 2: Redskies2 (5.90)
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (13.28)
+Seat 6: sevenk (9.44)
+Gorillosaur has the dealer button
+Redskies2 posts small blind 0.05
+Turtleboy117 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kd 2c]
+sevenk folds
+Gorillosaur raises to 0.30
+Redskies2 calls 0.25
+Turtleboy117 folds
+** Flop ** [Ad 7s Jc]
+Redskies2 checks
+Gorillosaur bets 0.40
+Redskies2 calls 0.40
+** Turn ** [4d]
+Redskies2 checks
+Gorillosaur checks
+** River ** [8c]
+Redskies2 checks
+Gorillosaur checks
+** Pot Show Down ** [Ad 7s Jc 4d 8c]
+Gorillosaur shows [Ts Qh] (High Card Ace +QJT8)
+Redskies2 shows [9h Jh] (a Pair of Jacks +A98)
+Redskies2 wins Pot (1.47) with a Pair
+Rake (0.03)
+Gorillosaur adds 0.70 chips
+
+
+
+Hand #38852938-520 - 2015-01-22 03:31:00
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (10)
+Seat 2: Redskies2 (6.67)
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (13.18)
+Seat 6: sevenk (9.44)
+Redskies2 has the dealer button
+Turtleboy117 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4d 6c]
+Gorillosaur folds
+Redskies2 calls 0.10
+Turtleboy117 folds
+sevenk checks
+** Flop ** [Qc Ks Jd]
+sevenk checks
+Redskies2 bets 0.30
+sevenk folds
+Redskies2 refunded 0.30
+Redskies2 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38852957-521 - 2015-01-22 03:31:46
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (10)
+Seat 2: Redskies2 (6.82)
+Seat 4: Jollybug (3.70) - sitting out
+Seat 5: Turtleboy117 (13.13)
+Seat 6: sevenk (9.34)
+Turtleboy117 has the dealer button
+sevenk posts small blind 0.05
+Gorillosaur posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qs 9c]
+Redskies2 folds
+Turtleboy117 folds
+sevenk calls 0.05
+Gorillosaur checks
+** Flop ** [Kc Kh 4c]
+sevenk bets 0.10
+Gorillosaur raises to 0.30
+sevenk folds
+Gorillosaur refunded 0.20
+Gorillosaur wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38852984-522 - 2015-01-22 03:32:40
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (10.19)
+Seat 2: Redskies2 (6.82)
+Seat 5: Turtleboy117 (13.13)
+Seat 6: sevenk (9.14)
+sevenk has the dealer button
+Gorillosaur posts small blind 0.05
+Redskies2 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7h Qs]
+Turtleboy117 raises to 1
+sevenk folds
+Gorillosaur folds
+Redskies2 folds
+Turtleboy117 refunded 0.90
+Turtleboy117 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38852996-523 - 2015-01-22 03:33:04
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (10.14)
+Seat 2: Redskies2 (6.72)
+Seat 5: Turtleboy117 (13.28)
+Seat 6: sevenk (9.14)
+Gorillosaur has the dealer button
+Redskies2 posts small blind 0.05
+Turtleboy117 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2h Ad]
+sevenk folds
+Gorillosaur raises to 0.30
+Redskies2 folds
+Turtleboy117 folds
+Gorillosaur refunded 0.20
+Gorillosaur wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38853002-524 - 2015-01-22 03:33:22
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (10.29)
+Seat 5: Turtleboy117 (13.18)
+Seat 6: sevenk (9.14)
+Turtleboy117 has the dealer button
+sevenk posts small blind 0.05
+Gorillosaur posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7c 5s]
+Turtleboy117 folds
+sevenk folds
+Gorillosaur refunded 0.05
+Gorillosaur wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38853008-525 - 2015-01-22 03:33:36
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (10.34)
+Seat 5: Turtleboy117 (13.18)
+Seat 6: sevenk (9.09)
+sevenk has the dealer button
+Gorillosaur posts small blind 0.05
+Turtleboy117 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ks 9s]
+sevenk raises to 0.25
+Gorillosaur folds
+Turtleboy117 folds
+sevenk refunded 0.15
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38853017-526 - 2015-01-22 03:34:01
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (10.29)
+Seat 5: Turtleboy117 (13.08)
+Seat 6: sevenk (9.24)
+Gorillosaur has the dealer button
+Turtleboy117 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s Qc]
+Gorillosaur raises to 0.30
+Turtleboy117 folds
+sevenk folds
+Gorillosaur refunded 0.20
+Gorillosaur wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38853027-527 - 2015-01-22 03:34:20
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (10.44)
+Seat 5: Turtleboy117 (13.03)
+Seat 6: sevenk (9.14)
+Turtleboy117 has the dealer button
+sevenk posts small blind 0.05
+Gorillosaur posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2d 5h]
+Turtleboy117 raises to 0.20
+sevenk folds
+Gorillosaur calls 0.10
+** Flop ** [Qd Jh 9c]
+Gorillosaur checks
+Turtleboy117 bets 0.20
+Gorillosaur calls 0.20
+** Turn ** [4s]
+Gorillosaur checks
+Turtleboy117 checks
+** River ** [3d]
+Gorillosaur checks
+Turtleboy117 checks
+** Pot Show Down ** [Qd Jh 9c 4s 3d]
+Gorillosaur shows [Kd 9h] (a Pair of Nines +KQJ)
+Turtleboy117 shows [Qs 8s] (a Pair of Queens +J98)
+Turtleboy117 wins Pot (0.83) with a Pair
+Rake (0.02)
+
+
+
+Hand #38853043-528 - 2015-01-22 03:35:09
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (10.04)
+Seat 5: Turtleboy117 (13.46)
+Seat 6: sevenk (9.09)
+sevenk has the dealer button
+Gorillosaur posts small blind 0.05
+Turtleboy117 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2s Ad]
+sevenk raises to 0.25
+Gorillosaur calls 0.20
+Turtleboy117 folds
+** Flop ** [Ac 9d 3h]
+Gorillosaur checks
+sevenk bets 0.30
+Gorillosaur calls 0.30
+** Turn ** [6d]
+Gorillosaur checks
+sevenk checks
+** River ** [7d]
+Gorillosaur bets 0.50
+sevenk calls 0.50
+** Pot Show Down ** [Ac 9d 3h 6d 7d]
+Gorillosaur shows [Qs 9s] (a Pair of Nines +AQ7)
+sevenk shows [2s Ad] (a Pair of Aces +976)
+sevenk wins Pot (2.15) with a Pair
+Rake (0.05)
+
+
+
+Hand #38853081-529 - 2015-01-22 03:36:15
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (8.99)
+Seat 5: Turtleboy117 (13.36)
+Seat 6: sevenk (10.19)
+Gorillosaur has the dealer button
+Turtleboy117 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [As 2s]
+Gorillosaur folds
+Turtleboy117 folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38853088-530 - 2015-01-22 03:36:28
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: Gorillosaur (8.99)
+Seat 6: sevenk (10.24)
+sevenk has the dealer button
+sevenk posts small blind 0.05
+Gorillosaur posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jd 7s]
+sevenk raises to 0.20
+Gorillosaur calls 0.10
+** Flop ** [Th 9s Kc]
+Gorillosaur checks
+sevenk bets 0.10
+Gorillosaur folds
+sevenk refunded 0.10
+sevenk wins Pot (0.39)
+Rake (0.01)

@@ -1,0 +1,1186 @@
+Hand #38396041-300 - 2015-01-14 00:07:16
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (6.17)
+Seat 2: blunderdog82 (13.79)
+Seat 3: murrr (11.01) - sitting out
+Seat 4: Iamthelolrus (11.09)
+Seat 5: kennybsting (7.36)
+Seat 6: t4k3g (9.85)
+t4k3g has the dealer button
+Zapmeister posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Iamthelolrus raises to 0.30
+kennybsting folds
+t4k3g folds
+Zapmeister folds
+blunderdog82 folds
+Iamthelolrus refunded 0.20
+Iamthelolrus wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38396077-301 - 2015-01-14 00:07:51
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (6.12)
+Seat 2: blunderdog82 (13.69)
+Seat 3: murrr (11.01) - sitting out
+Seat 4: Iamthelolrus (11.24)
+Seat 5: kennybsting (7.36)
+Seat 6: t4k3g (9.85)
+Zapmeister has the dealer button
+blunderdog82 posts small blind 0.05
+Iamthelolrus posts big blind 0.10
+** Hole Cards **
+kennybsting folds
+t4k3g raises to 0.30
+Zapmeister folds
+blunderdog82 calls 0.25
+Iamthelolrus folds
+** Flop ** [9d Kd Ah]
+blunderdog82 checks
+t4k3g checks
+** Turn ** [As]
+blunderdog82 checks
+t4k3g bets 0.50
+blunderdog82 calls 0.50
+** River ** [4h]
+blunderdog82 checks
+t4k3g bets 1
+blunderdog82 calls 1
+** Pot Show Down ** [9d Kd Ah As 4h]
+blunderdog82 shows [Kc Tc] (Two Pair, Aces and Kings +T)
+t4k3g shows [Ad Jh] (Three of a Kind, Aces +KJ)
+t4k3g wins Pot (3.61) with Three of a Kind
+Rake (0.09)
+
+
+
+Hand #38396155-302 - 2015-01-14 00:09:03
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (6.12)
+Seat 2: blunderdog82 (11.89)
+Seat 3: murrr (11.01) - sitting out
+Seat 4: Iamthelolrus (11.14)
+Seat 5: kennybsting (7.36)
+Seat 6: t4k3g (11.66)
+blunderdog82 has the dealer button
+Iamthelolrus posts small blind 0.05
+kennybsting posts big blind 0.10
+** Hole Cards **
+t4k3g calls 0.10
+Zapmeister folds
+blunderdog82 raises to 0.40
+Iamthelolrus folds
+kennybsting has timed out
+kennybsting folds
+t4k3g calls 0.30
+** Flop ** [2s As Qs]
+t4k3g checks
+blunderdog82 checks
+** Turn ** [Ks]
+t4k3g bets 1
+blunderdog82 folds
+t4k3g refunded 1
+t4k3g wins Pot (0.93)
+Rake (0.02)
+
+
+
+Hand #38396225-303 - 2015-01-14 00:10:13
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (6.12)
+Seat 2: blunderdog82 (11.49)
+Seat 3: murrr (11.01)
+Seat 4: Iamthelolrus (11.09)
+Seat 5: kennybsting (7.26)
+Seat 6: t4k3g (12.19)
+Iamthelolrus has the dealer button
+kennybsting posts small blind 0.05
+t4k3g posts big blind 0.10
+murrr posts small & big blind 0.15
+** Hole Cards **
+Zapmeister folds
+blunderdog82 folds
+murrr checks
+Iamthelolrus calls 0.10
+kennybsting folds
+t4k3g checks
+** Flop ** [Tc Qs Ad]
+t4k3g checks
+murrr checks
+Iamthelolrus checks
+** Turn ** [2d]
+t4k3g checks
+murrr checks
+Iamthelolrus checks
+** River ** [Td]
+t4k3g checks
+murrr checks
+Iamthelolrus bets 0.20
+t4k3g folds
+murrr folds
+Iamthelolrus refunded 0.20
+Iamthelolrus wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38396295-304 - 2015-01-14 00:11:30
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (6.12)
+Seat 2: blunderdog82 (11.49)
+Seat 3: murrr (10.86)
+Seat 4: Iamthelolrus (11.38)
+Seat 5: kennybsting (7.21)
+Seat 6: t4k3g (12.09)
+kennybsting has the dealer button
+t4k3g posts small blind 0.05
+Zapmeister posts big blind 0.10
+** Hole Cards **
+blunderdog82 has timed out
+blunderdog82 folds
+murrr folds
+Iamthelolrus folds
+kennybsting raises to 0.30
+t4k3g folds
+Zapmeister folds
+kennybsting refunded 0.20
+kennybsting wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38396346-305 - 2015-01-14 00:12:19
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (6.02)
+Seat 2: blunderdog82 (11.49)
+Seat 3: murrr (10.86)
+Seat 4: sevenk (10) - waiting for big blind
+Seat 5: kennybsting (7.36)
+Seat 6: t4k3g (12.04)
+t4k3g has the dealer button
+Zapmeister posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+murrr folds
+kennybsting folds
+t4k3g raises to 0.30
+Zapmeister folds
+blunderdog82 folds
+t4k3g refunded 0.20
+t4k3g wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38396373-306 - 2015-01-14 00:12:43
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (5.97)
+Seat 2: blunderdog82 (11.39)
+Seat 3: murrr (10.86)
+Seat 4: sevenk (10) - waiting for big blind
+Seat 5: kennybsting (7.36)
+Seat 6: t4k3g (12.19)
+Zapmeister has the dealer button
+blunderdog82 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+kennybsting folds
+t4k3g calls 0.10
+Zapmeister folds
+blunderdog82 calls 0.05
+murrr checks
+** Flop ** [Qh Ac 7s]
+blunderdog82 checks
+murrr checks
+t4k3g checks
+** Turn ** [Th]
+blunderdog82 checks
+murrr checks
+t4k3g checks
+** River ** [Jc]
+blunderdog82 checks
+murrr checks
+t4k3g bets 0.20
+blunderdog82 calls 0.20
+murrr folds
+** Pot Show Down ** [Qh Ac 7s Th Jc]
+blunderdog82 shows [Js 9d] (a Pair of Jacks +AQT)
+t4k3g shows [Ks 5h] (a Straight, Ten to Ace)
+t4k3g wins Pot (0.69) with a Straight
+Rake (0.01)
+
+
+
+Hand #38396446-307 - 2015-01-14 00:13:57
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (5.97)
+Seat 2: blunderdog82 (11.09)
+Seat 3: murrr (10.76)
+Seat 4: sevenk (10) - waiting for big blind
+Seat 5: kennybsting (7.36)
+Seat 6: t4k3g (12.58)
+blunderdog82 has the dealer button
+murrr posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jc Ts]
+kennybsting raises to 0.40
+t4k3g folds
+Zapmeister folds
+blunderdog82 raises to 0.80
+murrr folds
+sevenk folds
+kennybsting calls 0.40
+** Flop ** [9s Tc Ad]
+kennybsting checks
+blunderdog82 checks
+** Turn ** [9h]
+kennybsting bets 1.10
+blunderdog82 raises to 2.20
+kennybsting calls 1.10
+** River ** [Kh]
+kennybsting checks
+blunderdog82 bets 5.09
+kennybsting folds
+blunderdog82 refunded 5.09
+blunderdog82 wins Pot (6)
+Rake (0.15)
+
+
+
+Hand #38396512-308 - 2015-01-14 00:15:09
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (5.97)
+Seat 2: blunderdog82 (14.09)
+Seat 3: murrr (10.71)
+Seat 4: sevenk (9.90)
+Seat 5: kennybsting (4.36)
+Seat 6: t4k3g (12.58)
+murrr has the dealer button
+sevenk posts small blind 0.05
+kennybsting posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4h 3s]
+t4k3g folds
+Zapmeister folds
+blunderdog82 folds
+murrr raises to 0.40
+sevenk folds
+kennybsting folds
+murrr refunded 0.30
+kennybsting adds 5.74 chips
+murrr wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38396545-309 - 2015-01-14 00:15:39
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (5.97)
+Seat 2: blunderdog82 (14.09)
+Seat 3: murrr (10.86)
+Seat 4: sevenk (9.85)
+Seat 5: kennybsting (10)
+Seat 6: t4k3g (12.58)
+sevenk has the dealer button
+kennybsting posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6h Kh]
+Zapmeister folds
+blunderdog82 folds
+murrr folds
+sevenk raises to 0.25
+kennybsting folds
+t4k3g calls 0.15
+** Flop ** [Jh 9s 9c]
+t4k3g checks
+sevenk bets 0.30
+t4k3g folds
+sevenk refunded 0.30
+sevenk wins Pot (0.54)
+Rake (0.01)
+
+
+
+Hand #38396580-310 - 2015-01-14 00:16:17
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (5.97)
+Seat 2: blunderdog82 (14.09)
+Seat 3: murrr (10.86)
+Seat 4: sevenk (10.14)
+Seat 5: kennybsting (9.95)
+Seat 6: t4k3g (12.33)
+kennybsting has the dealer button
+t4k3g posts small blind 0.05
+Zapmeister posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ac Ks]
+blunderdog82 raises to 0.30
+murrr folds
+sevenk raises to 0.75
+kennybsting folds
+t4k3g folds
+Zapmeister folds
+blunderdog82 calls 0.45
+** Flop ** [2s Js 9d]
+blunderdog82 checks
+sevenk bets 0.90
+blunderdog82 calls 0.90
+** Turn ** [Jd]
+blunderdog82 bets 1.20
+sevenk calls 1.20
+** River ** [3s]
+blunderdog82 checks
+sevenk checks
+** Pot Show Down ** [2s Js 9d Jd 3s]
+blunderdog82 shows [Ah Jc] (Three of a Kind, Jacks +A9)
+sevenk shows [Ac Ks] (a Pair of Jacks +AK9)
+blunderdog82 wins Pot (5.71) with Three of a Kind
+Rake (0.14)
+
+
+
+Hand #38396668-311 - 2015-01-14 00:17:44
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (5.87)
+Seat 2: blunderdog82 (16.95)
+Seat 3: murrr (10.86)
+Seat 4: sevenk (7.29)
+Seat 5: kennybsting (9.95)
+Seat 6: t4k3g (12.28)
+t4k3g has the dealer button
+Zapmeister posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2c Jc]
+murrr raises to 0.40
+sevenk folds
+kennybsting folds
+t4k3g folds
+Zapmeister calls 0.35
+blunderdog82 folds
+** Flop ** [Kh As Ts]
+Zapmeister checks
+murrr bets 0.50
+Zapmeister folds
+murrr refunded 0.50
+murrr wins Pot (0.88)
+Rake (0.02)
+
+
+
+Hand #38396710-312 - 2015-01-14 00:18:33
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (5.47)
+Seat 2: blunderdog82 (16.85)
+Seat 3: murrr (11.34)
+Seat 4: sevenk (7.29)
+Seat 5: kennybsting (9.95)
+Seat 6: t4k3g (12.28)
+Zapmeister has the dealer button
+blunderdog82 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8s 6h]
+sevenk folds
+kennybsting raises to 0.30
+t4k3g folds
+Zapmeister folds
+blunderdog82 folds
+murrr folds
+kennybsting refunded 0.20
+kennybsting wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38396734-313 - 2015-01-14 00:18:56
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (5.47)
+Seat 2: blunderdog82 (16.80)
+Seat 3: murrr (11.24)
+Seat 4: sevenk (7.29)
+Seat 5: kennybsting (10.10)
+Seat 6: t4k3g (12.28)
+blunderdog82 has the dealer button
+murrr posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4h 8c]
+kennybsting raises to 0.30
+t4k3g folds
+Zapmeister raises to 0.80
+blunderdog82 folds
+murrr folds
+sevenk folds
+kennybsting calls 0.50
+** Flop ** [Jh Td 9h]
+kennybsting checks
+Zapmeister bets 1.10
+kennybsting raises to 6.20
+Zapmeister calls 3.57 (All-in)
+kennybsting refunded 1.53
+** Turn ** [4s]
+** River ** [Kc]
+** Pot Show Down ** [Jh Td 9h 4s Kc]
+Zapmeister shows [Ac As] (a Pair of Aces +KJT)
+kennybsting shows [Qh Qd] (a Straight, Nine to King)
+kennybsting wins Pot (10.82) with a Straight
+Rake (0.27)
+
+
+
+Hand #38396790-314 - 2015-01-14 00:19:56
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (0) - sitting out
+Seat 2: blunderdog82 (16.80)
+Seat 3: murrr (11.19)
+Seat 4: sevenk (7.19)
+Seat 5: kennybsting (15.45)
+Seat 6: t4k3g (12.28)
+murrr has the dealer button
+sevenk posts small blind 0.05
+kennybsting posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8c 7h]
+t4k3g calls 0.10
+blunderdog82 folds
+murrr folds
+sevenk calls 0.05
+kennybsting checks
+** Flop ** [4d Js 6d]
+sevenk checks
+kennybsting bets 0.40
+t4k3g folds
+sevenk folds
+kennybsting refunded 0.40
+kennybsting wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #38396837-315 - 2015-01-14 00:20:38
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (0) - sitting out
+Seat 2: blunderdog82 (16.80)
+Seat 3: murrr (11.19)
+Seat 4: sevenk (7.09)
+Seat 5: kennybsting (15.65)
+Seat 6: t4k3g (12.18)
+sevenk has the dealer button
+kennybsting posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qs Kc]
+blunderdog82 folds
+murrr raises to 0.40
+sevenk calls 0.40
+kennybsting folds
+t4k3g folds
+** Flop ** [9s 7s 9c]
+murrr bets 0.40
+sevenk calls 0.40
+** Turn ** [3s]
+murrr checks
+sevenk bets 1
+murrr folds
+sevenk refunded 1
+sevenk wins Pot (1.71)
+Rake (0.04)
+
+
+
+Hand #38396895-316 - 2015-01-14 00:21:44
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (0) - sitting out
+Seat 2: blunderdog82 (16.80)
+Seat 3: murrr (10.39)
+Seat 4: sevenk (8)
+Seat 5: kennybsting (15.60)
+Seat 6: t4k3g (12.08)
+kennybsting has the dealer button
+t4k3g posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8s 3c]
+murrr folds
+sevenk folds
+kennybsting raises to 0.30
+t4k3g folds
+blunderdog82 folds
+kennybsting refunded 0.20
+kennybsting wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38396924-317 - 2015-01-14 00:22:12
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (0) - sitting out
+Seat 2: blunderdog82 (16.70)
+Seat 3: murrr (10.39)
+Seat 4: sevenk (8)
+Seat 5: kennybsting (15.75)
+Seat 6: t4k3g (12.03)
+t4k3g has the dealer button
+blunderdog82 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5d 5c]
+sevenk raises to 0.30
+kennybsting calls 0.30
+t4k3g folds
+blunderdog82 folds
+murrr calls 0.20
+** Flop ** [Qh 8c Ks]
+murrr checks
+sevenk checks
+kennybsting bets 1
+murrr calls 1
+sevenk folds
+** Turn ** [9s]
+murrr checks
+kennybsting bets 2
+murrr calls 2
+** River ** [Ac]
+murrr checks
+kennybsting checks
+** Pot Show Down ** [Qh 8c Ks 9s Ac]
+murrr shows [Qc Jc] (a Pair of Queens +AKJ)
+kennybsting shows [Qs 8s] (Two Pair, Queens and Eights +A)
+kennybsting wins Pot (6.78) with Two Pair
+Rake (0.17)
+murrr adds 2.91 chips
+
+
+
+Hand #38396995-318 - 2015-01-14 00:23:31
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: Zapmeister (0) - sitting out
+Seat 2: blunderdog82 (16.65)
+Seat 3: murrr (10)
+Seat 4: sevenk (7.70)
+Seat 5: kennybsting (19.23)
+Seat 6: t4k3g (12.03)
+blunderdog82 has the dealer button
+murrr posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [As 2d]
+kennybsting folds
+t4k3g calls 0.10
+blunderdog82 raises to 0.40
+murrr folds
+murrr adds 0.05 chips
+sevenk folds
+t4k3g calls 0.30
+** Flop ** [Jc 6s 8c]
+t4k3g checks
+blunderdog82 checks
+** Turn ** [Jh]
+t4k3g checks
+blunderdog82 bets 0.60
+t4k3g folds
+blunderdog82 refunded 0.60
+blunderdog82 wins Pot (0.93)
+Rake (0.02)
+
+
+
+Hand #38397059-319 - 2015-01-14 00:24:28
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10) - waiting for big blind
+Seat 2: blunderdog82 (17.18)
+Seat 3: murrr (10)
+Seat 4: sevenk (7.60)
+Seat 5: kennybsting (19.23)
+Seat 6: t4k3g (11.63)
+murrr has the dealer button
+sevenk posts small blind 0.05
+kennybsting posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6c 9c]
+t4k3g folds
+blunderdog82 folds
+murrr raises to 0.20
+sevenk folds
+kennybsting calls 0.10
+** Flop ** [Jd 3s 4c]
+kennybsting checks
+murrr checks
+** Turn ** [Tc]
+kennybsting checks
+murrr checks
+** River ** [9h]
+kennybsting checks
+murrr checks
+** Pot Show Down ** [Jd 3s 4c Tc 9h]
+murrr shows [7c As] (High Card Ace +JT97)
+kennybsting shows [5h Kh] (High Card King +JT95)
+murrr wins Pot (0.44) with High Card
+Rake (0.01)
+
+
+
+Hand #38397114-320 - 2015-01-14 00:25:34
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10) - waiting for big blind
+Seat 2: blunderdog82 (17.18)
+Seat 3: murrr (10.24)
+Seat 4: sevenk (7.55)
+Seat 5: kennybsting (19.03)
+Seat 6: t4k3g (11.63)
+sevenk has the dealer button
+kennybsting posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8s 6s]
+blunderdog82 folds
+murrr folds
+sevenk raises to 0.25
+kennybsting folds
+t4k3g folds
+sevenk refunded 0.15
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38397143-321 - 2015-01-14 00:26:16
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10) - waiting for big blind
+Seat 2: blunderdog82 (17.18)
+Seat 3: murrr (10.24)
+Seat 4: sevenk (7.70)
+Seat 5: kennybsting (18.98)
+Seat 6: t4k3g (11.53)
+kennybsting has the dealer button
+t4k3g posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kh Ac]
+blunderdog82 folds
+murrr folds
+sevenk raises to 0.30
+kennybsting folds
+t4k3g folds
+bridges48 folds
+sevenk refunded 0.20
+bridges48 adds 0.10 chips
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38397172-322 - 2015-01-14 00:26:48
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10)
+Seat 2: blunderdog82 (17.18)
+Seat 3: murrr (10.24)
+Seat 4: sevenk (7.85)
+Seat 5: kennybsting (18.98)
+Seat 6: t4k3g (11.48)
+t4k3g has the dealer button
+bridges48 posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9s 9c]
+murrr folds
+sevenk raises to 0.30
+kennybsting folds
+t4k3g calls 0.30
+bridges48 folds
+bridges48 adds 0.05 chips
+blunderdog82 raises to 0.70
+sevenk calls 0.40
+t4k3g folds
+** Flop ** [5c As Ad]
+blunderdog82 checks
+sevenk checks
+** Turn ** [7s]
+blunderdog82 bets 0.40
+sevenk calls 0.40
+** River ** [7c]
+blunderdog82 checks
+sevenk checks
+** Pot Show Down ** [5c As Ad 7s 7c]
+blunderdog82 shows [Tc Td] (Two Pair, Aces and Tens +7)
+sevenk shows [9s 9c] (Two Pair, Aces and Nines +7)
+blunderdog82 wins Pot (2.49) with Two Pair
+Rake (0.06)
+
+
+
+Hand #38397241-323 - 2015-01-14 00:28:11
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10)
+Seat 2: blunderdog82 (18.57)
+Seat 3: murrr (10.24)
+Seat 4: sevenk (6.75)
+Seat 5: kennybsting (18.98)
+Seat 6: t4k3g (11.18)
+bridges48 has the dealer button
+blunderdog82 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2h 5c]
+sevenk folds
+kennybsting folds
+t4k3g folds
+bridges48 folds
+blunderdog82 folds
+murrr refunded 0.05
+murrr wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38397269-324 - 2015-01-14 00:28:44
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10)
+Seat 2: blunderdog82 (18.52)
+Seat 3: murrr (10.29)
+Seat 4: sevenk (6.75)
+Seat 5: kennybsting (18.98)
+Seat 6: t4k3g (11.18)
+blunderdog82 has the dealer button
+murrr posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4d 6d]
+kennybsting folds
+t4k3g raises to 0.30
+bridges48 folds
+blunderdog82 folds
+murrr folds
+sevenk calls 0.20
+** Flop ** [Th Js 7s]
+sevenk checks
+t4k3g checks
+** Turn ** [3h]
+sevenk checks
+t4k3g bets 0.40
+sevenk folds
+t4k3g refunded 0.40
+t4k3g wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #38397306-325 - 2015-01-14 00:29:27
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10)
+Seat 2: blunderdog82 (18.52)
+Seat 3: murrr (10.24)
+Seat 4: sevenk (6.45)
+Seat 5: kennybsting (18.98)
+Seat 6: t4k3g (11.52)
+murrr has the dealer button
+sevenk posts small blind 0.05
+kennybsting posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jh Kc]
+t4k3g folds
+bridges48 folds
+blunderdog82 folds
+murrr folds
+sevenk calls 0.05
+kennybsting checks
+** Flop ** [Ad 2s 7h]
+sevenk bets 0.10
+kennybsting folds
+sevenk refunded 0.10
+sevenk wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38397340-326 - 2015-01-14 00:30:13
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10)
+Seat 2: blunderdog82 (18.52)
+Seat 3: murrr (10.24)
+Seat 4: sevenk (6.55)
+Seat 5: kennybsting (18.88)
+Seat 6: t4k3g (11.52)
+sevenk has the dealer button
+kennybsting posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2s 3c]
+bridges48 folds
+blunderdog82 folds
+murrr folds
+sevenk folds
+kennybsting folds
+t4k3g refunded 0.05
+t4k3g wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38397356-327 - 2015-01-14 00:30:34
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10)
+Seat 2: blunderdog82 (18.52)
+Seat 3: murrr (10.24)
+Seat 4: sevenk (6.55)
+Seat 5: kennybsting (18.83)
+Seat 6: t4k3g (11.57)
+kennybsting has the dealer button
+t4k3g posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7s Jc]
+blunderdog82 folds
+murrr folds
+sevenk folds
+kennybsting raises to 0.30
+t4k3g folds
+bridges48 calls 0.20
+** Flop ** [Jh Js 8h]
+bridges48 checks
+kennybsting bets 0.30
+bridges48 calls 0.30
+** Turn ** [Kc]
+bridges48 checks
+kennybsting checks
+** River ** [Ac]
+bridges48 checks
+kennybsting checks
+** Pot Show Down ** [Jh Js 8h Kc Ac]
+bridges48 shows [8d 7c] (Two Pair, Jacks and Eights +A)
+kennybsting shows [9h 7h] (a Pair of Jacks +AK9)
+bridges48 wins Pot (1.22) with Two Pair
+Rake (0.03)
+
+
+
+Hand #38397415-328 - 2015-01-14 00:31:43
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10.62)
+Seat 2: blunderdog82 (18.52)
+Seat 3: murrr (10.24)
+Seat 4: sevenk (6.55)
+Seat 5: kennybsting (18.23)
+Seat 6: t4k3g (11.52)
+t4k3g has the dealer button
+bridges48 posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2h 6d]
+murrr folds
+sevenk folds
+kennybsting raises to 0.40
+t4k3g raises to 0.80
+bridges48 folds
+blunderdog82 folds
+kennybsting calls 0.40
+** Flop ** [9h Js 9s]
+kennybsting checks
+t4k3g checks
+** Turn ** [Ks]
+kennybsting checks
+t4k3g bets 1
+kennybsting folds
+t4k3g refunded 1
+t4k3g wins Pot (1.71)
+Rake (0.04)
+
+
+
+Hand #38397481-329 - 2015-01-14 00:33:00
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10.57)
+Seat 2: blunderdog82 (18.42)
+Seat 3: murrr (10.24)
+Seat 4: sevenk (6.55)
+Seat 5: kennybsting (17.43)
+Seat 6: t4k3g (12.43)
+bridges48 has the dealer button
+blunderdog82 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7h Ts]
+sevenk folds
+kennybsting calls 0.10
+t4k3g calls 0.10
+bridges48 folds
+blunderdog82 folds
+murrr checks
+** Flop ** [7c Jh Kd]
+murrr checks
+kennybsting checks
+t4k3g checks
+** Turn ** [Th]
+murrr checks
+kennybsting bets 0.40
+t4k3g folds
+murrr folds
+kennybsting refunded 0.40
+kennybsting wins Pot (0.35)
+Rake (0)
+
+
+
+Hand #38397549-330 - 2015-01-14 00:34:19
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10.57)
+Seat 2: blunderdog82 (18.37)
+Seat 3: murrr (10.14)
+Seat 4: sevenk (6.55)
+Seat 5: kennybsting (17.68)
+Seat 6: t4k3g (12.33)
+blunderdog82 has the dealer button
+murrr posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jd Ac]
+kennybsting folds
+t4k3g folds
+bridges48 folds
+blunderdog82 folds
+murrr folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38397566-331 - 2015-01-14 00:34:40
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10.57)
+Seat 2: blunderdog82 (18.37)
+Seat 3: murrr (10.09)
+Seat 4: sevenk (6.60)
+Seat 5: kennybsting (17.68)
+Seat 6: t4k3g (12.33)
+murrr has the dealer button
+sevenk posts small blind 0.05
+kennybsting posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4c Ad]
+t4k3g folds
+bridges48 folds
+blunderdog82 folds
+murrr raises to 0.20
+sevenk folds
+kennybsting calls 0.10
+** Flop ** [7d 2h 2d]
+kennybsting checks
+murrr bets 0.20
+kennybsting folds
+murrr refunded 0.20
+murrr wins Pot (0.44)
+Rake (0.01)
+
+
+
+Hand #38397611-332 - 2015-01-14 00:35:33
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10.57)
+Seat 2: blunderdog82 (18.37)
+Seat 3: murrr (10.33)
+Seat 4: sevenk (6.55)
+Seat 5: kennybsting (17.48)
+Seat 6: t4k3g (12.33)
+sevenk has the dealer button
+kennybsting posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6c Kh]
+bridges48 folds
+blunderdog82 folds
+murrr folds
+sevenk folds
+kennybsting calls 0.05
+t4k3g checks
+** Flop ** [Qd Kc Js]
+kennybsting checks
+t4k3g checks
+** Turn ** [5c]
+kennybsting bets 0.20
+t4k3g folds
+kennybsting refunded 0.20
+kennybsting wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38397674-333 - 2015-01-14 00:36:41
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10.57)
+Seat 2: blunderdog82 (18.37)
+Seat 3: murrr (10.33)
+Seat 4: sevenk (6.55)
+Seat 5: kennybsting (17.58)
+Seat 6: t4k3g (12.23)
+kennybsting has the dealer button
+t4k3g posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qc 8d]
+blunderdog82 folds
+murrr folds
+sevenk folds
+kennybsting folds
+t4k3g calls 0.05
+bridges48 checks
+** Flop ** [9d Qd 5h]
+t4k3g checks
+bridges48 checks
+** Turn ** [Ks]
+t4k3g checks
+bridges48 checks
+** River ** [Td]
+t4k3g checks
+bridges48 checks
+** Pot Show Down ** [9d Qd 5h Ks Td]
+bridges48 shows [3c 6s] (High Card King +QT96)
+t4k3g shows [7h Ad] (High Card Ace +KQT9)
+t4k3g wins Pot (0.20) with High Card
+Rake (0)
+
+
+
+Hand #38397722-334 - 2015-01-14 00:37:41
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10.47)
+Seat 2: blunderdog82 (18.37)
+Seat 3: murrr (10.33)
+Seat 4: sevenk (6.55)
+Seat 5: kennybsting (17.58)
+Seat 6: t4k3g (12.33)
+t4k3g has the dealer button
+bridges48 posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qh Kc]
+murrr folds
+sevenk raises to 0.30
+kennybsting folds
+t4k3g folds
+bridges48 folds
+blunderdog82 calls 0.20
+** Flop ** [6c Kd Qc]
+blunderdog82 checks
+sevenk bets 0.35
+blunderdog82 folds
+sevenk refunded 0.35
+sevenk wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #38397759-335 - 2015-01-14 00:38:27
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: bridges48 (10.42)
+Seat 2: blunderdog82 (18.07)
+Seat 3: murrr (10.33)
+Seat 4: sevenk (6.89)
+Seat 5: kennybsting (17.58)
+Seat 6: t4k3g (12.33)
+bridges48 has the dealer button
+blunderdog82 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5s 8s]
+sevenk folds
+kennybsting folds
+t4k3g calls 0.10
+bridges48 raises to 0.40
+blunderdog82 folds
+murrr folds
+t4k3g calls 0.30
+** Flop ** [Ac 2h 6s]
+t4k3g checks
+bridges48 bets 0.70
+t4k3g calls 0.70
+** Turn ** [Qs]
+t4k3g checks
+bridges48 bets 1.70
+t4k3g calls 1.70
+** River ** [Jc]
+t4k3g bets 2.60
+bridges48 calls 2.60
+** Pot Show Down ** [Ac 2h 6s Qs Jc]
+bridges48 shows [Ad Js] (Two Pair, Aces and Jacks +Q)
+t4k3g shows [As 4s] (a Pair of Aces +QJ6)
+bridges48 wins Pot (10.68) with Two Pair
+Rake (0.27)

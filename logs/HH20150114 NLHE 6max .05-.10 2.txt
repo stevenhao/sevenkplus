@@ -1,0 +1,1043 @@
+Hand #38452198-175 - 2015-01-15 00:40:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10) - waiting for big blind
+Seat 2: Dewby (5.35)
+Seat 3: TheMadPriest (11.02)
+Seat 4: crackrock (10.43)
+Seat 5: e2thex (14.44)
+Seat 6: aberrant (1.50)
+e2thex has the dealer button
+aberrant posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2d 6h]
+Dewby calls 0.10
+TheMadPriest folds
+crackrock folds
+e2thex raises to 0.25
+aberrant raises to 1.50 (All-in)
+sevenk folds
+Dewby calls 1.40
+e2thex folds
+** Flop ** [Kc 9d Ks]
+** Turn ** [4s]
+** River ** [Tc]
+** Pot Show Down ** [Kc 9d Ks 4s Tc]
+Dewby shows [3d 3h] (Two Pair, Kings and Threes +T)
+aberrant shows [Jh Kd] (Three of a Kind, Kings +JT)
+aberrant wins Pot (3.27) with Three of a Kind
+Rake (0.08)
+
+
+
+Hand #38452248-176 - 2015-01-15 00:40:55
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.90)
+Seat 2: Dewby (3.85)
+Seat 3: TheMadPriest (11.02)
+Seat 4: crackrock (10.43)
+Seat 5: e2thex (14.19)
+Seat 6: aberrant (3.27)
+aberrant has the dealer button
+sevenk posts small blind 0.05
+Dewby posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2h 8c]
+TheMadPriest raises to 0.30
+crackrock folds
+e2thex folds
+aberrant calls 0.30
+sevenk folds
+Dewby calls 0.20
+** Flop ** [7h Qc 3s]
+Dewby checks
+TheMadPriest bets 0.60
+aberrant raises to 2.97 (All-in)
+Dewby calls 2.97
+TheMadPriest folds
+** Turn ** [8d]
+** River ** [Kc]
+** Pot Show Down ** [7h Qc 3s 8d Kc]
+Dewby shows [Qd Js] (a Pair of Queens +KJ8)
+aberrant shows [Jh Qh] (a Pair of Queens +KJ8)
+Dewby splits Pot (3.66) with a Pair
+aberrant splits Pot (3.65) with a Pair
+Rake (0.18)
+
+
+
+Hand #38452305-177 - 2015-01-15 00:41:55
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.85)
+Seat 2: Dewby (4.24)
+Seat 3: TheMadPriest (10.12)
+Seat 4: crackrock (10.43)
+Seat 5: e2thex (14.19)
+Seat 6: aberrant (3.65)
+sevenk has the dealer button
+Dewby posts small blind 0.05
+TheMadPriest posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ac Ad]
+crackrock folds
+e2thex folds
+aberrant folds
+sevenk raises to 0.25
+Dewby folds
+TheMadPriest folds
+sevenk refunded 0.15
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38452336-178 - 2015-01-15 00:42:24
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10)
+Seat 2: Dewby (4.19)
+Seat 3: TheMadPriest (10.02)
+Seat 4: crackrock (10.43)
+Seat 5: e2thex (14.19)
+Seat 6: aberrant (3.65)
+Dewby has the dealer button
+TheMadPriest posts small blind 0.05
+crackrock posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4d Js]
+e2thex raises to 0.20
+aberrant folds
+sevenk folds
+Dewby calls 0.20
+TheMadPriest calls 0.15
+crackrock folds
+** Flop ** [6h 7h 8h]
+TheMadPriest checks
+e2thex bets 0.30
+Dewby folds
+TheMadPriest raises to 0.80
+e2thex folds
+TheMadPriest refunded 0.50
+TheMadPriest wins Pot (1.27)
+Rake (0.03)
+
+
+
+Hand #38452390-179 - 2015-01-15 00:43:22
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10)
+Seat 2: Dewby (3.99)
+Seat 3: TheMadPriest (10.79)
+Seat 4: crackrock (10.33)
+Seat 5: e2thex (13.69)
+Seat 6: aberrant (3.65) - sitting out
+TheMadPriest has the dealer button
+crackrock posts small blind 0.05
+e2thex posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s 6h]
+sevenk calls 0.10
+Dewby folds
+TheMadPriest folds
+crackrock raises to 0.30
+e2thex calls 0.20
+sevenk calls 0.20
+** Flop ** [Th Jh 3c]
+crackrock bets 0.35
+e2thex calls 0.35
+sevenk folds
+** Turn ** [Td]
+crackrock checks
+e2thex checks
+** River ** [3d]
+crackrock bets 0.80
+e2thex folds
+crackrock refunded 0.80
+crackrock wins Pot (1.56)
+Rake (0.04)
+
+
+
+Hand #38452457-180 - 2015-01-15 00:44:25
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.70)
+Seat 2: Dewby (3.99)
+Seat 3: TheMadPriest (10.79)
+Seat 4: crackrock (11.24)
+Seat 5: e2thex (13.04)
+crackrock has the dealer button
+e2thex posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2c 8d]
+Dewby calls 0.10
+TheMadPriest folds
+crackrock folds
+e2thex folds
+sevenk checks
+** Flop ** [Ah Ks Qd]
+sevenk checks
+Dewby checks
+** Turn ** [Jd]
+sevenk checks
+Dewby checks
+** River ** [8h]
+sevenk checks
+Dewby checks
+** Pot Show Down ** [Ah Ks Qd Jd 8h]
+sevenk shows [2c 8d] (a Pair of Eights +AKQ)
+Dewby shows [9s Kh] (a Pair of Kings +AQJ)
+Dewby wins Pot (0.25) with a Pair
+Rake (0)
+
+
+
+Hand #38452495-181 - 2015-01-15 00:45:04
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.60)
+Seat 2: Dewby (4.14)
+Seat 3: TheMadPriest (10.79)
+Seat 4: crackrock (11.24)
+Seat 5: e2thex (12.99)
+e2thex has the dealer button
+sevenk posts small blind 0.05
+Dewby posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qh 9d]
+TheMadPriest calls 0.10
+crackrock folds
+e2thex raises to 0.20
+sevenk calls 0.15
+Dewby calls 0.10
+TheMadPriest calls 0.10
+** Flop ** [Tc 3h 7c]
+sevenk checks
+Dewby checks
+TheMadPriest checks
+e2thex checks
+** Turn ** [5d]
+sevenk checks
+Dewby checks
+TheMadPriest bets 0.60
+e2thex calls 0.60
+sevenk folds
+Dewby folds
+** River ** [3c]
+TheMadPriest bets 2.13
+e2thex folds
+TheMadPriest refunded 2.13
+TheMadPriest wins Pot (1.95)
+Rake (0.05)
+
+
+
+Hand #38452561-182 - 2015-01-15 00:46:13
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.40)
+Seat 2: Dewby (3.94)
+Seat 3: TheMadPriest (11.94)
+Seat 4: crackrock (11.24)
+Seat 5: e2thex (12.19)
+sevenk has the dealer button
+Dewby posts small blind 0.05
+TheMadPriest posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [As Qd]
+crackrock folds
+e2thex raises to 0.20
+sevenk raises to 0.50
+Dewby folds
+TheMadPriest folds
+e2thex calls 0.30
+** Flop ** [Ad Kh 2h]
+e2thex bets 0.10
+sevenk raises to 0.60
+e2thex folds
+sevenk refunded 0.50
+sevenk wins Pot (1.32)
+Rake (0.03)
+
+
+
+Hand #38452605-183 - 2015-01-15 00:47:00
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10.12)
+Seat 2: Dewby (3.89)
+Seat 3: TheMadPriest (11.84)
+Seat 4: crackrock (11.24)
+Seat 5: e2thex (11.59)
+Dewby has the dealer button
+TheMadPriest posts small blind 0.05
+crackrock posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5s 9c]
+e2thex folds
+sevenk folds
+Dewby calls 0.10
+TheMadPriest calls 0.05
+crackrock checks
+** Flop ** [Jc 4c 5h]
+TheMadPriest checks
+crackrock checks
+Dewby bets 0.30
+TheMadPriest calls 0.30
+crackrock folds
+** Turn ** [2s]
+TheMadPriest checks
+Dewby bets 0.90
+TheMadPriest calls 0.90
+** River ** [4h]
+TheMadPriest checks
+Dewby checks
+** Pot Show Down ** [Jc 4c 5h 2s 4h]
+Dewby shows [2d Jh] (Two Pair, Jacks and Fours +5)
+TheMadPriest shows [3c Qc] (a Pair of Fours +QJ5)
+Dewby wins Pot (2.64) with Two Pair
+Rake (0.06)
+
+
+
+Hand #38452663-184 - 2015-01-15 00:48:02
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10.12)
+Seat 2: Dewby (5.23)
+Seat 3: TheMadPriest (10.54)
+Seat 4: crackrock (11.14)
+Seat 5: e2thex (11.59)
+TheMadPriest has the dealer button
+crackrock posts small blind 0.05
+e2thex posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6d Ks]
+sevenk folds
+Dewby calls 0.10
+TheMadPriest folds
+crackrock folds
+e2thex checks
+** Flop ** [Td 6c 3d]
+e2thex bets 0.10
+Dewby calls 0.10
+** Turn ** [Qc]
+e2thex bets 0.20
+Dewby calls 0.20
+** River ** [3h]
+e2thex checks
+Dewby checks
+** Pot Show Down ** [Td 6c 3d Qc 3h]
+Dewby shows [Tc Jd] (Two Pair, Tens and Threes +Q)
+e2thex shows [7h Jh] (a Pair of Threes +QJT)
+Dewby wins Pot (0.83) with Two Pair
+Rake (0.02)
+
+
+
+Hand #38452700-185 - 2015-01-15 00:48:54
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10.12)
+Seat 2: Dewby (5.66)
+Seat 3: TheMadPriest (10.54)
+Seat 4: crackrock (11.09)
+Seat 5: e2thex (11.19)
+crackrock has the dealer button
+e2thex posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4s Qs]
+Dewby calls 0.10
+TheMadPriest folds
+crackrock folds
+e2thex calls 0.05
+sevenk checks
+** Flop ** [Ad 5s 9d]
+e2thex checks
+sevenk checks
+Dewby checks
+** Turn ** [Jh]
+e2thex checks
+sevenk checks
+Dewby bets 0.30
+e2thex folds
+sevenk folds
+Dewby refunded 0.30
+Dewby wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #38452748-186 - 2015-01-15 00:49:52
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10.02)
+Seat 2: Dewby (5.86)
+Seat 3: TheMadPriest (10.54)
+Seat 4: crackrock (11.09)
+Seat 5: e2thex (11.09)
+e2thex has the dealer button
+sevenk posts small blind 0.05
+Dewby posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5s As]
+TheMadPriest raises to 0.30
+crackrock folds
+e2thex folds
+sevenk folds
+Dewby folds
+TheMadPriest refunded 0.20
+TheMadPriest wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38452771-187 - 2015-01-15 00:50:14
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.97)
+Seat 2: Dewby (5.76)
+Seat 3: TheMadPriest (10.69)
+Seat 4: crackrock (11.09)
+Seat 5: e2thex (11.09)
+sevenk has the dealer button
+Dewby posts small blind 0.05
+TheMadPriest posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c 9d]
+crackrock folds
+e2thex raises to 0.20
+sevenk raises to 0.50
+Dewby folds
+TheMadPriest folds
+e2thex folds
+sevenk refunded 0.30
+sevenk wins Pot (0.55)
+Rake (0)
+
+
+
+Hand #38452798-188 - 2015-01-15 00:50:49
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10.32)
+Seat 2: Dewby (5.71)
+Seat 3: TheMadPriest (10.59)
+Seat 4: crackrock (11.09)
+Seat 5: e2thex (10.89)
+Dewby has the dealer button
+TheMadPriest posts small blind 0.05
+crackrock posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3d Js]
+e2thex folds
+sevenk folds
+Dewby folds
+TheMadPriest raises to 0.30
+crackrock folds
+TheMadPriest refunded 0.20
+TheMadPriest wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38452816-189 - 2015-01-15 00:51:14
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10.32)
+Seat 2: Dewby (5.71)
+Seat 3: TheMadPriest (10.69)
+Seat 5: e2thex (10.89)
+TheMadPriest has the dealer button
+e2thex posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ks 5s]
+Dewby folds
+TheMadPriest raises to 0.30
+e2thex folds
+sevenk folds
+TheMadPriest refunded 0.20
+TheMadPriest wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38452832-190 - 2015-01-15 00:51:39
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10.22)
+Seat 2: Dewby (5.71)
+Seat 3: TheMadPriest (10.84)
+Seat 5: e2thex (10.84)
+e2thex has the dealer button
+sevenk posts small blind 0.05
+Dewby posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2d 5c]
+TheMadPriest folds
+e2thex raises to 0.20
+sevenk folds
+Dewby calls 0.10
+** Flop ** [Tc Ts 4s]
+Dewby checks
+e2thex bets 0.20
+Dewby folds
+e2thex refunded 0.20
+e2thex wins Pot (0.44)
+Rake (0.01)
+
+
+
+Hand #38452862-191 - 2015-01-15 00:52:14
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10.17)
+Seat 2: Dewby (5.51)
+Seat 3: TheMadPriest (10.84)
+Seat 5: e2thex (11.08)
+sevenk has the dealer button
+Dewby posts small blind 0.05
+TheMadPriest posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5h 4c]
+e2thex raises to 0.20
+sevenk folds
+Dewby folds
+TheMadPriest raises to 0.50
+e2thex calls 0.30
+** Flop ** [5c Jc 3s]
+TheMadPriest bets 0.60
+e2thex calls 0.60
+** Turn ** [Qs]
+TheMadPriest checks
+e2thex checks
+** River ** [2c]
+TheMadPriest checks
+e2thex checks
+** Pot Show Down ** [5c Jc 3s Qs 2c]
+TheMadPriest shows [Jh 2s] (Two Pair, Jacks and Deuces +Q)
+e2thex shows [Js 7s] (a Pair of Jacks +Q75)
+TheMadPriest wins Pot (2.20) with Two Pair
+Rake (0.05)
+
+
+
+Hand #38452907-192 - 2015-01-15 00:53:15
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 2: Dewby (5.46)
+Seat 3: TheMadPriest (11.94)
+Seat 4: sevenk (10.17) - waiting for big blind
+Seat 5: e2thex (9.98)
+Dewby has the dealer button
+TheMadPriest posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4s 3c]
+e2thex raises to 0.20
+Dewby calls 0.20
+TheMadPriest folds
+sevenk calls 0.10
+** Flop ** [Qc 2c 9d]
+sevenk checks
+e2thex checks
+Dewby checks
+** Turn ** [8c]
+sevenk checks
+e2thex checks
+Dewby checks
+** River ** [Kd]
+sevenk checks
+e2thex checks
+Dewby checks
+** Pot Show Down ** [Qc 2c 9d 8c Kd]
+Dewby shows [Js Ac] (High Card Ace +KQJ9)
+sevenk shows [4s 3c] (High Card King +Q984)
+e2thex shows [2s Ad] (a Pair of Deuces +AKQ)
+e2thex wins Pot (0.64) with a Pair
+Rake (0.01)
+
+
+
+Hand #38452957-193 - 2015-01-15 00:54:28
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 2: Dewby (5.26)
+Seat 3: TheMadPriest (11.89)
+Seat 4: sevenk (9.97)
+Seat 5: e2thex (10.42)
+Seat 6: shabutie (10) - waiting for big blind
+TheMadPriest has the dealer button
+sevenk posts small blind 0.05
+e2thex posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qs 6s]
+Dewby folds
+TheMadPriest raises to 0.30
+sevenk folds
+e2thex calls 0.20
+** Flop ** [8d Qh 2c]
+e2thex bets 0.30
+TheMadPriest raises to 0.80
+e2thex folds
+TheMadPriest refunded 0.50
+TheMadPriest wins Pot (1.22)
+Rake (0.03)
+
+
+
+Hand #38453000-194 - 2015-01-15 00:55:27
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 2: Dewby (5.26)
+Seat 3: TheMadPriest (12.51)
+Seat 4: sevenk (9.92)
+Seat 5: e2thex (9.82)
+Seat 6: shabutie (10) - waiting for big blind
+sevenk has the dealer button
+e2thex posts small blind 0.05
+shabutie posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ad Kh]
+Dewby folds
+TheMadPriest folds
+sevenk raises to 0.25
+e2thex calls 0.20
+shabutie calls 0.15
+** Flop ** [Th 8d 4s]
+e2thex checks
+shabutie checks
+sevenk bets 0.40
+e2thex folds
+shabutie calls 0.40
+** Turn ** [7s]
+shabutie checks
+sevenk checks
+** River ** [9d]
+shabutie checks
+sevenk bets 1
+shabutie folds
+sevenk refunded 1
+sevenk wins Pot (1.52)
+Rake (0.03)
+
+
+
+Hand #38453098-195 - 2015-01-15 00:57:30
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: fishtvshow (10)
+Seat 2: Dewby (5.26)
+Seat 3: TheMadPriest (12.51)
+Seat 4: sevenk (10.79)
+Seat 5: e2thex (9.57)
+Seat 6: shabutie (9.35)
+e2thex has the dealer button
+shabutie posts small blind 0.05
+fishtvshow posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kc 6h]
+Dewby folds
+TheMadPriest raises to 0.30
+sevenk folds
+e2thex folds
+shabutie folds
+fishtvshow folds
+TheMadPriest refunded 0.20
+TheMadPriest wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38453128-196 - 2015-01-15 00:58:06
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: fishtvshow (9.90)
+Seat 2: Dewby (5.26)
+Seat 3: TheMadPriest (12.66)
+Seat 4: sevenk (10.79)
+Seat 5: e2thex (9.57)
+Seat 6: shabutie (9.30)
+shabutie has the dealer button
+fishtvshow posts small blind 0.05
+Dewby posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9d Jh]
+TheMadPriest raises to 0.30
+sevenk folds
+e2thex calls 0.30
+shabutie calls 0.30
+fishtvshow calls 0.25
+Dewby calls 0.20
+** Flop ** [2c Th 6c]
+fishtvshow checks
+Dewby checks
+TheMadPriest checks
+e2thex checks
+shabutie checks
+** Turn ** [3d]
+fishtvshow checks
+Dewby checks
+TheMadPriest bets 0.85
+e2thex folds
+shabutie folds
+fishtvshow has timed out
+fishtvshow folds
+Dewby folds
+TheMadPriest refunded 0.85
+TheMadPriest wins Pot (1.47)
+Rake (0.03)
+TheMadPriest shows [8c Ah]
+
+
+
+Hand #38453213-197 - 2015-01-15 01:00:10
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: fishtvshow (9.60) - sitting out
+Seat 2: Dewby (4.96)
+Seat 3: TheMadPriest (13.83)
+Seat 4: sevenk (10.79)
+Seat 5: e2thex (9.27)
+Seat 6: shabutie (9)
+Dewby has the dealer button
+TheMadPriest posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s Js]
+e2thex raises to 0.20
+shabutie calls 0.20
+Dewby calls 0.20
+TheMadPriest folds
+sevenk calls 0.10
+** Flop ** [8c Ad 4s]
+sevenk checks
+e2thex bets 0.40
+shabutie folds
+Dewby folds
+sevenk folds
+e2thex refunded 0.40
+e2thex wins Pot (0.83)
+Rake (0.02)
+
+
+
+Hand #38453258-198 - 2015-01-15 01:01:16
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: fishtvshow (9.60) - sitting out
+Seat 2: Dewby (4.76)
+Seat 4: sevenk (10.59)
+Seat 5: e2thex (9.90)
+Seat 6: shabutie (8.80)
+sevenk has the dealer button
+e2thex posts small blind 0.05
+shabutie posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qh 8d]
+Dewby calls 0.10
+sevenk calls 0.10
+e2thex calls 0.05
+shabutie checks
+** Flop ** [Ad Ac 7h]
+e2thex bets 0.25
+shabutie folds
+Dewby folds
+sevenk folds
+e2thex refunded 0.25
+e2thex wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38453297-199 - 2015-01-15 01:02:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: fishtvshow (9.60)
+Seat 2: Dewby (4.66)
+Seat 3: amigo009 (4) - waiting for big blind
+Seat 4: sevenk (10.49)
+Seat 5: e2thex (10.19)
+Seat 6: shabutie (8.70)
+e2thex has the dealer button
+shabutie posts small blind 0.05
+fishtvshow posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5h 8h]
+Dewby calls 0.10
+sevenk calls 0.10
+e2thex calls 0.10
+shabutie calls 0.05
+fishtvshow checks
+** Flop ** [4d Qc 2s]
+shabutie checks
+fishtvshow folds
+Dewby checks
+sevenk checks
+e2thex bets 0.30
+shabutie folds
+Dewby calls 0.30
+sevenk folds
+** Turn ** [6s]
+Dewby checks
+e2thex checks
+** River ** [Js]
+Dewby checks
+e2thex bets 0.40
+Dewby folds
+e2thex refunded 0.40
+e2thex wins Pot (1.08)
+Rake (0.02)
+
+
+
+Hand #38453365-200 - 2015-01-15 01:03:39
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 2: Dewby (4.26)
+Seat 3: amigo009 (4) - waiting for big blind
+Seat 4: sevenk (10.39)
+Seat 5: e2thex (10.87)
+Seat 6: shabutie (8.60)
+shabutie has the dealer button
+Dewby posts small blind 0.05
+amigo009 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Js Qs]
+sevenk raises to 0.30
+e2thex calls 0.30
+shabutie calls 0.30
+Dewby folds
+amigo009 folds
+** Flop ** [Ks 8c Ad]
+sevenk checks
+e2thex checks
+shabutie checks
+** Turn ** [7d]
+sevenk checks
+e2thex bets 0.40
+shabutie calls 0.40
+sevenk folds
+** River ** [4d]
+e2thex bets 0.20
+shabutie folds
+e2thex refunded 0.20
+e2thex wins Pot (1.81)
+Rake (0.04)
+
+
+
+Hand #38453430-201 - 2015-01-15 01:05:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 2: Dewby (4.21)
+Seat 3: amigo009 (3.90)
+Seat 4: sevenk (10.09)
+Seat 5: e2thex (11.98)
+Seat 6: shabutie (7.90)
+Dewby has the dealer button
+amigo009 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3c Jh]
+e2thex folds
+shabutie folds
+Dewby calls 0.10
+amigo009 calls 0.05
+sevenk checks
+** Flop ** [4d 2s Qs]
+amigo009 bets 0.10
+shabutie adds 2.10 chips
+sevenk folds
+Dewby raises to 0.20
+amigo009 calls 0.10
+** Turn ** [Ks]
+amigo009 bets 0.50
+Dewby calls 0.50
+** River ** [Kd]
+amigo009 bets 0.80
+Dewby raises to 2.40
+amigo009 calls 1.60
+** Pot Show Down ** [4d 2s Qs Ks Kd]
+Dewby shows [As 4s] (a Flush, Ace high +KQ42)
+amigo009 shows [6s Ts] (a Flush, King high +QT62)
+Dewby wins Pot (6.34) with a Flush
+Rake (0.16)
+
+
+
+Hand #38453481-202 - 2015-01-15 01:06:13
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 2: Dewby (7.35)
+Seat 3: amigo009 (0.70)
+Seat 4: sevenk (9.99)
+Seat 6: shabutie (10)
+amigo009 has the dealer button
+sevenk posts small blind 0.05
+shabutie posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ah Th]
+Dewby calls 0.10
+amigo009 calls 0.10
+sevenk raises to 0.50
+shabutie calls 0.40
+Dewby calls 0.40
+amigo009 raises to 0.70 (All-in)
+sevenk calls 0.20
+shabutie calls 0.20
+Dewby calls 0.20
+** Flop ** [9c 3c 8d]
+sevenk checks
+shabutie bets 0.75
+Dewby calls 0.75
+sevenk folds
+** Turn ** [9h]
+shabutie bets 2
+Dewby raises to 4
+shabutie calls 2
+** River ** [9s]
+shabutie checks
+Dewby bets 1.90 (All-in)
+shabutie calls 1.90
+** Side Pot 1 Show Down ** [9c 3c 8d 9h 9s]
+Dewby shows [Qd 9d] (Four of a Kind, Nines +Q)
+shabutie shows [Kh Kd] (a Full House, Nines full of Kings)
+Dewby wins Side Pot 1 (12.97) with Four of a Kind
+Rake (0.33)
+** Main Pot Show Down ** [9c 3c 8d 9h 9s]
+amigo009 shows [Kc Ks] (a Full House, Nines full of Kings)
+Dewby wins Main Pot (2.73) with Four of a Kind
+Rake (0.07)
+
+
+
+Hand #38453572-203 - 2015-01-15 01:08:11
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: blunderdog82 (10) - waiting for big blind
+Seat 2: Dewby (15.70)
+Seat 3: amigo009 (0) - sitting out
+Seat 4: sevenk (9.29)
+Seat 6: shabutie (2.65)
+sevenk has the dealer button
+shabutie posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ts 2d]
+Dewby folds
+sevenk folds
+shabutie raises to 0.20
+blunderdog82 folds
+shabutie refunded 0.10
+shabutie wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38453585-204 - 2015-01-15 01:08:31
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: blunderdog82 (9.90)
+Seat 2: Dewby (15.70)
+Seat 3: amigo009 (0) - sitting out
+Seat 4: sevenk (9.29)
+Seat 6: shabutie (2.75)
+shabutie has the dealer button
+blunderdog82 posts small blind 0.05
+Dewby posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7c 7h]
+sevenk raises to 0.30
+shabutie folds
+amigo009 adds 2 chips
+blunderdog82 folds
+Dewby calls 0.20
+** Flop ** [8c Jc Ad]
+Dewby checks
+sevenk checks
+** Turn ** [2c]
+Dewby checks
+sevenk checks
+** River ** [Ac]
+Dewby checks
+sevenk bets 0.40
+Dewby calls 0.40
+** Pot Show Down ** [8c Jc Ad 2c Ac]
+Dewby shows [5d As] (Three of a Kind, Aces +J8)
+sevenk shows [7c 7h] (a Flush, Ace high +J872)
+sevenk wins Pot (1.42) with a Flush
+Rake (0.03)
+
+
+
+Hand #38453636-205 - 2015-01-15 01:09:44
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: blunderdog82 (9.85)
+Seat 2: Dewby (15)
+Seat 3: amigo009 (2)
+Seat 4: sevenk (10.01)
+Seat 6: shabutie (2.75)
+blunderdog82 has the dealer button
+Dewby posts small blind 0.05
+amigo009 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4s 3c]
+sevenk folds
+shabutie folds
+blunderdog82 folds
+Dewby calls 0.05
+amigo009 checks
+** Flop ** [Kc 9c 4c]
+Dewby checks
+amigo009 checks
+** Turn ** [5c]
+Dewby checks
+amigo009 checks
+** River ** [Kd]
+Dewby checks
+amigo009 checks
+** Pot Show Down ** [Kc 9c 4c 5c Kd]
+Dewby shows [3s 5s] (Two Pair, Kings and Fives +9)
+amigo009 shows [2c Th] (a Flush, King high +9542)
+amigo009 wins Pot (0.20) with a Flush
+Rake (0)

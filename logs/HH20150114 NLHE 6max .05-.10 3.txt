@@ -1,0 +1,692 @@
+Hand #38430589-87 - 2015-01-14 17:20:04
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (10) - waiting for big blind
+Seat 2: ms1323 (4.64) - sitting out
+Seat 3: knighthere (22.28)
+Seat 4: btcpokerfund (9.40)
+Seat 5: balaBala (9.30) - sitting out
+Seat 6: mesz99 (13.30)
+btcpokerfund has the dealer button
+mesz99 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2d 7c]
+knighthere raises to 0.30
+btcpokerfund folds
+mesz99 folds
+sevenk folds
+knighthere refunded 0.20
+knighthere wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38430607-88 - 2015-01-14 17:20:24
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (9.90)
+Seat 2: ms1323 (4.64) - sitting out
+Seat 3: knighthere (22.43)
+Seat 4: btcpokerfund (9.40)
+Seat 5: balaBala (9.30) - sitting out
+Seat 6: mesz99 (13.25)
+mesz99 has the dealer button
+sevenk posts small blind 0.05
+knighthere posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Js Ts]
+btcpokerfund raises to 0.40
+mesz99 calls 0.40
+sevenk calls 0.35
+knighthere folds
+** Flop ** [Jh 7s 2d]
+sevenk checks
+btcpokerfund bets 0.89
+mesz99 folds
+sevenk calls 0.89
+** Turn ** [Ad]
+sevenk checks
+btcpokerfund checks
+** River ** [Ks]
+sevenk checks
+btcpokerfund bets 6.02
+sevenk folds
+btcpokerfund refunded 6.02
+btcpokerfund wins Pot (3.01)
+Rake (0.07)
+
+
+
+Hand #38430663-89 - 2015-01-14 17:21:41
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (8.61)
+Seat 2: ms1323 (4.64)
+Seat 3: knighthere (22.33)
+Seat 4: btcpokerfund (11.12)
+Seat 5: balaBala (9.30) - sitting out
+Seat 6: mesz99 (12.85)
+sevenk has the dealer button
+knighthere posts small blind 0.05
+btcpokerfund posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6c 6d]
+mesz99 calls 0.10
+sevenk calls 0.10
+knighthere calls 0.05
+btcpokerfund checks
+** Flop ** [5d 3h 8h]
+knighthere checks
+btcpokerfund checks
+mesz99 checks
+sevenk bets 0.25
+knighthere folds
+btcpokerfund folds
+mesz99 folds
+sevenk refunded 0.25
+sevenk wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38430695-90 - 2015-01-14 17:22:27
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (8.90)
+Seat 2: laurex (2)
+Seat 3: knighthere (22.23)
+Seat 4: btcpokerfund (11.02)
+Seat 5: balaBala (9.30) - sitting out
+Seat 6: mesz99 (12.75)
+knighthere has the dealer button
+btcpokerfund posts small blind 0.05
+mesz99 posts big blind 0.10
+laurex posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ad 3d]
+sevenk calls 0.10
+laurex checks
+knighthere raises to 0.40
+btcpokerfund folds
+mesz99 calls 0.30
+sevenk calls 0.30
+laurex folds
+** Flop ** [2c 4c Js]
+mesz99 checks
+sevenk checks
+knighthere bets 0.60
+mesz99 folds
+sevenk folds
+knighthere refunded 0.60
+knighthere wins Pot (1.32)
+Rake (0.03)
+
+
+
+Hand #38430744-91 - 2015-01-14 17:23:26
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (8.50)
+Seat 2: ms1323 (4.64)
+Seat 3: knighthere (23.15)
+Seat 4: btcpokerfund (10.97)
+Seat 5: balaBala (9.30) - sitting out
+Seat 6: mesz99 (12.35)
+btcpokerfund has the dealer button
+mesz99 posts small blind 0.05
+sevenk posts big blind 0.10
+ms1323 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6d Td]
+ms1323 checks
+knighthere folds
+btcpokerfund folds
+mesz99 calls 0.05
+sevenk checks
+** Flop ** [Ac 5s 8h]
+mesz99 checks
+sevenk checks
+ms1323 bets 0.40
+mesz99 folds
+sevenk folds
+ms1323 refunded 0.40
+ms1323 wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #38430775-92 - 2015-01-14 17:24:10
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (8.40)
+Seat 2: ms1323 (4.84)
+Seat 3: knighthere (23.15)
+Seat 4: btcpokerfund (10.97)
+Seat 5: balaBala (9.30) - sitting out
+Seat 6: mesz99 (12.25)
+mesz99 has the dealer button
+sevenk posts small blind 0.05
+ms1323 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8h 7c]
+knighthere raises to 0.30
+btcpokerfund folds
+mesz99 folds
+sevenk folds
+ms1323 calls 0.20
+** Flop ** [8s Ts Tc]
+ms1323 checks
+knighthere checks
+** Turn ** [6s]
+ms1323 checks
+knighthere bets 0.40
+ms1323 folds
+knighthere refunded 0.40
+knighthere wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #38430813-93 - 2015-01-14 17:24:57
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (8.35)
+Seat 2: ms1323 (4.54)
+Seat 3: knighthere (23.49)
+Seat 4: btcpokerfund (10.97)
+Seat 6: mesz99 (12.25)
+sevenk has the dealer button
+ms1323 posts small blind 0.05
+knighthere posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5d 3h]
+btcpokerfund folds
+mesz99 folds
+sevenk folds
+ms1323 raises to 0.70
+knighthere folds
+ms1323 refunded 0.60
+ms1323 wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38430836-94 - 2015-01-14 17:25:30
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (8.35)
+Seat 2: ms1323 (4.64)
+Seat 3: knighthere (23.39)
+Seat 4: btcpokerfund (10.97)
+Seat 5: Regnier (3.96)
+Seat 6: mesz99 (12.25)
+ms1323 has the dealer button
+knighthere posts small blind 0.05
+btcpokerfund posts big blind 0.10
+Regnier posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4s Jd]
+Regnier checks
+mesz99 folds
+sevenk folds
+ms1323 folds
+knighthere folds
+btcpokerfund checks
+** Flop ** [6d As 9c]
+btcpokerfund checks
+Regnier bets 0.20
+btcpokerfund folds
+Regnier refunded 0.20
+Regnier wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38430860-95 - 2015-01-14 17:26:03
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (8.35)
+Seat 2: ms1323 (4.64)
+Seat 3: knighthere (23.34)
+Seat 4: btcpokerfund (10.87)
+Seat 5: Regnier (4.11)
+Seat 6: mesz99 (12.25)
+knighthere has the dealer button
+btcpokerfund posts small blind 0.05
+Regnier posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6c 7s]
+mesz99 folds
+sevenk folds
+ms1323 calls 0.10
+knighthere raises to 0.30
+btcpokerfund folds
+Regnier folds
+ms1323 calls 0.20
+** Flop ** [Kd As Kh]
+ms1323 checks
+knighthere bets 0.40
+ms1323 folds
+knighthere refunded 0.40
+knighthere wins Pot (0.74)
+Rake (0.01)
+
+
+
+Hand #38430893-96 - 2015-01-14 17:26:46
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (8.35)
+Seat 2: ms1323 (4.34)
+Seat 3: knighthere (23.78)
+Seat 4: btcpokerfund (10.82)
+Seat 5: Regnier (4.01)
+Seat 6: mesz99 (12.25)
+btcpokerfund has the dealer button
+Regnier posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4s 9c]
+sevenk folds
+ms1323 folds
+knighthere raises to 0.30
+btcpokerfund folds
+Regnier folds
+mesz99 calls 0.20
+** Flop ** [Ks 8s 2h]
+mesz99 checks
+knighthere checks
+** Turn ** [Jd]
+mesz99 checks
+knighthere bets 0.40
+mesz99 folds
+knighthere refunded 0.40
+knighthere wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #38430924-97 - 2015-01-14 17:27:27
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (8.35)
+Seat 2: ms1323 (4.34)
+Seat 3: knighthere (24.12)
+Seat 4: btcpokerfund (10.82)
+Seat 5: Regnier (3.96)
+Seat 6: mesz99 (11.95)
+Regnier has the dealer button
+mesz99 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc Js]
+ms1323 folds
+knighthere folds
+btcpokerfund folds
+Regnier folds
+mesz99 raises to 0.40
+sevenk calls 0.30
+** Flop ** [7c 7s 6d]
+mesz99 checks
+sevenk bets 0.40
+mesz99 folds
+sevenk refunded 0.40
+sevenk wins Pot (0.78)
+Rake (0.02)
+
+
+
+Hand #38430953-98 - 2015-01-14 17:28:10
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (8.73)
+Seat 2: ms1323 (4.34)
+Seat 3: knighthere (24.12)
+Seat 4: btcpokerfund (10.82)
+Seat 5: Regnier (3.96)
+Seat 6: mesz99 (11.55)
+mesz99 has the dealer button
+sevenk posts small blind 0.05
+ms1323 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kd Th]
+knighthere folds
+btcpokerfund folds
+Regnier folds
+mesz99 raises to 0.50
+sevenk folds
+ms1323 folds
+mesz99 refunded 0.40
+mesz99 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38430977-99 - 2015-01-14 17:28:41
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (8.68)
+Seat 2: ms1323 (4.24)
+Seat 3: knighthere (24.12)
+Seat 4: btcpokerfund (10.82)
+Seat 5: Regnier (3.96)
+Seat 6: mesz99 (11.70)
+sevenk has the dealer button
+ms1323 posts small blind 0.05
+knighthere posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4c Ac]
+btcpokerfund folds
+Regnier folds
+mesz99 raises to 0.30
+sevenk calls 0.30
+ms1323 calls 0.25
+knighthere folds
+** Flop ** [2c Jd 8c]
+ms1323 checks
+mesz99 checks
+sevenk bets 0.60
+ms1323 folds
+mesz99 folds
+sevenk refunded 0.60
+sevenk wins Pot (0.98)
+Rake (0.02)
+
+
+
+Hand #38431014-100 - 2015-01-14 17:29:25
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (9.36)
+Seat 2: ms1323 (3.94)
+Seat 3: knighthere (24.02)
+Seat 4: btcpokerfund (10.82)
+Seat 5: Regnier (3.96)
+Seat 6: mesz99 (11.40)
+ms1323 has the dealer button
+knighthere posts small blind 0.05
+btcpokerfund posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ah 7s]
+Regnier raises to 0.20
+mesz99 raises to 0.40
+sevenk folds
+ms1323 calls 0.40
+knighthere calls 0.35
+btcpokerfund calls 0.30
+Regnier calls 0.20
+** Flop ** [Jh 5c Kc]
+knighthere checks
+btcpokerfund bets 1.29
+Regnier folds
+mesz99 folds
+ms1323 folds
+knighthere calls 1.29
+** Turn ** [7h]
+knighthere checks
+btcpokerfund bets 2.99
+knighthere raises to 8.20
+btcpokerfund raises to 9.13 (All-in)
+knighthere calls 0.93
+** River ** [Ks]
+** Pot Show Down ** [Jh 5c Kc 7h Ks]
+knighthere shows [Qh Kd] (Three of a Kind, Kings +QJ)
+btcpokerfund shows [Kh Ac] (Three of a Kind, Kings +AJ)
+btcpokerfund wins Pot (22.34) with Three of a Kind
+Rake (0.50)
+
+
+
+Hand #38431103-101 - 2015-01-14 17:31:23
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (9.36)
+Seat 2: ms1323 (3.54)
+Seat 3: knighthere (13.20)
+Seat 4: btcpokerfund (22.34)
+Seat 5: Regnier (3.56)
+Seat 6: mesz99 (11)
+knighthere has the dealer button
+btcpokerfund posts small blind 0.05
+Regnier posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qs 4c]
+mesz99 raises to 0.50
+sevenk folds
+ms1323 folds
+knighthere folds
+btcpokerfund folds
+Regnier folds
+mesz99 refunded 0.40
+mesz99 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38431121-102 - 2015-01-14 17:31:49
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (9.36)
+Seat 2: ms1323 (3.54)
+Seat 3: knighthere (13.20)
+Seat 4: btcpokerfund (22.29)
+Seat 5: Regnier (3.46)
+Seat 6: mesz99 (11.15)
+btcpokerfund has the dealer button
+Regnier posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8h Qs]
+sevenk folds
+ms1323 folds
+knighthere raises to 0.30
+btcpokerfund folds
+Regnier folds
+mesz99 calls 0.20
+** Flop ** [5h 7h 6h]
+mesz99 checks
+knighthere bets 0.40
+mesz99 calls 0.40
+** Turn ** [Th]
+mesz99 checks
+knighthere checks
+** River ** [Qd]
+mesz99 checks
+knighthere checks
+** Pot Show Down ** [5h 7h 6h Th Qd]
+knighthere shows [Kd Jc] (High Card King +QJT7)
+mesz99 shows [Ad Jh] (a Flush, Jack high +T765)
+mesz99 wins Pot (1.42) with a Flush
+Rake (0.03)
+
+
+
+Hand #38431168-103 - 2015-01-14 17:32:48
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (9.36)
+Seat 2: ms1323 (3.54)
+Seat 3: knighthere (12.50)
+Seat 4: btcpokerfund (22.29)
+Seat 6: mesz99 (11.87)
+mesz99 has the dealer button
+sevenk posts small blind 0.05
+ms1323 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qd 6s]
+knighthere folds
+btcpokerfund folds
+mesz99 raises to 0.27
+sevenk folds
+ms1323 calls 0.17
+** Flop ** [4c Ad Ts]
+ms1323 bets 0.20
+mesz99 folds
+ms1323 refunded 0.20
+ms1323 wins Pot (0.58)
+Rake (0.01)
+
+
+
+Hand #38431200-104 - 2015-01-14 17:33:25
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (9.31)
+Seat 2: ms1323 (3.85)
+Seat 3: knighthere (12.50)
+Seat 4: btcpokerfund (22.29)
+Seat 6: mesz99 (11.60)
+sevenk has the dealer button
+ms1323 posts small blind 0.05
+knighthere posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4s Js]
+btcpokerfund folds
+mesz99 raises to 0.20
+sevenk calls 0.20
+ms1323 calls 0.15
+knighthere raises to 1
+mesz99 folds
+sevenk folds
+ms1323 folds
+knighthere refunded 0.80
+knighthere wins Pot (0.80)
+Rake (0)
+
+
+
+Hand #38431231-105 - 2015-01-14 17:34:10
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (9.11)
+Seat 2: ms1323 (3.65)
+Seat 3: knighthere (13.10)
+Seat 4: btcpokerfund (22.29)
+Seat 6: mesz99 (11.40)
+ms1323 has the dealer button
+knighthere posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6h 9h]
+sevenk raises to 0.30
+ms1323 calls 0.30
+knighthere folds
+mesz99 calls 0.20
+** Flop ** [6d 6s 5c]
+mesz99 checks
+sevenk bets 0.50
+ms1323 folds
+mesz99 calls 0.50
+** Turn ** [Ah]
+mesz99 checks
+sevenk bets 1
+mesz99 folds
+sevenk refunded 1
+sevenk wins Pot (1.91)
+Rake (0.04)
+
+
+
+Hand #38431282-106 - 2015-01-14 17:35:20
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (10.22)
+Seat 2: ms1323 (3.35)
+Seat 3: knighthere (13.05)
+Seat 4: btcpokerfund (22.29) - sitting out
+Seat 6: mesz99 (10.60)
+knighthere has the dealer button
+mesz99 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8c Jd]
+ms1323 calls 0.10
+knighthere folds
+mesz99 folds
+sevenk checks
+** Flop ** [2s 2c Ad]
+sevenk checks
+ms1323 bets 0.50
+sevenk folds
+ms1323 refunded 0.50
+ms1323 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38431320-107 - 2015-01-14 17:36:06
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (10.12)
+Seat 2: ms1323 (3.50)
+Seat 3: knighthere (13.05)
+Seat 6: mesz99 (10.55)
+mesz99 has the dealer button
+sevenk posts small blind 0.05
+ms1323 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Td Js]
+knighthere folds
+mesz99 raises to 0.55
+sevenk folds
+ms1323 folds
+mesz99 refunded 0.45
+mesz99 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38431361-108 - 2015-01-14 17:36:52
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #3
+Seat 1: sevenk (10.07)
+Seat 2: ms1323 (3.40)
+Seat 3: knighthere (13.05)
+Seat 6: mesz99 (10.70)
+sevenk has the dealer button
+ms1323 posts small blind 0.05
+knighthere posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ad Qc]
+mesz99 folds
+sevenk raises to 0.25
+ms1323 calls 0.20
+knighthere folds
+** Flop ** [9s 9h Ks]
+ms1323 checks
+sevenk checks
+** Turn ** [Ah]
+ms1323 bets 0.50
+sevenk calls 0.50
+** River ** [5h]
+ms1323 bets 0.50
+sevenk calls 0.50
+** Pot Show Down ** [9s 9h Ks Ah 5h]
+sevenk shows [Ad Qc] (Two Pair, Aces and Nines +K)
+ms1323 shows [8d As] (Two Pair, Aces and Nines +K)
+sevenk splits Pot (1.27) with Two Pair
+ms1323 splits Pot (1.27) with Two Pair
+Rake (0.06)

@@ -1,0 +1,1222 @@
+Hand #39195819-11 - 2015-01-28 03:16:54
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.87)
+Seat 4: Broker91 (1.86)
+Seat 9: Martyrdom (2.80)
+Broker91 has the dealer button
+Martyrdom posts small blind 0.02
+pentaminx posts big blind 0.04
+** Hole Cards **
+Broker91 raises to 0.12
+Martyrdom folds
+pentaminx calls 0.08
+** Flop ** [2d 8h 2c]
+pentaminx checks
+Broker91 bets 0.20
+pentaminx folds
+Broker91 refunded 0.20
+Broker91 wins Pot (0.26)
+Rake (0)
+
+
+
+Hand #39195836-12 - 2015-01-28 03:17:34
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.75)
+Seat 2: sevenk (4) - waiting for big blind
+Seat 4: Broker91 (2)
+Seat 6: rodanman (1.60)
+Seat 9: Martyrdom (2.78)
+Martyrdom has the dealer button
+pentaminx posts small blind 0.02
+sevenk posts big blind 0.04
+rodanman posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Qd 9s]
+Broker91 folds
+rodanman checks
+Martyrdom calls 0.04
+pentaminx calls 0.02
+sevenk checks
+** Flop ** [Ac 2d 6c]
+pentaminx checks
+sevenk checks
+rodanman checks
+Martyrdom bets 0.12
+pentaminx folds
+sevenk folds
+rodanman folds
+Martyrdom refunded 0.12
+Martyrdom wins Pot (0.16)
+Rake (0)
+
+
+
+Hand #39195860-13 - 2015-01-28 03:18:22
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.71)
+Seat 2: sevenk (3.96)
+Seat 4: Broker91 (2)
+Seat 6: rodanman (1.56)
+Seat 9: Martyrdom (2.90)
+pentaminx has the dealer button
+sevenk posts small blind 0.02
+Broker91 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [6c 5h]
+rodanman calls 0.04
+Martyrdom folds
+pentaminx folds
+sevenk calls 0.02
+Broker91 checks
+** Flop ** [3s 2c Jd]
+sevenk checks
+Broker91 checks
+rodanman checks
+** Turn ** [7c]
+sevenk checks
+Broker91 checks
+rodanman checks
+** River ** [Qs]
+sevenk folds
+Broker91 bets 0.12
+rodanman folds
+Broker91 refunded 0.12
+Broker91 wins Pot (0.12)
+Rake (0)
+
+
+
+Hand #39195890-14 - 2015-01-28 03:19:35
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.71)
+Seat 2: sevenk (3.92)
+Seat 4: Broker91 (2.08)
+Seat 6: rodanman (1.52)
+Seat 9: Martyrdom (2.90)
+sevenk has the dealer button
+Broker91 posts small blind 0.02
+rodanman posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Qh 9h]
+Martyrdom folds
+pentaminx folds
+sevenk raises to 0.10
+Broker91 raises to 0.32
+rodanman folds
+sevenk calls 0.22
+** Flop ** [9s Kc 2h]
+Broker91 bets 1.04
+sevenk folds
+Broker91 refunded 1.04
+Broker91 wins Pot (0.67)
+Rake (0.01)
+
+
+
+Hand #39195915-15 - 2015-01-28 03:20:42
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.71)
+Seat 2: sevenk (3.60)
+Seat 4: Broker91 (2.43)
+Seat 6: rodanman (1.48)
+Seat 9: Martyrdom (2.90)
+Broker91 has the dealer button
+rodanman posts small blind 0.02
+Martyrdom posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Jh Ad]
+pentaminx folds
+sevenk raises to 0.12
+Broker91 folds
+rodanman calls 0.10
+Martyrdom calls 0.08
+** Flop ** [Ks 2c 8s]
+rodanman checks
+Martyrdom checks
+sevenk checks
+** Turn ** [8h]
+rodanman checks
+Martyrdom bets 0.29
+sevenk folds
+rodanman raises to 1.36 (All-in)
+Martyrdom folds
+rodanman refunded 1.07
+rodanman wins Pot (0.92)
+Rake (0.02)
+
+
+
+Hand #39195942-16 - 2015-01-28 03:21:52
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.71)
+Seat 2: sevenk (3.48)
+Seat 4: Broker91 (2.43)
+Seat 6: rodanman (1.99)
+Seat 9: Martyrdom (2.49)
+rodanman has the dealer button
+Martyrdom posts small blind 0.02
+pentaminx posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [3d Qh]
+sevenk folds
+Broker91 folds
+rodanman calls 0.04
+Martyrdom folds
+pentaminx checks
+** Flop ** [2h Ad Jh]
+pentaminx checks
+rodanman checks
+** Turn ** [Ts]
+pentaminx checks
+rodanman checks
+** River ** [Ah]
+pentaminx checks
+rodanman bets 0.16
+pentaminx folds
+rodanman refunded 0.16
+rodanman wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39195963-17 - 2015-01-28 03:22:44
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.67)
+Seat 2: sevenk (3.48)
+Seat 4: Broker91 (2.43)
+Seat 6: rodanman (2.05)
+Seat 9: Martyrdom (2.47)
+Martyrdom has the dealer button
+pentaminx posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Js 3d]
+Broker91 has timed out
+Broker91 folds
+rodanman calls 0.04
+Martyrdom folds
+pentaminx raises to 0.15
+sevenk folds
+rodanman folds
+pentaminx refunded 0.11
+pentaminx wins Pot (0.12)
+Rake (0)
+
+
+
+Hand #39195981-18 - 2015-01-28 03:23:35
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.75)
+Seat 2: sevenk (3.44)
+Seat 4: Broker91 (2.43)
+Seat 5: Radugniy (1.60) - waiting for big blind
+Seat 6: rodanman (2.01)
+Seat 9: Martyrdom (2.47)
+pentaminx has the dealer button
+sevenk posts small blind 0.02
+Broker91 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [5c 5h]
+rodanman folds
+Martyrdom folds
+pentaminx folds
+sevenk raises to 0.12
+Broker91 calls 0.08
+** Flop ** [7h 9h 8c]
+sevenk bets 0.16
+Broker91 calls 0.16
+** Turn ** [6c]
+sevenk checks
+Broker91 bets 0.41
+sevenk calls 0.41
+** River ** [2c]
+sevenk checks
+Broker91 bets 1.74 (All-in)
+sevenk folds
+Broker91 refunded 1.74
+Broker91 wins Pot (1.35)
+Rake (0.03)
+
+
+
+Hand #39196019-19 - 2015-01-28 03:25:16
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.75)
+Seat 2: sevenk (2.75)
+Seat 4: Broker91 (3.09)
+Seat 5: Radugniy (1.60) - waiting for big blind
+Seat 6: rodanman (2.01)
+Seat 7: jigsaw (2)
+Seat 9: Martyrdom (2.47)
+sevenk has the dealer button
+Broker91 posts small blind 0.02
+Radugniy posts big blind 0.04
+jigsaw posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Ts 6c]
+rodanman folds
+jigsaw raises to 0.16
+Martyrdom folds
+pentaminx folds
+sevenk folds
+Broker91 folds
+Radugniy folds
+jigsaw refunded 0.12
+jigsaw wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39196039-20 - 2015-01-28 03:26:11
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.75)
+Seat 2: sevenk (2.75)
+Seat 4: Broker91 (3.07)
+Seat 5: Radugniy (1.56)
+Seat 6: rodanman (2.01)
+Seat 7: jigsaw (2.06)
+Seat 9: Martyrdom (2.47)
+Broker91 has the dealer button
+Radugniy posts small blind 0.02
+rodanman posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [4s 5s]
+jigsaw folds
+Martyrdom folds
+pentaminx folds
+sevenk raises to 0.12
+Broker91 folds
+Radugniy folds
+rodanman folds
+sevenk refunded 0.08
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39196051-21 - 2015-01-28 03:26:39
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.75)
+Seat 2: sevenk (2.81)
+Seat 4: Broker91 (3.07)
+Seat 5: Radugniy (1.54)
+Seat 6: rodanman (1.97)
+Seat 7: jigsaw (2.06)
+Seat 9: Martyrdom (2.47)
+Radugniy has the dealer button
+rodanman posts small blind 0.02
+jigsaw posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [9h Jd]
+Martyrdom folds
+pentaminx folds
+sevenk calls 0.04
+Broker91 folds
+Radugniy folds
+rodanman calls 0.02
+jigsaw checks
+** Flop ** [5s 6s Tc]
+rodanman bets 0.04
+jigsaw calls 0.04
+sevenk calls 0.04
+** Turn ** [8d]
+rodanman checks
+jigsaw checks
+sevenk checks
+** River ** [Ah]
+rodanman checks
+jigsaw bets 0.18
+sevenk folds
+rodanman calls 0.18
+** Pot Show Down ** [5s 6s Tc 8d Ah]
+rodanman shows [8h Kd] (a Pair of Eights +AKT)
+jigsaw shows [4d As] (a Pair of Aces +T86)
+jigsaw wins Pot (0.59) with a Pair
+Rake (0.01)
+
+
+
+Hand #39196091-22 - 2015-01-28 03:28:11
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (1.75)
+Seat 2: sevenk (2.73)
+Seat 4: Broker91 (3.07)
+Seat 5: Radugniy (1.54)
+Seat 6: rodanman (1.71)
+Seat 7: jigsaw (2.39)
+Seat 9: Martyrdom (2.47)
+rodanman has the dealer button
+jigsaw posts small blind 0.02
+Martyrdom posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Jc 5s]
+pentaminx calls 0.04
+sevenk folds
+Broker91 raises to 0.16
+Radugniy folds
+rodanman calls 0.16
+jigsaw folds
+Martyrdom folds
+pentaminx calls 0.12
+** Flop ** [3c 5d 4c]
+pentaminx checks
+Broker91 bets 0.40
+rodanman folds
+pentaminx raises to 1.59 (All-in)
+Broker91 has timed out
+Broker91 folds
+pentaminx refunded 1.19
+pentaminx wins Pot (1.31)
+Rake (0.03)
+
+
+
+Hand #39196133-23 - 2015-01-28 03:30:06
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: pentaminx (2.50)
+Seat 2: sevenk (2.73)
+Seat 3: qiii (4)
+Seat 4: Broker91 (2.51) - sitting out
+Seat 5: Radugniy (1.54)
+Seat 7: jigsaw (2.37)
+Seat 8: bao (0.80) - waiting for big blind
+Seat 9: Martyrdom (2.43)
+jigsaw has the dealer button
+Martyrdom posts small blind 0.02
+pentaminx posts big blind 0.04
+qiii posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Jd 8h]
+sevenk calls 0.04
+qiii raises to 0.16
+Radugniy has timed out
+Radugniy folds
+jigsaw folds
+Martyrdom folds
+pentaminx folds
+sevenk calls 0.12
+** Flop ** [Kh 5s 4s]
+sevenk checks
+qiii bets 0.24
+sevenk folds
+qiii refunded 0.24
+qiii wins Pot (0.38)
+Rake (0)
+
+
+
+Hand #39196187-24 - 2015-01-28 03:31:53
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 2: sevenk (2.57)
+Seat 3: qiii (4.22)
+Seat 4: Broker91 (2.51) - sitting out
+Seat 5: Radugniy (1.54)
+Seat 6: bao (0.80) - waiting for big blind
+Seat 7: jigsaw (2.37)
+Seat 9: Martyrdom (2.41)
+Martyrdom has the dealer button
+sevenk posts small blind 0.02
+qiii posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [8s Qc]
+Radugniy has timed out
+Radugniy folds
+jigsaw folds
+Martyrdom folds
+sevenk calls 0.02
+qiii checks
+** Flop ** [3c 5s 5d]
+sevenk bets 0.06
+qiii folds
+sevenk refunded 0.06
+sevenk wins Pot (0.08)
+Rake (0)
+
+
+
+Hand #39196216-25 - 2015-01-28 03:32:56
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: slowplay4u (4)
+Seat 2: sevenk (2.61)
+Seat 3: qiii (4.18)
+Seat 4: Broker91 (2.51)
+Seat 5: Radugniy (1.54) - sitting out
+Seat 6: bao (0.80) - waiting for big blind
+Seat 7: jigsaw (2.37)
+Seat 9: Martyrdom (2.41)
+sevenk has the dealer button
+qiii posts small blind 0.02
+Broker91 posts big blind 0.04
+slowplay4u posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [5s 7h]
+jigsaw folds
+Martyrdom folds
+slowplay4u checks
+sevenk calls 0.04
+qiii calls 0.02
+Broker91 checks
+** Flop ** [6c 6d Ks]
+qiii checks
+Broker91 checks
+slowplay4u bets 0.16
+sevenk folds
+qiii folds
+Broker91 folds
+slowplay4u refunded 0.16
+slowplay4u wins Pot (0.16)
+Rake (0)
+slowplay4u shows [5h 6s]
+
+
+
+Hand #39196248-26 - 2015-01-28 03:34:03
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: slowplay4u (4.12)
+Seat 2: sevenk (2.57)
+Seat 3: qiii (4.14)
+Seat 4: Broker91 (2.47)
+Seat 5: Radugniy (1.54)
+Seat 6: bao (0.80) - waiting for big blind
+Seat 7: jigsaw (2.37)
+Seat 8: xxx777 (1.60)
+Seat 9: Martyrdom (2.41)
+qiii has the dealer button
+Broker91 posts small blind 0.02
+Radugniy posts big blind 0.04
+xxx777 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [9d 7h]
+jigsaw folds
+xxx777 checks
+Martyrdom folds
+slowplay4u folds
+sevenk calls 0.04
+qiii calls 0.04
+Broker91 calls 0.02
+Radugniy checks
+** Flop ** [Qh Tc Kd]
+Broker91 bets 0.19
+Radugniy has timed out
+Radugniy folds
+xxx777 folds
+sevenk folds
+sevenk adds 1.47 chips
+qiii folds
+Broker91 refunded 0.19
+Broker91 wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #39196294-27 - 2015-01-28 03:35:41
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: slowplay4u (4.12)
+Seat 2: sevenk (4)
+Seat 3: qiii (4.10)
+Seat 4: Broker91 (2.63)
+Seat 5: Radugniy (1.50) - sitting out
+Seat 6: bao (0.80) - waiting for big blind
+Seat 7: jigsaw (2.37)
+Seat 8: xxx777 (1.56)
+Seat 9: Martyrdom (2.41)
+Broker91 has the dealer button
+jigsaw posts small blind 0.02
+xxx777 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Kh 6d]
+Martyrdom raises to 0.20
+slowplay4u calls 0.20
+sevenk folds
+qiii folds
+Broker91 folds
+jigsaw has timed out
+jigsaw folds
+xxx777 calls 0.16
+** Flop ** [Ks 8d Jd]
+xxx777 checks
+Martyrdom checks
+slowplay4u bets 0.24
+xxx777 folds
+Martyrdom calls 0.24
+** Turn ** [3c]
+Martyrdom checks
+slowplay4u bets 0.52
+Martyrdom folds
+slowplay4u refunded 0.52
+slowplay4u wins Pot (1.08)
+Rake (0.02)
+
+
+
+Hand #39196355-28 - 2015-01-28 03:37:28
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: slowplay4u (4.76)
+Seat 2: sevenk (4)
+Seat 3: qiii (4.10)
+Seat 4: Broker91 (2.63)
+Seat 6: bao (0.80)
+Seat 7: jigsaw (2.35)
+Seat 8: xxx777 (1.36)
+Seat 9: Martyrdom (1.97)
+jigsaw has the dealer button
+xxx777 posts small blind 0.02
+Martyrdom posts big blind 0.04
+bao posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [9s 2s]
+slowplay4u calls 0.04
+sevenk calls 0.04
+qiii calls 0.04
+Broker91 folds
+bao checks
+jigsaw folds
+xxx777 calls 0.02
+Martyrdom checks
+** Flop ** [Ks 7s Ad]
+xxx777 checks
+Martyrdom checks
+slowplay4u checks
+sevenk checks
+qiii bets 0.16
+bao folds
+xxx777 folds
+Martyrdom calls 0.16
+slowplay4u folds
+sevenk calls 0.16
+** Turn ** [8s]
+Martyrdom checks
+sevenk checks
+qiii checks
+** River ** [2c]
+Martyrdom bets 0.28
+sevenk raises to 1
+qiii folds
+Martyrdom raises to 1.77 (All-in)
+sevenk calls 0.77
+** Pot Show Down ** [Ks 7s Ad 8s 2c]
+sevenk shows [9s 2s] (a Flush, King high +9872)
+Martyrdom shows [Qs 4s] (a Flush, King high +Q874)
+Martyrdom wins Pot (4.16) with a Flush
+Rake (0.10)
+
+
+
+Hand #39196424-29 - 2015-01-28 03:40:14
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: slowplay4u (4.72)
+Seat 2: sevenk (2.03)
+Seat 3: qiii (3.90)
+Seat 4: Broker91 (2.63)
+Seat 5: Radugniy (1.50)
+Seat 6: bao (0.76)
+Seat 7: jigsaw (2.35)
+Seat 8: xxx777 (1.32)
+Seat 9: Martyrdom (4.16)
+xxx777 has the dealer button
+Martyrdom posts small blind 0.02
+slowplay4u posts big blind 0.04
+Radugniy posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [8h 6h]
+sevenk calls 0.04
+qiii calls 0.04
+Broker91 folds
+Radugniy raises to 0.24
+bao folds
+jigsaw folds
+xxx777 folds
+Martyrdom folds
+slowplay4u folds
+sevenk calls 0.20
+qiii calls 0.20
+** Flop ** [5d 6d 5s]
+sevenk checks
+qiii checks
+Radugniy bets 0.50
+sevenk calls 0.50
+qiii folds
+** Turn ** [7h]
+sevenk checks
+Radugniy bets 0.76 (All-in)
+sevenk calls 0.76
+** River ** [3c]
+** Pot Show Down ** [5d 6d 5s 7h 3c]
+sevenk shows [8h 6h] (Two Pair, Sixes and Fives +8)
+Radugniy shows [Qc Ah] (a Pair of Fives +AQ7)
+sevenk wins Pot (3.22) with Two Pair
+Rake (0.08)
+sevenk adds 0.25 chips
+
+
+
+Hand #39196477-30 - 2015-01-28 03:42:22
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: slowplay4u (4.68)
+Seat 2: sevenk (4)
+Seat 3: qiii (3.66)
+Seat 4: Broker91 (2.63)
+Seat 5: Radugniy (0) - sitting out
+Seat 6: bao (0.76)
+Seat 7: jigsaw (2.35)
+Seat 8: xxx777 (1.32)
+slowplay4u has the dealer button
+sevenk posts small blind 0.02
+qiii posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Jh Ah]
+Broker91 folds
+bao raises to 0.12
+jigsaw folds
+xxx777 folds
+slowplay4u calls 0.12
+sevenk calls 0.10
+qiii folds
+** Flop ** [8h Kc 3d]
+sevenk checks
+bao bets 0.20
+slowplay4u folds
+sevenk folds
+bao refunded 0.20
+sevenk adds 0.12 chips
+bao wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #39196499-31 - 2015-01-28 03:43:16
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: slowplay4u (4.56)
+Seat 2: sevenk (4)
+Seat 3: qiii (3.62)
+Seat 4: Broker91 (2.63)
+Seat 5: Radugniy (0) - sitting out
+Seat 6: bao (1.03)
+Seat 7: jigsaw (2.35)
+Seat 8: xxx777 (1.32)
+sevenk has the dealer button
+qiii posts small blind 0.02
+Broker91 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [6s 5c]
+bao folds
+jigsaw folds
+xxx777 raises to 1.08
+slowplay4u folds
+sevenk folds
+qiii folds
+Broker91 folds
+xxx777 refunded 1.04
+xxx777 wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39196516-32 - 2015-01-28 03:43:50
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: slowplay4u (4.56)
+Seat 2: sevenk (4)
+Seat 3: qiii (3.60)
+Seat 4: Broker91 (2.59)
+Seat 6: bao (1.03)
+Seat 7: jigsaw (2.35)
+Seat 8: xxx777 (1.38)
+Seat 9: Jollybug (4) - waiting for big blind
+qiii has the dealer button
+Broker91 posts small blind 0.02
+bao posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Th 2s]
+jigsaw raises to 0.12
+xxx777 folds
+slowplay4u calls 0.12
+sevenk folds
+qiii calls 0.12
+Broker91 folds
+bao calls 0.08
+** Flop ** [7c Kc 5d]
+bao checks
+jigsaw bets 0.37
+slowplay4u calls 0.37
+qiii folds
+bao folds
+** Turn ** [5s]
+jigsaw checks
+slowplay4u bets 0.72
+jigsaw calls 0.72
+** River ** [4h]
+jigsaw checks
+slowplay4u bets 2.04
+jigsaw folds
+slowplay4u refunded 2.04
+slowplay4u wins Pot (2.62)
+Rake (0.06)
+
+
+
+Hand #39196565-33 - 2015-01-28 03:45:47
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: slowplay4u (5.97)
+Seat 2: sevenk (4)
+Seat 3: qiii (3.48)
+Seat 4: Broker91 (2.57)
+Seat 6: bao (0.91)
+Seat 7: jigsaw (1.14)
+Seat 9: Jollybug (4)
+Broker91 has the dealer button
+bao posts small blind 0.02
+jigsaw posts big blind 0.04
+Jollybug posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [9c 9d]
+Jollybug checks
+slowplay4u folds
+sevenk raises to 0.18
+qiii folds
+Broker91 folds
+bao folds
+jigsaw folds
+Jollybug folds
+sevenk refunded 0.14
+sevenk wins Pot (0.14)
+Rake (0)
+
+
+
+Hand #39196578-34 - 2015-01-28 03:46:22
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 2: sevenk (4.10)
+Seat 3: qiii (3.48)
+Seat 4: Broker91 (2.57)
+Seat 6: bao (0.89)
+Seat 7: jigsaw (1.10)
+Seat 9: Jollybug (3.96)
+bao has the dealer button
+jigsaw posts small blind 0.02
+Jollybug posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Th Js]
+sevenk calls 0.04
+qiii folds
+Broker91 raises to 0.18
+bao raises to 0.89 (All-in)
+jigsaw raises to 1.10 (All-in)
+Jollybug folds
+sevenk folds
+Broker91 folds
+jigsaw refunded 0.21
+** Flop ** [4c Ks 3c]
+** Turn ** [5c]
+** River ** [9s]
+** Pot Show Down ** [4c Ks 3c 5c 9s]
+bao shows [Qc As] (High Card Ace +KQ95)
+jigsaw shows [Kd Ac] (a Pair of Kings +A95)
+jigsaw wins Pot (1.99) with a Pair
+Rake (0.05)
+
+
+
+Hand #39196604-35 - 2015-01-28 03:47:28
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: IAHawkeye (1.60)
+Seat 2: sevenk (4.06)
+Seat 3: qiii (3.48)
+Seat 4: Broker91 (2.39)
+Seat 6: bao (0) - sitting out
+Seat 7: jigsaw (2.20)
+Seat 9: Jollybug (3.92)
+jigsaw has the dealer button
+Jollybug posts small blind 0.02
+IAHawkeye posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Qs 8d]
+sevenk folds
+qiii folds
+Broker91 folds
+jigsaw folds
+Jollybug folds
+IAHawkeye refunded 0.02
+IAHawkeye wins Pot (0.04)
+Rake (0)
+
+
+
+Hand #39196613-36 - 2015-01-28 03:47:47
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: IAHawkeye (1.62)
+Seat 2: sevenk (4.06)
+Seat 3: qiii (3.48)
+Seat 4: Broker91 (2.39)
+Seat 6: bao (0) - sitting out
+Seat 7: jigsaw (2.20)
+Seat 9: Jollybug (3.90)
+Jollybug has the dealer button
+IAHawkeye posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [4s 3c]
+bao adds 1 chips
+qiii calls 0.04
+Broker91 calls 0.04
+jigsaw folds
+Jollybug folds
+IAHawkeye folds
+sevenk checks
+** Flop ** [3h 9s 8c]
+sevenk checks
+qiii checks
+Broker91 checks
+** Turn ** [Th]
+sevenk checks
+qiii bets 0.10
+Broker91 calls 0.10
+sevenk calls 0.10
+** River ** [Ah]
+sevenk checks
+qiii checks
+Broker91 bets 0.36
+sevenk folds
+sevenk adds 0.08 chips
+qiii folds
+Broker91 refunded 0.36
+Broker91 wins Pot (0.43)
+Rake (0.01)
+
+
+
+Hand #39196671-37 - 2015-01-28 03:49:49
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: IAHawkeye (1.60)
+Seat 2: sevenk (4)
+Seat 3: qiii (3.34)
+Seat 4: Broker91 (2.68)
+Seat 6: bao (1)
+Seat 7: jigsaw (2.20)
+Seat 9: Jollybug (3.90)
+IAHawkeye has the dealer button
+sevenk posts small blind 0.02
+qiii posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [9c 4d]
+Broker91 folds
+bao folds
+jigsaw raises to 0.12
+Jollybug folds
+IAHawkeye folds
+sevenk folds
+sevenk adds 0.02 chips
+qiii folds
+jigsaw refunded 0.08
+jigsaw wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39196691-38 - 2015-01-28 03:50:22
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: IAHawkeye (1.60)
+Seat 2: sevenk (4)
+Seat 3: qiii (3.30)
+Seat 4: Broker91 (2.68)
+Seat 6: bao (1)
+Seat 7: jigsaw (2.26)
+Seat 9: Jollybug (3.90)
+sevenk has the dealer button
+qiii posts small blind 0.02
+Broker91 posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [Qc 8c]
+bao folds
+jigsaw folds
+Jollybug calls 0.04
+IAHawkeye folds
+sevenk raises to 0.16
+qiii folds
+Broker91 folds
+Jollybug calls 0.12
+** Flop ** [6d 7s 5s]
+Jollybug bets 0.04
+sevenk raises to 0.28
+Jollybug calls 0.24
+** Turn ** [Ad]
+Jollybug checks
+sevenk bets 0.52
+Jollybug folds
+sevenk refunded 0.52
+sevenk wins Pot (0.92)
+Rake (0.02)
+
+
+
+Hand #39196736-39 - 2015-01-28 03:51:51
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: IAHawkeye (1.60)
+Seat 2: sevenk (4.48)
+Seat 3: qiii (3.28)
+Seat 4: Broker91 (2.64)
+Seat 6: bao (1)
+Seat 7: jigsaw (2.26)
+Seat 9: Jollybug (3.46)
+qiii has the dealer button
+Broker91 posts small blind 0.02
+bao posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [8c Ks]
+jigsaw folds
+Jollybug folds
+IAHawkeye folds
+sevenk raises to 0.12
+qiii folds
+Broker91 folds
+bao folds
+sevenk refunded 0.08
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39196750-40 - 2015-01-28 03:52:24
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: IAHawkeye (1.60)
+Seat 2: sevenk (4.54)
+Seat 3: qiii (3.28)
+Seat 4: Broker91 (2.62)
+Seat 6: bao (0.96)
+Seat 7: jigsaw (2.26)
+Seat 9: Jollybug (3.46)
+Broker91 has the dealer button
+bao posts small blind 0.02
+jigsaw posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [6h 5h]
+Jollybug folds
+IAHawkeye folds
+sevenk calls 0.04
+qiii folds
+Broker91 folds
+bao folds
+jigsaw raises to 0.16
+sevenk calls 0.12
+** Flop ** [Jh 2h 9h]
+jigsaw bets 0.26
+sevenk calls 0.26
+** Turn ** [Kh]
+jigsaw bets 0.64
+sevenk calls 0.64
+** River ** [7c]
+jigsaw bets 1.20 (All-in)
+sevenk calls 1.20
+** Pot Show Down ** [Jh 2h 9h Kh 7c]
+sevenk shows [6h 5h] (a Flush, King high +J965)
+jigsaw shows [Ah 7s] (a Flush, Ace high +KJ92)
+jigsaw wins Pot (4.43) with a Flush
+Rake (0.11)
+sevenk adds 1.72 chips
+
+
+
+Hand #39196802-41 - 2015-01-28 03:54:12
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: IAHawkeye (1.60)
+Seat 2: sevenk (4)
+Seat 3: qiii (3.28)
+Seat 4: Broker91 (2.62)
+Seat 6: bao (0.94)
+Seat 7: jigsaw (4.43)
+Seat 9: Jollybug (3.46)
+bao has the dealer button
+jigsaw posts small blind 0.02
+Jollybug posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [As Qd]
+IAHawkeye folds
+sevenk raises to 0.16
+qiii folds
+Broker91 folds
+bao calls 0.16
+jigsaw calls 0.14
+Jollybug calls 0.12
+** Flop ** [6h 4d Qc]
+jigsaw bets 0.20
+Jollybug calls 0.20
+sevenk raises to 1
+bao folds
+jigsaw folds
+Jollybug folds
+sevenk refunded 0.80
+sevenk wins Pot (1.21)
+Rake (0.03)
+
+
+
+Hand #39196836-42 - 2015-01-28 03:55:27
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: IAHawkeye (1.60)
+Seat 2: sevenk (4.85)
+Seat 3: qiii (3.28)
+Seat 4: Broker91 (2.62)
+Seat 6: bao (0.78)
+Seat 7: jigsaw (4.07)
+Seat 9: Jollybug (3.10)
+jigsaw has the dealer button
+Jollybug posts small blind 0.02
+IAHawkeye posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [5c 4c]
+sevenk calls 0.04
+qiii raises to 0.18
+Broker91 folds
+bao calls 0.18
+jigsaw folds
+Jollybug folds
+IAHawkeye folds
+sevenk calls 0.14
+** Flop ** [7h 3h 6s]
+sevenk checks
+qiii bets 0.30
+bao calls 0.30
+sevenk raises to 1.20
+qiii folds
+bao calls 0.30 (All-in)
+sevenk refunded 0.60
+** Turn ** [Ac]
+** River ** [Kc]
+** Pot Show Down ** [7h 3h 6s Ac Kc]
+sevenk shows [5c 4c] (a Straight, Three to Seven)
+bao shows [Qs Qc] (a Pair of Queens +AK7)
+sevenk wins Pot (2.05) with a Straight
+Rake (0.05)
+
+
+
+Hand #39196865-43 - 2015-01-28 03:56:48
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: IAHawkeye (1.56)
+Seat 2: sevenk (6.12)
+Seat 3: qiii (2.80)
+Seat 4: Broker91 (2.62)
+Seat 6: bao (0) - sitting out
+Seat 7: jigsaw (4.07)
+Seat 9: Jollybug (3.08)
+Jollybug has the dealer button
+IAHawkeye posts small blind 0.02
+sevenk posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [5c Ks]
+qiii folds
+Broker91 raises to 0.12
+jigsaw calls 0.12
+Jollybug folds
+IAHawkeye calls 0.10
+sevenk folds
+** Flop ** [6s 8h 9s]
+IAHawkeye checks
+Broker91 bets 0.29
+jigsaw folds
+IAHawkeye calls 0.29
+** Turn ** [As]
+IAHawkeye checks
+Broker91 bets 1.04
+IAHawkeye raises to 1.15 (All-in)
+Broker91 calls 0.11
+** River ** [4c]
+** Pot Show Down ** [6s 8h 9s As 4c]
+IAHawkeye shows [9h 9d] (Three of a Kind, Nines +A8)
+Broker91 shows [5d Ah] (a Pair of Aces +986)
+IAHawkeye wins Pot (3.20) with Three of a Kind
+Rake (0.08)
+Broker91 adds 0.54 chips
+
+
+
+Hand #39196901-44 - 2015-01-28 03:58:26
+Game: NL Hold'em (0.80 - 4) - Blinds 0.02/0.04
+Site: Seals With Clubs
+Table: NLHE 9max .02/.04 #1
+Seat 1: IAHawkeye (3.20)
+Seat 2: sevenk (6.08)
+Seat 3: qiii (2.80)
+Seat 4: Broker91 (1.60)
+Seat 7: jigsaw (3.95)
+Seat 9: Jollybug (3.08)
+IAHawkeye has the dealer button
+sevenk posts small blind 0.02
+qiii posts big blind 0.04
+** Hole Cards **
+Dealt to sevenk [9s 9d]
+Broker91 folds
+jigsaw folds
+Jollybug folds
+IAHawkeye folds
+sevenk raises to 0.16
+qiii folds
+sevenk refunded 0.12
+sevenk wins Pot (0.08)
+Rake (0)

@@ -1,0 +1,2333 @@
+Hand #38205300-31 - 2015-01-10 18:20:09
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (10.13)
+Seat 2: sevenk (10) - waiting for big blind
+Seat 3: bablicon (11.66)
+Seat 4: Bluffzilla (9.48)
+Seat 5: blunderdog82 (9.75)
+Seat 6: mesz99 (28.91)
+bablicon has the dealer button
+Bluffzilla posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+mesz99 calls 0.10
+Wolfhunter raises to 0.40
+bablicon folds
+Bluffzilla folds
+blunderdog82 folds
+mesz99 calls 0.30
+** Flop ** [5h 8c Kc]
+mesz99 checks
+Wolfhunter bets 0.50
+mesz99 calls 0.50
+** Turn ** [4s]
+mesz99 checks
+Wolfhunter bets 1.20
+mesz99 folds
+Wolfhunter refunded 1.20
+Wolfhunter wins Pot (1.91)
+Rake (0.04)
+
+
+
+Hand #38205360-32 - 2015-01-10 18:21:15
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.14)
+Seat 2: sevenk (10) - waiting for big blind
+Seat 3: bablicon (11.66)
+Seat 4: Bluffzilla (9.43)
+Seat 5: blunderdog82 (9.65)
+Seat 6: mesz99 (28.01)
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Wolfhunter folds
+bablicon raises to 0.30
+Bluffzilla folds
+blunderdog82 folds
+mesz99 folds
+bablicon refunded 0.20
+bablicon wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38205391-33 - 2015-01-10 18:21:46
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.14)
+Seat 2: sevenk (10) - waiting for big blind
+Seat 3: bablicon (11.81)
+Seat 4: Bluffzilla (9.43)
+Seat 5: blunderdog82 (9.60)
+Seat 6: mesz99 (27.91)
+blunderdog82 has the dealer button
+mesz99 posts small blind 0.05
+Wolfhunter posts big blind 0.10
+** Hole Cards **
+bablicon folds
+Bluffzilla folds
+blunderdog82 raises to 0.30
+mesz99 calls 0.25
+Wolfhunter calls 0.20
+** Flop ** [Qd Tc Jc]
+mesz99 checks
+Wolfhunter checks
+blunderdog82 bets 0.60
+mesz99 calls 0.60
+Wolfhunter raises to 2.40
+blunderdog82 folds
+blunderdog82 adds 1.30 chips
+mesz99 folds
+Wolfhunter refunded 1.80
+Wolfhunter wins Pot (2.64)
+Rake (0.06)
+
+
+
+Hand #38205454-34 - 2015-01-10 18:22:58
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.88)
+Seat 2: sevenk (10) - waiting for big blind
+Seat 3: bablicon (11.81)
+Seat 4: Bluffzilla (9.43)
+Seat 5: blunderdog82 (10)
+Seat 6: mesz99 (27.01)
+mesz99 has the dealer button
+Wolfhunter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3h 2d]
+bablicon raises to 0.30
+Bluffzilla folds
+blunderdog82 folds
+mesz99 folds
+Wolfhunter folds
+sevenk folds
+bablicon refunded 0.20
+bablicon wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38205469-35 - 2015-01-10 18:23:16
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.83)
+Seat 2: sevenk (9.90)
+Seat 3: bablicon (11.96)
+Seat 4: Bluffzilla (9.43)
+Seat 5: blunderdog82 (10)
+Seat 6: mesz99 (27.01)
+Wolfhunter has the dealer button
+sevenk posts small blind 0.05
+bablicon posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9h 4s]
+Bluffzilla folds
+blunderdog82 raises to 0.30
+mesz99 folds
+Wolfhunter folds
+sevenk folds
+bablicon folds
+blunderdog82 refunded 0.20
+blunderdog82 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38205485-36 - 2015-01-10 18:23:40
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.83)
+Seat 2: sevenk (9.85)
+Seat 3: bablicon (11.86)
+Seat 4: Bluffzilla (9.43)
+Seat 5: blunderdog82 (10.15)
+Seat 6: mesz99 (27.01)
+sevenk has the dealer button
+bablicon posts small blind 0.05
+Bluffzilla posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jc 7d]
+blunderdog82 folds
+mesz99 raises to 0.30
+Wolfhunter folds
+sevenk folds
+bablicon folds
+Bluffzilla folds
+mesz99 refunded 0.20
+mesz99 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38205505-37 - 2015-01-10 18:24:02
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.83)
+Seat 2: sevenk (9.85)
+Seat 3: bablicon (11.81)
+Seat 4: Bluffzilla (9.33)
+Seat 5: blunderdog82 (10.15)
+Seat 6: mesz99 (27.16)
+bablicon has the dealer button
+Bluffzilla posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jh 2h]
+mesz99 folds
+Wolfhunter raises to 0.30
+sevenk folds
+bablicon raises to 1
+Bluffzilla folds
+blunderdog82 folds
+Wolfhunter folds
+bablicon refunded 0.70
+bablicon wins Pot (0.75)
+Rake (0)
+
+
+
+Hand #38205530-38 - 2015-01-10 18:24:26
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.53)
+Seat 2: sevenk (9.85)
+Seat 3: bablicon (12.26)
+Seat 4: Bluffzilla (9.28)
+Seat 5: blunderdog82 (10.05)
+Seat 6: mesz99 (27.16)
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Td Qs]
+Wolfhunter folds
+sevenk raises to 0.30
+bablicon folds
+Bluffzilla calls 0.30
+blunderdog82 folds
+mesz99 calls 0.20
+** Flop ** [9h Tc 8s]
+mesz99 checks
+sevenk bets 0.60
+Bluffzilla calls 0.60
+mesz99 calls 0.60
+** Turn ** [7d]
+mesz99 checks
+sevenk checks
+Bluffzilla checks
+** River ** [8d]
+mesz99 bets 0.30
+sevenk calls 0.30
+Bluffzilla calls 0.30
+** Pot Show Down ** [9h Tc 8s 7d 8d]
+sevenk shows [Td Qs] (Two Pair, Tens and Eights +Q)
+Bluffzilla shows [7c 6c] (a Straight, Six to Ten)
+mesz99 shows [8h Jh] (a Straight, Seven to Jack)
+mesz99 wins Pot (3.56) with a Straight
+Rake (0.09)
+
+
+
+Hand #38205596-39 - 2015-01-10 18:25:50
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.53)
+Seat 2: sevenk (8.65)
+Seat 3: bablicon (12.26)
+Seat 4: Bluffzilla (8.08)
+Seat 5: blunderdog82 (10)
+Seat 6: mesz99 (29.52)
+blunderdog82 has the dealer button
+mesz99 posts small blind 0.05
+Wolfhunter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8h Qs]
+sevenk folds
+bablicon raises to 0.30
+Bluffzilla folds
+blunderdog82 folds
+mesz99 folds
+Wolfhunter folds
+bablicon refunded 0.20
+Bluffzilla adds 1.92 chips
+bablicon wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38205612-40 - 2015-01-10 18:26:08
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.43)
+Seat 2: sevenk (8.65)
+Seat 3: bablicon (12.41)
+Seat 4: Bluffzilla (10)
+Seat 5: blunderdog82 (10)
+Seat 6: mesz99 (29.47)
+mesz99 has the dealer button
+Wolfhunter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jc 3h]
+bablicon folds
+Bluffzilla raises to 0.27
+blunderdog82 folds
+mesz99 folds
+Wolfhunter folds
+sevenk folds
+Bluffzilla refunded 0.17
+Bluffzilla wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38205631-41 - 2015-01-10 18:26:35
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.38)
+Seat 2: sevenk (8.55)
+Seat 3: bablicon (12.41)
+Seat 4: Bluffzilla (10.15)
+Seat 5: blunderdog82 (10)
+Seat 6: mesz99 (29.47)
+Wolfhunter has the dealer button
+sevenk posts small blind 0.05
+bablicon posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2c Ac]
+Bluffzilla raises to 0.27
+blunderdog82 folds
+mesz99 folds
+Wolfhunter folds
+sevenk folds
+bablicon folds
+Bluffzilla refunded 0.17
+Bluffzilla wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38205654-42 - 2015-01-10 18:27:09
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.38)
+Seat 2: sevenk (8.50)
+Seat 3: bablicon (12.31)
+Seat 4: Bluffzilla (10.30)
+Seat 5: blunderdog82 (10)
+Seat 6: mesz99 (29.47)
+sevenk has the dealer button
+bablicon posts small blind 0.05
+Bluffzilla posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ah As]
+blunderdog82 folds
+mesz99 folds
+Wolfhunter raises to 0.30
+sevenk raises to 0.90
+bablicon folds
+Bluffzilla folds
+Wolfhunter folds
+sevenk refunded 0.60
+sevenk wins Pot (0.75)
+Rake (0)
+
+
+
+Hand #38205681-43 - 2015-01-10 18:27:47
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.08)
+Seat 2: sevenk (8.95)
+Seat 3: bablicon (12.26)
+Seat 4: Bluffzilla (10.20)
+Seat 5: blunderdog82 (10)
+Seat 6: mesz99 (29.47)
+bablicon has the dealer button
+Bluffzilla posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kh Kd]
+mesz99 folds
+Wolfhunter folds
+sevenk raises to 0.30
+bablicon folds
+Bluffzilla folds
+blunderdog82 folds
+sevenk refunded 0.20
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38205703-44 - 2015-01-10 18:28:11
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.08)
+Seat 2: sevenk (9.10)
+Seat 3: bablicon (12.26)
+Seat 4: Bluffzilla (10.15)
+Seat 5: blunderdog82 (9.90)
+Seat 6: mesz99 (29.47)
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ac 4h]
+Wolfhunter folds
+sevenk folds
+bablicon raises to 0.30
+Bluffzilla folds
+blunderdog82 calls 0.25
+mesz99 folds
+** Flop ** [3c 5s Th]
+blunderdog82 bets 0.40
+bablicon raises to 1.30
+blunderdog82 raises to 2.40
+bablicon folds
+blunderdog82 refunded 1.10
+blunderdog82 wins Pot (3.22)
+Rake (0.08)
+
+
+
+Hand #38205734-45 - 2015-01-10 18:28:55
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.08)
+Seat 2: sevenk (9.10)
+Seat 3: bablicon (10.66)
+Seat 4: Bluffzilla (10.15)
+Seat 5: blunderdog82 (11.52)
+Seat 6: mesz99 (29.37)
+blunderdog82 has the dealer button
+mesz99 posts small blind 0.05
+Wolfhunter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Js 5c]
+sevenk folds
+bablicon raises to 0.30
+Bluffzilla folds
+blunderdog82 folds
+mesz99 folds
+Wolfhunter folds
+bablicon refunded 0.20
+bablicon wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38205763-46 - 2015-01-10 18:29:33
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.98)
+Seat 2: sevenk (9.10)
+Seat 3: bablicon (10.81)
+Seat 4: Bluffzilla (10.15)
+Seat 5: blunderdog82 (11.52)
+Seat 6: mesz99 (29.32)
+mesz99 has the dealer button
+Wolfhunter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kc Jd]
+bablicon folds
+Bluffzilla raises to 0.20
+blunderdog82 folds
+mesz99 calls 0.20
+Wolfhunter folds
+sevenk calls 0.10
+** Flop ** [Kh Ks 4d]
+sevenk checks
+Bluffzilla checks
+mesz99 bets 0.20
+sevenk calls 0.20
+Bluffzilla folds
+** Turn ** [Qh]
+sevenk checks
+mesz99 checks
+** River ** [5d]
+sevenk bets 0.60
+mesz99 folds
+sevenk refunded 0.60
+sevenk wins Pot (1.03)
+Rake (0.02)
+
+
+
+Hand #38205826-47 - 2015-01-10 18:30:45
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.93)
+Seat 2: sevenk (9.73)
+Seat 4: Bluffzilla (9.95)
+Seat 5: blunderdog82 (11.52)
+Seat 6: mesz99 (28.92)
+Wolfhunter has the dealer button
+sevenk posts small blind 0.05
+Bluffzilla posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2c 5c]
+blunderdog82 folds
+mesz99 folds
+Wolfhunter folds
+sevenk folds
+Bluffzilla refunded 0.05
+Bluffzilla wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38205852-48 - 2015-01-10 18:31:07
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.93)
+Seat 2: sevenk (9.68)
+Seat 3: ayahuasca (10) - waiting for big blind
+Seat 4: Bluffzilla (10)
+Seat 5: blunderdog82 (11.52)
+Seat 6: mesz99 (28.92)
+sevenk has the dealer button
+Bluffzilla posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c 5c]
+mesz99 folds
+Wolfhunter folds
+sevenk raises to 0.30
+Bluffzilla folds
+blunderdog82 calls 0.20
+** Flop ** [8d 6s 5s]
+blunderdog82 checks
+sevenk bets 0.30
+blunderdog82 folds
+sevenk refunded 0.30
+sevenk wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #38205884-49 - 2015-01-10 18:31:47
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.93)
+Seat 2: sevenk (10.02)
+Seat 3: ayahuasca (10) - waiting for big blind
+Seat 4: Bluffzilla (9.95)
+Seat 5: blunderdog82 (11.22)
+Seat 6: mesz99 (28.92)
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7h 3c]
+Wolfhunter folds
+sevenk folds
+Bluffzilla raises to 0.24
+blunderdog82 folds
+mesz99 calls 0.14
+** Flop ** [7s 7d Ad]
+mesz99 checks
+Bluffzilla bets 0.40
+mesz99 folds
+Bluffzilla refunded 0.40
+Bluffzilla wins Pot (0.52)
+Rake (0.01)
+
+
+
+Hand #38205916-50 - 2015-01-10 18:32:19
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.93)
+Seat 2: sevenk (10.02)
+Seat 3: ayahuasca (10) - waiting for big blind
+Seat 4: Bluffzilla (10.23)
+Seat 5: blunderdog82 (11.17)
+Seat 6: mesz99 (28.68)
+blunderdog82 has the dealer button
+mesz99 posts small blind 0.05
+Wolfhunter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8d Ah]
+sevenk raises to 0.30
+Bluffzilla folds
+blunderdog82 folds
+mesz99 folds
+Wolfhunter calls 0.20
+** Flop ** [Qs 7s 3d]
+Wolfhunter bets 0.40
+sevenk folds
+Wolfhunter refunded 0.40
+Wolfhunter wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #38205967-51 - 2015-01-10 18:33:14
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.27)
+Seat 2: sevenk (9.72)
+Seat 3: ayahuasca (10) - waiting for big blind
+Seat 4: Bluffzilla (10.23)
+Seat 5: blunderdog82 (11.17)
+Seat 6: mesz99 (28.63)
+mesz99 has the dealer button
+Wolfhunter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3s 3c]
+Bluffzilla raises to 0.28
+blunderdog82 raises to 0.56
+mesz99 folds
+Wolfhunter folds
+sevenk folds
+Bluffzilla calls 0.28
+** Flop ** [7s Tc 9c]
+Bluffzilla checks
+blunderdog82 bets 0.70
+Bluffzilla calls 0.70
+** Turn ** [9s]
+Bluffzilla checks
+blunderdog82 checks
+** River ** [5h]
+Bluffzilla checks
+blunderdog82 bets 1.50
+Bluffzilla calls 1.50
+** Pot Show Down ** [7s Tc 9c 9s 5h]
+Bluffzilla shows [Jd Jh] (Two Pair, Jacks and Nines +T)
+blunderdog82 shows [9h 9d] (Four of a Kind, Nines +T)
+blunderdog82 wins Pot (5.53) with Four of a Kind
+Rake (0.14)
+
+
+
+Hand #38206047-52 - 2015-01-10 18:34:49
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.22)
+Seat 2: sevenk (9.62)
+Seat 3: ayahuasca (10) - waiting for big blind
+Seat 4: Bluffzilla (7.47)
+Seat 5: blunderdog82 (13.94)
+Seat 6: mesz99 (28.63)
+Wolfhunter has the dealer button
+sevenk posts small blind 0.05
+ayahuasca posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jc Js]
+Bluffzilla raises to 0.24
+blunderdog82 folds
+mesz99 folds
+Wolfhunter folds
+sevenk raises to 0.60
+ayahuasca folds
+Bluffzilla calls 0.36
+** Flop ** [8s Td 8h]
+sevenk bets 0.70
+Bluffzilla calls 0.70
+** Turn ** [Ad]
+sevenk checks
+Bluffzilla checks
+** River ** [5d]
+sevenk checks
+Bluffzilla checks
+** Pot Show Down ** [8s Td 8h Ad 5d]
+sevenk shows [Jc Js] (Two Pair, Jacks and Eights +A)
+Bluffzilla shows [3c 3h] (Two Pair, Eights and Threes +A)
+sevenk wins Pot (2.64) with Two Pair
+Rake (0.06)
+Bluffzilla adds 3.83 chips
+
+
+
+Hand #38206108-53 - 2015-01-10 18:36:07
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.22)
+Seat 2: sevenk (10.96)
+Seat 3: ayahuasca (9.90)
+Seat 4: Bluffzilla (10)
+Seat 5: blunderdog82 (13.94)
+Seat 6: mesz99 (28.63)
+sevenk has the dealer button
+ayahuasca posts small blind 0.05
+Bluffzilla posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kc Qd]
+blunderdog82 folds
+mesz99 calls 0.10
+Wolfhunter folds
+sevenk raises to 0.35
+ayahuasca calls 0.30
+Bluffzilla folds
+mesz99 calls 0.25
+** Flop ** [Ah 5c 7c]
+ayahuasca checks
+mesz99 checks
+sevenk checks
+** Turn ** [9d]
+ayahuasca bets 0.40
+mesz99 calls 0.40
+sevenk folds
+** River ** [Ts]
+ayahuasca checks
+mesz99 bets 0.30
+ayahuasca calls 0.30
+** Pot Show Down ** [Ah 5c 7c 9d Ts]
+ayahuasca shows [2d 2c] (a Pair of Deuces +AT9)
+mesz99 shows [9s 7s] (Two Pair, Nines and Sevens +A)
+mesz99 wins Pot (2.49) with Two Pair
+Rake (0.06)
+
+
+
+Hand #38206165-54 - 2015-01-10 18:37:18
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.22)
+Seat 2: sevenk (10.61)
+Seat 3: ayahuasca (8.85)
+Seat 4: Bluffzilla (9.90)
+Seat 5: blunderdog82 (13.94)
+Seat 6: mesz99 (30.07)
+ayahuasca has the dealer button
+Bluffzilla posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c Td]
+mesz99 folds
+Wolfhunter folds
+sevenk raises to 0.30
+ayahuasca raises to 0.60
+Bluffzilla folds
+blunderdog82 folds
+sevenk calls 0.30
+** Flop ** [3h Kd Jc]
+sevenk checks
+ayahuasca bets 0.50
+sevenk calls 0.50
+** Turn ** [4h]
+sevenk checks
+ayahuasca checks
+** River ** [Tc]
+sevenk checks
+ayahuasca checks
+** Pot Show Down ** [3h Kd Jc 4h Tc]
+sevenk shows [9c Td] (a Pair of Tens +KJ9)
+ayahuasca shows [9d 4s] (a Pair of Fours +KJT)
+sevenk wins Pot (2.30) with a Pair
+Rake (0.05)
+
+
+
+Hand #38206246-55 - 2015-01-10 18:39:02
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.22)
+Seat 2: sevenk (11.81)
+Seat 3: ayahuasca (7.75)
+Seat 4: Bluffzilla (9.85)
+Seat 5: blunderdog82 (13.84)
+Seat 6: mesz99 (30.07)
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3d Kc]
+Wolfhunter folds
+sevenk folds
+ayahuasca raises to 0.30
+Bluffzilla folds
+blunderdog82 folds
+mesz99 folds
+ayahuasca refunded 0.20
+ayahuasca wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38206270-56 - 2015-01-10 18:39:42
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.22)
+Seat 2: sevenk (11.81)
+Seat 3: ayahuasca (7.90)
+Seat 4: Bluffzilla (9.85)
+Seat 5: blunderdog82 (13.79)
+Seat 6: mesz99 (29.97)
+blunderdog82 has the dealer button
+mesz99 posts small blind 0.05
+Wolfhunter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7d 3s]
+sevenk folds
+ayahuasca raises to 0.20
+Bluffzilla calls 0.20
+blunderdog82 folds
+mesz99 folds
+Wolfhunter folds
+** Flop ** [4s Ah 8s]
+ayahuasca checks
+Bluffzilla checks
+** Turn ** [Qc]
+ayahuasca checks
+Bluffzilla bets 0.44
+ayahuasca folds
+Bluffzilla refunded 0.44
+Bluffzilla wins Pot (0.54)
+Rake (0.01)
+
+
+
+Hand #38206318-57 - 2015-01-10 18:40:38
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.12)
+Seat 2: sevenk (11.81)
+Seat 3: ayahuasca (7.70)
+Seat 4: Bluffzilla (10.19)
+Seat 5: blunderdog82 (13.79)
+Seat 6: mesz99 (29.92)
+mesz99 has the dealer button
+Wolfhunter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ts 2h]
+ayahuasca folds
+Bluffzilla folds
+blunderdog82 raises to 0.30
+mesz99 folds
+Wolfhunter folds
+sevenk folds
+blunderdog82 refunded 0.20
+blunderdog82 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38206354-58 - 2015-01-10 18:41:32
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.07)
+Seat 2: sevenk (11.71)
+Seat 3: ayahuasca (7.70)
+Seat 4: Bluffzilla (10.19)
+Seat 5: blunderdog82 (13.94)
+Seat 6: mesz99 (29.92)
+Wolfhunter has the dealer button
+sevenk posts small blind 0.05
+ayahuasca posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kh Qs]
+Bluffzilla raises to 0.24
+blunderdog82 folds
+mesz99 folds
+Wolfhunter folds
+sevenk raises to 0.60
+ayahuasca calls 0.50
+Bluffzilla calls 0.36
+** Flop ** [Tc Th Kd]
+sevenk bets 0.90
+ayahuasca calls 0.90
+Bluffzilla folds
+** Turn ** [4d]
+sevenk checks
+ayahuasca checks
+** River ** [8c]
+sevenk bets 1.50
+ayahuasca folds
+sevenk refunded 1.50
+sevenk wins Pot (3.51)
+Rake (0.09)
+
+
+
+Hand #38206470-59 - 2015-01-10 18:43:33
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.07)
+Seat 2: sevenk (13.72)
+Seat 3: ayahuasca (6.20)
+Seat 4: Bluffzilla (9.59)
+Seat 5: blunderdog82 (13.94)
+Seat 6: mesz99 (29.92)
+sevenk has the dealer button
+ayahuasca posts small blind 0.05
+Bluffzilla posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5h 7h]
+blunderdog82 folds
+mesz99 folds
+Wolfhunter folds
+sevenk raises to 0.30
+ayahuasca folds
+Bluffzilla folds
+sevenk refunded 0.20
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38206497-60 - 2015-01-10 18:43:59
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.07)
+Seat 2: sevenk (13.87)
+Seat 3: ayahuasca (6.15)
+Seat 4: Bluffzilla (9.49)
+Seat 5: blunderdog82 (13.94)
+Seat 6: mesz99 (29.92)
+ayahuasca has the dealer button
+Bluffzilla posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4d 4s]
+mesz99 calls 0.10
+Wolfhunter folds
+sevenk raises to 0.40
+ayahuasca calls 0.40
+Bluffzilla folds
+blunderdog82 folds
+mesz99 raises to 1.40
+sevenk calls 1
+ayahuasca calls 1
+** Flop ** [Qs As Td]
+mesz99 checks
+sevenk checks
+ayahuasca bets 4.75 (All-in)
+mesz99 calls 4.75
+sevenk folds
+** Turn ** [Tc]
+** River ** [8h]
+** Pot Show Down ** [Qs As Td Tc 8h]
+ayahuasca shows [Jc Th] (Three of a Kind, Tens +AQ)
+mesz99 shows [Kh Ks] (Two Pair, Kings and Tens +A)
+ayahuasca wins Pot (13.51) with Three of a Kind
+Rake (0.34)
+
+
+
+Hand #38206571-61 - 2015-01-10 18:45:26
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.07)
+Seat 2: sevenk (12.47)
+Seat 3: ayahuasca (13.51)
+Seat 4: Bluffzilla (9.44)
+Seat 5: blunderdog82 (13.84)
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+Wolfhunter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jh Ks]
+sevenk raises to 0.30
+ayahuasca raises to 0.50
+Bluffzilla folds
+blunderdog82 folds
+Wolfhunter folds
+sevenk calls 0.20
+** Flop ** [2h 5s 5d]
+sevenk checks
+ayahuasca bets 0.40
+sevenk calls 0.40
+** Turn ** [As]
+sevenk checks
+ayahuasca bets 0.90
+sevenk folds
+ayahuasca refunded 0.90
+ayahuasca wins Pot (1.91)
+Rake (0.04)
+
+
+
+Hand #38206632-62 - 2015-01-10 18:46:34
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.97)
+Seat 2: sevenk (11.57)
+Seat 3: ayahuasca (14.52)
+Seat 4: Bluffzilla (9.44)
+Seat 5: blunderdog82 (13.79)
+blunderdog82 has the dealer button
+Wolfhunter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kc 2s]
+ayahuasca folds
+Bluffzilla folds
+blunderdog82 folds
+Wolfhunter folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38206652-63 - 2015-01-10 18:46:54
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.92)
+Seat 2: sevenk (11.62)
+Seat 3: ayahuasca (14.52)
+Seat 4: Bluffzilla (9.44)
+Seat 5: blunderdog82 (13.79)
+Seat 6: Luthe (10) - waiting for big blind
+Wolfhunter has the dealer button
+sevenk posts small blind 0.05
+ayahuasca posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8c Qc]
+Bluffzilla folds
+blunderdog82 folds
+Wolfhunter folds
+sevenk raises to 0.40
+ayahuasca calls 0.30
+** Flop ** [Qd Jd 9d]
+sevenk bets 0.50
+ayahuasca folds
+sevenk refunded 0.50
+sevenk wins Pot (0.78)
+Rake (0.02)
+
+
+
+Hand #38206692-64 - 2015-01-10 18:47:35
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.92)
+Seat 2: sevenk (12)
+Seat 3: ayahuasca (14.12)
+Seat 4: Bluffzilla (9.44)
+Seat 5: blunderdog82 (13.79)
+Seat 6: Luthe (10) - waiting for big blind
+sevenk has the dealer button
+ayahuasca posts small blind 0.05
+Bluffzilla posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s 9s]
+blunderdog82 folds
+Wolfhunter folds
+sevenk raises to 0.30
+ayahuasca calls 0.25
+Bluffzilla calls 0.20
+** Flop ** [Qh Jh 4h]
+ayahuasca checks
+Bluffzilla checks
+sevenk bets 0.50
+ayahuasca folds
+Bluffzilla calls 0.50
+** Turn ** [7h]
+Bluffzilla checks
+sevenk bets 1
+Bluffzilla folds
+sevenk refunded 1
+sevenk wins Pot (1.86)
+Rake (0.04)
+
+
+
+Hand #38206801-65 - 2015-01-10 18:49:37
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.92)
+Seat 2: sevenk (13.06)
+Seat 3: ayahuasca (13.82)
+Seat 4: Bluffzilla (8.64)
+Seat 5: blunderdog82 (13.79)
+Seat 6: Luthe (10) - waiting for big blind
+ayahuasca has the dealer button
+Bluffzilla posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ah Tc]
+Wolfhunter folds
+sevenk raises to 0.30
+ayahuasca raises to 0.70
+Bluffzilla folds
+blunderdog82 folds
+sevenk calls 0.40
+** Flop ** [6s Kd 8h]
+sevenk checks
+ayahuasca bets 0.80
+sevenk folds
+ayahuasca refunded 0.80
+ayahuasca wins Pot (1.52)
+Rake (0.03)
+
+
+
+Hand #38206867-66 - 2015-01-10 18:50:46
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.92)
+Seat 2: sevenk (12.36)
+Seat 3: ayahuasca (14.64)
+Seat 4: Bluffzilla (8.59)
+Seat 5: blunderdog82 (13.69)
+Seat 6: Luthe (10) - waiting for big blind
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+Luthe posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3h Td]
+Wolfhunter folds
+sevenk folds
+ayahuasca raises to 0.30
+Bluffzilla folds
+blunderdog82 folds
+Luthe folds
+ayahuasca refunded 0.20
+ayahuasca wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38206903-67 - 2015-01-10 18:51:17
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.92)
+Seat 2: sevenk (12.36)
+Seat 3: ayahuasca (14.79)
+Seat 4: Bluffzilla (8.59)
+Seat 5: blunderdog82 (13.64)
+Seat 6: Luthe (9.90)
+blunderdog82 has the dealer button
+Luthe posts small blind 0.05
+Wolfhunter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4c Jh]
+sevenk folds
+ayahuasca folds
+Bluffzilla folds
+blunderdog82 raises to 0.30
+Luthe folds
+Wolfhunter folds
+blunderdog82 refunded 0.20
+Bluffzilla adds 1.41 chips
+blunderdog82 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38206935-68 - 2015-01-10 18:51:49
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.82)
+Seat 2: sevenk (12.36)
+Seat 3: ayahuasca (14.79)
+Seat 4: Bluffzilla (10)
+Seat 5: blunderdog82 (13.79)
+Seat 6: Luthe (9.85)
+Luthe has the dealer button
+Wolfhunter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ac 5d]
+ayahuasca folds
+Bluffzilla raises to 0.20
+blunderdog82 folds
+Luthe folds
+Wolfhunter calls 0.15
+sevenk calls 0.10
+** Flop ** [7s 3c 6h]
+Wolfhunter checks
+sevenk checks
+Bluffzilla checks
+** Turn ** [5c]
+Wolfhunter checks
+sevenk checks
+Bluffzilla checks
+** River ** [3s]
+Wolfhunter checks
+sevenk checks
+Bluffzilla checks
+** Pot Show Down ** [7s 3c 6h 5c 3s]
+Wolfhunter shows [Kd Qd] (a Pair of Threes +KQ7)
+sevenk shows [Ac 5d] (Two Pair, Fives and Threes +A)
+Bluffzilla shows [Jd Qh] (a Pair of Threes +QJ7)
+sevenk wins Pot (0.59) with Two Pair
+Rake (0.01)
+
+
+
+Hand #38207043-69 - 2015-01-10 18:53:20
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.62)
+Seat 2: sevenk (12.75)
+Seat 3: ayahuasca (14.79)
+Seat 4: Bluffzilla (9.80)
+Seat 5: blunderdog82 (13.79)
+Seat 6: Luthe (9.85)
+Wolfhunter has the dealer button
+sevenk posts small blind 0.05
+ayahuasca posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7s 5s]
+Bluffzilla raises to 0.27
+blunderdog82 folds
+Luthe calls 0.27
+Wolfhunter folds
+sevenk calls 0.22
+ayahuasca calls 0.17
+** Flop ** [5c Tc Ac]
+sevenk checks
+ayahuasca checks
+Bluffzilla checks
+Luthe bets 0.40
+sevenk folds
+ayahuasca calls 0.40
+Bluffzilla folds
+** Turn ** [6d]
+ayahuasca checks
+Luthe bets 1.02
+ayahuasca calls 1.02
+** River ** [5h]
+ayahuasca checks
+Luthe checks
+** Pot Show Down ** [5c Tc Ac 6d 5h]
+ayahuasca shows [8d 9c] (a Pair of Fives +AT9)
+Luthe shows [Ah Qd] (Two Pair, Aces and Fives +Q)
+Luthe wins Pot (3.83) with Two Pair
+Rake (0.09)
+
+
+
+Hand #38207153-70 - 2015-01-10 18:55:03
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.62)
+Seat 2: sevenk (12.48)
+Seat 3: ayahuasca (13.10)
+Seat 4: Bluffzilla (9.53)
+Seat 5: blunderdog82 (13.79)
+Seat 6: Luthe (11.99)
+sevenk has the dealer button
+ayahuasca posts small blind 0.05
+Bluffzilla posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jc 5h]
+blunderdog82 folds
+Luthe folds
+Wolfhunter folds
+sevenk folds
+ayahuasca folds
+Bluffzilla refunded 0.05
+Bluffzilla wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38207178-71 - 2015-01-10 18:55:20
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.62)
+Seat 2: sevenk (12.48)
+Seat 4: Bluffzilla (9.58)
+Seat 5: blunderdog82 (13.79)
+Seat 6: Luthe (11.99)
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+Luthe posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4h Jd]
+Wolfhunter folds
+sevenk folds
+Bluffzilla raises to 0.27
+blunderdog82 folds
+Luthe folds
+Bluffzilla refunded 0.17
+Bluffzilla wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38207223-72 - 2015-01-10 18:55:54
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.62)
+Seat 2: sevenk (12.48)
+Seat 4: Bluffzilla (9.73)
+Seat 5: blunderdog82 (13.74)
+Seat 6: Luthe (11.89)
+blunderdog82 has the dealer button
+Luthe posts small blind 0.05
+Wolfhunter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3s 5h]
+sevenk folds
+Bluffzilla folds
+blunderdog82 raises to 0.30
+Luthe folds
+Wolfhunter folds
+blunderdog82 refunded 0.20
+blunderdog82 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38207245-73 - 2015-01-10 18:56:16
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.52)
+Seat 2: sevenk (12.48)
+Seat 4: Bluffzilla (9.73)
+Seat 5: blunderdog82 (13.89)
+Seat 6: Luthe (11.84)
+Luthe has the dealer button
+Wolfhunter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4h 4d]
+Bluffzilla raises to 0.27
+blunderdog82 folds
+Luthe calls 0.27
+Wolfhunter calls 0.22
+sevenk calls 0.17
+** Flop ** [7s 3c 9s]
+Wolfhunter checks
+sevenk checks
+Bluffzilla checks
+Luthe checks
+** Turn ** [2s]
+Wolfhunter bets 0.60
+sevenk folds
+Bluffzilla folds
+Luthe folds
+Wolfhunter refunded 0.60
+Wolfhunter wins Pot (1.06)
+Rake (0.02)
+
+
+
+Hand #38207325-74 - 2015-01-10 18:57:29
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.31)
+Seat 2: sevenk (12.21)
+Seat 4: Bluffzilla (9.46)
+Seat 5: blunderdog82 (13.89)
+Seat 6: Luthe (11.57)
+Wolfhunter has the dealer button
+sevenk posts small blind 0.05
+Bluffzilla posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4h 3c]
+blunderdog82 folds
+Luthe folds
+Wolfhunter folds
+sevenk folds
+Bluffzilla refunded 0.05
+Bluffzilla wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38207369-75 - 2015-01-10 18:58:03
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.31)
+Seat 2: sevenk (12.16)
+Seat 4: Bluffzilla (9.51)
+Seat 5: blunderdog82 (13.89)
+Seat 6: Luthe (11.57)
+sevenk has the dealer button
+Bluffzilla posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3s Jh]
+Luthe folds
+Wolfhunter folds
+sevenk folds
+Bluffzilla calls 0.05
+blunderdog82 checks
+** Flop ** [6c 5c Jd]
+Bluffzilla checks
+blunderdog82 checks
+** Turn ** [2s]
+Bluffzilla checks
+blunderdog82 bets 0.10
+Bluffzilla folds
+blunderdog82 refunded 0.10
+blunderdog82 wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38207411-76 - 2015-01-10 18:58:49
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.31)
+Seat 2: sevenk (12.16)
+Seat 4: Bluffzilla (9.41)
+Seat 5: blunderdog82 (13.99)
+Seat 6: Luthe (11.57)
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+Luthe posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ts 3d]
+Wolfhunter folds
+sevenk folds
+Bluffzilla raises to 0.27
+blunderdog82 folds
+Luthe folds
+Bluffzilla refunded 0.17
+Bluffzilla wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38207451-77 - 2015-01-10 18:59:24
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.31)
+Seat 2: sevenk (12.16)
+Seat 3: jls191 (10)
+Seat 4: Bluffzilla (9.56)
+Seat 5: blunderdog82 (13.94)
+Seat 6: Luthe (11.47)
+blunderdog82 has the dealer button
+Luthe posts small blind 0.05
+Wolfhunter posts big blind 0.10
+jls191 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7h 9s]
+sevenk folds
+jls191 checks
+Bluffzilla calls 0.10
+blunderdog82 folds
+Luthe calls 0.05
+Wolfhunter checks
+** Flop ** [Ac Ts 7c]
+Luthe checks
+Wolfhunter checks
+jls191 checks
+Bluffzilla bets 0.24
+Luthe folds
+Wolfhunter folds
+jls191 folds
+Bluffzilla refunded 0.24
+Bluffzilla wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38207522-78 - 2015-01-10 19:00:43
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.21)
+Seat 2: sevenk (12.16)
+Seat 3: jls191 (9.90)
+Seat 4: Bluffzilla (9.85)
+Seat 5: blunderdog82 (13.94)
+Wolfhunter has the dealer button
+sevenk posts small blind 0.05
+jls191 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9d 8h]
+Bluffzilla folds
+blunderdog82 folds
+Wolfhunter raises to 0.30
+sevenk folds
+jls191 calls 0.20
+** Flop ** [Kh Ah 3h]
+jls191 checks
+Wolfhunter checks
+** Turn ** [5d]
+jls191 checks
+Wolfhunter checks
+** River ** [6c]
+jls191 checks
+Wolfhunter checks
+** Pot Show Down ** [Kh Ah 3h 5d 6c]
+Wolfhunter shows [9c 7s] (High Card Ace +K976)
+jls191 shows [8d Qd] (High Card Ace +KQ86)
+jls191 wins Pot (0.64) with High Card
+Rake (0.01)
+
+
+
+Hand #38207574-79 - 2015-01-10 19:01:34
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (11.91)
+Seat 2: sevenk (12.11)
+Seat 3: jls191 (10.24)
+Seat 4: Bluffzilla (9.85)
+Seat 5: blunderdog82 (13.94)
+Seat 6: leadcutter (10)
+sevenk has the dealer button
+jls191 posts small blind 0.05
+Bluffzilla posts big blind 0.10
+leadcutter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s 5d]
+blunderdog82 folds
+leadcutter raises to 0.25
+Wolfhunter raises to 0.80
+sevenk folds
+jls191 folds
+Bluffzilla folds
+leadcutter calls 0.55
+** Flop ** [As 3d Kd]
+leadcutter checks
+Wolfhunter checks
+** Turn ** [7d]
+leadcutter checks
+Wolfhunter bets 0.80
+leadcutter folds
+Wolfhunter refunded 0.80
+Wolfhunter wins Pot (1.71)
+Rake (0.04)
+
+
+
+Hand #38207623-80 - 2015-01-10 19:02:32
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (12.82)
+Seat 2: sevenk (12.11)
+Seat 3: jls191 (10.19)
+Seat 4: Bluffzilla (9.75)
+Seat 5: blunderdog82 (13.94)
+Seat 6: leadcutter (9.20)
+jls191 has the dealer button
+Bluffzilla posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s 6h]
+leadcutter folds
+Wolfhunter raises to 0.30
+sevenk calls 0.30
+jls191 calls 0.30
+Bluffzilla folds
+blunderdog82 folds
+** Flop ** [Th 9d 7c]
+Wolfhunter checks
+sevenk checks
+jls191 checks
+** Turn ** [Js]
+Wolfhunter checks
+sevenk checks
+jls191 checks
+** River ** [Tc]
+Wolfhunter checks
+sevenk checks
+jls191 checks
+** Pot Show Down ** [Th 9d 7c Js Tc]
+Wolfhunter shows [Jh 7h] (Two Pair, Jacks and Tens +9)
+sevenk shows [6s 6h] (Two Pair, Tens and Sixes +J)
+jls191 shows [Ad Qc] (a Pair of Tens +AQJ)
+Wolfhunter wins Pot (1.03) with Two Pair
+Rake (0.02)
+
+
+
+Hand #38207696-81 - 2015-01-10 19:03:59
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (13.55)
+Seat 2: sevenk (11.81)
+Seat 3: jls191 (9.89)
+Seat 4: Bluffzilla (9.70)
+Seat 5: blunderdog82 (13.84)
+Seat 6: leadcutter (9.20)
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+leadcutter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2s 4h]
+Wolfhunter raises to 0.30
+sevenk folds
+jls191 folds
+Bluffzilla folds
+blunderdog82 folds
+leadcutter folds
+Wolfhunter refunded 0.20
+Wolfhunter wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38207719-82 - 2015-01-10 19:04:35
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (13.70)
+Seat 2: sevenk (11.81)
+Seat 3: jls191 (9.89)
+Seat 4: Bluffzilla (9.70)
+Seat 5: blunderdog82 (13.79)
+Seat 6: leadcutter (9.10)
+blunderdog82 has the dealer button
+leadcutter posts small blind 0.05
+Wolfhunter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qs 9c]
+sevenk folds
+jls191 raises to 0.25
+Bluffzilla folds
+blunderdog82 folds
+leadcutter calls 0.20
+Wolfhunter calls 0.15
+** Flop ** [Kh 2s Ks]
+leadcutter checks
+Wolfhunter checks
+jls191 bets 0.37
+leadcutter folds
+Wolfhunter calls 0.37
+** Turn ** [4c]
+Wolfhunter checks
+jls191 checks
+** River ** [7h]
+Wolfhunter bets 2
+jls191 raises to 5
+Wolfhunter raises to 13.08 (All-in)
+jls191 calls 4.27 (All-in)
+Wolfhunter refunded 3.81
+** Pot Show Down ** [Kh 2s Ks 4c 7h]
+Wolfhunter shows [2d 2c] (a Full House, Deuces full of Kings)
+jls191 shows [7c 7d] (a Full House, Sevens full of Kings)
+jls191 wins Pot (19.53) with a Full House
+Rake (0.50)
+
+
+
+Hand #38207786-83 - 2015-01-10 19:05:54
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (3.81)
+Seat 2: sevenk (11.81)
+Seat 3: jls191 (19.53)
+Seat 4: Bluffzilla (9.70)
+Seat 5: blunderdog82 (13.79)
+Seat 6: leadcutter (8.85)
+leadcutter has the dealer button
+Wolfhunter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4c Th]
+jls191 calls 0.10
+Bluffzilla folds
+blunderdog82 folds
+leadcutter calls 0.10
+Wolfhunter calls 0.05
+sevenk checks
+** Flop ** [8d Ad 4d]
+Wolfhunter checks
+sevenk checks
+jls191 checks
+leadcutter checks
+** Turn ** [Ah]
+Wolfhunter checks
+sevenk checks
+jls191 checks
+leadcutter checks
+** River ** [Ac]
+Wolfhunter checks
+sevenk checks
+jls191 bets 0.20
+leadcutter folds
+Wolfhunter folds
+Wolfhunter adds 6.29 chips
+sevenk calls 0.20
+** Pot Show Down ** [8d Ad 4d Ah Ac]
+sevenk shows [4c Th] (a Full House, Aces full of Fours)
+jls191 shows [5d 5h] (a Full House, Aces full of Fives)
+jls191 wins Pot (0.78) with a Full House
+Rake (0.02)
+
+
+
+Hand #38207996-87 - 2015-01-10 19:10:10
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: Wolfhunter (9.70)
+Seat 2: sevenk (11.46)
+Seat 3: jls191 (19.81)
+Seat 4: Bluffzilla (9.10)
+Seat 5: blunderdog82 (14.32)
+Seat 6: leadcutter (9.33)
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+leadcutter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Td Th]
+Wolfhunter folds
+sevenk raises to 0.30
+jls191 folds
+Bluffzilla folds
+blunderdog82 folds
+leadcutter calls 0.20
+** Flop ** [2d 4d 5c]
+leadcutter checks
+sevenk bets 0.30
+leadcutter raises to 1.60
+sevenk calls 1.30
+** Turn ** [Ts]
+leadcutter checks
+sevenk bets 1.50
+leadcutter calls 1.50
+** River ** [Kc]
+leadcutter bets 3.10
+sevenk raises to 6.20
+leadcutter folds
+sevenk refunded 3.10
+sevenk wins Pot (12.73)
+Rake (0.32)
+leadcutter adds 7.17 chips
+
+
+
+Hand #38208083-88 - 2015-01-10 19:11:41
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.69)
+Seat 3: jls191 (19.81)
+Seat 4: Bluffzilla (9.10)
+Seat 5: blunderdog82 (14.27)
+Seat 6: leadcutter (10)
+blunderdog82 has the dealer button
+leadcutter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8d Ah]
+jls191 folds
+Bluffzilla folds
+blunderdog82 folds
+leadcutter folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38208111-89 - 2015-01-10 19:12:10
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.74)
+Seat 3: jls191 (19.81)
+Seat 4: Bluffzilla (9.10)
+Seat 5: blunderdog82 (14.27)
+Seat 6: leadcutter (9.95)
+leadcutter has the dealer button
+sevenk posts small blind 0.05
+jls191 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7s 2d]
+Bluffzilla raises to 0.33
+blunderdog82 folds
+leadcutter calls 0.33
+sevenk folds
+jls191 calls 0.23
+** Flop ** [2c 3c Jc]
+jls191 checks
+Bluffzilla bets 1
+leadcutter folds
+jls191 folds
+Bluffzilla refunded 1
+Bluffzilla wins Pot (1.02)
+Rake (0.02)
+
+
+
+Hand #38208157-90 - 2015-01-10 19:12:54
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.69)
+Seat 3: jls191 (19.48)
+Seat 4: Bluffzilla (9.79)
+Seat 5: blunderdog82 (14.27)
+Seat 6: leadcutter (9.62)
+sevenk has the dealer button
+jls191 posts small blind 0.05
+Bluffzilla posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4d 3c]
+blunderdog82 folds
+leadcutter raises to 0.30
+sevenk folds
+jls191 folds
+Bluffzilla folds
+leadcutter refunded 0.20
+leadcutter wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38208177-91 - 2015-01-10 19:13:20
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.69)
+Seat 3: jls191 (19.43)
+Seat 4: Bluffzilla (9.69)
+Seat 5: blunderdog82 (14.27)
+Seat 6: leadcutter (9.77)
+jls191 has the dealer button
+Bluffzilla posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ks 4h]
+leadcutter folds
+sevenk folds
+jls191 folds
+Bluffzilla folds
+blunderdog82 refunded 0.05
+blunderdog82 wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38208201-92 - 2015-01-10 19:13:44
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.69)
+Seat 3: jls191 (19.43)
+Seat 4: Bluffzilla (9.64)
+Seat 5: blunderdog82 (14.32)
+Bluffzilla has the dealer button
+blunderdog82 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2h 3h]
+jls191 raises to 0.25
+Bluffzilla folds
+blunderdog82 folds
+sevenk calls 0.15
+** Flop ** [5c Jh Qh]
+sevenk checks
+jls191 checks
+** Turn ** [4h]
+sevenk checks
+jls191 checks
+** River ** [8c]
+sevenk bets 0.30
+jls191 calls 0.30
+** Pot Show Down ** [5c Jh Qh 4h 8c]
+sevenk shows [2h 3h] (a Flush, Queen high +J432)
+jls191 shows [9d 9s] (a Pair of Nines +QJ8)
+sevenk wins Pot (1.13) with a Flush
+Rake (0.02)
+
+
+
+Hand #38208274-93 - 2015-01-10 19:14:57
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (18.27)
+Seat 3: jls191 (18.88)
+Seat 4: Bluffzilla (9.64)
+Seat 5: blunderdog82 (14.27)
+blunderdog82 has the dealer button
+sevenk posts small blind 0.05
+jls191 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Js 7h]
+Bluffzilla raises to 0.24
+blunderdog82 folds
+sevenk folds
+jls191 folds
+Bluffzilla refunded 0.14
+Bluffzilla wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38208292-94 - 2015-01-10 19:15:20
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (18.22)
+Seat 3: jls191 (18.78)
+Seat 4: Bluffzilla (9.79)
+Seat 5: blunderdog82 (14.27)
+sevenk has the dealer button
+jls191 posts small blind 0.05
+Bluffzilla posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kd 3d]
+blunderdog82 folds
+sevenk raises to 0.25
+jls191 calls 0.20
+Bluffzilla folds
+** Flop ** [Qc 7c 9c]
+jls191 checks
+sevenk bets 0.30
+jls191 calls 0.30
+** Turn ** [9s]
+jls191 checks
+sevenk bets 0.70
+jls191 calls 0.70
+** River ** [3c]
+jls191 checks
+sevenk checks
+** Pot Show Down ** [Qc 7c 9c 9s 3c]
+sevenk shows [Kd 3d] (Two Pair, Nines and Threes +K)
+jls191 shows [Qs 8c] (a Flush, Queen high +9873)
+jls191 wins Pot (2.54) with a Flush
+Rake (0.06)
+
+
+
+Hand #38208380-95 - 2015-01-10 19:16:44
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (16.97)
+Seat 3: jls191 (20.07)
+Seat 4: Bluffzilla (9.69)
+Seat 5: blunderdog82 (14.27)
+jls191 has the dealer button
+Bluffzilla posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3h 3s]
+jls191 folds
+Bluffzilla folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38208387-96 - 2015-01-10 19:16:58
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.02)
+Seat 3: jls191 (20.07)
+Seat 4: Bluffzilla (9.64)
+Seat 5: blunderdog82 (14.27) - sitting out
+Bluffzilla has the dealer button
+sevenk posts small blind 0.05
+jls191 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6c 8s]
+Bluffzilla folds
+sevenk folds
+jls191 refunded 0.05
+jls191 wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38208406-97 - 2015-01-10 19:17:18
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (16.97)
+Seat 3: jls191 (20.12)
+Seat 5: blunderdog82 (14.27) - sitting out
+sevenk has the dealer button
+sevenk posts small blind 0.05
+jls191 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ah Kd]
+sevenk raises to 0.25
+jls191 calls 0.15
+** Flop ** [Ac Js 8d]
+jls191 checks
+sevenk bets 0.25
+jls191 folds
+sevenk refunded 0.25
+sevenk wins Pot (0.49)
+Rake (0.01)
+
+
+
+Hand #38208469-1 - 2015-01-10 19:18:20
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.21)
+Seat 3: mesz99 (23.77) - waiting for big blind
+sevenk has the dealer button
+sevenk posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5d Ks]
+sevenk raises to 0.25
+mesz99 calls 0.15
+** Flop ** [5h Kh 3s]
+mesz99 checks
+sevenk bets 0.25
+mesz99 folds
+sevenk refunded 0.25
+sevenk wins Pot (0.49)
+Rake (0.01)
+
+
+
+Hand #38208503-2 - 2015-01-10 19:18:54
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.45)
+Seat 3: mesz99 (23.52)
+mesz99 has the dealer button
+mesz99 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9s 2d]
+mesz99 raises to 0.30
+sevenk folds
+mesz99 refunded 0.20
+mesz99 wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38208522-3 - 2015-01-10 19:19:10
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.35)
+Seat 3: mesz99 (23.62)
+sevenk has the dealer button
+sevenk posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7d Qh]
+sevenk raises to 0.25
+mesz99 calls 0.15
+** Flop ** [Jd Jh 3d]
+mesz99 checks
+sevenk bets 0.25
+mesz99 folds
+sevenk refunded 0.25
+sevenk wins Pot (0.49)
+Rake (0.01)
+
+
+
+Hand #38208543-4 - 2015-01-10 19:19:41
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.59)
+Seat 3: mesz99 (23.37)
+mesz99 has the dealer button
+mesz99 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5c 3d]
+mesz99 folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38208554-5 - 2015-01-10 19:19:52
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.64)
+Seat 3: mesz99 (23.32)
+sevenk has the dealer button
+sevenk posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s 3c]
+sevenk folds
+mesz99 refunded 0.05
+mesz99 wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38208567-6 - 2015-01-10 19:20:04
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.59)
+Seat 3: mesz99 (23.37)
+mesz99 has the dealer button
+mesz99 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c 2s]
+mesz99 folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38208586-7 - 2015-01-10 19:20:24
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.64)
+Seat 3: mesz99 (23.32)
+sevenk has the dealer button
+sevenk posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9d Jd]
+sevenk raises to 0.25
+mesz99 folds
+sevenk refunded 0.15
+sevenk wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38208604-8 - 2015-01-10 19:20:46
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.74)
+Seat 3: mesz99 (23.22)
+mesz99 has the dealer button
+mesz99 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kd 4c]
+mesz99 folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38208630-9 - 2015-01-10 19:21:09
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.79)
+Seat 3: mesz99 (23.17)
+sevenk has the dealer button
+sevenk posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4s 6d]
+sevenk raises to 0.25
+mesz99 folds
+sevenk refunded 0.15
+sevenk wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38208648-10 - 2015-01-10 19:21:27
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.89)
+Seat 3: mesz99 (23.07)
+mesz99 has the dealer button
+mesz99 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jc 3c]
+mesz99 folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38208662-11 - 2015-01-10 19:21:45
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.94)
+Seat 3: mesz99 (23.02)
+sevenk has the dealer button
+sevenk posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qc 2h]
+sevenk folds
+mesz99 refunded 0.05
+mesz99 wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38208675-12 - 2015-01-10 19:22:00
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.89)
+Seat 3: mesz99 (23.07)
+mesz99 has the dealer button
+mesz99 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2d Ks]
+mesz99 raises to 0.40
+sevenk folds
+mesz99 refunded 0.30
+mesz99 wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38208689-13 - 2015-01-10 19:22:15
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.79)
+Seat 3: mesz99 (23.17)
+sevenk has the dealer button
+sevenk posts small blind 0.05
+mesz99 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7s Ah]
+sevenk raises to 0.25
+mesz99 folds
+sevenk refunded 0.15
+sevenk wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38208706-14 - 2015-01-10 19:22:30
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.89)
+Seat 3: mesz99 (23.07)
+mesz99 has the dealer button
+mesz99 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7d 4c]
+mesz99 raises to 0.30
+sevenk folds
+mesz99 refunded 0.20
+mesz99 wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38208722-15 - 2015-01-10 19:22:44
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.79)
+Seat 3: mesz99 (23.17)
+Seat 4: jls191 (19.87)
+sevenk has the dealer button
+mesz99 posts small blind 0.05
+jls191 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2s 9s]
+sevenk raises to 0.25
+mesz99 raises to 0.80
+jls191 calls 0.70
+sevenk folds
+** Flop ** [6c 5d 4h]
+mesz99 checks
+jls191 checks
+** Turn ** [Ks]
+mesz99 bets 1.43
+jls191 folds
+mesz99 refunded 1.43
+mesz99 wins Pot (1.81)
+Rake (0.04)
+
+
+
+Hand #38208765-16 - 2015-01-10 19:23:40
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 2: sevenk (17.54)
+Seat 3: mesz99 (24.18)
+Seat 4: jls191 (19.07)
+Seat 5: thedonkiam (10) - waiting for big blind
+mesz99 has the dealer button
+jls191 posts small blind 0.05
+thedonkiam posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2s Jh]
+sevenk folds
+mesz99 raises to 0.20
+jls191 calls 0.15
+thedonkiam folds
+** Flop ** [Js 3h Kh]
+jls191 checks
+mesz99 checks
+** Turn ** [8s]
+jls191 checks
+mesz99 checks
+** River ** [9h]
+jls191 checks
+mesz99 checks
+** Pot Show Down ** [Js 3h Kh 8s 9h]
+mesz99 shows [9s Qc] (a Pair of Nines +KQJ)
+jls191 shows [5h 6c] (High Card King +J986)
+mesz99 wins Pot (0.49) with a Pair
+Rake (0.01)

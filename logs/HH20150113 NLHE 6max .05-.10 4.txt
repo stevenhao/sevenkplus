@@ -1,0 +1,2085 @@
+Hand #38349086-742 - 2015-01-13 03:59:16
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: SteveZ (2)
+Seat 2: sevenk (13.98)
+Seat 3: packrat3 (11.85)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (35.31)
+Seat 6: TheBarBar (10)
+packrat3 has the dealer button
+LakotaWR posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jh 6c]
+TheBarBar folds
+SteveZ folds
+sevenk folds
+packrat3 folds
+LakotaWR calls 0.05
+t4k3g checks
+** Flop ** [Kd 2d 7d]
+LakotaWR checks
+t4k3g checks
+** Turn ** [9c]
+LakotaWR checks
+t4k3g checks
+** River ** [Ac]
+LakotaWR checks
+t4k3g checks
+** Pot Show Down ** [Kd 2d 7d 9c Ac]
+LakotaWR shows [5s Tc] (High Card Ace +KT97)
+t4k3g shows [5c Jd] (High Card Ace +KJ97)
+t4k3g wins Pot (0.20) with High Card
+Rake (0)
+LakotaWR adds 0.10 chips
+
+
+
+Hand #38349106-743 - 2015-01-13 04:00:11
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: SteveZ (2)
+Seat 2: sevenk (13.98)
+Seat 3: packrat3 (11.85)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (35.41)
+Seat 6: TheBarBar (10)
+LakotaWR has the dealer button
+t4k3g posts small blind 0.05
+TheBarBar posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3s 8h]
+SteveZ folds
+sevenk folds
+packrat3 folds
+LakotaWR folds
+t4k3g calls 0.05
+TheBarBar checks
+** Flop ** [6s Th Tc]
+t4k3g checks
+TheBarBar checks
+** Turn ** [9c]
+t4k3g checks
+TheBarBar bets 0.10
+t4k3g calls 0.10
+** River ** [Qs]
+t4k3g bets 0.30
+TheBarBar calls 0.30
+** Pot Show Down ** [6s Th Tc 9c Qs]
+t4k3g shows [4c Qc] (Two Pair, Queens and Tens +9)
+TheBarBar shows [Td 7d] (Three of a Kind, Tens +Q9)
+TheBarBar wins Pot (0.98) with Three of a Kind
+Rake (0.02)
+
+
+
+Hand #38349144-744 - 2015-01-13 04:01:41
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 2: sevenk (13.98)
+Seat 3: packrat3 (11.85)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (34.91)
+Seat 6: TheBarBar (10.48)
+t4k3g has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jh Kh]
+packrat3 folds
+LakotaWR folds
+t4k3g folds
+TheBarBar calls 0.05
+sevenk raises to 0.30
+TheBarBar folds
+sevenk refunded 0.20
+sevenk wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38349165-745 - 2015-01-13 04:02:23
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: hardtime (4)
+Seat 2: sevenk (14.08)
+Seat 3: packrat3 (11.85)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (34.91)
+Seat 6: TheBarBar (10.38)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c 5h]
+LakotaWR folds
+t4k3g raises to 0.30
+TheBarBar folds
+sevenk folds
+packrat3 folds
+t4k3g refunded 0.20
+t4k3g wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38349176-746 - 2015-01-13 04:02:47
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 2: sevenk (14.03)
+Seat 3: packrat3 (11.75)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (35.06)
+Seat 6: TheBarBar (10.38)
+sevenk has the dealer button
+packrat3 posts small blind 0.05
+LakotaWR posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ts Ac]
+t4k3g folds
+TheBarBar folds
+sevenk raises to 0.25
+packrat3 calls 0.20
+LakotaWR calls 0.15
+** Flop ** [5d 9d 2s]
+packrat3 checks
+LakotaWR checks
+sevenk bets 0.40
+packrat3 folds
+LakotaWR folds
+sevenk refunded 0.40
+LakotaWR adds 0.25 chips
+sevenk wins Pot (0.74)
+Rake (0.01)
+
+
+
+Hand #38349204-747 - 2015-01-13 04:03:46
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 2: sevenk (14.52)
+Seat 3: packrat3 (11.50)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (35.06)
+Seat 6: TheBarBar (10.38)
+packrat3 has the dealer button
+LakotaWR posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5c 3s]
+TheBarBar folds
+sevenk folds
+packrat3 raises to 0.30
+LakotaWR folds
+LakotaWR adds 0.05 chips
+t4k3g folds
+packrat3 refunded 0.20
+packrat3 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38349212-748 - 2015-01-13 04:04:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 2: sevenk (14.52)
+Seat 3: packrat3 (11.65)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (34.96)
+Seat 6: TheBarBar (10.38)
+LakotaWR has the dealer button
+t4k3g posts small blind 0.05
+TheBarBar posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8h 4d]
+sevenk folds
+packrat3 folds
+LakotaWR folds
+t4k3g raises to 0.30
+TheBarBar calls 0.20
+** Flop ** [Ts Ks 4s]
+t4k3g checks
+TheBarBar checks
+** Turn ** [2d]
+t4k3g checks
+TheBarBar checks
+** River ** [8s]
+t4k3g checks
+TheBarBar checks
+** Pot Show Down ** [Ts Ks 4s 2d 8s]
+t4k3g shows [6h Ac] (High Card Ace +KT86)
+TheBarBar shows [3h 3c] (a Pair of Threes +KT8)
+TheBarBar wins Pot (0.59) with a Pair
+Rake (0.01)
+
+
+
+Hand #38349231-749 - 2015-01-13 04:04:54
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 2: sevenk (14.52)
+Seat 3: packrat3 (11.65)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (34.66)
+Seat 6: TheBarBar (10.67)
+t4k3g has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qh As]
+packrat3 folds
+LakotaWR folds
+t4k3g calls 0.10
+TheBarBar folds
+sevenk raises to 0.35
+t4k3g calls 0.25
+** Flop ** [5c Qc 7c]
+sevenk bets 0.50
+t4k3g folds
+sevenk refunded 0.50
+sevenk wins Pot (0.74)
+Rake (0.01)
+
+
+
+Hand #38349259-750 - 2015-01-13 04:06:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 2: sevenk (14.91)
+Seat 3: packrat3 (11.65)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (34.31)
+Seat 6: TheBarBar (10.62)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6h 8h]
+LakotaWR folds
+t4k3g calls 0.10
+TheBarBar calls 0.10
+sevenk calls 0.05
+packrat3 checks
+** Flop ** [Ah 7d 5d]
+sevenk bets 0.20
+packrat3 folds
+t4k3g calls 0.20
+TheBarBar calls 0.20
+** Turn ** [Th]
+sevenk bets 0.60
+t4k3g calls 0.60
+TheBarBar calls 0.60
+** River ** [Td]
+sevenk checks
+t4k3g checks
+TheBarBar checks
+** Pot Show Down ** [Ah 7d 5d Th Td]
+sevenk shows [6h 8h] (a Pair of Tens +A87)
+t4k3g shows [Ad 2c] (Two Pair, Aces and Tens +7)
+TheBarBar shows [3s 6s] (a Pair of Tens +A76)
+t4k3g wins Pot (2.73) with Two Pair
+Rake (0.07)
+TheBarBar adds 0.28 chips
+
+
+
+Hand #38349299-751 - 2015-01-13 04:07:30
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: 3ead3c (2) - waiting for big blind
+Seat 2: sevenk (14.01)
+Seat 3: packrat3 (11.55)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (36.14)
+Seat 6: TheBarBar (10)
+sevenk has the dealer button
+packrat3 posts small blind 0.05
+LakotaWR posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ts 9d]
+t4k3g folds
+TheBarBar raises to 0.30
+sevenk folds
+packrat3 calls 0.25
+LakotaWR folds
+LakotaWR adds 0.10 chips
+** Flop ** [7s As Ad]
+packrat3 checks
+TheBarBar bets 0.40
+packrat3 folds
+TheBarBar refunded 0.40
+TheBarBar wins Pot (0.69)
+Rake (0.01)
+
+
+
+Hand #38349320-752 - 2015-01-13 04:08:13
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: 3ead3c (2)
+Seat 2: sevenk (14.01)
+Seat 3: packrat3 (11.25)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (36.14)
+Seat 6: TheBarBar (10.39)
+packrat3 has the dealer button
+LakotaWR posts small blind 0.05
+t4k3g posts big blind 0.10
+3ead3c posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2s 3s]
+TheBarBar folds
+3ead3c checks
+sevenk folds
+packrat3 folds
+LakotaWR calls 0.05
+t4k3g checks
+** Flop ** [3c As 5c]
+LakotaWR checks
+t4k3g checks
+3ead3c checks
+** Turn ** [3d]
+LakotaWR checks
+t4k3g checks
+3ead3c checks
+** River ** [Jd]
+LakotaWR checks
+t4k3g checks
+3ead3c checks
+** Pot Show Down ** [3c As 5c 3d Jd]
+3ead3c shows [Qc 6d] (a Pair of Threes +AQJ)
+LakotaWR shows [4d 7s] (a Pair of Threes +AJ7)
+t4k3g shows [8h 7c] (a Pair of Threes +AJ8)
+3ead3c wins Pot (0.30) with a Pair
+Rake (0)
+LakotaWR adds 0.10 chips
+
+
+
+Hand #38349347-753 - 2015-01-13 04:09:23
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: 3ead3c (2.20)
+Seat 2: sevenk (14.01)
+Seat 3: packrat3 (11.25)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (36.04)
+Seat 6: TheBarBar (10.39)
+LakotaWR has the dealer button
+t4k3g posts small blind 0.05
+TheBarBar posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4d Jh]
+3ead3c folds
+sevenk folds
+packrat3 folds
+LakotaWR calls 0.10
+t4k3g raises to 0.40
+TheBarBar folds
+LakotaWR folds
+t4k3g refunded 0.30
+LakotaWR adds 0.10 chips
+t4k3g wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #38349360-754 - 2015-01-13 04:10:03
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: 3ead3c (2.20)
+Seat 2: sevenk (14.01)
+Seat 3: packrat3 (11.25)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (36.24)
+Seat 6: TheBarBar (10.29)
+t4k3g has the dealer button
+TheBarBar posts small blind 0.05
+3ead3c posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jd Ac]
+sevenk raises to 0.30
+packrat3 folds
+LakotaWR folds
+t4k3g folds
+TheBarBar folds
+3ead3c calls 0.20
+** Flop ** [Qd Ah Qc]
+3ead3c checks
+sevenk bets 0.30
+3ead3c calls 0.30
+** Turn ** [3d]
+3ead3c checks
+sevenk bets 0.70
+3ead3c raises to 1.60 (All-in)
+sevenk calls 0.90
+** River ** [4h]
+** Pot Show Down ** [Qd Ah Qc 3d 4h]
+3ead3c shows [Js Kc] (a Pair of Queens +AKJ)
+sevenk shows [Jd Ac] (Two Pair, Aces and Queens +J)
+sevenk wins Pot (4.34) with Two Pair
+Rake (0.11)
+
+
+
+Hand #38349379-755 - 2015-01-13 04:11:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 2: sevenk (16.15)
+Seat 3: packrat3 (11.25)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (36.24)
+Seat 6: TheBarBar (10.24)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c Jd]
+LakotaWR folds
+t4k3g folds
+TheBarBar folds
+sevenk folds
+packrat3 refunded 0.05
+packrat3 wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38349422-758 - 2015-01-13 04:13:08
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (16.10) - waiting for big blind
+Seat 3: packrat3 (12.50)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (35.14)
+Seat 6: TheBarBar (10.14)
+t4k3g has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9s 7h]
+packrat3 folds
+LakotaWR calls 0.10
+t4k3g calls 0.10
+TheBarBar calls 0.05
+sevenk checks
+** Flop ** [Qc Ac 6h]
+TheBarBar checks
+sevenk checks
+LakotaWR checks
+t4k3g checks
+** Turn ** [2s]
+TheBarBar checks
+sevenk checks
+LakotaWR checks
+t4k3g bets 0.40
+TheBarBar calls 0.40
+sevenk folds
+LakotaWR folds
+LakotaWR adds 0.10 chips
+** River ** [Kd]
+TheBarBar checks
+t4k3g checks
+** Pot Show Down ** [Qc Ac 6h 2s Kd]
+t4k3g shows [6c Js] (a Pair of Sixes +AKQ)
+TheBarBar shows [Td Kh] (a Pair of Kings +AQT)
+TheBarBar wins Pot (1.17) with a Pair
+Rake (0.03)
+
+
+
+Hand #38349462-759 - 2015-01-13 04:15:15
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (16)
+Seat 3: packrat3 (12.50)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (34.64)
+Seat 6: TheBarBar (10.81)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qd 8d]
+LakotaWR folds
+t4k3g folds
+TheBarBar raises to 0.30
+sevenk folds
+packrat3 calls 0.20
+** Flop ** [6c 7h 8s]
+packrat3 checks
+TheBarBar checks
+** Turn ** [7s]
+packrat3 bets 0.50
+TheBarBar folds
+packrat3 refunded 0.50
+packrat3 wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #38349483-760 - 2015-01-13 04:16:03
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (15.95)
+Seat 3: packrat3 (12.84)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (34.64)
+Seat 6: TheBarBar (10.51)
+sevenk has the dealer button
+packrat3 posts small blind 0.05
+LakotaWR posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8c 9c]
+t4k3g calls 0.10
+TheBarBar raises to 0.30
+sevenk calls 0.30
+packrat3 folds
+LakotaWR folds
+LakotaWR adds 0.10 chips
+t4k3g calls 0.20
+** Flop ** [4d Td Qh]
+t4k3g checks
+TheBarBar checks
+sevenk checks
+** Turn ** [Jd]
+t4k3g bets 0.60
+TheBarBar folds
+sevenk calls 0.60
+** River ** [Js]
+t4k3g bets 1
+sevenk calls 1
+** Pot Show Down ** [4d Td Qh Jd Js]
+sevenk shows [8c 9c] (a Straight, Eight to Queen)
+t4k3g shows [4h Qd] (Two Pair, Queens and Jacks +T)
+sevenk wins Pot (4.15) with a Straight
+Rake (0.10)
+
+
+
+Hand #38349537-761 - 2015-01-13 04:18:11
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (18.20)
+Seat 2: chronemics (10) - waiting for big blind
+Seat 3: packrat3 (12.79)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (32.74)
+Seat 6: TheBarBar (10.21)
+packrat3 has the dealer button
+LakotaWR posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qc Qs]
+TheBarBar raises to 0.30
+sevenk raises to 0.75
+packrat3 folds
+LakotaWR folds
+LakotaWR adds 0.05 chips
+t4k3g folds
+TheBarBar calls 0.45
+** Flop ** [Js 3h 5s]
+TheBarBar checks
+sevenk bets 0.75
+TheBarBar calls 0.75
+** Turn ** [Ts]
+TheBarBar checks
+sevenk bets 2
+TheBarBar folds
+sevenk refunded 2
+TheBarBar adds 1.29 chips
+sevenk wins Pot (3.08)
+Rake (0.07)
+
+
+
+Hand #38349559-762 - 2015-01-13 04:19:35
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (19.78)
+Seat 2: chronemics (10) - waiting for big blind
+Seat 3: packrat3 (12.79)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (32.64)
+Seat 6: TheBarBar (10)
+LakotaWR has the dealer button
+t4k3g posts small blind 0.05
+TheBarBar posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s 3c]
+sevenk folds
+packrat3 raises to 0.30
+LakotaWR calls 0.30
+t4k3g calls 0.25
+TheBarBar calls 0.20
+** Flop ** [Jh Js 2h]
+t4k3g checks
+TheBarBar checks
+packrat3 bets 0.80
+LakotaWR folds
+LakotaWR adds 0.30 chips
+t4k3g folds
+TheBarBar folds
+packrat3 refunded 0.80
+TheBarBar adds 0.30 chips
+packrat3 wins Pot (1.17)
+Rake (0.03)
+
+
+
+Hand #38349578-763 - 2015-01-13 04:20:37
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (19.78)
+Seat 2: chronemics (10) - waiting for big blind
+Seat 3: packrat3 (13.66)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (32.34)
+Seat 6: TheBarBar (10)
+t4k3g has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qh Kd]
+packrat3 folds
+LakotaWR folds
+t4k3g raises to 0.30
+TheBarBar folds
+TheBarBar adds 0.05 chips
+sevenk calls 0.20
+** Flop ** [7c Tc 8c]
+sevenk checks
+t4k3g checks
+** Turn ** [5c]
+sevenk bets 0.30
+t4k3g calls 0.30
+** River ** [Th]
+sevenk checks
+t4k3g bets 0.50
+sevenk folds
+t4k3g refunded 0.50
+t4k3g wins Pot (1.22)
+Rake (0.03)
+
+
+
+Hand #38349605-764 - 2015-01-13 04:21:52
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (19.18)
+Seat 2: chronemics (10) - waiting for big blind
+Seat 3: packrat3 (13.66)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (32.96)
+Seat 6: TheBarBar (10)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+chronemics posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8d Jh]
+packrat3 folds
+LakotaWR folds
+t4k3g calls 0.10
+TheBarBar raises to 0.40
+sevenk folds
+chronemics folds
+t4k3g calls 0.30
+** Flop ** [6h 5s 2h]
+t4k3g checks
+TheBarBar bets 0.60
+t4k3g calls 0.60
+** Turn ** [Th]
+t4k3g checks
+TheBarBar checks
+** River ** [2c]
+t4k3g bets 0.50
+TheBarBar calls 0.50
+** Pot Show Down ** [6h 5s 2h Th 2c]
+t4k3g shows [Ad 6c] (Two Pair, Sixes and Deuces +A)
+TheBarBar shows [5d 4d] (Two Pair, Fives and Deuces +T)
+t4k3g wins Pot (3.08) with Two Pair
+Rake (0.07)
+TheBarBar adds 1.50 chips
+
+
+
+Hand #38349624-765 - 2015-01-13 04:22:55
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (19.13)
+Seat 2: chronemics (9.90)
+Seat 3: packrat3 (13.66)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (34.54)
+Seat 6: TheBarBar (10)
+sevenk has the dealer button
+chronemics posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2s 8c]
+LakotaWR folds
+t4k3g calls 0.10
+TheBarBar calls 0.10
+sevenk folds
+chronemics calls 0.05
+packrat3 checks
+** Flop ** [2h Td Kc]
+chronemics checks
+packrat3 checks
+t4k3g checks
+TheBarBar checks
+** Turn ** [6s]
+chronemics checks
+packrat3 checks
+t4k3g checks
+TheBarBar checks
+** River ** [6h]
+chronemics checks
+packrat3 checks
+t4k3g bets 0.20
+TheBarBar folds
+TheBarBar adds 0.10 chips
+chronemics folds
+packrat3 folds
+t4k3g refunded 0.20
+t4k3g wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38349666-766 - 2015-01-13 04:24:49
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (19.13)
+Seat 2: chronemics (9.80)
+Seat 3: packrat3 (13.56)
+Seat 4: LakotaWR (5)
+Seat 5: t4k3g (34.83)
+Seat 6: TheBarBar (10)
+chronemics has the dealer button
+packrat3 posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5d Ks]
+TheBarBar raises to 0.30
+sevenk folds
+chronemics folds
+packrat3 calls 0.25
+t4k3g folds
+** Flop ** [3s 7h Td]
+packrat3 checks
+TheBarBar checks
+** Turn ** [Jc]
+packrat3 checks
+TheBarBar checks
+** River ** [4h]
+packrat3 checks
+TheBarBar bets 0.50
+packrat3 folds
+TheBarBar refunded 0.50
+TheBarBar wins Pot (0.69)
+Rake (0.01)
+
+
+
+Hand #38349688-767 - 2015-01-13 04:25:56
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (19.13)
+Seat 2: chronemics (9.80)
+Seat 3: packrat3 (13.26)
+Seat 4: LakotaWR (5) - sitting out
+Seat 5: t4k3g (34.73)
+Seat 6: TheBarBar (10.39)
+packrat3 has the dealer button
+t4k3g posts small blind 0.05
+TheBarBar posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7d As]
+sevenk folds
+chronemics folds
+packrat3 folds
+t4k3g folds
+TheBarBar refunded 0.05
+TheBarBar wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38349693-768 - 2015-01-13 04:26:20
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (19.13)
+Seat 2: chronemics (9.80)
+Seat 3: packrat3 (13.26)
+Seat 4: LakotaWR (5) - sitting out
+Seat 5: t4k3g (34.68)
+Seat 6: TheBarBar (10.44)
+t4k3g has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qd Jc]
+chronemics raises to 0.30
+packrat3 folds
+t4k3g calls 0.30
+TheBarBar folds
+sevenk calls 0.20
+** Flop ** [Ah 3s 2h]
+sevenk checks
+chronemics checks
+t4k3g checks
+** Turn ** [6s]
+sevenk checks
+chronemics checks
+t4k3g checks
+** River ** [6h]
+sevenk checks
+chronemics checks
+t4k3g checks
+** Pot Show Down ** [Ah 3s 2h 6s 6h]
+sevenk shows [Qd Jc] (a Pair of Sixes +AQJ)
+chronemics shows [Th Td] (Two Pair, Tens and Sixes +A)
+t4k3g shows [Jd 9d] (a Pair of Sixes +AJ9)
+chronemics wins Pot (0.93) with Two Pair
+Rake (0.02)
+
+
+
+Hand #38349714-769 - 2015-01-13 04:27:26
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (18.83)
+Seat 2: chronemics (10.43)
+Seat 3: packrat3 (13.26)
+Seat 5: t4k3g (34.38)
+Seat 6: TheBarBar (10.39)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+chronemics posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Th 4d]
+packrat3 raises to 0.30
+t4k3g calls 0.30
+TheBarBar folds
+sevenk folds
+chronemics folds
+** Flop ** [6c 9h 5h]
+packrat3 bets 0.50
+t4k3g calls 0.50
+** Turn ** [Qh]
+packrat3 checks
+t4k3g checks
+** River ** [Ac]
+packrat3 bets 1.50
+t4k3g raises to 3
+packrat3 calls 1.50
+** Pot Show Down ** [6c 9h 5h Qh Ac]
+packrat3 shows [9s 9d] (Three of a Kind, Nines +AQ)
+t4k3g shows [As 8s] (a Pair of Aces +Q98)
+packrat3 wins Pot (7.56) with Three of a Kind
+Rake (0.19)
+
+
+
+Hand #38349738-770 - 2015-01-13 04:28:32
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (18.78)
+Seat 2: chronemics (10.33)
+Seat 3: packrat3 (17.02)
+Seat 5: t4k3g (30.58)
+Seat 6: TheBarBar (10.39)
+sevenk has the dealer button
+chronemics posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6h 4d]
+t4k3g raises to 0.30
+TheBarBar calls 0.30
+sevenk folds
+chronemics folds
+packrat3 calls 0.20
+** Flop ** [Ad 3c Jd]
+packrat3 checks
+t4k3g checks
+TheBarBar checks
+** Turn ** [Qs]
+packrat3 bets 0.60
+t4k3g folds
+TheBarBar folds
+packrat3 refunded 0.60
+packrat3 wins Pot (0.93)
+Rake (0.02)
+
+
+
+Hand #38349756-771 - 2015-01-13 04:29:25
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (18.78)
+Seat 2: chronemics (10.28)
+Seat 3: packrat3 (17.65)
+Seat 4: BuyBTC4PP (2)
+Seat 5: t4k3g (30.28)
+Seat 6: TheBarBar (10.09)
+chronemics has the dealer button
+packrat3 posts small blind 0.05
+BuyBTC4PP posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9h 8h]
+t4k3g has timed out
+t4k3g folds
+TheBarBar raises to 0.30
+sevenk calls 0.30
+chronemics folds
+packrat3 folds
+BuyBTC4PP calls 0.20
+** Flop ** [Tc 2d 2c]
+BuyBTC4PP checks
+TheBarBar bets 0.60
+sevenk folds
+BuyBTC4PP raises to 1.70 (All-in)
+TheBarBar calls 1.10
+** Turn ** [4h]
+** River ** [3d]
+** Pot Show Down ** [Tc 2d 2c 4h 3d]
+BuyBTC4PP shows [Td 5c] (Two Pair, Tens and Deuces +5)
+TheBarBar shows [Kh Kd] (Two Pair, Kings and Deuces +T)
+TheBarBar wins Pot (4.25) with Two Pair
+Rake (0.10)
+
+
+
+Hand #38349785-772 - 2015-01-13 04:30:44
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (18.48)
+Seat 2: chronemics (10.28)
+Seat 3: packrat3 (17.60)
+Seat 4: BuyBTC4PP (0) - sitting out
+Seat 5: t4k3g (30.28) - sitting out
+Seat 6: TheBarBar (12.34)
+packrat3 has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5h 3d]
+chronemics raises to 0.30
+packrat3 folds
+TheBarBar folds
+sevenk folds
+chronemics refunded 0.20
+chronemics wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38349795-773 - 2015-01-13 04:31:11
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (18.38)
+Seat 2: chronemics (10.43)
+Seat 3: packrat3 (17.60)
+Seat 5: t4k3g (30.28) - sitting out
+Seat 6: TheBarBar (12.29)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+chronemics posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9s 5s]
+packrat3 folds
+TheBarBar raises to 0.30
+sevenk folds
+chronemics raises to 1
+TheBarBar calls 0.70
+** Flop ** [4d 6d 9c]
+chronemics bets 1.20
+TheBarBar folds
+chronemics refunded 1.20
+chronemics wins Pot (2)
+Rake (0.05)
+
+
+
+Hand #38349811-774 - 2015-01-13 04:31:46
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (18.33)
+Seat 2: chronemics (11.43)
+Seat 3: packrat3 (17.60)
+Seat 6: TheBarBar (11.29)
+sevenk has the dealer button
+chronemics posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jh Qc]
+TheBarBar folds
+sevenk raises to 0.25
+chronemics folds
+packrat3 calls 0.15
+** Flop ** [8s 2h 6d]
+packrat3 checks
+sevenk bets 0.30
+packrat3 folds
+sevenk refunded 0.30
+sevenk wins Pot (0.54)
+Rake (0.01)
+
+
+
+Hand #38349827-775 - 2015-01-13 04:32:19
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (18.62)
+Seat 2: chronemics (11.38)
+Seat 3: packrat3 (17.35)
+Seat 4: t4k3g (30.28) - waiting for big blind
+Seat 6: TheBarBar (11.29)
+chronemics has the dealer button
+packrat3 posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7s 8c]
+TheBarBar folds
+sevenk folds
+chronemics folds
+packrat3 folds
+t4k3g refunded 0.05
+t4k3g wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38349835-776 - 2015-01-13 04:32:42
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (18.62)
+Seat 2: chronemics (11.38)
+Seat 3: packrat3 (17.30)
+Seat 4: t4k3g (30.33)
+Seat 6: TheBarBar (11.29)
+packrat3 has the dealer button
+t4k3g posts small blind 0.05
+TheBarBar posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4h 3s]
+sevenk folds
+chronemics raises to 0.30
+packrat3 folds
+t4k3g folds
+TheBarBar folds
+chronemics refunded 0.20
+chronemics wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38349845-777 - 2015-01-13 04:33:09
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (18.62)
+Seat 2: chronemics (11.53)
+Seat 3: packrat3 (17.30)
+Seat 4: t4k3g (30.28)
+Seat 6: TheBarBar (11.19)
+t4k3g has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8d 7d]
+chronemics raises to 0.30
+packrat3 folds
+t4k3g calls 0.30
+TheBarBar folds
+sevenk calls 0.20
+** Flop ** [2h 8s 9d]
+sevenk checks
+chronemics checks
+t4k3g checks
+** Turn ** [7h]
+sevenk bets 0.60
+chronemics raises to 1.50
+t4k3g folds
+sevenk calls 0.90
+** River ** [4s]
+sevenk checks
+chronemics bets 2.30
+sevenk calls 2.30
+** Pot Show Down ** [2h 8s 9d 7h 4s]
+sevenk shows [8d 7d] (Two Pair, Eights and Sevens +9)
+chronemics shows [6h Ah] (High Card Ace +9876)
+sevenk wins Pot (8.34) with Two Pair
+Rake (0.21)
+chronemics adds 2.57 chips
+
+
+
+Hand #38349877-778 - 2015-01-13 04:34:39
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.86)
+Seat 2: chronemics (10)
+Seat 3: packrat3 (17.30)
+Seat 4: t4k3g (29.98)
+Seat 6: TheBarBar (11.14)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+chronemics posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s 8s]
+packrat3 folds
+t4k3g calls 0.10
+TheBarBar folds
+sevenk calls 0.05
+chronemics checks
+** Flop ** [8h 6h 2d]
+sevenk bets 0.20
+chronemics folds
+t4k3g folds
+sevenk refunded 0.20
+sevenk wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #38349891-779 - 2015-01-13 04:35:20
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (23.06)
+Seat 2: chronemics (9.90)
+Seat 3: packrat3 (17.30)
+Seat 4: t4k3g (29.88)
+Seat 6: TheBarBar (11.14)
+sevenk has the dealer button
+chronemics posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8s Qc]
+t4k3g raises to 0.30
+TheBarBar folds
+sevenk folds
+chronemics folds
+packrat3 calls 0.20
+** Flop ** [Qs 5d 7c]
+packrat3 checks
+t4k3g checks
+** Turn ** [3d]
+packrat3 checks
+t4k3g checks
+** River ** [3c]
+packrat3 checks
+t4k3g checks
+** Pot Show Down ** [Qs 5d 7c 3d 3c]
+packrat3 shows [9c Td] (a Pair of Threes +QT9)
+t4k3g shows [Kd Ah] (a Pair of Threes +AKQ)
+t4k3g wins Pot (0.64) with a Pair
+Rake (0.01)
+
+
+
+Hand #38349909-780 - 2015-01-13 04:36:03
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (23.06)
+Seat 2: chronemics (9.85)
+Seat 3: packrat3 (17)
+Seat 4: t4k3g (30.22)
+Seat 6: TheBarBar (11.14)
+chronemics has the dealer button
+packrat3 posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3d Qh]
+TheBarBar raises to 0.30
+sevenk folds
+chronemics folds
+packrat3 folds
+t4k3g folds
+TheBarBar refunded 0.20
+TheBarBar wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38349918-781 - 2015-01-13 04:36:26
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (23.06)
+Seat 2: chronemics (9.85)
+Seat 3: packrat3 (16.95)
+Seat 4: t4k3g (30.12)
+Seat 6: TheBarBar (11.29)
+packrat3 has the dealer button
+t4k3g posts small blind 0.05
+TheBarBar posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ac Js]
+sevenk raises to 0.30
+chronemics folds
+packrat3 calls 0.30
+t4k3g folds
+TheBarBar calls 0.20
+** Flop ** [Th 4h 9d]
+TheBarBar checks
+sevenk checks
+packrat3 bets 0.60
+TheBarBar folds
+sevenk folds
+packrat3 refunded 0.60
+packrat3 wins Pot (0.93)
+Rake (0.02)
+
+
+
+Hand #38349933-782 - 2015-01-13 04:37:15
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.76)
+Seat 2: chronemics (9.85)
+Seat 3: packrat3 (17.58)
+Seat 4: t4k3g (30.07)
+Seat 6: TheBarBar (10.99)
+t4k3g has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Th 4s]
+chronemics folds
+packrat3 folds
+t4k3g raises to 0.30
+TheBarBar calls 0.25
+sevenk folds
+** Flop ** [8c 8h 8d]
+TheBarBar checks
+t4k3g checks
+** Turn ** [6s]
+TheBarBar checks
+t4k3g checks
+** River ** [Ac]
+TheBarBar checks
+t4k3g bets 0.30
+TheBarBar folds
+t4k3g refunded 0.30
+t4k3g wins Pot (0.69)
+Rake (0.01)
+
+
+
+Hand #38349949-783 - 2015-01-13 04:38:12
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.66)
+Seat 2: chronemics (9.85)
+Seat 3: packrat3 (17.58)
+Seat 4: t4k3g (30.46)
+Seat 6: TheBarBar (10.69)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+chronemics posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c 6d]
+packrat3 raises to 0.30
+t4k3g calls 0.30
+TheBarBar folds
+sevenk folds
+chronemics folds
+** Flop ** [Ks Kd Jd]
+packrat3 bets 0.50
+t4k3g calls 0.50
+** Turn ** [7c]
+packrat3 checks
+t4k3g checks
+** River ** [Ad]
+packrat3 checks
+t4k3g bets 0.80
+packrat3 folds
+t4k3g refunded 0.80
+t4k3g wins Pot (1.71)
+Rake (0.04)
+
+
+
+Hand #38349985-784 - 2015-01-13 04:39:27
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.61)
+Seat 2: chronemics (9.75)
+Seat 3: packrat3 (16.78)
+Seat 4: t4k3g (31.37)
+Seat 6: TheBarBar (10.69)
+sevenk has the dealer button
+chronemics posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ah 6h]
+t4k3g calls 0.10
+TheBarBar folds
+sevenk calls 0.10
+chronemics calls 0.05
+packrat3 checks
+** Flop ** [3s 6d 7d]
+chronemics checks
+packrat3 checks
+t4k3g checks
+sevenk bets 0.25
+chronemics calls 0.25
+packrat3 calls 0.25
+t4k3g folds
+** Turn ** [Ts]
+chronemics checks
+packrat3 bets 0.80
+sevenk folds
+chronemics calls 0.80
+** River ** [Jd]
+chronemics bets 1.90
+packrat3 folds
+chronemics refunded 1.90
+chronemics wins Pot (2.69)
+Rake (0.06)
+
+
+
+Hand #38350027-785 - 2015-01-13 04:41:01
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.26)
+Seat 2: chronemics (11.29)
+Seat 3: packrat3 (15.63)
+Seat 4: t4k3g (31.27)
+Seat 6: TheBarBar (10.69)
+chronemics has the dealer button
+packrat3 posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8h 6s]
+TheBarBar raises to 0.30
+sevenk folds
+chronemics folds
+packrat3 calls 0.25
+t4k3g calls 0.20
+** Flop ** [2s Jh Jd]
+packrat3 checks
+t4k3g checks
+TheBarBar bets 0.30
+packrat3 calls 0.30
+t4k3g folds
+** Turn ** [2d]
+packrat3 checks
+TheBarBar checks
+** River ** [5s]
+packrat3 bets 1
+TheBarBar raises to 3.50
+packrat3 calls 2.50
+** Pot Show Down ** [2s Jh Jd 2d 5s]
+packrat3 shows [Tc Th] (Two Pair, Jacks and Tens +5)
+TheBarBar shows [Jc Ts] (a Full House, Jacks full of Deuces)
+TheBarBar wins Pot (8.29) with a Full House
+Rake (0.21)
+
+
+
+Hand #38350057-786 - 2015-01-13 04:42:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.26)
+Seat 2: chronemics (11.29)
+Seat 3: packrat3 (11.53)
+Seat 4: t4k3g (30.97)
+Seat 6: TheBarBar (14.88)
+packrat3 has the dealer button
+t4k3g posts small blind 0.05
+TheBarBar posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2h 7c]
+sevenk folds
+chronemics folds
+packrat3 raises to 0.30
+t4k3g folds
+TheBarBar folds
+packrat3 refunded 0.20
+packrat3 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38350069-787 - 2015-01-13 04:42:32
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.26)
+Seat 2: chronemics (11.29)
+Seat 3: packrat3 (11.68)
+Seat 4: t4k3g (30.92)
+Seat 6: TheBarBar (14.78)
+t4k3g has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jh 6c]
+chronemics raises to 0.30
+packrat3 folds
+t4k3g folds
+TheBarBar folds
+sevenk folds
+chronemics refunded 0.20
+chronemics wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38350084-788 - 2015-01-13 04:43:03
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.16)
+Seat 2: chronemics (11.44)
+Seat 3: packrat3 (11.68)
+Seat 4: t4k3g (30.92)
+Seat 6: TheBarBar (14.73)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+chronemics posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jc 6h]
+packrat3 folds
+t4k3g folds
+TheBarBar folds
+sevenk folds
+chronemics refunded 0.05
+chronemics wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38350092-789 - 2015-01-13 04:43:20
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.11)
+Seat 2: chronemics (11.49)
+Seat 3: packrat3 (11.68)
+Seat 4: t4k3g (30.92)
+Seat 6: TheBarBar (14.73)
+sevenk has the dealer button
+chronemics posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3d 9c]
+t4k3g calls 0.10
+TheBarBar folds
+sevenk folds
+chronemics folds
+packrat3 checks
+** Flop ** [4d 5h Js]
+packrat3 bets 0.20
+t4k3g calls 0.20
+** Turn ** [Ad]
+packrat3 bets 0.50
+t4k3g folds
+packrat3 refunded 0.50
+packrat3 wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #38350109-790 - 2015-01-13 04:44:00
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.11)
+Seat 2: chronemics (11.44)
+Seat 3: packrat3 (12.02)
+Seat 4: t4k3g (30.62)
+Seat 5: Loach (7)
+Seat 6: TheBarBar (14.73)
+chronemics has the dealer button
+packrat3 posts small blind 0.05
+t4k3g posts big blind 0.10
+Loach posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3d 5h]
+Loach checks
+TheBarBar raises to 0.30
+sevenk folds
+chronemics folds
+packrat3 calls 0.25
+t4k3g calls 0.20
+Loach calls 0.20
+** Flop ** [6c Qd 2c]
+packrat3 checks
+t4k3g bets 0.40
+Loach folds
+TheBarBar folds
+packrat3 folds
+t4k3g refunded 0.40
+t4k3g wins Pot (1.17)
+Rake (0.03)
+
+
+
+Hand #38350127-791 - 2015-01-13 04:44:49
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.11)
+Seat 2: chronemics (11.44)
+Seat 3: packrat3 (11.72)
+Seat 4: t4k3g (31.49)
+Seat 5: Loach (6.70)
+Seat 6: TheBarBar (14.43)
+packrat3 has the dealer button
+t4k3g posts small blind 0.05
+Loach posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jh 9d]
+TheBarBar folds
+sevenk folds
+chronemics folds
+packrat3 folds
+t4k3g calls 0.05
+Loach checks
+** Flop ** [2d 4d Ts]
+t4k3g checks
+Loach bets 0.10
+t4k3g folds
+Loach refunded 0.10
+Loach wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38350138-792 - 2015-01-13 04:45:22
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.11)
+Seat 2: chronemics (11.44)
+Seat 3: packrat3 (11.72)
+Seat 4: t4k3g (31.39)
+Seat 5: Loach (6.80)
+Seat 6: TheBarBar (14.43)
+t4k3g has the dealer button
+Loach posts small blind 0.05
+TheBarBar posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4s Kh]
+sevenk folds
+chronemics folds
+packrat3 folds
+t4k3g folds
+Loach calls 0.05
+TheBarBar checks
+** Flop ** [3d Th 2s]
+Loach bets 0.10
+TheBarBar calls 0.10
+** Turn ** [As]
+Loach checks
+TheBarBar checks
+** River ** [6s]
+Loach bets 0.20
+TheBarBar folds
+Loach refunded 0.20
+Loach wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38350159-793 - 2015-01-13 04:46:22
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.11)
+Seat 2: chronemics (11.44)
+Seat 3: packrat3 (11.72)
+Seat 4: t4k3g (31.39)
+Seat 5: Loach (6.99)
+Seat 6: TheBarBar (14.23)
+Loach has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7c Ks]
+chronemics folds
+packrat3 folds
+t4k3g calls 0.10
+Loach calls 0.10
+TheBarBar folds
+sevenk checks
+** Flop ** [7s 7d Qd]
+sevenk bets 0.20
+t4k3g folds
+Loach calls 0.20
+** Turn ** [4d]
+sevenk bets 0.40
+Loach folds
+sevenk refunded 0.40
+sevenk wins Pot (0.74)
+Rake (0.01)
+
+
+
+Hand #38350185-794 - 2015-01-13 04:47:35
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.55)
+Seat 2: chronemics (11.44)
+Seat 3: packrat3 (11.72)
+Seat 4: t4k3g (31.29)
+Seat 5: Loach (6.69)
+Seat 6: TheBarBar (14.18)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+chronemics posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [As 9c]
+packrat3 folds
+t4k3g calls 0.10
+Loach calls 0.10
+TheBarBar folds
+sevenk calls 0.05
+chronemics checks
+** Flop ** [Qs Ts 4c]
+sevenk checks
+chronemics checks
+t4k3g checks
+Loach bets 0.30
+sevenk folds
+chronemics folds
+t4k3g folds
+Loach refunded 0.30
+Loach wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38350196-795 - 2015-01-13 04:48:25
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.45)
+Seat 2: chronemics (11.34)
+Seat 3: packrat3 (11.72)
+Seat 4: t4k3g (31.19)
+Seat 5: Loach (6.98)
+Seat 6: TheBarBar (14.18)
+sevenk has the dealer button
+chronemics posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9h Kc]
+t4k3g folds
+Loach calls 0.10
+TheBarBar folds
+sevenk raises to 0.35
+chronemics folds
+packrat3 folds
+Loach calls 0.25
+** Flop ** [5s 7h 9d]
+Loach checks
+sevenk bets 0.50
+Loach folds
+sevenk refunded 0.50
+sevenk wins Pot (0.83)
+Rake (0.02)
+
+
+
+Hand #38350215-796 - 2015-01-13 04:49:30
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.93)
+Seat 2: chronemics (11.29)
+Seat 3: packrat3 (11.62)
+Seat 4: t4k3g (31.19)
+Seat 5: Loach (6.63)
+Seat 6: TheBarBar (14.18)
+chronemics has the dealer button
+packrat3 posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5c 5s]
+Loach folds
+TheBarBar folds
+sevenk raises to 0.30
+chronemics folds
+packrat3 folds
+t4k3g calls 0.20
+** Flop ** [8h 2c 6h]
+t4k3g checks
+sevenk bets 0.35
+t4k3g calls 0.35
+** Turn ** [4h]
+t4k3g bets 0.70
+sevenk folds
+t4k3g refunded 0.70
+t4k3g wins Pot (1.32)
+Rake (0.03)
+
+
+
+Hand #38350238-797 - 2015-01-13 04:50:40
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.28)
+Seat 2: chronemics (11.29)
+Seat 3: packrat3 (11.57)
+Seat 4: t4k3g (31.86)
+Seat 6: TheBarBar (14.18)
+packrat3 has the dealer button
+t4k3g posts small blind 0.05
+TheBarBar posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jd Tc]
+sevenk folds
+chronemics folds
+packrat3 raises to 0.30
+t4k3g folds
+TheBarBar folds
+packrat3 refunded 0.20
+packrat3 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38350249-798 - 2015-01-13 04:51:13
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.28)
+Seat 2: chronemics (11.29)
+Seat 3: packrat3 (11.72)
+Seat 4: t4k3g (31.81)
+Seat 6: TheBarBar (14.08)
+t4k3g has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6c Ts]
+chronemics folds
+packrat3 raises to 0.30
+t4k3g folds
+TheBarBar folds
+sevenk folds
+packrat3 refunded 0.20
+packrat3 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38350257-799 - 2015-01-13 04:51:34
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.18)
+Seat 2: chronemics (11.29)
+Seat 3: packrat3 (11.87)
+Seat 4: t4k3g (31.81)
+Seat 6: TheBarBar (14.03)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+chronemics posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s Qd]
+packrat3 folds
+t4k3g calls 0.10
+TheBarBar folds
+sevenk calls 0.05
+chronemics checks
+** Flop ** [Tc 5d 7s]
+sevenk checks
+chronemics checks
+t4k3g checks
+** Turn ** [Jh]
+sevenk checks
+chronemics checks
+t4k3g bets 0.30
+sevenk folds
+chronemics folds
+t4k3g refunded 0.30
+t4k3g wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #38350286-800 - 2015-01-13 04:52:36
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.08)
+Seat 2: chronemics (11.19)
+Seat 3: packrat3 (11.87)
+Seat 4: t4k3g (32.01)
+Seat 6: TheBarBar (14.03)
+sevenk has the dealer button
+chronemics posts small blind 0.05
+packrat3 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6d Th]
+t4k3g calls 0.10
+TheBarBar folds
+sevenk folds
+chronemics calls 0.05
+packrat3 checks
+** Flop ** [Js Qs Kh]
+chronemics checks
+packrat3 checks
+t4k3g bets 0.30
+chronemics folds
+packrat3 folds
+t4k3g refunded 0.30
+t4k3g wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #38350303-801 - 2015-01-13 04:53:22
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.08)
+Seat 2: chronemics (11.09)
+Seat 3: packrat3 (11.77)
+Seat 4: t4k3g (32.21)
+Seat 5: aberrant (2)
+Seat 6: TheBarBar (14.03)
+chronemics has the dealer button
+packrat3 posts small blind 0.05
+t4k3g posts big blind 0.10
+aberrant posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Td 2c]
+aberrant checks
+TheBarBar folds
+sevenk folds
+chronemics calls 0.10
+packrat3 raises to 0.50
+t4k3g folds
+aberrant folds
+chronemics folds
+packrat3 refunded 0.40
+packrat3 wins Pot (0.40)
+Rake (0)
+
+
+
+Hand #38350320-802 - 2015-01-13 04:54:08
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.08)
+Seat 2: chronemics (10.99)
+Seat 3: packrat3 (12.07)
+Seat 4: t4k3g (32.11)
+Seat 5: aberrant (1.90)
+Seat 6: TheBarBar (14.03)
+packrat3 has the dealer button
+t4k3g posts small blind 0.05
+aberrant posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8h Ac]
+TheBarBar folds
+sevenk folds
+chronemics folds
+packrat3 folds
+t4k3g raises to 0.30
+aberrant calls 0.20
+** Flop ** [Ks Jh 3s]
+t4k3g checks
+aberrant bets 0.30
+t4k3g folds
+aberrant refunded 0.30
+aberrant wins Pot (0.59)
+Rake (0.01)
+
+
+
+Hand #38350343-803 - 2015-01-13 04:55:04
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.08)
+Seat 2: chronemics (10.99)
+Seat 3: packrat3 (12.07)
+Seat 4: t4k3g (31.81)
+Seat 5: aberrant (2.19)
+Seat 6: TheBarBar (14.03)
+t4k3g has the dealer button
+aberrant posts small blind 0.05
+TheBarBar posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ts Qd]
+sevenk folds
+chronemics folds
+packrat3 folds
+t4k3g folds
+aberrant folds
+TheBarBar refunded 0.05
+TheBarBar wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38350346-804 - 2015-01-13 04:55:26
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.08)
+Seat 2: chronemics (10.99)
+Seat 3: packrat3 (12.07)
+Seat 4: t4k3g (31.81)
+Seat 5: aberrant (2.14)
+Seat 6: TheBarBar (14.08)
+aberrant has the dealer button
+TheBarBar posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [As Js]
+chronemics folds
+packrat3 folds
+t4k3g calls 0.10
+aberrant calls 0.10
+TheBarBar calls 0.05
+sevenk raises to 0.45
+t4k3g folds
+aberrant folds
+TheBarBar calls 0.35
+** Flop ** [3s 4c 8h]
+TheBarBar checks
+sevenk bets 0.55
+TheBarBar folds
+sevenk refunded 0.55
+sevenk wins Pot (1.08)
+Rake (0.02)
+
+
+
+Hand #38350385-805 - 2015-01-13 04:56:35
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.71)
+Seat 2: chronemics (10.99)
+Seat 3: packrat3 (12.07)
+Seat 4: t4k3g (31.71)
+Seat 5: aberrant (2.04)
+Seat 6: TheBarBar (13.63)
+TheBarBar has the dealer button
+sevenk posts small blind 0.05
+chronemics posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kc 3d]
+packrat3 folds
+t4k3g calls 0.10
+aberrant folds
+TheBarBar raises to 0.30
+sevenk folds
+chronemics folds
+t4k3g calls 0.20
+** Flop ** [9c 7s 4h]
+t4k3g bets 0.40
+TheBarBar folds
+t4k3g refunded 0.40
+t4k3g wins Pot (0.74)
+Rake (0.01)
+
+
+
+Hand #38350414-806 - 2015-01-13 04:57:24
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.66)
+Seat 2: chronemics (10.89)
+Seat 3: packrat3 (12.07) - sitting out
+Seat 4: t4k3g (32.15)
+Seat 5: aberrant (2.04)
+Seat 6: TheBarBar (13.33)
+sevenk has the dealer button
+chronemics posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7h 4s]
+aberrant folds
+TheBarBar folds
+sevenk folds
+chronemics folds
+t4k3g refunded 0.05
+t4k3g wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38350424-807 - 2015-01-13 04:57:44
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #4
+Seat 1: sevenk (22.66)
+Seat 2: chronemics (10.84)
+Seat 3: packrat3 (12.07) - sitting out
+Seat 4: t4k3g (32.20)
+Seat 5: aberrant (2.04)
+Seat 6: TheBarBar (13.33)
+chronemics has the dealer button
+t4k3g posts small blind 0.05
+aberrant posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3d As]
+TheBarBar folds
+sevenk folds
+chronemics raises to 0.30
+t4k3g folds
+aberrant calls 0.20
+** Flop ** [Ts 2c 7d]
+aberrant bets 0.32
+chronemics folds
+aberrant refunded 0.32
+aberrant wins Pot (0.64)
+Rake (0.01)

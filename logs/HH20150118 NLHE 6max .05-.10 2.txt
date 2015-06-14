@@ -1,0 +1,711 @@
+Hand #38628597-120 - 2015-01-18 04:06:30
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (13.58)
+Seat 2: Redskies2 (5.21)
+Seat 4: Lina (10) - waiting for big blind
+Seat 5: ms1323 (13.78) - sitting out
+Seat 6: Rule42 (27.87)
+Redskies2 has the dealer button
+Rule42 posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Redskies2 calls 0.10
+Rule42 calls 0.05
+t4k3g checks
+** Flop ** [Kc 5h Ah]
+Rule42 checks
+t4k3g checks
+Redskies2 checks
+** Turn ** [9s]
+Rule42 bets 0.30
+t4k3g folds
+Redskies2 folds
+Rule42 refunded 0.30
+Rule42 wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #38628622-121 - 2015-01-18 04:07:01
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (13.48)
+Seat 2: Redskies2 (5.11)
+Seat 3: sevenk (10) - waiting for big blind
+Seat 4: Lina (10) - waiting for big blind
+Seat 5: ms1323 (13.78) - sitting out
+Seat 6: Rule42 (28.07)
+Rule42 has the dealer button
+t4k3g posts small blind 0.05
+Redskies2 posts big blind 0.10
+** Hole Cards **
+Rule42 raises to 0.30
+t4k3g folds
+Redskies2 folds
+Rule42 refunded 0.20
+Rule42 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38628632-122 - 2015-01-18 04:07:19
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (13.43)
+Seat 2: Redskies2 (5.01)
+Seat 3: sevenk (10) - waiting for big blind
+Seat 4: Lina (10) - waiting for big blind
+Seat 5: ms1323 (13.78) - sitting out
+Seat 6: Rule42 (28.22)
+t4k3g has the dealer button
+Redskies2 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4d Kc]
+Rule42 folds
+t4k3g folds
+Redskies2 folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38628644-123 - 2015-01-18 04:07:34
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (13.43)
+Seat 2: Redskies2 (4.96)
+Seat 3: sevenk (10.05)
+Seat 4: Lina (10) - waiting for big blind
+Seat 5: ms1323 (13.78) - sitting out
+Seat 6: Rule42 (28.22)
+Redskies2 has the dealer button
+sevenk posts small blind 0.05
+Lina posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ks 3h]
+Rule42 folds
+t4k3g folds
+Redskies2 calls 0.10
+sevenk folds
+Lina checks
+** Flop ** [Jh 2c 5c]
+Lina bets 0.20
+Redskies2 calls 0.20
+** Turn ** [6s]
+Lina bets 0.50
+Redskies2 calls 0.50
+** River ** [5h]
+Lina checks
+Redskies2 bets 0.60
+Lina calls 0.60
+** Pot Show Down ** [Jh 2c 5c 6s 5h]
+Redskies2 shows [Js Td] (Two Pair, Jacks and Fives +T)
+Lina shows [Kh Jc] (Two Pair, Jacks and Fives +K)
+Lina wins Pot (2.78) with Two Pair
+Rake (0.07)
+
+
+
+Hand #38628687-124 - 2015-01-18 04:08:42
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (13.43)
+Seat 2: Redskies2 (3.56)
+Seat 3: sevenk (10)
+Seat 4: Lina (11.38)
+Seat 5: ms1323 (13.78) - sitting out
+Seat 6: Rule42 (28.22)
+sevenk has the dealer button
+Lina posts small blind 0.05
+Rule42 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7c 3s]
+t4k3g calls 0.10
+Redskies2 folds
+sevenk folds
+Lina calls 0.05
+Rule42 checks
+** Flop ** [4d 6s 6h]
+Lina checks
+Rule42 checks
+t4k3g checks
+** Turn ** [Ad]
+Lina bets 0.20
+Rule42 folds
+t4k3g folds
+Lina refunded 0.20
+Lina wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #38628716-125 - 2015-01-18 04:09:33
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (13.33)
+Seat 2: Redskies2 (3.56)
+Seat 3: sevenk (10)
+Seat 4: Lina (11.58)
+Seat 5: ms1323 (13.78) - sitting out
+Seat 6: Rule42 (28.12)
+Lina has the dealer button
+Rule42 posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3s 8d]
+Redskies2 calls 0.10
+sevenk folds
+Lina calls 0.10
+Rule42 calls 0.05
+t4k3g checks
+** Flop ** [Qc Js 8h]
+Rule42 checks
+t4k3g bets 0.50
+Redskies2 folds
+Lina folds
+Rule42 folds
+t4k3g refunded 0.50
+t4k3g wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38628742-126 - 2015-01-18 04:10:23
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (13.62)
+Seat 2: Redskies2 (3.46)
+Seat 3: sevenk (10)
+Seat 4: Lina (11.48)
+Seat 5: ms1323 (13.78) - sitting out
+Seat 6: Rule42 (28.02)
+Rule42 has the dealer button
+t4k3g posts small blind 0.05
+Redskies2 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kh Qc]
+sevenk raises to 0.30
+Lina folds
+Rule42 folds
+t4k3g folds
+Redskies2 folds
+sevenk refunded 0.20
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38628754-127 - 2015-01-18 04:10:43
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (13.57)
+Seat 2: Redskies2 (3.36)
+Seat 3: sevenk (10.15)
+Seat 4: Lina (11.48)
+Seat 5: ms1323 (13.78) - sitting out
+Seat 6: Rule42 (28.02)
+t4k3g has the dealer button
+Redskies2 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kh 3d]
+Lina folds
+Rule42 folds
+t4k3g calls 0.10
+Redskies2 folds
+sevenk checks
+** Flop ** [Ad 5h Jc]
+sevenk checks
+t4k3g checks
+** Turn ** [Jd]
+sevenk bets 0.15
+t4k3g folds
+sevenk refunded 0.15
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38628782-128 - 2015-01-18 04:11:24
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (13.47)
+Seat 2: Redskies2 (3.31)
+Seat 3: sevenk (10.30)
+Seat 4: Lina (11.48)
+Seat 5: ms1323 (13.78) - sitting out
+Seat 6: Rule42 (28.02)
+Redskies2 has the dealer button
+sevenk posts small blind 0.05
+Lina posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ad Qs]
+Rule42 folds
+t4k3g raises to 0.30
+Redskies2 folds
+sevenk raises to 1
+Lina folds
+t4k3g raises to 3
+sevenk folds
+t4k3g refunded 2
+t4k3g wins Pot (2.10)
+Rake (0)
+
+
+
+Hand #38628809-129 - 2015-01-18 04:12:28
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (14.57)
+Seat 2: Redskies2 (3.31)
+Seat 3: sevenk (9.30)
+Seat 4: Lina (11.38)
+Seat 6: Rule42 (28.02)
+sevenk has the dealer button
+Lina posts small blind 0.05
+Rule42 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5c Qs]
+t4k3g calls 0.10
+Redskies2 calls 0.10
+sevenk folds
+Lina calls 0.05
+Rule42 checks
+** Flop ** [Th As 9d]
+Lina checks
+Rule42 checks
+t4k3g checks
+Redskies2 checks
+** Turn ** [5s]
+Lina checks
+Rule42 checks
+t4k3g bets 0.40
+Redskies2 folds
+Lina folds
+Rule42 folds
+t4k3g refunded 0.40
+t4k3g wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38628834-130 - 2015-01-18 04:13:28
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (14.86)
+Seat 2: Redskies2 (3.21)
+Seat 3: sevenk (9.30)
+Seat 4: Lina (11.28)
+Seat 6: Rule42 (27.92)
+Lina has the dealer button
+Rule42 posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8h Jd]
+Redskies2 calls 0.10
+sevenk folds
+Lina calls 0.10
+Rule42 raises to 0.30
+t4k3g folds
+Redskies2 calls 0.20
+Lina calls 0.20
+** Flop ** [Qh Js Qs]
+Rule42 bets 0.70
+Redskies2 folds
+Lina folds
+Rule42 refunded 0.70
+Rule42 wins Pot (0.98)
+Rake (0.02)
+
+
+
+Hand #38628861-131 - 2015-01-18 04:14:27
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (14.76)
+Seat 2: Redskies2 (2.91)
+Seat 3: sevenk (9.30)
+Seat 4: Lina (10.98)
+Seat 6: Rule42 (28.60)
+Rule42 has the dealer button
+t4k3g posts small blind 0.05
+Redskies2 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qc Td]
+sevenk folds
+Lina raises to 0.30
+Rule42 folds
+t4k3g folds
+Redskies2 folds
+Lina refunded 0.20
+Lina wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38628876-132 - 2015-01-18 04:14:55
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (14.71)
+Seat 2: Redskies2 (2.81)
+Seat 3: sevenk (9.30)
+Seat 4: Lina (11.13)
+Seat 6: Rule42 (28.60)
+t4k3g has the dealer button
+Redskies2 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s 4c]
+Lina raises to 0.20
+Rule42 folds
+t4k3g calls 0.20
+Redskies2 folds
+sevenk calls 0.10
+** Flop ** [2c Ac 5h]
+sevenk checks
+Lina checks
+t4k3g checks
+** Turn ** [Qs]
+sevenk checks
+Lina checks
+t4k3g checks
+** River ** [4h]
+sevenk checks
+Lina checks
+t4k3g bets 0.40
+sevenk folds
+Lina folds
+t4k3g refunded 0.40
+t4k3g wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #38628921-133 - 2015-01-18 04:16:29
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (15.15)
+Seat 2: Redskies2 (2.76)
+Seat 3: sevenk (9.10)
+Seat 4: Lina (10.93)
+Seat 5: highstakesb (10) - waiting for big blind
+Seat 6: Rule42 (28.60)
+Redskies2 has the dealer button
+sevenk posts small blind 0.05
+Lina posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ks Kd]
+Rule42 folds
+t4k3g raises to 0.30
+Redskies2 folds
+sevenk raises to 1
+Lina folds
+t4k3g calls 0.70
+** Flop ** [As Tc Th]
+sevenk checks
+t4k3g checks
+** Turn ** [4d]
+sevenk checks
+t4k3g checks
+** River ** [6c]
+sevenk checks
+t4k3g checks
+** Pot Show Down ** [As Tc Th 4d 6c]
+t4k3g shows [Jc Kh] (a Pair of Tens +AKJ)
+sevenk shows [Ks Kd] (Two Pair, Kings and Tens +A)
+sevenk wins Pot (2.05) with Two Pair
+Rake (0.05)
+
+
+
+Hand #38628961-134 - 2015-01-18 04:17:46
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (14.15)
+Seat 2: Redskies2 (2.76)
+Seat 3: sevenk (10.15)
+Seat 4: Lina (10.83)
+Seat 5: highstakesb (10) - waiting for big blind
+Seat 6: Rule42 (28.60)
+sevenk has the dealer button
+Lina posts small blind 0.05
+highstakesb posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3s 5h]
+Rule42 folds
+t4k3g folds
+Redskies2 calls 0.10
+sevenk folds
+Lina calls 0.05
+highstakesb checks
+** Flop ** [9h 2d Jc]
+Lina checks
+highstakesb checks
+Redskies2 bets 0.30
+Lina folds
+highstakesb folds
+Redskies2 refunded 0.30
+Redskies2 wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #38628972-135 - 2015-01-18 04:18:20
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (14.15)
+Seat 2: Redskies2 (2.96)
+Seat 3: sevenk (10.15)
+Seat 4: Lina (10.73)
+Seat 5: highstakesb (9.90)
+Seat 6: Rule42 (28.60)
+Lina has the dealer button
+highstakesb posts small blind 0.05
+Rule42 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c Jh]
+t4k3g folds
+Redskies2 folds
+sevenk raises to 0.30
+Lina raises to 0.80
+highstakesb folds
+Rule42 folds
+sevenk folds
+Lina refunded 0.50
+Lina wins Pot (0.75)
+Rake (0)
+
+
+
+Hand #38629002-136 - 2015-01-18 04:19:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (14.15)
+Seat 2: Redskies2 (2.96)
+Seat 3: sevenk (9.85)
+Seat 4: Lina (11.18)
+Seat 5: highstakesb (9.85)
+Seat 6: Rule42 (28.50)
+highstakesb has the dealer button
+Rule42 posts small blind 0.05
+t4k3g posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jc Ah]
+Redskies2 calls 0.10
+sevenk raises to 0.40
+Lina folds
+highstakesb folds
+Rule42 folds
+t4k3g folds
+Redskies2 calls 0.30
+** Flop ** [6s 9d Js]
+Redskies2 checks
+sevenk bets 0.50
+Redskies2 calls 0.50
+** Turn ** [2s]
+Redskies2 checks
+sevenk bets 1
+Redskies2 raises to 2.06 (All-in)
+sevenk calls 1.06
+** River ** [6d]
+** Pot Show Down ** [6s 9d Js 2s 6d]
+Redskies2 shows [9s Jd] (Two Pair, Jacks and Nines +6)
+sevenk shows [Jc Ah] (Two Pair, Jacks and Sixes +A)
+Redskies2 wins Pot (5.92) with Two Pair
+Rake (0.15)
+
+
+
+Hand #38629037-137 - 2015-01-18 04:20:19
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (14.05)
+Seat 2: Redskies2 (5.92)
+Seat 3: sevenk (6.89)
+Seat 4: Lina (11.18)
+Seat 5: highstakesb (9.85)
+Seat 6: Rule42 (28.45)
+Rule42 has the dealer button
+t4k3g posts small blind 0.05
+Redskies2 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jd 6h]
+sevenk folds
+Lina raises to 0.30
+highstakesb calls 0.30
+Rule42 folds
+t4k3g calls 0.25
+Redskies2 calls 0.20
+** Flop ** [Jh Ah 5d]
+t4k3g checks
+Redskies2 checks
+Lina checks
+highstakesb checks
+** Turn ** [Js]
+t4k3g checks
+Redskies2 checks
+Lina checks
+highstakesb checks
+** River ** [3h]
+t4k3g bets 0.50
+Redskies2 folds
+Lina folds
+highstakesb folds
+t4k3g refunded 0.50
+t4k3g wins Pot (1.17)
+Rake (0.03)
+
+
+
+Hand #38629076-138 - 2015-01-18 04:21:43
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (14.92)
+Seat 2: Redskies2 (5.62)
+Seat 3: sevenk (6.89)
+Seat 4: Lina (10.88)
+Seat 5: highstakesb (9.55)
+Seat 6: Rule42 (28.45)
+t4k3g has the dealer button
+Redskies2 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jc 8h]
+Lina raises to 0.20
+highstakesb folds
+Rule42 calls 0.20
+t4k3g raises to 0.40
+Redskies2 folds
+sevenk folds
+Lina calls 0.20
+Rule42 calls 0.20
+** Flop ** [7s As Qc]
+Lina checks
+Rule42 checks
+t4k3g bets 0.60
+Lina calls 0.60
+Rule42 folds
+** Turn ** [Jh]
+Lina checks
+t4k3g bets 1
+Lina raises to 2.50
+t4k3g calls 1.50
+** River ** [Ac]
+Lina bets 6.01
+t4k3g calls 6.01
+** Pot Show Down ** [7s As Qc Jh Ac]
+t4k3g shows [Js Ah] (a Full House, Aces full of Jacks)
+Lina shows [Qd Jd] (Two Pair, Aces and Queens +J)
+t4k3g wins Pot (19.09) with a Full House
+Rake (0.48)
+
+
+
+Hand #38629129-139 - 2015-01-18 04:23:14
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: t4k3g (24.50)
+Seat 2: Sarelm2 (3.62)
+Seat 3: sevenk (6.79)
+Seat 4: Lina (1.37)
+Seat 5: highstakesb (9.55)
+Seat 6: Rule42 (28.05)
+sevenk has the dealer button
+Lina posts small blind 0.05
+highstakesb posts big blind 0.10
+Sarelm2 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qd 9c]
+Rule42 calls 0.10
+t4k3g folds
+Sarelm2 checks
+sevenk calls 0.10
+Lina calls 0.05
+highstakesb checks
+** Flop ** [5d 8h Kc]
+Lina checks
+highstakesb bets 1
+Rule42 folds
+Sarelm2 folds
+sevenk folds
+sevenk adds 3.31 chips
+Lina folds
+highstakesb refunded 1
+Lina adds 8.73 chips
+highstakesb wins Pot (0.49)
+Rake (0.01)
+
+
+
+Hand #38629161-140 - 2015-01-18 04:24:13
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 2: Sarelm2 (3.52)
+Seat 3: sevenk (10)
+Seat 4: Lina (10)
+Seat 5: highstakesb (9.94)
+Seat 6: Rule42 (27.95)
+Lina has the dealer button
+highstakesb posts small blind 0.05
+Rule42 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Th Jc]
+Sarelm2 folds
+sevenk raises to 0.30
+Lina folds
+highstakesb folds
+Rule42 folds
+sevenk refunded 0.20
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38629173-141 - 2015-01-18 04:24:44
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 2: Sarelm2 (3.52)
+Seat 3: sevenk (10.15)
+Seat 4: Lina (10)
+Seat 5: highstakesb (9.89)
+Seat 6: Rule42 (27.85)
+highstakesb has the dealer button
+Rule42 posts small blind 0.05
+Sarelm2 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4c Ts]
+sevenk folds
+Lina folds
+highstakesb calls 0.10
+Rule42 calls 0.05
+Sarelm2 raises to 0.40
+highstakesb folds
+Rule42 folds
+Sarelm2 refunded 0.30
+Sarelm2 wins Pot (0.30)
+Rake (0)
