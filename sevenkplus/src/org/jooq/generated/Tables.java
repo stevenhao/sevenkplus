@@ -6,6 +6,7 @@ package org.jooq.generated;
 
 import javax.annotation.Generated;
 
+import org.jooq.generated.tables.Hand;
 import org.jooq.generated.tables.Player;
 
 
@@ -21,6 +22,11 @@ import org.jooq.generated.tables.Player;
 )
 @SuppressWarnings({ "all", "unchecked", "rawtypes" })
 public class Tables {
+
+	/**
+	 * The table sevenkplus.hand
+	 */
+	public static final Hand HAND = org.jooq.generated.tables.Hand.HAND;
 
 	/**
 	 * The table sevenkplus.player

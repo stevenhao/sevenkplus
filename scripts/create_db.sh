@@ -7,5 +7,6 @@ create database sevenkplus;
 use sevenkplus;
 create table player (id int primary key auto_increment, name varchar(255) unique not null);
 insert into player (name) values ('sevenk');
-insert into player (name) values ('stevenk');"
+insert into player (name) values ('stevenk');
+create table hand (id int primary key auto_increment, tag varchar(255) unique not null);"
 echo 'Success!'

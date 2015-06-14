@@ -8,7 +8,9 @@ import javax.annotation.Generated;
 
 import org.jooq.Identity;
 import org.jooq.UniqueKey;
+import org.jooq.generated.tables.Hand;
 import org.jooq.generated.tables.Player;
+import org.jooq.generated.tables.records.HandRecord;
 import org.jooq.generated.tables.records.PlayerRecord;
 import org.jooq.impl.AbstractKeys;
 
@@ -31,12 +33,15 @@ public class Keys {
 	// IDENTITY definitions
 	// -------------------------------------------------------------------------
 
+	public static final Identity<HandRecord, Integer> IDENTITY_HAND = Identities0.IDENTITY_HAND;
 	public static final Identity<PlayerRecord, Integer> IDENTITY_PLAYER = Identities0.IDENTITY_PLAYER;
 
 	// -------------------------------------------------------------------------
 	// UNIQUE and PRIMARY KEY definitions
 	// -------------------------------------------------------------------------
 
+	public static final UniqueKey<HandRecord> KEY_HAND_PRIMARY = UniqueKeys0.KEY_HAND_PRIMARY;
+	public static final UniqueKey<HandRecord> KEY_HAND_TAG = UniqueKeys0.KEY_HAND_TAG;
 	public static final UniqueKey<PlayerRecord> KEY_PLAYER_PRIMARY = UniqueKeys0.KEY_PLAYER_PRIMARY;
 	public static final UniqueKey<PlayerRecord> KEY_PLAYER_NAME = UniqueKeys0.KEY_PLAYER_NAME;
 
@@ -50,10 +55,13 @@ public class Keys {
 	// -------------------------------------------------------------------------
 
 	private static class Identities0 extends AbstractKeys {
+		public static Identity<HandRecord, Integer> IDENTITY_HAND = createIdentity(Hand.HAND, Hand.HAND.ID);
 		public static Identity<PlayerRecord, Integer> IDENTITY_PLAYER = createIdentity(Player.PLAYER, Player.PLAYER.ID);
 	}
 
 	private static class UniqueKeys0 extends AbstractKeys {
+		public static final UniqueKey<HandRecord> KEY_HAND_PRIMARY = createUniqueKey(Hand.HAND, Hand.HAND.ID);
+		public static final UniqueKey<HandRecord> KEY_HAND_TAG = createUniqueKey(Hand.HAND, Hand.HAND.TAG);
 		public static final UniqueKey<PlayerRecord> KEY_PLAYER_PRIMARY = createUniqueKey(Player.PLAYER, Player.PLAYER.ID);
 		public static final UniqueKey<PlayerRecord> KEY_PLAYER_NAME = createUniqueKey(Player.PLAYER, Player.PLAYER.NAME);
 	}
