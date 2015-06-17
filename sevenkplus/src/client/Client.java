@@ -9,9 +9,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.util.Vector;
 
-import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JList;
@@ -22,6 +20,8 @@ import javax.swing.SwingConstants;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
+import org.apache.commons.lang3.StringUtils;
+
 public class Client {
   private final String host;
   private final int port;
@@ -30,15 +30,12 @@ public class Client {
   private PrintWriter out;
   private BufferedReader in;
   private JLabel statusBar;
-  private Vector<String> playerList;
   private PlayerView playerView;
   private JList<String> list;
-  
+
   public Client(String host, int port) {
     this.host = host;
     this.port = port;
-    this.playerList = new Vector<String>();
-    this.playerList.add("hi");
   }
 
   private void connectToServer() {
@@ -46,36 +43,59 @@ public class Client {
       System.out.println("connecting to port " + port);
       Socket socket = new Socket(host, port);
       System.out.println("connected.");
-      PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
-      BufferedReader in = new BufferedReader(new InputStreamReader(
-          socket.getInputStream()));
-      System.out.println(in.readLine());
+      out = new PrintWriter(socket.getOutputStream(), true);
+      in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
     } catch (IOException e) {
       System.err.println(e);
     }
   }
-  
+
+  private String makeServerCall(String command) {
+    try {
+      out.println(command);
+      return in.readLine();
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+
+    return null;
+  }
+
+  private String[] getPlayerList() {
+    try {
+      String result = makeServerCall("getPlayerList");
+      return StringUtils.split(result, ",");
+    } catch (Exception e) {
+      String[] defaultPlayerList = new String[200];
+      for (int i = 0; i < 200; ++i) {
+        defaultPlayerList[i] = String.format("default_user_%d", i);
+      }
+      return defaultPlayerList;
+    }
+  }
+
   private void makeGui() {
     JFrame frame = new JFrame("7k+");
 
-    //Create the menu bar.  Make it have a green background.
+    // Create the menu bar. Make it have a green background.
     JMenuBar menuBar = new JMenuBar();
     menuBar.setOpaque(true);
     menuBar.setBackground(new Color(154, 165, 127));
     menuBar.setPreferredSize(new Dimension(0, 20));
 
+    String[] playerList = getPlayerList();
     list = new JList<String>(playerList);
     list.setSelectionMode(ListSelectionModel.SINGLE_INTERVAL_SELECTION);
     list.setVisibleRowCount(-1);
-    list.setPreferredSize(new Dimension(150, 200));
+//    list.setPreferredSize(new Dimension(150, 200));
     list.addListSelectionListener(new ListSelectionListener() {
 
       @Override
       public void valueChanged(ListSelectionEvent e) {
         playerView.setPlayerName(list.getSelectedValue());
-      }      
+      }
     });
-    
+
     JScrollPane listScroller = new JScrollPane(list);
     listScroller.setPreferredSize(new Dimension(150, 200));
 
@@ -88,14 +108,13 @@ public class Client {
     playerView = new PlayerView();
     playerView.setPreferredSize(new Dimension(300, 200));
     frame.add(playerView);
-    
-    //Set the menu bar and add the content to the content pane.
+
+    // Set the menu bar and add the content to the content pane.
     frame.setJMenuBar(menuBar);
     frame.getContentPane().add(listScroller, BorderLayout.WEST);
     frame.getContentPane().add(statusBar, BorderLayout.SOUTH);
     frame.pack();
     frame.setVisible(true);
-    this.playerList.add("bye");
   }
 
   public static void main(String[] args) {
@@ -103,7 +122,7 @@ public class Client {
     String hostName = "localhost";
 
     Client client = new Client(hostName, portNumber);
+    client.connectToServer();
     client.makeGui();
-//    client.connectToServer();
   }
 }
