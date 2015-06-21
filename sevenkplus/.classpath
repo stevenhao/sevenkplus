@@ -15,7 +15,5 @@
 	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-javadoc/jooq-scala-3.6.2-javadoc.jar"/>
 	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-lib/jooq-codegen-maven-3.6.2.jar"/>
 	<classpathentry kind="lib" path="jOOQ-3.6.2/jOOQ-lib/jooq-scala-3.6.2.jar"/>
-	<classpathentry kind="lib" path="commons-lang3-3.4/commons-lang3-3.4-javadoc.jar"/>
-	<classpathentry kind="lib" path="commons-lang3-3.4/commons-lang3-3.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

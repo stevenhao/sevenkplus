@@ -7,10 +7,9 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.sql.SQLException;
+import java.util.Collection;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
-import org.apache.commons.lang3.StringUtils;
 
 import data.DatabaseController;
 
@@ -28,9 +27,20 @@ public class Server {
     this.db = new DatabaseController();
   }
 
+  private static String join(Collection<String> strings) {
+    String result = "";
+    for (String player : strings) {
+      if (!result.equals("")) {
+        result = result + ",";
+      }
+      result = result + player;
+    }
+    return result;
+  }
+
   private String executeServerCall(String command) {
     if ("getPlayerList".equals(command)) {
-      return StringUtils.join(db.getPlayers(), ',');
+      return join(db.getPlayers());
     } else {
       return "invalid command";
     }
