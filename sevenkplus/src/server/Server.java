@@ -7,6 +7,7 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.sql.SQLException;
+import java.util.Arrays;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -27,46 +28,56 @@ public class Server {
     this.db = new DatabaseController();
   }
 
-  private String executeServerCall(String query) {
-    String[] tokens = query.split("\\s+");
-    String command = tokens[0];
-    if ("getPlayerList".equals(command)) {
-      if (tokens.length == 1) {
-        return Utils.join(db.getPlayers());
+  private String executePlayerListCommand(String[] params) {
+    if (params.length == 0) {
+      return Utils.join(db.getPlayers());
+    }
+
+    return "wrong number of tokens";
+  }
+
+  private String executeStatCommand(String[] params) {
+    String statName = params[1];
+    if ("VPIP".equals(statName)) {
+      if (params.length == 3) {
+        Integer playerId = db.getPlayer(params[2]);
+
+        if (playerId != null) {
+          int hands = db.getHands(playerId);
+          int handsVPIP = db.getHandsVPIP(playerId);
+
+          return Utils.getRatioString(handsVPIP, hands);
+        }
       } else {
         return "wrong number of tokens";
       }
-    } else if ("getStat".equals(command)) {
-      String statName = tokens[1];
-      if ("VPIP".equals(statName)) {
-        if (tokens.length == 3) {
-          Integer playerId = db.getPlayer(tokens[2]);
+    } else if ("PFR".equals(statName)) {
+      if (params.length == 3) {
+        Integer playerId = db.getPlayer(params[2]);
+        if (playerId != null) {
+          int hands = db.getHands(playerId);
+          int handsPFR = db.getHandsPFR(playerId);
 
-          if (playerId != null) {
-            int hands = db.getHands(playerId);
-            int handsVPIP = db.getHandsVPIP(playerId);
-
-            return Utils.getRatioString(handsVPIP, hands);
-          }
-        } else {
-          return "wrong number of tokens";
-        }
-      } else if ("PFR".equals(statName)) {
-        if (tokens.length == 3) {
-          Integer playerId = db.getPlayer(tokens[2]);
-          if (playerId != null) {
-            int hands = db.getHands(playerId);
-            int handsPFR = db.getHandsPFR(playerId);
-
-            return Utils.getRatioString(handsPFR, hands);
-          }
-        } else {
-          return "wrong number of tokens";
+          return Utils.getRatioString(handsPFR, hands);
         }
       } else {
-        logger.warning("Stat not found: " + statName);
-        return "invalid stat";
+        return "wrong number of tokens";
       }
+    }
+
+    logger.warning("Stat not found: " + statName);
+    return "invalid stat";
+  }
+
+  private String executeServerCall(String query) {
+    String[] tokens = query.split("\\s+");
+    String command = tokens[0];
+    String[] params = Arrays.copyOfRange(tokens, 1, tokens.length);
+
+    if ("getPlayerList".equals(command)) {
+      return executePlayerListCommand(params);
+    } else if ("getStat".equals(command)) {
+      return executeStatCommand(params);
     }
 
     logger.warning("Invalid command from client: " + command);
