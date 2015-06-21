@@ -7,9 +7,12 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.sql.SQLException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+import org.apache.commons.lang3.StringUtils;
 
 import data.DatabaseController;
-import org.apache.commons.lang3.StringUtils;
 
 public class Server {
   private final int port;
@@ -18,6 +21,7 @@ public class Server {
   private PrintWriter out;
   private BufferedReader in;
   private final DatabaseController db;
+  private final static Logger logger = Logger.getLogger(Server.class.getName());
 
   public Server(int port) throws SQLException {
     this.port = port;
@@ -41,7 +45,8 @@ public class Server {
     } catch (IOException e) {
       return false;
     }
-    System.out.println("Connected to a client.");
+
+    logger.info("Connected to a client.");
     Thread t = new Thread() {
       @Override
       public void run() {
@@ -77,16 +82,16 @@ public class Server {
 
   public static void main(String[] args) {
     int portNumber = args.length >= 1 ? Integer.parseInt(args[0]) : 5000;
-    System.out.println("Serving at port " + portNumber);
+    logger.info("Serving at port " + portNumber);
 
     Server server = null;
     try {
       server = new Server(portNumber);
     } catch (SQLException e) {
-      System.out.println("ERROR: Failed to connect to database.");
+      logger.log(Level.SEVERE, "ERROR: Failed to connect to database.");
       e.printStackTrace();
     }
-    System.out.println("Server started.");
+    logger.info("Server started.");
 
     server.connectToClients();
   }

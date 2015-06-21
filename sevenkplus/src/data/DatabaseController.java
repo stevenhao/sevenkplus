@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Logger;
 
 import org.jooq.DSLContext;
 import org.jooq.Record;
@@ -22,6 +23,7 @@ public class DatabaseController {
   private final static String password = "";
   private final static String url = "jdbc:mysql://localhost:3306/sevenkplus";
   private final DSLContext db;
+  private final static Logger logger = Logger.getLogger(DatabaseController.class.getName());
 
   public DatabaseController() throws SQLException {
     db = getDatabaseContext();
@@ -32,7 +34,7 @@ public class DatabaseController {
     // PreparedStatement and ResultSet are handled by jOOQ, internally
     Connection conn = DriverManager.getConnection(url, userName, password);
 
-    System.out.println("Connected to database");
+    logger.info("Connected to database");
     return DSL.using(conn, SQLDialect.MYSQL);
   }
 
@@ -67,7 +69,7 @@ public class DatabaseController {
     // each file. Cleaner and significantly improves performance
     if (getPlayer(playerName) == null) {
       db.insertInto(Player.PLAYER, Player.PLAYER.NAME).values(playerName).execute();
-      System.out.println("Added new player: " + playerName);
+      logger.info("Added new player: " + playerName);
     }
 
     return getPlayer(playerName);
@@ -78,7 +80,7 @@ public class DatabaseController {
         db.select(Hand.HAND.ID).from(Hand.HAND).where(Hand.HAND.TAG.equal(handTag)).fetch();
     if (handIds.isEmpty()) {
       db.insertInto(Hand.HAND, Hand.HAND.TAG).values(handTag).execute();
-      System.out.println("Added new hand: " + handTag);
+      logger.info("Added new hand: " + handTag);
       handIds = db.select(Hand.HAND.ID).from(Hand.HAND).where(Hand.HAND.TAG.equal(handTag)).fetch();
     }
 

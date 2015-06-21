@@ -5,10 +5,12 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.sql.SQLException;
+import java.util.logging.Logger;
 
 public class Parser {
   private final File logsDir;
   private final DatabaseController db;
+  private final static Logger logger = Logger.getLogger(Parser.class.getName());
 
   public Parser(File logsDir) throws SQLException {
     this.logsDir = logsDir;
@@ -100,12 +102,12 @@ public class Parser {
   }
 
   public void run() throws IOException {
-    System.out.println("Searching in " + logsDir.getPath());
+    logger.info("Searching in " + logsDir.getPath());
 
     File[] listOfFiles = logsDir.listFiles();
     for (File file : listOfFiles) {
       if (file.isFile()) {
-        System.out.println("Parsing file " + file.getName());
+        logger.info("Parsing file " + file.getName());
 
         BufferedReader in = new BufferedReader(new FileReader(file));
         try {

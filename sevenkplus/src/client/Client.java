@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
+import java.util.logging.Logger;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -28,6 +29,7 @@ public class Client {
   private PlayerView playerView;
   private JList<String> list;
   private Socket socket;
+  private final static Logger logger = Logger.getLogger(Client.class.getName());
 
   public Client(String host, int port) {
     this.host = host;
@@ -36,9 +38,9 @@ public class Client {
 
   private void connectToServer() {
     try {
-      System.out.println("connecting to port " + port);
+      logger.info("connecting to port " + port);
       socket = new Socket(host, port);
-      System.out.println("connected.");
+      logger.info("connected.");
 
       out = new PrintWriter(socket.getOutputStream(), true);
       in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
