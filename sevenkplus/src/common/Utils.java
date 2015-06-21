@@ -20,6 +20,6 @@ public class Utils {
     }
 
     double ratio = numerator / ((double) denominator);
-    return numerator + " / " + denominator + " (" + ratio * 100d + "%)";
+    return numerator + " / " + denominator + " (" + String.format("%.1f", ratio * 100d) + "%)";
   }
 }
