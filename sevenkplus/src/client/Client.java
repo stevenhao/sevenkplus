@@ -86,7 +86,7 @@ public class Client {
     list = new JList<String>(playerList);
     list.setSelectionMode(ListSelectionModel.SINGLE_INTERVAL_SELECTION);
     list.setVisibleRowCount(-1);
-//    list.setPreferredSize(new Dimension(150, 200));
+    // list.setPreferredSize(new Dimension(150, 200));
     list.addListSelectionListener(new ListSelectionListener() {
 
       @Override
@@ -99,7 +99,9 @@ public class Client {
     listScroller.setPreferredSize(new Dimension(150, 200));
 
     statusBar = new JLabel();
-    statusBar.setText("Status bar.");
+    statusBar.setBackground(Color.WHITE);
+    statusBar.setOpaque(true);
+//    statusBar.setText("Status bar.");
     statusBar.setHorizontalAlignment(SwingConstants.CENTER);
     statusBar.setVerticalAlignment(SwingConstants.CENTER);
     statusBar.setPreferredSize(new Dimension(0, 20));
