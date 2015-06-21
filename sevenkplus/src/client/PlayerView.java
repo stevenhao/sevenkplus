@@ -1,5 +1,6 @@
 package client;
 
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -30,6 +31,10 @@ public class PlayerView extends JPanel {
     this.refresh();
   }
 
+  public Collection<String> getStats() {
+    return statValues.keySet();
+  }
+
   public void setPlayerName(String name) {
     this.name = name;
     this.refresh();
@@ -39,7 +44,7 @@ public class PlayerView extends JPanel {
     statValues.put(stat, statValue);
   }
 
-  private void refresh() {
+  public void refresh() {
     if (name != null) {
       nameLabel.setText(name);
       statPanel.setVisible(true);

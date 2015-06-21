@@ -73,6 +73,20 @@ public class Client {
     }
   }
 
+  private String getStatValue(String stat) {
+    String result = makeServerCall("getStat " + stat);
+    return result;
+  }
+
+  private void selectPlayer(String name) {
+    logger.info("Selected Player " + name);
+    playerView.setPlayerName(list.getSelectedValue());
+    for (String statName : playerView.getStats()) {
+      playerView.setStat(statName, getStatValue(statName));
+    }
+    playerView.refresh();
+  }
+
   private void makeGui() {
     JFrame frame = new JFrame("7k+");
 
@@ -91,7 +105,7 @@ public class Client {
 
       @Override
       public void valueChanged(ListSelectionEvent e) {
-        playerView.setPlayerName(list.getSelectedValue());
+        selectPlayer(list.getSelectedValue());
       }
     });
 
@@ -101,7 +115,7 @@ public class Client {
     statusBar = new JLabel();
     statusBar.setBackground(Color.WHITE);
     statusBar.setOpaque(true);
-//    statusBar.setText("Status bar.");
+    // statusBar.setText("Status bar.");
     statusBar.setHorizontalAlignment(SwingConstants.CENTER);
     statusBar.setVerticalAlignment(SwingConstants.CENTER);
     statusBar.setPreferredSize(new Dimension(0, 20));
