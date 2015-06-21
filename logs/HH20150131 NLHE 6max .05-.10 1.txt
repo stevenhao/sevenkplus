@@ -1,0 +1,949 @@
+Hand #39408918-48 - 2015-02-01 00:29:14
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (10) - waiting for big blind
+Seat 2: skags (31.07)
+Seat 3: bridges48 (10)
+Seat 4: pdang (33.44)
+Seat 5: jackiekent (5.35)
+Seat 6: keepfloppin (16.06)
+jackiekent has the dealer button
+keepfloppin posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8s 7d]
+skags calls 0.10
+bridges48 folds
+pdang calls 0.10
+jackiekent folds
+keepfloppin calls 0.05
+sevenk checks
+** Flop ** [6c 4h Th]
+keepfloppin checks
+sevenk checks
+skags checks
+pdang checks
+** Turn ** [Ac]
+keepfloppin checks
+sevenk checks
+skags checks
+pdang bets 0.39
+keepfloppin calls 0.39
+sevenk calls 0.39
+skags folds
+** River ** [7h]
+keepfloppin checks
+sevenk checks
+pdang checks
+** Pot Show Down ** [6c 4h Th Ac 7h]
+sevenk shows [8s 7d] (a Pair of Sevens +AT8)
+pdang shows [3h As] (a Pair of Aces +T76)
+keepfloppin shows [3c 5d] (a Straight, Three to Seven)
+keepfloppin wins Pot (1.54) with a Straight
+Rake (0.03)
+
+
+
+Hand #39408981-49 - 2015-02-01 00:30:23
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.51)
+Seat 2: skags (30.97)
+Seat 3: bridges48 (10)
+Seat 4: pdang (32.95)
+Seat 5: jackiekent (5.35) - sitting out
+Seat 6: keepfloppin (17.11)
+keepfloppin has the dealer button
+sevenk posts small blind 0.05
+skags posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8s 8c]
+bridges48 folds
+pdang calls 0.10
+keepfloppin raises to 0.60
+sevenk calls 0.55
+skags calls 0.50
+pdang calls 0.50
+** Flop ** [3h 7h 9h]
+sevenk checks
+skags checks
+pdang checks
+keepfloppin checks
+** Turn ** [Qh]
+sevenk checks
+skags checks
+pdang checks
+keepfloppin checks
+** River ** [Js]
+sevenk checks
+skags checks
+pdang checks
+keepfloppin checks
+** Pot Show Down ** [3h 7h 9h Qh Js]
+sevenk shows [8s 8c] (a Pair of Eights +QJ9)
+skags shows [8d Ks] (High Card King +QJ98)
+pdang shows [Qd Td] (a Pair of Queens +JT9)
+keepfloppin shows [8h As] (a Flush, Queen high +9873)
+keepfloppin wins Pot (2.34) with a Flush
+Rake (0.06)
+
+
+
+Hand #39409041-50 - 2015-02-01 00:31:28
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (8.91)
+Seat 2: skags (30.37)
+Seat 3: bridges48 (10)
+Seat 4: pdang (32.35)
+Seat 5: jackiekent (5.35) - sitting out
+Seat 6: keepfloppin (18.85)
+sevenk has the dealer button
+skags posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Td 5d]
+pdang calls 0.10
+keepfloppin folds
+sevenk calls 0.10
+skags folds
+bridges48 checks
+** Flop ** [Th Ah 7c]
+bridges48 checks
+pdang bets 0.35
+sevenk folds
+bridges48 calls 0.35
+** Turn ** [6s]
+bridges48 checks
+pdang bets 1.10
+bridges48 raises to 3.50
+pdang calls 2.40
+** River ** [8d]
+bridges48 bets 6.05 (All-in)
+pdang calls 6.05
+** Pot Show Down ** [Th Ah 7c 6s 8d]
+bridges48 shows [9c 8h] (a Straight, Six to Ten)
+pdang shows [Ts 7s] (Two Pair, Tens and Sevens +A)
+bridges48 wins Pot (19.65) with a Straight
+Rake (0.50)
+
+
+
+Hand #39409108-51 - 2015-02-01 00:32:50
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (8.81)
+Seat 2: skags (30.32)
+Seat 3: bridges48 (19.65)
+Seat 4: pdang (22.35)
+Seat 5: jackiekent (5.35) - sitting out
+Seat 6: keepfloppin (18.85)
+skags has the dealer button
+bridges48 posts small blind 0.05
+pdang posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [As Qs]
+keepfloppin folds
+sevenk raises to 0.30
+skags calls 0.30
+bridges48 folds
+pdang folds
+** Flop ** [2d 5d Qd]
+sevenk bets 0.50
+skags calls 0.50
+** Turn ** [Ks]
+sevenk checks
+skags checks
+** River ** [6s]
+sevenk bets 1
+skags calls 1
+** Pot Show Down ** [2d 5d Qd Ks 6s]
+sevenk shows [As Qs] (a Pair of Queens +AK6)
+skags shows [9d 9h] (a Pair of Nines +KQ6)
+sevenk wins Pot (3.66) with a Pair
+Rake (0.09)
+
+
+
+Hand #39409161-52 - 2015-02-01 00:33:53
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (10.67)
+Seat 2: skags (28.52)
+Seat 3: bridges48 (19.60)
+Seat 5: jackiekent (5.35) - sitting out
+Seat 6: keepfloppin (18.85)
+bridges48 has the dealer button
+keepfloppin posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9d 7h]
+skags raises to 0.30
+bridges48 folds
+keepfloppin folds
+sevenk folds
+skags refunded 0.20
+skags wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409181-53 - 2015-02-01 00:34:17
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (10.57)
+Seat 2: skags (28.67)
+Seat 3: bridges48 (19.60)
+Seat 5: jackiekent (5.35) - sitting out
+Seat 6: keepfloppin (18.80)
+keepfloppin has the dealer button
+sevenk posts small blind 0.05
+skags posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7d 3d]
+bridges48 folds
+keepfloppin folds
+sevenk calls 0.05
+skags checks
+** Flop ** [Ts 9h 8c]
+sevenk bets 0.14
+skags calls 0.14
+** Turn ** [2d]
+sevenk checks
+skags bets 0.20
+sevenk folds
+skags refunded 0.20
+skags wins Pot (0.47)
+Rake (0.01)
+
+
+
+Hand #39409222-54 - 2015-02-01 00:35:11
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (10.33)
+Seat 2: skags (28.90)
+Seat 3: bridges48 (19.60)
+Seat 4: jigsaw (4) - waiting for big blind
+Seat 5: jackiekent (5.35) - sitting out
+Seat 6: keepfloppin (18.80)
+sevenk has the dealer button
+skags posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2c Ad]
+keepfloppin calls 0.10
+sevenk calls 0.10
+skags raises to 0.40
+bridges48 folds
+keepfloppin calls 0.30
+sevenk calls 0.30
+** Flop ** [8s 3c 9h]
+skags checks
+keepfloppin checks
+sevenk bets 0.70
+skags calls 0.70
+keepfloppin folds
+** Turn ** [5h]
+skags checks
+sevenk checks
+** River ** [Jh]
+skags bets 1
+sevenk folds
+skags refunded 1
+skags wins Pot (2.64)
+Rake (0.06)
+
+
+
+Hand #39409303-55 - 2015-02-01 00:36:45
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.23)
+Seat 2: skags (30.44)
+Seat 3: bridges48 (19.50)
+Seat 4: jigsaw (4)
+Seat 5: jackiekent (5.35) - sitting out
+Seat 6: keepfloppin (18.40)
+skags has the dealer button
+bridges48 posts small blind 0.05
+jigsaw posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5s Th]
+keepfloppin raises to 0.30
+sevenk folds
+skags folds
+bridges48 folds
+jigsaw calls 0.20
+** Flop ** [9d Ts 2c]
+jigsaw bets 0.49
+keepfloppin calls 0.49
+** Turn ** [Tc]
+jigsaw checks
+keepfloppin bets 1.25
+jigsaw calls 1.25
+** River ** [6s]
+jigsaw checks
+keepfloppin checks
+** Pot Show Down ** [9d Ts 2c Tc 6s]
+jigsaw shows [Qd Jh] (a Pair of Tens +QJ9)
+keepfloppin shows [6h Ac] (Two Pair, Tens and Sixes +A)
+keepfloppin wins Pot (4.03) with Two Pair
+Rake (0.10)
+
+
+
+Hand #39409371-56 - 2015-02-01 00:38:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.23)
+Seat 2: skags (30.44)
+Seat 3: bridges48 (19.45)
+Seat 4: jigsaw (1.96)
+Seat 5: jackiekent (5.35) - sitting out
+Seat 6: keepfloppin (20.39)
+bridges48 has the dealer button
+jigsaw posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6c 8d]
+sevenk folds
+skags raises to 0.30
+bridges48 folds
+jigsaw folds
+keepfloppin folds
+skags refunded 0.20
+skags wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409386-57 - 2015-02-01 00:38:34
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.23)
+Seat 2: skags (30.59)
+Seat 3: bridges48 (19.45)
+Seat 4: jigsaw (1.91)
+Seat 5: jackiekent (5.35) - sitting out
+Seat 6: keepfloppin (20.29)
+jigsaw has the dealer button
+keepfloppin posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6d 8h]
+skags calls 0.10
+bridges48 folds
+jigsaw folds
+keepfloppin folds
+sevenk checks
+** Flop ** [5h Qs Qh]
+sevenk checks
+skags checks
+** Turn ** [2s]
+sevenk bets 0.15
+skags folds
+sevenk refunded 0.15
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409418-58 - 2015-02-01 00:39:11
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.38)
+Seat 2: skags (30.49)
+Seat 3: bridges48 (19.45)
+Seat 4: jigsaw (1.91)
+Seat 5: jackiekent (5.35) - sitting out
+Seat 6: keepfloppin (20.24)
+keepfloppin has the dealer button
+sevenk posts small blind 0.05
+skags posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc 2h]
+bridges48 folds
+jigsaw has timed out
+jigsaw folds
+keepfloppin raises to 0.30
+sevenk folds
+skags calls 0.20
+** Flop ** [9h 6h 8s]
+skags checks
+keepfloppin bets 0.60
+skags folds
+keepfloppin refunded 0.60
+keepfloppin wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #39409456-59 - 2015-02-01 00:40:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.33)
+Seat 2: skags (30.19)
+Seat 3: bridges48 (19.45)
+Seat 4: jigsaw (1.91) - sitting out
+Seat 6: keepfloppin (20.58)
+sevenk has the dealer button
+skags posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4c Qc]
+keepfloppin folds
+sevenk raises to 0.25
+skags folds
+bridges48 folds
+sevenk refunded 0.15
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409480-60 - 2015-02-01 00:40:32
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.48)
+Seat 2: skags (30.14)
+Seat 3: bridges48 (19.35)
+Seat 4: jigsaw (1.91) - sitting out
+Seat 6: keepfloppin (20.58)
+skags has the dealer button
+bridges48 posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8d 8h]
+sevenk raises to 0.30
+skags calls 0.30
+bridges48 folds
+keepfloppin calls 0.20
+** Flop ** [Kd Jd 7c]
+keepfloppin checks
+sevenk checks
+skags bets 0.60
+keepfloppin calls 0.60
+sevenk folds
+** Turn ** [5d]
+keepfloppin checks
+skags bets 1
+keepfloppin calls 1
+** River ** [Qs]
+keepfloppin checks
+skags checks
+** Pot Show Down ** [Kd Jd 7c 5d Qs]
+skags shows [5h 6s] (a Pair of Fives +KQJ)
+keepfloppin shows [6h 7s] (a Pair of Sevens +KQJ)
+keepfloppin wins Pot (4.05) with a Pair
+Rake (0.10)
+
+
+
+Hand #39409538-61 - 2015-02-01 00:41:53
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.18)
+Seat 2: skags (28.24)
+Seat 3: bridges48 (19.30)
+Seat 4: jigsaw (1.91)
+Seat 5: jackiekent (5.35)
+Seat 6: keepfloppin (22.73)
+bridges48 has the dealer button
+keepfloppin posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qh 7h]
+skags folds
+bridges48 calls 0.10
+keepfloppin folds
+sevenk checks
+** Flop ** [6c Ac 4c]
+sevenk checks
+bridges48 bets 0.20
+sevenk folds
+bridges48 refunded 0.20
+bridges48 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409559-62 - 2015-02-01 00:42:21
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.08)
+Seat 2: skags (28.24)
+Seat 3: bridges48 (19.45)
+Seat 4: jigsaw (1.91)
+Seat 5: jackiekent (5.35)
+Seat 6: keepfloppin (22.68)
+keepfloppin has the dealer button
+sevenk posts small blind 0.05
+skags posts big blind 0.10
+jigsaw posts big blind 0.10
+jackiekent posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s 8c]
+bridges48 calls 0.10
+jigsaw checks
+jackiekent checks
+keepfloppin raises to 0.75
+sevenk folds
+skags calls 0.65
+bridges48 folds
+jigsaw folds
+jackiekent folds
+** Flop ** [Kh 8h 7c]
+skags checks
+keepfloppin bets 1.50
+skags folds
+keepfloppin refunded 1.50
+keepfloppin wins Pot (1.81)
+Rake (0.04)
+
+
+
+Hand #39409606-63 - 2015-02-01 00:43:45
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.03)
+Seat 2: skags (27.49)
+Seat 3: bridges48 (19.35)
+Seat 4: jigsaw (1.81)
+Seat 5: jackiekent (5.25)
+Seat 6: keepfloppin (23.74)
+sevenk has the dealer button
+skags posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5d 2s]
+jigsaw folds
+jackiekent calls 0.10
+keepfloppin raises to 0.50
+sevenk folds
+skags folds
+bridges48 folds
+jackiekent folds
+keepfloppin refunded 0.40
+keepfloppin wins Pot (0.35)
+Rake (0)
+
+
+
+Hand #39409648-64 - 2015-02-01 00:44:36
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.03)
+Seat 2: skags (27.44)
+Seat 3: bridges48 (19.25)
+Seat 4: jigsaw (1.81)
+Seat 5: jackiekent (5.15)
+Seat 6: keepfloppin (23.99)
+skags has the dealer button
+bridges48 posts small blind 0.05
+jigsaw posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jh 2s]
+jackiekent folds
+keepfloppin raises to 0.30
+sevenk folds
+skags calls 0.30
+bridges48 folds
+jigsaw folds
+** Flop ** [As 5c Ts]
+keepfloppin checks
+skags bets 0.50
+keepfloppin calls 0.50
+** Turn ** [3h]
+keepfloppin checks
+skags bets 1
+keepfloppin raises to 4.25
+skags folds
+keepfloppin refunded 3.25
+keepfloppin wins Pot (3.66)
+Rake (0.09)
+
+
+
+Hand #39409689-65 - 2015-02-01 00:45:33
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.03)
+Seat 2: skags (25.64)
+Seat 3: bridges48 (19.20)
+Seat 4: jigsaw (1.71)
+Seat 5: jackiekent (5.15)
+Seat 6: keepfloppin (25.85)
+bridges48 has the dealer button
+jigsaw posts small blind 0.05
+jackiekent posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3s 5h]
+keepfloppin raises to 0.30
+sevenk folds
+skags folds
+bridges48 folds
+jigsaw folds
+jackiekent calls 0.20
+** Flop ** [Qs 5d 7d]
+jackiekent checks
+keepfloppin bets 0.55
+jackiekent folds
+keepfloppin refunded 0.55
+keepfloppin wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #39409743-66 - 2015-02-01 00:46:29
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.03)
+Seat 2: skags (25.64)
+Seat 3: bridges48 (19.20)
+Seat 4: jigsaw (1.66)
+Seat 5: jackiekent (4.85)
+Seat 6: keepfloppin (26.19)
+jigsaw has the dealer button
+jackiekent posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7d Kh]
+sevenk folds
+skags raises to 0.30
+bridges48 calls 0.30
+jigsaw raises to 0.50
+jackiekent folds
+keepfloppin calls 0.40
+skags calls 0.20
+bridges48 calls 0.20
+** Flop ** [6s 5h 4h]
+keepfloppin checks
+skags bets 1
+bridges48 folds
+jigsaw calls 1
+keepfloppin calls 1
+** Turn ** [2c]
+keepfloppin checks
+skags bets 2
+jigsaw calls 0.16 (All-in)
+keepfloppin raises to 9.52
+skags calls 7.52
+** River ** [3h]
+keepfloppin checks
+skags bets 14.62 (All-in)
+keepfloppin folds
+skags refunded 14.62
+skags wins Side Pot 1 (18.35)
+Rake (0.37)
+** Main Pot Show Down ** [6s 5h 4h 2c 3h]
+skags shows [6h 7h] (a Straight Flush, Three to Seven)
+jigsaw shows [Ad Td] (a Straight, Deuce to Six)
+skags wins Main Pot (5.40) with a Straight Flush
+Rake (0.13)
+
+
+
+Hand #39409810-67 - 2015-02-01 00:48:09
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (9.03)
+Seat 2: skags (38.37)
+Seat 3: bridges48 (18.70)
+Seat 4: jigsaw (0) - sitting out
+Seat 5: jackiekent (4.80)
+Seat 6: keepfloppin (15.17)
+jackiekent has the dealer button
+keepfloppin posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7h Qc]
+skags raises to 0.30
+bridges48 folds
+jackiekent calls 0.30
+jigsaw adds 4 chips
+keepfloppin folds
+sevenk folds
+** Flop ** [8c Qd Ks]
+skags checks
+jackiekent checks
+** Turn ** [Ac]
+skags bets 0.50
+jackiekent folds
+skags refunded 0.50
+skags wins Pot (0.74)
+Rake (0.01)
+
+
+
+Hand #39409836-68 - 2015-02-01 00:48:46
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (8.93)
+Seat 2: skags (38.81) - sitting out
+Seat 3: bridges48 (18.70)
+Seat 4: jigsaw (4)
+Seat 5: jackiekent (4.50)
+Seat 6: keepfloppin (15.12)
+keepfloppin has the dealer button
+sevenk posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9d 3d]
+jigsaw folds
+jackiekent calls 0.10
+keepfloppin calls 0.10
+sevenk calls 0.05
+bridges48 checks
+** Flop ** [7d 2s Kh]
+sevenk checks
+bridges48 checks
+jackiekent checks
+keepfloppin checks
+** Turn ** [Kd]
+sevenk checks
+bridges48 checks
+jackiekent checks
+keepfloppin bets 0.40
+sevenk folds
+bridges48 folds
+jackiekent folds
+keepfloppin refunded 0.40
+keepfloppin wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #39409881-69 - 2015-02-01 00:49:49
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (8.83)
+Seat 2: skags (38.81) - sitting out
+Seat 3: bridges48 (18.60)
+Seat 4: jigsaw (4)
+Seat 5: jackiekent (4.40)
+Seat 6: keepfloppin (15.41)
+sevenk has the dealer button
+bridges48 posts small blind 0.05
+jigsaw posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9h Qh]
+jackiekent calls 0.10
+keepfloppin folds
+sevenk raises to 0.40
+bridges48 folds
+jigsaw folds
+jackiekent raises to 0.70
+sevenk calls 0.30
+** Flop ** [3c 8d 8c]
+jackiekent bets 0.10
+sevenk calls 0.10
+** Turn ** [4s]
+jackiekent bets 0.10
+sevenk raises to 1
+jackiekent calls 0.90
+** River ** [Ts]
+jackiekent checks
+sevenk bets 7.03 (All-in)
+jackiekent calls 2.60 (All-in)
+sevenk refunded 4.43
+** Pot Show Down ** [3c 8d 8c 4s Ts]
+sevenk shows [9h Qh] (a Pair of Eights +QT9)
+jackiekent shows [Ac 7s] (a Pair of Eights +AT7)
+jackiekent wins Pot (8.73) with a Pair
+Rake (0.22)
+
+
+
+Hand #39409934-70 - 2015-02-01 00:51:06
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (4.43)
+Seat 2: skags (38.81) - sitting out
+Seat 3: bridges48 (18.55)
+Seat 4: jigsaw (3.90)
+Seat 5: jackiekent (8.73)
+Seat 6: keepfloppin (15.41)
+bridges48 has the dealer button
+jigsaw posts small blind 0.05
+jackiekent posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ac Js]
+keepfloppin folds
+sevenk raises to 4.43 (All-in)
+bridges48 folds
+jigsaw folds
+jackiekent folds
+sevenk refunded 4.33
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409949-71 - 2015-02-01 00:51:26
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (4.58)
+Seat 2: skags (38.81) - sitting out
+Seat 3: bridges48 (18.55)
+Seat 4: jigsaw (3.85)
+Seat 5: jackiekent (8.63)
+Seat 6: keepfloppin (15.41)
+jigsaw has the dealer button
+jackiekent posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6d Tc]
+sevenk folds
+bridges48 folds
+jigsaw raises to 0.30
+jackiekent folds
+keepfloppin folds
+jigsaw refunded 0.20
+jigsaw wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409969-72 - 2015-02-01 00:51:56
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (4.58)
+Seat 2: skags (38.81) - sitting out
+Seat 3: bridges48 (18.55)
+Seat 4: jigsaw (4)
+Seat 5: jackiekent (8.58)
+Seat 6: keepfloppin (15.31)
+jackiekent has the dealer button
+keepfloppin posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c 5c]
+bridges48 folds
+jigsaw folds
+jackiekent folds
+keepfloppin raises to 0.30
+sevenk calls 0.20
+** Flop ** [5d Ac 9s]
+keepfloppin bets 0.40
+sevenk calls 0.40
+** Turn ** [Tc]
+keepfloppin bets 0.80
+sevenk raises to 2.20
+keepfloppin folds
+sevenk refunded 1.40
+sevenk wins Pot (2.93)
+Rake (0.07)
+
+
+
+Hand #39410040-73 - 2015-02-01 00:53:16
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (6.01)
+Seat 2: skags (38.81) - sitting out
+Seat 3: bridges48 (18.55)
+Seat 4: jigsaw (4)
+Seat 5: jackiekent (8.58) - sitting out
+Seat 6: keepfloppin (13.81)
+keepfloppin has the dealer button
+sevenk posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9s 5d]
+jigsaw folds
+keepfloppin raises to 0.30
+sevenk folds
+bridges48 folds
+keepfloppin refunded 0.20
+keepfloppin wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39410062-74 - 2015-02-01 00:53:46
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (5.96)
+Seat 2: skags (38.81) - sitting out
+Seat 3: bridges48 (18.45)
+Seat 4: jigsaw (4)
+Seat 5: jackiekent (8.58) - sitting out
+Seat 6: keepfloppin (13.96)
+sevenk has the dealer button
+bridges48 posts small blind 0.05
+jigsaw posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5c 9s]
+keepfloppin folds
+sevenk folds
+bridges48 calls 0.05
+jigsaw checks
+** Flop ** [Qc Tc Qh]
+bridges48 checks
+jigsaw folds
+bridges48 wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #39410096-75 - 2015-02-01 00:54:32
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: sevenk (5.96)
+Seat 2: skags (38.81) - sitting out
+Seat 3: bridges48 (18.55)
+Seat 5: jackiekent (8.58)
+Seat 6: keepfloppin (13.96)
+bridges48 has the dealer button
+jackiekent posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4s 4h]
+sevenk raises to 0.30
+bridges48 folds
+jackiekent calls 0.25
+keepfloppin folds
+** Flop ** [Ad Ts 3h]
+jackiekent checks
+sevenk checks
+** Turn ** [5d]
+jackiekent checks
+sevenk bets 0.40
+jackiekent calls 0.40
+** River ** [7s]
+jackiekent checks
+sevenk checks
+** Pot Show Down ** [Ad Ts 3h 5d 7s]
+sevenk shows [4s 4h] (a Pair of Fours +AT7)
+jackiekent shows [Td Qc] (a Pair of Tens +AQ7)
+jackiekent wins Pot (1.47) with a Pair
+Rake (0.03)

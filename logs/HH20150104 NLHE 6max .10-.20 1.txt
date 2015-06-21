@@ -1,0 +1,937 @@
+Hand #37833484-3 - 2015-01-04 16:52:52
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (20) - waiting for big blind
+Seat 3: nicocoins (20)
+Seat 6: TRUTRUhuho (13.23)
+nicocoins has the dealer button
+TRUTRUhuho posts small blind 0.10
+sevenk posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Ac 6d]
+nicocoins raises to 0.52
+TRUTRUhuho calls 0.42
+sevenk calls 0.32
+** Flop ** [3s Qh Kh]
+TRUTRUhuho checks
+sevenk checks
+nicocoins bets 1.04
+TRUTRUhuho folds
+sevenk folds
+nicocoins refunded 1.04
+nicocoins wins Pot (1.53)
+Rake (0.03)
+
+
+
+Hand #37833537-4 - 2015-01-04 16:53:37
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (19.48)
+Seat 3: nicocoins (21.01)
+Seat 4: Cedesl0v (37.25) - waiting for big blind
+Seat 6: TRUTRUhuho (12.71)
+TRUTRUhuho has the dealer button
+sevenk posts small blind 0.10
+nicocoins posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [4s 3c]
+TRUTRUhuho raises to 0.40
+sevenk folds
+nicocoins calls 0.20
+** Flop ** [8h Ts 7h]
+nicocoins checks
+TRUTRUhuho checks
+** Turn ** [Td]
+nicocoins checks
+TRUTRUhuho bets 0.40
+nicocoins folds
+TRUTRUhuho refunded 0.40
+TRUTRUhuho wins Pot (0.88)
+Rake (0.02)
+
+
+
+Hand #37833567-5 - 2015-01-04 16:54:13
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (19.38)
+Seat 3: nicocoins (20.61)
+Seat 4: Cedesl0v (37.25) - waiting for big blind
+Seat 6: TRUTRUhuho (13.19)
+sevenk has the dealer button
+nicocoins posts small blind 0.10
+Cedesl0v posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [3c Kh]
+TRUTRUhuho folds
+sevenk raises to 0.50
+nicocoins folds
+Cedesl0v calls 0.30
+** Flop ** [Qd 3d 4d]
+Cedesl0v checks
+sevenk bets 0.70
+Cedesl0v calls 0.70
+** Turn ** [2c]
+Cedesl0v checks
+sevenk checks
+** River ** [Ks]
+Cedesl0v checks
+sevenk bets 1.50
+Cedesl0v calls 1.50
+** Pot Show Down ** [Qd 3d 4d 2c Ks]
+sevenk shows [3c Kh] (Two Pair, Kings and Threes +Q)
+Cedesl0v shows [Qc Jh] (a Pair of Queens +KJ4)
+sevenk wins Pot (5.37) with Two Pair
+Rake (0.13)
+
+
+
+Hand #37833637-6 - 2015-01-04 16:55:37
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (22.05)
+Seat 3: nicocoins (20.51)
+Seat 4: Cedesl0v (34.55)
+Seat 6: TRUTRUhuho (13.19)
+nicocoins has the dealer button
+Cedesl0v posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [2h 7s]
+sevenk folds
+nicocoins folds
+Cedesl0v raises to 0.40
+TRUTRUhuho has timed out
+TRUTRUhuho folds
+Cedesl0v refunded 0.20
+Cedesl0v wins Pot (0.40)
+Rake (0)
+
+
+
+Hand #37833691-7 - 2015-01-04 16:56:32
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (22.05)
+Seat 2: wwwin (20) - waiting for big blind
+Seat 3: nicocoins (20.51)
+Seat 4: Cedesl0v (34.75)
+Seat 5: apiep (15)
+Seat 6: TRUTRUhuho (12.99)
+Cedesl0v has the dealer button
+TRUTRUhuho posts small blind 0.10
+sevenk posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [3c 3s]
+nicocoins raises to 0.64
+Cedesl0v calls 0.64
+TRUTRUhuho folds
+sevenk calls 0.44
+** Flop ** [6s 5s Jc]
+sevenk checks
+nicocoins checks
+Cedesl0v bets 1.25
+sevenk folds
+nicocoins folds
+Cedesl0v refunded 1.25
+nicocoins adds 0.13 chips
+Cedesl0v wins Pot (1.97)
+Rake (0.05)
+
+
+
+Hand #37833746-8 - 2015-01-04 16:57:31
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.41)
+Seat 2: wwwin (20) - waiting for big blind
+Seat 3: nicocoins (20)
+Seat 4: Cedesl0v (36.08)
+Seat 5: apiep (15)
+Seat 6: TRUTRUhuho (12.89)
+TRUTRUhuho has the dealer button
+sevenk posts small blind 0.10
+wwwin posts big blind 0.20
+apiep posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Jd Qs]
+nicocoins raises to 0.64
+Cedesl0v raises to 1.50
+apiep folds
+TRUTRUhuho folds
+sevenk folds
+wwwin folds
+nicocoins calls 0.86
+** Flop ** [4c 8d Th]
+nicocoins checks
+Cedesl0v bets 1.50
+nicocoins folds
+Cedesl0v refunded 1.50
+nicocoins adds 1.50 chips
+Cedesl0v wins Pot (3.42)
+Rake (0.08)
+
+
+
+Hand #37833797-9 - 2015-01-04 16:58:18
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.31)
+Seat 2: wwwin (19.80)
+Seat 3: nicocoins (20)
+Seat 4: Cedesl0v (38)
+Seat 5: apiep (14.80)
+Seat 6: TRUTRUhuho (12.89)
+sevenk has the dealer button
+wwwin posts small blind 0.10
+nicocoins posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [9h 6c]
+Cedesl0v folds
+apiep folds
+TRUTRUhuho folds
+sevenk folds
+wwwin calls 0.10
+nicocoins checks
+** Flop ** [4d As Qc]
+wwwin checks
+nicocoins checks
+** Turn ** [4s]
+wwwin checks
+nicocoins checks
+** River ** [8c]
+wwwin checks
+nicocoins checks
+** Pot Show Down ** [4d As Qc 4s 8c]
+wwwin shows [Kc Jd] (a Pair of Fours +AKQ)
+nicocoins shows [Jc 2s] (a Pair of Fours +AQJ)
+wwwin wins Pot (0.39) with a Pair
+Rake (0.01)
+nicocoins adds 0.20 chips
+
+
+
+Hand #37833837-10 - 2015-01-04 16:59:03
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.31)
+Seat 2: wwwin (19.99)
+Seat 3: nicocoins (20)
+Seat 4: Cedesl0v (38)
+Seat 5: apiep (14.80)
+Seat 6: TRUTRUhuho (12.89)
+wwwin has the dealer button
+nicocoins posts small blind 0.10
+Cedesl0v posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Ah 8h]
+apiep folds
+TRUTRUhuho folds
+sevenk raises to 0.60
+wwwin folds
+nicocoins calls 0.50
+Cedesl0v folds
+** Flop ** [Tc Jh 6c]
+nicocoins checks
+sevenk checks
+** Turn ** [As]
+nicocoins checks
+sevenk bets 0.80
+nicocoins folds
+sevenk refunded 0.80
+nicocoins adds 0.60 chips
+sevenk wins Pot (1.37)
+Rake (0.03)
+
+
+
+Hand #37833909-11 - 2015-01-04 17:00:17
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (22.08)
+Seat 2: wwwin (19.99)
+Seat 3: nicocoins (20)
+Seat 4: Cedesl0v (37.80)
+Seat 5: apiep (14.80)
+Seat 6: TRUTRUhuho (12.89)
+nicocoins has the dealer button
+Cedesl0v posts small blind 0.10
+apiep posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [3d 2h]
+TRUTRUhuho folds
+sevenk folds
+wwwin folds
+nicocoins raises to 0.52
+Cedesl0v folds
+apiep calls 0.32
+** Flop ** [8d 6d 5d]
+apiep checks
+nicocoins bets 0.92
+apiep folds
+nicocoins refunded 0.92
+nicocoins wins Pot (1.12)
+Rake (0.02)
+
+
+
+Hand #37833962-12 - 2015-01-04 17:01:11
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (22.08)
+Seat 2: wwwin (19.99)
+Seat 3: nicocoins (20.60)
+Seat 4: Cedesl0v (37.70)
+Seat 5: apiep (14.28)
+Seat 6: TRUTRUhuho (12.89)
+Cedesl0v has the dealer button
+apiep posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [2h 8c]
+sevenk folds
+wwwin calls 0.20
+nicocoins folds
+Cedesl0v folds
+apiep calls 0.10
+TRUTRUhuho checks
+** Flop ** [7s 9d 9h]
+apiep bets 0.60
+TRUTRUhuho folds
+wwwin folds
+apiep refunded 0.60
+apiep wins Pot (0.59)
+Rake (0.01)
+
+
+
+Hand #37834004-13 - 2015-01-04 17:01:49
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (22.08)
+Seat 2: wwwin (19.79)
+Seat 3: nicocoins (20.60)
+Seat 4: Cedesl0v (37.70)
+Seat 5: apiep (14.67)
+Seat 6: TRUTRUhuho (12.69)
+apiep has the dealer button
+TRUTRUhuho posts small blind 0.10
+sevenk posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [7h 3c]
+wwwin folds
+nicocoins folds
+Cedesl0v folds
+apiep raises to 0.60
+TRUTRUhuho folds
+sevenk folds
+apiep refunded 0.40
+apiep wins Pot (0.50)
+Rake (0)
+
+
+
+Hand #37834033-14 - 2015-01-04 17:02:16
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.88)
+Seat 2: wwwin (19.79)
+Seat 3: nicocoins (20.60)
+Seat 4: Cedesl0v (37.70)
+Seat 5: apiep (14.97)
+Seat 6: TRUTRUhuho (12.59)
+TRUTRUhuho has the dealer button
+sevenk posts small blind 0.10
+wwwin posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [6h 6c]
+nicocoins folds
+Cedesl0v folds
+apiep folds
+TRUTRUhuho raises to 0.40
+sevenk calls 0.30
+wwwin folds
+** Flop ** [Ad Qs 5h]
+sevenk checks
+TRUTRUhuho bets 0.40
+sevenk calls 0.40
+** Turn ** [Th]
+sevenk checks
+TRUTRUhuho bets 0.70
+sevenk calls 0.70
+** River ** [2s]
+sevenk checks
+TRUTRUhuho checks
+** Pot Show Down ** [Ad Qs 5h Th 2s]
+sevenk shows [6h 6c] (a Pair of Sixes +AQT)
+TRUTRUhuho shows [9h Ah] (a Pair of Aces +QT9)
+TRUTRUhuho wins Pot (3.12) with a Pair
+Rake (0.08)
+
+
+
+Hand #37834109-15 - 2015-01-04 17:03:41
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (20.38)
+Seat 2: wwwin (19.59)
+Seat 3: nicocoins (20.60)
+Seat 4: Cedesl0v (37.70)
+Seat 5: apiep (14.97)
+Seat 6: TRUTRUhuho (14.21)
+sevenk has the dealer button
+wwwin posts small blind 0.10
+nicocoins posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Ac Kh]
+Cedesl0v folds
+apiep raises to 0.60
+TRUTRUhuho folds
+sevenk raises to 1.80
+wwwin folds
+nicocoins folds
+apiep folds
+sevenk refunded 1.20
+sevenk wins Pot (1.50)
+Rake (0)
+
+
+
+Hand #37834148-16 - 2015-01-04 17:04:18
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.28)
+Seat 2: wwwin (19.49)
+Seat 3: nicocoins (20.40)
+Seat 4: Cedesl0v (37.70)
+Seat 5: apiep (14.37)
+Seat 6: TRUTRUhuho (14.21)
+wwwin has the dealer button
+nicocoins posts small blind 0.10
+Cedesl0v posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [5c As]
+apiep folds
+TRUTRUhuho folds
+sevenk folds
+wwwin calls 0.20
+nicocoins folds
+Cedesl0v checks
+** Flop ** [6c Kh 2c]
+Cedesl0v checks
+wwwin checks
+** Turn ** [9c]
+Cedesl0v bets 0.30
+wwwin folds
+Cedesl0v refunded 0.30
+Cedesl0v wins Pot (0.49)
+Rake (0.01)
+
+
+
+Hand #37834187-17 - 2015-01-04 17:04:59
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.28)
+Seat 2: wwwin (19.29)
+Seat 3: nicocoins (20.30)
+Seat 4: Cedesl0v (37.99)
+Seat 5: apiep (14.37)
+Seat 6: TRUTRUhuho (14.21)
+nicocoins has the dealer button
+Cedesl0v posts small blind 0.10
+apiep posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [7s 4h]
+TRUTRUhuho folds
+sevenk folds
+wwwin calls 0.20
+nicocoins folds
+Cedesl0v calls 0.10
+apiep checks
+** Flop ** [2d Tc 4c]
+Cedesl0v checks
+apiep bets 0.60
+wwwin calls 0.60
+Cedesl0v folds
+** Turn ** [4s]
+apiep checks
+wwwin bets 0.44
+apiep folds
+wwwin refunded 0.44
+wwwin wins Pot (1.76)
+Rake (0.04)
+
+
+
+Hand #37834261-18 - 2015-01-04 17:06:26
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.28)
+Seat 2: wwwin (20.25)
+Seat 3: nicocoins (20.30)
+Seat 4: Cedesl0v (37.79)
+Seat 5: apiep (13.57)
+Seat 6: TRUTRUhuho (14.21)
+Cedesl0v has the dealer button
+apiep posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [4h Js]
+sevenk folds
+wwwin folds
+nicocoins folds
+Cedesl0v folds
+apiep calls 0.10
+TRUTRUhuho raises to 0.60
+apiep calls 0.40
+** Flop ** [3s 9d Jd]
+apiep bets 0.80
+TRUTRUhuho raises to 2.20
+apiep folds
+TRUTRUhuho refunded 1.40
+TRUTRUhuho wins Pot (2.73)
+Rake (0.07)
+
+
+
+Hand #37834317-19 - 2015-01-04 17:07:31
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.28)
+Seat 2: wwwin (20.25)
+Seat 3: nicocoins (20.30)
+Seat 4: Cedesl0v (37.79)
+Seat 5: apiep (12.17)
+Seat 6: TRUTRUhuho (15.54)
+apiep has the dealer button
+TRUTRUhuho posts small blind 0.10
+sevenk posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [9h As]
+wwwin folds
+nicocoins folds
+Cedesl0v folds
+apiep raises to 0.40
+TRUTRUhuho folds
+sevenk raises to 1.10
+apiep folds
+sevenk refunded 0.70
+sevenk wins Pot (0.90)
+Rake (0)
+
+
+
+Hand #37834354-20 - 2015-01-04 17:08:14
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.78)
+Seat 2: wwwin (20.25)
+Seat 3: nicocoins (20.30)
+Seat 4: Cedesl0v (37.79)
+Seat 5: apiep (11.77)
+Seat 6: TRUTRUhuho (15.44)
+TRUTRUhuho has the dealer button
+sevenk posts small blind 0.10
+wwwin posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [8s 5h]
+nicocoins folds
+Cedesl0v raises to 0.60
+apiep calls 0.60
+TRUTRUhuho folds
+sevenk folds
+wwwin folds
+** Flop ** [Qh Qd Kh]
+Cedesl0v checks
+apiep checks
+** Turn ** [Ah]
+Cedesl0v checks
+apiep checks
+** River ** [9s]
+Cedesl0v checks
+apiep checks
+** Pot Show Down ** [Qh Qd Kh Ah 9s]
+Cedesl0v shows [7d 7c] (Two Pair, Queens and Sevens +A)
+apiep shows [2c Ac] (Two Pair, Aces and Queens +K)
+apiep wins Pot (1.47) with Two Pair
+Rake (0.03)
+
+
+
+Hand #37834427-21 - 2015-01-04 17:09:23
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.68)
+Seat 2: wwwin (20.05)
+Seat 3: nicocoins (20.30)
+Seat 4: Cedesl0v (37.19)
+Seat 5: apiep (12.64)
+Seat 6: TRUTRUhuho (15.44)
+sevenk has the dealer button
+wwwin posts small blind 0.10
+nicocoins posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [4c 8s]
+Cedesl0v folds
+apiep folds
+TRUTRUhuho folds
+sevenk folds
+wwwin calls 0.10
+nicocoins checks
+** Flop ** [Ts 9c 2s]
+wwwin checks
+nicocoins checks
+** Turn ** [4s]
+wwwin checks
+nicocoins checks
+** River ** [8d]
+wwwin bets 0.20
+nicocoins folds
+wwwin refunded 0.20
+wwwin wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #37834483-22 - 2015-01-04 17:10:15
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.68)
+Seat 2: wwwin (20.24)
+Seat 3: nicocoins (20.10)
+Seat 4: Cedesl0v (37.19)
+Seat 5: apiep (12.64)
+Seat 6: TRUTRUhuho (15.44)
+wwwin has the dealer button
+nicocoins posts small blind 0.10
+Cedesl0v posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Kd Kc]
+apiep folds
+TRUTRUhuho folds
+sevenk raises to 0.60
+wwwin folds
+nicocoins calls 0.50
+Cedesl0v calls 0.40
+** Flop ** [6h Ac 3s]
+nicocoins checks
+Cedesl0v checks
+sevenk bets 0.90
+nicocoins calls 0.90
+Cedesl0v folds
+** Turn ** [9c]
+nicocoins checks
+sevenk checks
+** River ** [4d]
+nicocoins checks
+sevenk checks
+** Pot Show Down ** [6h Ac 3s 9c 4d]
+sevenk shows [Kd Kc] (a Pair of Kings +A96)
+nicocoins shows [Ad Tc] (a Pair of Aces +T96)
+nicocoins wins Pot (3.51) with a Pair
+Rake (0.09)
+
+
+
+Hand #37834570-23 - 2015-01-04 17:11:46
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (20.18)
+Seat 2: wwwin (20.24)
+Seat 3: nicocoins (22.11)
+Seat 4: Cedesl0v (36.59)
+Seat 5: apiep (12.64)
+Seat 6: TRUTRUhuho (15.44)
+nicocoins has the dealer button
+Cedesl0v posts small blind 0.10
+apiep posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Ah 2c]
+TRUTRUhuho folds
+sevenk folds
+wwwin folds
+nicocoins folds
+Cedesl0v raises to 0.50
+apiep folds
+Cedesl0v refunded 0.30
+Cedesl0v wins Pot (0.40)
+Rake (0)
+
+
+
+Hand #37834603-24 - 2015-01-04 17:12:24
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (20.18)
+Seat 2: wwwin (20.24)
+Seat 3: nicocoins (22.11)
+Seat 4: Cedesl0v (36.79)
+Seat 5: apiep (12.44)
+Seat 6: TRUTRUhuho (15.44)
+Cedesl0v has the dealer button
+apiep posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Th 6h]
+sevenk folds
+wwwin folds
+nicocoins raises to 0.52
+Cedesl0v calls 0.52
+apiep folds
+TRUTRUhuho folds
+** Flop ** [9c Kd Jc]
+nicocoins checks
+Cedesl0v bets 1
+nicocoins folds
+Cedesl0v refunded 1
+Cedesl0v wins Pot (1.31)
+Rake (0.03)
+
+
+
+Hand #37834668-25 - 2015-01-04 17:13:28
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (20.18)
+Seat 2: wwwin (20.24)
+Seat 3: nicocoins (21.59)
+Seat 4: Cedesl0v (37.58)
+Seat 5: apiep (12.34)
+Seat 6: TRUTRUhuho (15.24)
+apiep has the dealer button
+TRUTRUhuho posts small blind 0.10
+sevenk posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Ad 3d]
+wwwin folds
+nicocoins folds
+Cedesl0v folds
+apiep raises to 0.40
+TRUTRUhuho folds
+sevenk calls 0.20
+** Flop ** [9c Ah Ts]
+sevenk checks
+apiep checks
+** Turn ** [8d]
+sevenk bets 0.50
+apiep raises to 1.20
+sevenk calls 0.70
+** River ** [Kh]
+sevenk checks
+apiep checks
+** Pot Show Down ** [9c Ah Ts 8d Kh]
+sevenk shows [Ad 3d] (a Pair of Aces +KT9)
+apiep shows [Th 6d] (a Pair of Tens +AK9)
+sevenk wins Pot (3.22) with a Pair
+Rake (0.08)
+
+
+
+Hand #37834740-26 - 2015-01-04 17:14:30
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.80)
+Seat 2: wwwin (20.24)
+Seat 3: nicocoins (21.59)
+Seat 4: Cedesl0v (37.58)
+Seat 5: apiep (10.74)
+Seat 6: TRUTRUhuho (15.14)
+TRUTRUhuho has the dealer button
+sevenk posts small blind 0.10
+wwwin posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [2c 7s]
+nicocoins folds
+Cedesl0v folds
+apiep folds
+TRUTRUhuho folds
+sevenk folds
+wwwin refunded 0.10
+wwwin wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #37834763-27 - 2015-01-04 17:14:50
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (21.70)
+Seat 2: wwwin (20.34)
+Seat 3: nicocoins (21.59)
+Seat 4: Cedesl0v (37.58)
+Seat 5: apiep (10.74)
+Seat 6: TRUTRUhuho (15.14)
+sevenk has the dealer button
+wwwin posts small blind 0.10
+nicocoins posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Qc 5s]
+Cedesl0v folds
+apiep folds
+apiep adds 5 chips
+TRUTRUhuho folds
+sevenk raises to 0.50
+wwwin folds
+nicocoins folds
+sevenk refunded 0.30
+sevenk wins Pot (0.50)
+Rake (0)
+
+
+
+Hand #37834806-28 - 2015-01-04 17:15:25
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (22)
+Seat 2: wwwin (20.24)
+Seat 3: nicocoins (21.39)
+Seat 4: Cedesl0v (37.58)
+Seat 5: apiep (15.74)
+Seat 6: TRUTRUhuho (15.14)
+wwwin has the dealer button
+Cedesl0v posts small blind 0.10
+apiep posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [6d 8h]
+TRUTRUhuho folds
+sevenk folds
+wwwin folds
+Cedesl0v raises to 0.40
+apiep raises to 1
+Cedesl0v folds
+apiep refunded 0.60
+apiep wins Pot (0.80)
+Rake (0)
+
+
+
+Hand #37834852-29 - 2015-01-04 17:16:10
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (22)
+Seat 2: wwwin (20.24)
+Seat 4: Cedesl0v (37.18)
+Seat 5: apiep (16.14)
+Seat 6: TRUTRUhuho (15.14)
+Cedesl0v has the dealer button
+apiep posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Tc 9c]
+sevenk raises to 0.60
+wwwin calls 0.60
+Cedesl0v folds
+apiep folds
+TRUTRUhuho folds
+** Flop ** [Jh 8h 3s]
+sevenk bets 0.80
+wwwin calls 0.80
+** Turn ** [Ac]
+sevenk bets 1.60
+wwwin calls 1.60
+** River ** [2d]
+sevenk bets 4.50
+wwwin calls 4.50
+** Pot Show Down ** [Jh 8h 3s Ac 2d]
+sevenk shows [Tc 9c] (High Card Ace +JT98)
+wwwin shows [Ah Th] (a Pair of Aces +JT8)
+wwwin wins Pot (14.92) with a Pair
+Rake (0.38)
+
+
+
+Hand #37834948-30 - 2015-01-04 17:17:35
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (14.50)
+Seat 2: wwwin (27.66)
+Seat 4: Cedesl0v (37.18)
+Seat 5: apiep (16.04)
+Seat 6: TRUTRUhuho (14.94)
+apiep has the dealer button
+TRUTRUhuho posts small blind 0.10
+wwwin posts big blind 0.20
+** Hole Cards **
+Cedesl0v raises to 0.60
+apiep folds
+TRUTRUhuho folds
+wwwin folds
+Cedesl0v refunded 0.40
+Cedesl0v wins Pot (0.50)
+Rake (0)
+
+
+
+Hand #37834978-31 - 2015-01-04 17:18:06
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (14.50) - sitting out
+Seat 2: wwwin (27.46)
+Seat 4: Cedesl0v (37.48)
+Seat 5: apiep (16.04)
+Seat 6: TRUTRUhuho (14.84)
+TRUTRUhuho has the dealer button
+wwwin posts small blind 0.10
+apiep posts big blind 0.20
+** Hole Cards **
+TRUTRUhuho folds
+wwwin calls 0.10
+apiep checks
+** Flop ** [Kd 5d 5c]
+wwwin checks
+apiep bets 0.20
+wwwin folds
+apiep refunded 0.20
+apiep wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #37835016-32 - 2015-01-04 17:18:37
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #1
+Seat 1: sevenk (14.50) - sitting out
+Seat 2: wwwin (27.26)
+Seat 5: apiep (16.23)
+Seat 6: TRUTRUhuho (14.84)
+wwwin has the dealer button
+apiep posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+wwwin folds
+apiep folds
+TRUTRUhuho refunded 0.10
+TRUTRUhuho wins Pot (0.20)
+Rake (0)

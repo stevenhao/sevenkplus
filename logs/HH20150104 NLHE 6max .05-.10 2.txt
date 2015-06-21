@@ -1,0 +1,698 @@
+Hand #37859601-69 - 2015-01-05 00:36:09
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10) - waiting for big blind
+Seat 2: PopeFrancisI (10)
+Seat 3: beastbits (7.63)
+Seat 4: creationcb (21.69)
+creationcb has the dealer button
+PopeFrancisI posts small blind 0.05
+beastbits posts big blind 0.10
+** Hole Cards **
+creationcb raises to 0.20
+PopeFrancisI calls 0.15
+beastbits calls 0.10
+** Flop ** [2s Ts 8d]
+PopeFrancisI checks
+beastbits bets 0.45
+creationcb folds
+PopeFrancisI folds
+beastbits refunded 0.45
+PopeFrancisI adds 0.20 chips
+beastbits wins Pot (0.59)
+Rake (0.01)
+
+
+
+Hand #37859648-70 - 2015-01-05 00:37:05
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10) - waiting for big blind
+Seat 2: PopeFrancisI (10)
+Seat 3: beastbits (8.02)
+Seat 4: creationcb (21.49)
+Seat 6: wordtoyoma (4)
+PopeFrancisI has the dealer button
+beastbits posts small blind 0.05
+creationcb posts big blind 0.10
+wordtoyoma posts big blind 0.10
+** Hole Cards **
+wordtoyoma raises to 0.20
+PopeFrancisI calls 0.20
+beastbits raises to 0.80
+creationcb calls 0.70
+wordtoyoma folds
+PopeFrancisI calls 0.60
+** Flop ** [Ts 3c 8c]
+beastbits checks
+creationcb bets 1.50
+PopeFrancisI folds
+PopeFrancisI adds 0.80 chips
+beastbits folds
+creationcb refunded 1.50
+creationcb wins Pot (2.54)
+Rake (0.06)
+
+
+
+Hand #37859701-71 - 2015-01-05 00:38:01
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10) - waiting for big blind
+Seat 2: PopeFrancisI (10)
+Seat 3: beastbits (7.22)
+Seat 4: creationcb (23.23)
+Seat 5: blackspades (10)
+Seat 6: wordtoyoma (3.80)
+beastbits has the dealer button
+creationcb posts small blind 0.05
+blackspades posts big blind 0.10
+** Hole Cards **
+wordtoyoma folds
+PopeFrancisI folds
+beastbits raises to 0.30
+creationcb calls 0.25
+blackspades calls 0.20
+** Flop ** [6h 5c 4s]
+creationcb checks
+blackspades bets 0.44
+beastbits folds
+creationcb folds
+blackspades refunded 0.44
+blackspades wins Pot (0.88)
+Rake (0.02)
+
+
+
+Hand #37859769-72 - 2015-01-05 00:39:13
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10) - waiting for big blind
+Seat 2: PopeFrancisI (10)
+Seat 3: beastbits (6.92)
+Seat 4: creationcb (22.93)
+Seat 5: blackspades (10.58)
+Seat 6: wordtoyoma (3.80)
+creationcb has the dealer button
+blackspades posts small blind 0.05
+wordtoyoma posts big blind 0.10
+** Hole Cards **
+PopeFrancisI folds
+beastbits folds
+creationcb folds
+blackspades folds
+wordtoyoma refunded 0.05
+wordtoyoma wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #37859788-73 - 2015-01-05 00:39:38
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10) - waiting for big blind
+Seat 2: PopeFrancisI (10)
+Seat 3: beastbits (6.92)
+Seat 4: creationcb (22.93)
+Seat 5: blackspades (10.53)
+Seat 6: wordtoyoma (3.85)
+blackspades has the dealer button
+wordtoyoma posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3c Tc]
+PopeFrancisI folds
+beastbits folds
+creationcb folds
+blackspades folds
+wordtoyoma raises to 0.30
+sevenk calls 0.20
+** Flop ** [Kh 8h 5d]
+wordtoyoma bets 0.20
+sevenk calls 0.20
+** Turn ** [Jc]
+wordtoyoma bets 0.20
+sevenk folds
+wordtoyoma refunded 0.20
+wordtoyoma wins Pot (0.98)
+Rake (0.02)
+
+
+
+Hand #37859843-74 - 2015-01-05 00:40:37
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.50)
+Seat 2: PopeFrancisI (10)
+Seat 3: beastbits (6.92)
+Seat 4: creationcb (22.93)
+Seat 5: blackspades (10.53)
+Seat 6: wordtoyoma (4.33)
+wordtoyoma has the dealer button
+sevenk posts small blind 0.05
+PopeFrancisI posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5d Qd]
+beastbits folds
+creationcb folds
+blackspades calls 0.10
+wordtoyoma calls 0.10
+sevenk calls 0.05
+PopeFrancisI checks
+** Flop ** [4h Tc Ks]
+sevenk checks
+PopeFrancisI checks
+blackspades bets 0.39
+wordtoyoma raises to 0.78
+sevenk folds
+PopeFrancisI folds
+PopeFrancisI adds 0.10 chips
+blackspades raises to 1.17
+wordtoyoma calls 0.39
+** Turn ** [Kh]
+blackspades bets 3.10
+wordtoyoma calls 3.06 (All-in)
+blackspades refunded 0.04
+** River ** [7s]
+** Pot Show Down ** [4h Tc Ks Kh 7s]
+blackspades shows [Jd Kc] (Three of a Kind, Kings +JT)
+wordtoyoma shows [Qs Jc] (a Pair of Kings +QJT)
+blackspades wins Pot (8.64) with Three of a Kind
+Rake (0.22)
+
+
+
+Hand #37859911-75 - 2015-01-05 00:42:02
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.40)
+Seat 2: PopeFrancisI (10)
+Seat 3: beastbits (6.92)
+Seat 4: creationcb (22.93)
+Seat 5: blackspades (14.84)
+Seat 6: wordtoyoma (0) - sitting out
+sevenk has the dealer button
+PopeFrancisI posts small blind 0.05
+beastbits posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4c Kc]
+creationcb folds
+blackspades folds
+sevenk folds
+PopeFrancisI raises to 0.20
+beastbits raises to 0.30
+PopeFrancisI calls 0.10
+** Flop ** [9c Kh Ts]
+PopeFrancisI checks
+beastbits bets 0.45
+PopeFrancisI calls 0.45
+** Turn ** [2c]
+PopeFrancisI checks
+beastbits checks
+** River ** [Qh]
+PopeFrancisI checks
+beastbits checks
+** Pot Show Down ** [9c Kh Ts 2c Qh]
+PopeFrancisI shows [5s Js] (a Straight, Nine to King)
+beastbits shows [5d 5h] (a Pair of Fives +KQT)
+PopeFrancisI wins Pot (1.47) with a Straight
+Rake (0.03)
+
+
+
+Hand #37859977-76 - 2015-01-05 00:43:19
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.40)
+Seat 2: PopeFrancisI (10.72)
+Seat 3: beastbits (6.17)
+Seat 4: creationcb (22.93)
+Seat 5: blackspades (14.84)
+Seat 6: wordtoyoma (0) - sitting out
+PopeFrancisI has the dealer button
+beastbits posts small blind 0.05
+creationcb posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3c Th]
+blackspades calls 0.10
+sevenk folds
+PopeFrancisI folds
+beastbits folds
+creationcb checks
+** Flop ** [Jd 8c Jh]
+creationcb checks
+blackspades checks
+** Turn ** [2d]
+creationcb checks
+blackspades checks
+** River ** [2h]
+creationcb checks
+blackspades checks
+** Pot Show Down ** [Jd 8c Jh 2d 2h]
+creationcb shows [6d 9s] (Two Pair, Jacks and Deuces +9)
+blackspades shows [Td Kc] (Two Pair, Jacks and Deuces +K)
+blackspades wins Pot (0.25) with Two Pair
+Rake (0)
+
+
+
+Hand #37860021-77 - 2015-01-05 00:44:16
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.40)
+Seat 2: PopeFrancisI (10.72)
+Seat 3: beastbits (6.12)
+Seat 4: creationcb (22.83)
+Seat 5: blackspades (14.99)
+Seat 6: wordtoyoma (0) - sitting out
+beastbits has the dealer button
+creationcb posts small blind 0.05
+blackspades posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4d 8s]
+sevenk folds
+PopeFrancisI folds
+beastbits folds
+creationcb folds
+blackspades refunded 0.05
+blackspades wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #37860044-78 - 2015-01-05 00:44:40
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.40)
+Seat 2: PopeFrancisI (10.72)
+Seat 3: beastbits (6.12)
+Seat 4: creationcb (22.78)
+Seat 5: blackspades (15.04)
+Seat 6: wordtoyoma (0) - sitting out
+creationcb has the dealer button
+blackspades posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7h Ts]
+PopeFrancisI folds
+beastbits folds
+creationcb folds
+blackspades calls 0.05
+sevenk checks
+** Flop ** [2h 4c 2d]
+blackspades checks
+sevenk bets 0.10
+blackspades folds
+sevenk refunded 0.10
+sevenk wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #37860071-79 - 2015-01-05 00:45:14
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.50)
+Seat 2: PopeFrancisI (10.72)
+Seat 3: beastbits (6.12)
+Seat 4: creationcb (22.78)
+Seat 5: blackspades (14.94)
+blackspades has the dealer button
+sevenk posts small blind 0.05
+PopeFrancisI posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7h 5d]
+beastbits raises to 0.30
+creationcb folds
+blackspades folds
+sevenk folds
+PopeFrancisI calls 0.20
+** Flop ** [Tc Jc Kc]
+PopeFrancisI checks
+beastbits checks
+** Turn ** [3d]
+PopeFrancisI checks
+beastbits checks
+** River ** [Jh]
+PopeFrancisI checks
+beastbits checks
+** Pot Show Down ** [Tc Jc Kc 3d Jh]
+PopeFrancisI shows [As Ts] (Two Pair, Jacks and Tens +A)
+beastbits shows [Th 9h] (Two Pair, Jacks and Tens +K)
+PopeFrancisI wins Pot (0.64) with Two Pair
+Rake (0.01)
+
+
+
+Hand #37860111-80 - 2015-01-05 00:46:04
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.45)
+Seat 2: PopeFrancisI (11.06)
+Seat 3: beastbits (5.82)
+Seat 4: creationcb (22.78)
+Seat 5: blackspades (14.94)
+sevenk has the dealer button
+PopeFrancisI posts small blind 0.05
+beastbits posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3h 7c]
+creationcb raises to 0.20
+blackspades calls 0.20
+sevenk folds
+PopeFrancisI folds
+beastbits calls 0.10
+** Flop ** [7d 6c 5c]
+beastbits checks
+creationcb checks
+blackspades checks
+** Turn ** [9c]
+beastbits checks
+creationcb checks
+blackspades bets 1.10
+beastbits folds
+creationcb calls 1.10
+** River ** [4d]
+creationcb bets 2
+blackspades calls 2
+** Pot Show Down ** [7d 6c 5c 9c 4d]
+creationcb shows [Qc 8c] (a Flush, Queen high +9865)
+blackspades shows [Qs 9h] (a Pair of Nines +Q76)
+creationcb wins Pot (6.68) with a Flush
+Rake (0.17)
+
+
+
+Hand #37860192-81 - 2015-01-05 00:47:52
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.45)
+Seat 2: PopeFrancisI (11.01)
+Seat 3: beastbits (5.62)
+Seat 4: creationcb (26.16)
+Seat 5: blackspades (11.64)
+Seat 6: KB59769 (9.60)
+PopeFrancisI has the dealer button
+beastbits posts small blind 0.05
+creationcb posts big blind 0.10
+KB59769 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2h 3d]
+blackspades calls 0.10
+KB59769 checks
+sevenk folds
+PopeFrancisI folds
+beastbits calls 0.05
+creationcb checks
+** Flop ** [3h 7c 8d]
+beastbits checks
+creationcb checks
+blackspades checks
+KB59769 checks
+** Turn ** [7h]
+beastbits checks
+creationcb checks
+blackspades bets 0.39
+KB59769 folds
+beastbits calls 0.39
+creationcb folds
+** River ** [6h]
+beastbits checks
+blackspades bets 1.10
+beastbits calls 1.10
+** Pot Show Down ** [3h 7c 8d 7h 6h]
+beastbits shows [7s 9s] (Three of a Kind, Sevens +98)
+blackspades shows [Qd 7d] (Three of a Kind, Sevens +Q8)
+blackspades wins Pot (3.30) with Three of a Kind
+Rake (0.08)
+
+
+
+Hand #37860269-82 - 2015-01-05 00:49:25
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.45)
+Seat 2: PopeFrancisI (11.01)
+Seat 3: beastbits (4.03)
+Seat 4: creationcb (26.06) - sitting out
+Seat 5: blackspades (13.35)
+Seat 6: KB59769 (9.50)
+beastbits has the dealer button
+blackspades posts small blind 0.05
+KB59769 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5d 7s]
+sevenk folds
+PopeFrancisI folds
+beastbits folds
+blackspades calls 0.05
+KB59769 checks
+** Flop ** [Th 8d Jc]
+blackspades checks
+KB59769 checks
+** Turn ** [4s]
+blackspades checks
+KB59769 checks
+** River ** [As]
+blackspades checks
+KB59769 checks
+** Pot Show Down ** [Th 8d Jc 4s As]
+blackspades shows [Qc 3h] (High Card Ace +QJT8)
+KB59769 shows [Kc Qh] (a Straight, Ten to Ace)
+KB59769 wins Pot (0.20) with a Straight
+Rake (0)
+
+
+
+Hand #37860307-83 - 2015-01-05 00:50:11
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.45)
+Seat 2: PopeFrancisI (11.01)
+Seat 3: beastbits (4.03)
+Seat 4: creationcb (26.06) - sitting out
+Seat 5: blackspades (13.25)
+Seat 6: KB59769 (9.60)
+blackspades has the dealer button
+KB59769 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kd 3h]
+PopeFrancisI folds
+beastbits raises to 0.30
+blackspades calls 0.30
+KB59769 calls 0.25
+sevenk folds
+** Flop ** [9s 9c 2c]
+KB59769 checks
+beastbits bets 0.79
+blackspades folds
+KB59769 calls 0.79
+** Turn ** [9h]
+KB59769 checks
+beastbits checks
+** River ** [Ad]
+KB59769 bets 1
+beastbits folds
+KB59769 refunded 1
+KB59769 wins Pot (2.52)
+Rake (0.06)
+
+
+
+Hand #37860362-84 - 2015-01-05 00:51:33
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (9.35)
+Seat 2: PopeFrancisI (11.01)
+Seat 3: beastbits (2.94)
+Seat 4: creationcb (26.06) - sitting out
+Seat 5: blackspades (12.95)
+Seat 6: KB59769 (11.03)
+KB59769 has the dealer button
+sevenk posts small blind 0.05
+PopeFrancisI posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Js 3s]
+beastbits folds
+blackspades calls 0.10
+KB59769 folds
+sevenk calls 0.05
+PopeFrancisI checks
+** Flop ** [9d 8s Jc]
+sevenk bets 0.20
+PopeFrancisI folds
+blackspades calls 0.20
+** Turn ** [9s]
+sevenk bets 0.40
+blackspades raises to 1
+sevenk calls 0.60
+** River ** [Qd]
+sevenk checks
+blackspades bets 3.10
+sevenk folds
+blackspades refunded 3.10
+blackspades wins Pot (2.64)
+Rake (0.06)
+
+
+
+Hand #37860444-85 - 2015-01-05 00:53:21
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (8.05)
+Seat 2: PopeFrancisI (10.91)
+Seat 3: beastbits (2.94)
+Seat 4: creationcb (26.06) - sitting out
+Seat 5: blackspades (14.29)
+Seat 6: KB59769 (11.03)
+sevenk has the dealer button
+PopeFrancisI posts small blind 0.05
+beastbits posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qd Tc]
+blackspades folds
+KB59769 calls 0.10
+sevenk raises to 0.35
+PopeFrancisI folds
+beastbits folds
+KB59769 calls 0.25
+** Flop ** [8c 4d 9d]
+KB59769 checks
+sevenk bets 0.45
+KB59769 calls 0.45
+** Turn ** [5s]
+KB59769 checks
+sevenk checks
+** River ** [3s]
+KB59769 checks
+sevenk bets 1.10
+KB59769 calls 1.10
+** Pot Show Down ** [8c 4d 9d 5s 3s]
+sevenk shows [Qd Tc] (High Card Queen +T985)
+KB59769 shows [Th Jc] (High Card Jack +T985)
+sevenk wins Pot (3.86) with High Card
+Rake (0.09)
+
+
+
+Hand #37860516-86 - 2015-01-05 00:54:56
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10.01)
+Seat 2: PopeFrancisI (10.86)
+Seat 3: beastbits (2.84)
+Seat 4: creationcb (26.06)
+Seat 5: blackspades (14.29)
+Seat 6: KB59769 (9.13)
+PopeFrancisI has the dealer button
+beastbits posts small blind 0.05
+creationcb posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ad 9h]
+blackspades folds
+KB59769 calls 0.10
+sevenk raises to 0.40
+PopeFrancisI folds
+beastbits calls 0.35
+creationcb folds
+KB59769 calls 0.30
+** Flop ** [7h 4d Kc]
+beastbits checks
+KB59769 checks
+sevenk bets 0.70
+beastbits folds
+KB59769 folds
+sevenk refunded 0.70
+sevenk wins Pot (1.27)
+Rake (0.03)
+
+
+
+Hand #37860562-87 - 2015-01-05 00:55:56
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10.88)
+Seat 2: PopeFrancisI (10.86)
+Seat 3: beastbits (2.44)
+Seat 4: creationcb (25.96)
+Seat 5: blackspades (14.29)
+Seat 6: KB59769 (8.73)
+beastbits has the dealer button
+creationcb posts small blind 0.05
+blackspades posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5h 4c]
+KB59769 calls 0.10
+sevenk folds
+PopeFrancisI folds
+beastbits raises to 0.40
+creationcb calls 0.35
+blackspades calls 0.30
+KB59769 folds
+** Flop ** [4d 8s Jh]
+creationcb checks
+blackspades checks
+beastbits bets 0.95
+creationcb folds
+blackspades folds
+beastbits refunded 0.95
+beastbits wins Pot (1.27)
+Rake (0.03)
+
+
+
+Hand #37860618-88 - 2015-01-05 00:57:19
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #2
+Seat 1: sevenk (10.88)
+Seat 2: PopeFrancisI (10.86)
+Seat 3: beastbits (3.31)
+Seat 4: creationcb (25.56)
+Seat 5: blackspades (13.89)
+Seat 6: KB59769 (8.63)
+creationcb has the dealer button
+blackspades posts small blind 0.05
+KB59769 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qc 6s]
+sevenk folds
+PopeFrancisI folds
+beastbits folds
+creationcb folds
+blackspades calls 0.05
+KB59769 checks
+** Flop ** [Kc 8c 9s]
+blackspades checks
+KB59769 checks
+** Turn ** [Tc]
+blackspades bets 0.20
+KB59769 calls 0.20
+** River ** [2c]
+blackspades checks
+KB59769 checks
+** Pot Show Down ** [Kc 8c 9s Tc 2c]
+blackspades shows [Kd 5s] (a Pair of Kings +T98)
+KB59769 shows [6c 8d] (a Flush, King high +T862)
+KB59769 wins Pot (0.59) with a Flush
+Rake (0.01)

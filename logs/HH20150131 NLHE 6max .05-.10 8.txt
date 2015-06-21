@@ -1,0 +1,1120 @@
+Hand #39408926-444 - 2015-02-01 00:29:26
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 3: murrr (10.24)
+Seat 5: keepfloppin (43.80)
+Seat 6: bridges48 (10.05)
+keepfloppin has the dealer button
+bridges48 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+keepfloppin folds
+bridges48 folds
+murrr refunded 0.05
+murrr wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39408943-445 - 2015-02-01 00:29:43
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 3: murrr (10.29)
+Seat 5: keepfloppin (43.80)
+Seat 6: bridges48 (10)
+bridges48 has the dealer button
+murrr posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+bridges48 folds
+murrr calls 0.05
+keepfloppin checks
+** Flop ** [As 2d 7d]
+murrr bets 0.20
+keepfloppin folds
+murrr refunded 0.20
+murrr wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #39408977-446 - 2015-02-01 00:30:22
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10) - waiting for big blind
+Seat 3: murrr (10.39)
+Seat 5: keepfloppin (43.70)
+Seat 6: bridges48 (10)
+murrr has the dealer button
+keepfloppin posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+murrr folds
+keepfloppin folds
+bridges48 refunded 0.05
+bridges48 wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39408995-447 - 2015-02-01 00:30:40
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10) - waiting for big blind
+Seat 3: murrr (10.39)
+Seat 5: keepfloppin (43.65)
+Seat 6: bridges48 (10.05)
+keepfloppin has the dealer button
+bridges48 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3s Tc]
+murrr folds
+keepfloppin folds
+bridges48 folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39409018-448 - 2015-02-01 00:31:00
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.05)
+Seat 2: hoopaholik91 (10) - waiting for big blind
+Seat 3: murrr (10.39)
+Seat 5: keepfloppin (43.65)
+Seat 6: bridges48 (10)
+bridges48 has the dealer button
+sevenk posts small blind 0.05
+hoopaholik91 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4d Tc]
+murrr folds
+keepfloppin folds
+bridges48 folds
+sevenk calls 0.05
+hoopaholik91 checks
+** Flop ** [Kh Jc 9h]
+sevenk bets 0.12
+hoopaholik91 calls 0.12
+** Turn ** [Qc]
+sevenk bets 0.25
+hoopaholik91 calls 0.25
+** River ** [2h]
+sevenk checks
+hoopaholik91 bets 0.50
+sevenk calls 0.50
+** Pot Show Down ** [Kh Jc 9h Qc 2h]
+sevenk shows [4d Tc] (a Straight, Nine to King)
+hoopaholik91 shows [Td Js] (a Straight, Nine to King)
+sevenk splits Pot (0.95) with a Straight
+hoopaholik91 splits Pot (0.95) with a Straight
+Rake (0.04)
+hoopaholik91 adds 0.02 chips
+
+
+
+Hand #39409085-449 - 2015-02-01 00:32:23
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.03)
+Seat 2: hoopaholik91 (10)
+Seat 3: murrr (10.39)
+Seat 5: keepfloppin (43.65)
+Seat 6: bridges48 (10)
+sevenk has the dealer button
+hoopaholik91 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6d 8s]
+keepfloppin folds
+bridges48 folds
+sevenk folds
+hoopaholik91 raises to 0.30
+murrr folds
+hoopaholik91 refunded 0.20
+hoopaholik91 wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #39409113-450 - 2015-02-01 00:33:00
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.03)
+Seat 2: hoopaholik91 (10.10)
+Seat 3: murrr (10.29)
+Seat 5: keepfloppin (43.65)
+Seat 6: bridges48 (10)
+hoopaholik91 has the dealer button
+murrr posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc Js]
+bridges48 folds
+sevenk raises to 0.30
+hoopaholik91 calls 0.30
+murrr folds
+keepfloppin calls 0.20
+** Flop ** [7d 5d 7h]
+keepfloppin checks
+sevenk bets 0.50
+hoopaholik91 folds
+hoopaholik91 adds 0.20 chips
+keepfloppin folds
+sevenk refunded 0.50
+sevenk wins Pot (0.93)
+Rake (0.02)
+
+
+
+Hand #39409178-451 - 2015-02-01 00:34:11
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.66)
+Seat 2: hoopaholik91 (10)
+Seat 3: murrr (10.24)
+Seat 5: keepfloppin (43.35)
+Seat 6: bridges48 (10)
+murrr has the dealer button
+keepfloppin posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2h 8d]
+sevenk folds
+hoopaholik91 raises to 0.30
+murrr folds
+keepfloppin calls 0.25
+bridges48 folds
+bridges48 adds 0.10 chips
+** Flop ** [6s Qh 9h]
+keepfloppin checks
+hoopaholik91 bets 0.40
+keepfloppin calls 0.40
+** Turn ** [Td]
+keepfloppin checks
+hoopaholik91 bets 1
+keepfloppin calls 1
+** River ** [Th]
+keepfloppin bets 2.50
+hoopaholik91 raises to 5.71
+keepfloppin calls 3.21
+** Pot Show Down ** [6s Qh 9h Td Th]
+hoopaholik91 shows [9s 9c] (a Full House, Nines full of Tens)
+keepfloppin shows [3h 5h] (a Flush, Queen high +T953)
+hoopaholik91 wins Pot (14.55) with a Full House
+Rake (0.37)
+
+
+
+Hand #39409242-452 - 2015-02-01 00:35:32
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.66)
+Seat 2: hoopaholik91 (17.14)
+Seat 3: murrr (10.24)
+Seat 5: keepfloppin (35.94)
+Seat 6: bridges48 (10)
+keepfloppin has the dealer button
+bridges48 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3h 5s]
+hoopaholik91 folds
+murrr folds
+keepfloppin raises to 0.30
+bridges48 folds
+bridges48 adds 0.05 chips
+sevenk folds
+keepfloppin refunded 0.20
+keepfloppin wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409264-453 - 2015-02-01 00:36:00
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.56)
+Seat 2: hoopaholik91 (17.14)
+Seat 3: murrr (10.24)
+Seat 5: keepfloppin (36.09)
+Seat 6: bridges48 (10)
+bridges48 has the dealer button
+sevenk posts small blind 0.05
+hoopaholik91 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4h Kc]
+murrr folds
+keepfloppin raises to 0.30
+bridges48 folds
+sevenk folds
+hoopaholik91 folds
+keepfloppin refunded 0.20
+keepfloppin wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409287-454 - 2015-02-01 00:36:26
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.51)
+Seat 2: hoopaholik91 (17.04)
+Seat 3: murrr (10.24)
+Seat 5: keepfloppin (36.24)
+Seat 6: bridges48 (10)
+sevenk has the dealer button
+hoopaholik91 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Th Kc]
+keepfloppin folds
+bridges48 folds
+sevenk raises to 0.25
+hoopaholik91 folds
+murrr folds
+sevenk refunded 0.15
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409304-455 - 2015-02-01 00:36:46
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.66)
+Seat 2: hoopaholik91 (16.99)
+Seat 3: murrr (10.14)
+Seat 5: keepfloppin (36.24)
+Seat 6: bridges48 (10)
+hoopaholik91 has the dealer button
+murrr posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kh 9c]
+bridges48 folds
+sevenk raises to 0.30
+hoopaholik91 raises to 0.90
+murrr folds
+keepfloppin folds
+sevenk folds
+hoopaholik91 refunded 0.60
+hoopaholik91 wins Pot (0.75)
+Rake (0)
+
+
+
+Hand #39409334-456 - 2015-02-01 00:37:29
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.36)
+Seat 2: hoopaholik91 (17.44)
+Seat 3: murrr (10.09)
+Seat 5: keepfloppin (36.14)
+Seat 6: bridges48 (10)
+murrr has the dealer button
+keepfloppin posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3s Qh]
+sevenk folds
+hoopaholik91 raises to 0.30
+murrr folds
+keepfloppin folds
+bridges48 folds
+hoopaholik91 refunded 0.20
+bridges48 adds 0.10 chips
+hoopaholik91 wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409369-457 - 2015-02-01 00:38:06
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.36)
+Seat 2: hoopaholik91 (17.59)
+Seat 3: murrr (10.09)
+Seat 5: keepfloppin (36.09)
+Seat 6: bridges48 (10)
+keepfloppin has the dealer button
+bridges48 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kc Kd]
+hoopaholik91 raises to 0.30
+murrr folds
+keepfloppin folds
+bridges48 folds
+bridges48 adds 0.05 chips
+sevenk raises to 0.90
+hoopaholik91 folds
+sevenk refunded 0.60
+sevenk wins Pot (0.65)
+Rake (0)
+
+
+
+Hand #39409400-458 - 2015-02-01 00:38:47
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.71)
+Seat 2: hoopaholik91 (17.29)
+Seat 3: murrr (10.09)
+Seat 5: keepfloppin (36.09)
+Seat 6: bridges48 (10)
+bridges48 has the dealer button
+sevenk posts small blind 0.05
+hoopaholik91 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5d Ah]
+murrr folds
+keepfloppin raises to 0.30
+bridges48 folds
+sevenk folds
+hoopaholik91 calls 0.20
+** Flop ** [3c 8s 2h]
+hoopaholik91 checks
+keepfloppin bets 0.50
+hoopaholik91 calls 0.50
+** Turn ** [Ac]
+hoopaholik91 checks
+keepfloppin bets 1.55
+hoopaholik91 folds
+keepfloppin refunded 1.55
+keepfloppin wins Pot (1.61)
+Rake (0.04)
+
+
+
+Hand #39409438-459 - 2015-02-01 00:39:37
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.66)
+Seat 2: hoopaholik91 (16.49)
+Seat 3: murrr (10.09)
+Seat 5: keepfloppin (36.90)
+Seat 6: bridges48 (10)
+sevenk has the dealer button
+hoopaholik91 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Js 3c]
+keepfloppin folds
+bridges48 folds
+sevenk folds
+hoopaholik91 raises to 0.30
+murrr folds
+hoopaholik91 refunded 0.20
+murrr adds 0.01 chips
+hoopaholik91 wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #39409453-460 - 2015-02-01 00:40:01
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.66)
+Seat 2: hoopaholik91 (16.59)
+Seat 3: murrr (10)
+Seat 5: keepfloppin (36.90)
+Seat 6: bridges48 (10)
+hoopaholik91 has the dealer button
+murrr posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8s 4s]
+bridges48 folds
+sevenk folds
+hoopaholik91 folds
+murrr folds
+keepfloppin refunded 0.05
+murrr adds 0.05 chips
+keepfloppin wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39409471-461 - 2015-02-01 00:40:27
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.66)
+Seat 2: hoopaholik91 (16.59)
+Seat 3: murrr (10)
+Seat 5: keepfloppin (36.95)
+Seat 6: bridges48 (10)
+murrr has the dealer button
+keepfloppin posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7h Qh]
+sevenk folds
+hoopaholik91 folds
+murrr folds
+keepfloppin raises to 0.30
+bridges48 folds
+keepfloppin refunded 0.20
+bridges48 adds 0.10 chips
+keepfloppin wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #39409498-462 - 2015-02-01 00:41:05
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.66)
+Seat 2: hoopaholik91 (16.59) - sitting out
+Seat 3: murrr (10)
+Seat 5: keepfloppin (37.05)
+Seat 6: bridges48 (10)
+keepfloppin has the dealer button
+bridges48 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9s 4h]
+murrr folds
+keepfloppin raises to 0.30
+bridges48 folds
+bridges48 adds 0.05 chips
+sevenk folds
+keepfloppin refunded 0.20
+keepfloppin wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409516-463 - 2015-02-01 00:41:26
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.56)
+Seat 2: hoopaholik91 (16.59) - sitting out
+Seat 3: murrr (10)
+Seat 5: keepfloppin (37.20)
+Seat 6: bridges48 (10)
+bridges48 has the dealer button
+sevenk posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6h 3d]
+keepfloppin folds
+bridges48 folds
+sevenk folds
+murrr refunded 0.05
+murrr wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39409534-464 - 2015-02-01 00:41:45
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.51)
+Seat 2: hoopaholik91 (16.59) - sitting out
+Seat 3: murrr (10.05)
+Seat 5: keepfloppin (37.20)
+Seat 6: bridges48 (10)
+sevenk has the dealer button
+murrr posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4d Ac]
+bridges48 folds
+sevenk raises to 0.25
+murrr folds
+keepfloppin folds
+sevenk refunded 0.15
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409548-465 - 2015-02-01 00:42:09
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.66)
+Seat 2: hoopaholik91 (16.59) - sitting out
+Seat 3: murrr (10)
+Seat 5: keepfloppin (37.10)
+Seat 6: bridges48 (10)
+murrr has the dealer button
+keepfloppin posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8s 5c]
+sevenk folds
+murrr folds
+keepfloppin folds
+bridges48 refunded 0.05
+bridges48 wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39409561-466 - 2015-02-01 00:42:24
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.66)
+Seat 2: hoopaholik91 (16.59) - sitting out
+Seat 3: murrr (10)
+Seat 5: keepfloppin (37.05)
+Seat 6: bridges48 (10.05)
+keepfloppin has the dealer button
+bridges48 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qh Jh]
+murrr folds
+keepfloppin raises to 0.30
+bridges48 folds
+sevenk calls 0.20
+** Flop ** [Tc 4s 3h]
+sevenk checks
+keepfloppin bets 0.50
+sevenk raises to 1.50
+keepfloppin folds
+sevenk refunded 1
+sevenk wins Pot (1.61)
+Rake (0.04)
+
+
+
+Hand #39409598-467 - 2015-02-01 00:43:25
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (11.47)
+Seat 2: hoopaholik91 (16.59) - sitting out
+Seat 3: murrr (10)
+Seat 5: keepfloppin (36.25)
+Seat 6: bridges48 (10)
+bridges48 has the dealer button
+sevenk posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc 3h]
+keepfloppin folds
+bridges48 folds
+sevenk folds
+murrr refunded 0.05
+murrr wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39409610-468 - 2015-02-01 00:43:47
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (11.42)
+Seat 2: hoopaholik91 (16.59) - sitting out
+Seat 3: murrr (10.05)
+Seat 5: keepfloppin (36.25)
+Seat 6: bridges48 (10)
+sevenk has the dealer button
+murrr posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6h 4h]
+bridges48 raises to 0.30
+sevenk calls 0.30
+murrr folds
+keepfloppin folds
+** Flop ** [8s 9d Jc]
+bridges48 bets 0.50
+sevenk folds
+bridges48 refunded 0.50
+bridges48 wins Pot (0.74)
+Rake (0.01)
+
+
+
+Hand #39409638-469 - 2015-02-01 00:44:24
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (11.12)
+Seat 2: hoopaholik91 (16.59) - sitting out
+Seat 3: murrr (10)
+Seat 5: keepfloppin (36.15)
+Seat 6: bridges48 (10.44)
+murrr has the dealer button
+keepfloppin posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6d Kd]
+sevenk folds
+murrr raises to 0.30
+keepfloppin folds
+bridges48 folds
+murrr refunded 0.20
+murrr wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409666-470 - 2015-02-01 00:45:00
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (11.12)
+Seat 2: hoopaholik91 (16.59) - sitting out
+Seat 3: murrr (10.15)
+Seat 5: keepfloppin (36.10)
+Seat 6: bridges48 (10.34)
+keepfloppin has the dealer button
+bridges48 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kh 4d]
+murrr folds
+keepfloppin folds
+bridges48 folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39409679-471 - 2015-02-01 00:45:18
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (11.17)
+Seat 2: hoopaholik91 (16.59) - sitting out
+Seat 3: murrr (10.15)
+Seat 5: keepfloppin (36.10)
+Seat 6: bridges48 (10.29)
+bridges48 has the dealer button
+sevenk posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kd 5h]
+keepfloppin folds
+bridges48 folds
+sevenk calls 0.05
+murrr checks
+** Flop ** [Jc 7c Qd]
+sevenk checks
+murrr checks
+** Turn ** [6s]
+sevenk checks
+murrr checks
+** River ** [4c]
+sevenk checks
+murrr checks
+** Pot Show Down ** [Jc 7c Qd 6s 4c]
+sevenk shows [Kd 5h] (High Card King +QJ76)
+murrr shows [7h 8d] (a Pair of Sevens +QJ8)
+murrr wins Pot (0.20) with a Pair
+Rake (0)
+
+
+
+Hand #39409741-472 - 2015-02-01 00:46:22
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (11.07)
+Seat 2: hoopaholik91 (16.59)
+Seat 3: murrr (10.25)
+Seat 5: keepfloppin (36.10)
+Seat 6: bridges48 (10.29)
+sevenk has the dealer button
+murrr posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3d 5s]
+bridges48 folds
+sevenk folds
+murrr folds
+keepfloppin refunded 0.05
+keepfloppin wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39409757-473 - 2015-02-01 00:46:45
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (11.07)
+Seat 2: hoopaholik91 (16.59)
+Seat 3: murrr (10.20)
+Seat 5: keepfloppin (36.15)
+Seat 6: bridges48 (10.29)
+murrr has the dealer button
+keepfloppin posts small blind 0.05
+bridges48 posts big blind 0.10
+hoopaholik91 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5d 2s]
+sevenk folds
+hoopaholik91 checks
+murrr folds
+keepfloppin calls 0.05
+bridges48 checks
+** Flop ** [Ac 8s 3s]
+keepfloppin checks
+bridges48 checks
+hoopaholik91 bets 0.20
+keepfloppin folds
+bridges48 folds
+hoopaholik91 refunded 0.20
+hoopaholik91 wins Pot (0.30)
+Rake (0)
+
+
+
+Hand #39409804-474 - 2015-02-01 00:48:04
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (11.07)
+Seat 2: hoopaholik91 (16.79)
+Seat 3: murrr (10.20)
+Seat 5: keepfloppin (36.05)
+Seat 6: bridges48 (10.19)
+keepfloppin has the dealer button
+bridges48 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Td Ad]
+hoopaholik91 raises to 0.30
+murrr folds
+keepfloppin raises to 1
+bridges48 folds
+sevenk folds
+hoopaholik91 folds
+keepfloppin refunded 0.70
+keepfloppin wins Pot (0.75)
+Rake (0)
+
+
+
+Hand #39409830-475 - 2015-02-01 00:48:36
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.97)
+Seat 2: hoopaholik91 (16.49)
+Seat 3: murrr (10.20)
+Seat 5: keepfloppin (36.50)
+Seat 6: bridges48 (10.14)
+bridges48 has the dealer button
+sevenk posts small blind 0.05
+hoopaholik91 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4c Ks]
+murrr folds
+keepfloppin folds
+bridges48 folds
+sevenk calls 0.05
+hoopaholik91 checks
+** Flop ** [7c 9c Ah]
+sevenk checks
+hoopaholik91 checks
+** Turn ** [Qh]
+sevenk checks
+hoopaholik91 bets 0.10
+sevenk calls 0.10
+** River ** [Js]
+sevenk checks
+hoopaholik91 bets 0.20
+sevenk folds
+hoopaholik91 refunded 0.20
+hoopaholik91 wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #39409895-476 - 2015-02-01 00:50:05
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.77)
+Seat 2: hoopaholik91 (16.68)
+Seat 3: murrr (10.20)
+Seat 5: keepfloppin (36.50)
+Seat 6: bridges48 (10.14)
+sevenk has the dealer button
+hoopaholik91 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qh 6h]
+keepfloppin folds
+bridges48 folds
+sevenk raises to 0.25
+hoopaholik91 calls 0.20
+murrr folds
+** Flop ** [Qd Kc 5c]
+hoopaholik91 checks
+sevenk bets 0.30
+hoopaholik91 folds
+sevenk refunded 0.30
+sevenk wins Pot (0.59)
+Rake (0.01)
+
+
+
+Hand #39409942-477 - 2015-02-01 00:51:15
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (11.11)
+Seat 2: hoopaholik91 (16.43)
+Seat 3: murrr (10.10)
+Seat 5: keepfloppin (36.50)
+Seat 6: bridges48 (10.14)
+hoopaholik91 has the dealer button
+murrr posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc Kh]
+bridges48 folds
+sevenk raises to 0.30
+hoopaholik91 folds
+murrr folds
+keepfloppin folds
+sevenk refunded 0.20
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39409958-478 - 2015-02-01 00:51:39
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (11.26)
+Seat 2: hoopaholik91 (16.43)
+Seat 3: murrr (10.05)
+Seat 4: isskewl (10)
+Seat 5: keepfloppin (36.40)
+Seat 6: bridges48 (10.14)
+murrr has the dealer button
+keepfloppin posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ks 5d]
+sevenk folds
+hoopaholik91 folds
+murrr folds
+keepfloppin folds
+bridges48 refunded 0.05
+bridges48 wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39409974-479 - 2015-02-01 00:52:01
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (11.26)
+Seat 2: hoopaholik91 (16.43)
+Seat 3: murrr (10.05)
+Seat 4: isskewl (10)
+Seat 5: keepfloppin (36.35)
+Seat 6: bridges48 (10.19)
+keepfloppin has the dealer button
+bridges48 posts small blind 0.05
+sevenk posts big blind 0.10
+isskewl posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8h Ad]
+hoopaholik91 folds
+murrr folds
+isskewl checks
+keepfloppin folds
+bridges48 folds
+sevenk checks
+** Flop ** [6s 5c 6d]
+sevenk checks
+isskewl bets 0.25
+sevenk calls 0.25
+** Turn ** [4s]
+sevenk checks
+isskewl bets 1.10
+sevenk folds
+isskewl refunded 1.10
+isskewl wins Pot (0.74)
+Rake (0.01)
+
+
+
+Hand #39410025-480 - 2015-02-01 00:53:00
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.91)
+Seat 2: hoopaholik91 (16.43)
+Seat 3: murrr (10.05)
+Seat 4: isskewl (10.39)
+Seat 5: keepfloppin (36.35)
+Seat 6: bridges48 (10.14)
+bridges48 has the dealer button
+sevenk posts small blind 0.05
+hoopaholik91 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9d 7h]
+murrr folds
+isskewl calls 0.10
+keepfloppin folds
+bridges48 raises to 0.30
+sevenk folds
+hoopaholik91 folds
+isskewl calls 0.20
+** Flop ** [4d Jc 2h]
+isskewl checks
+bridges48 bets 0.60
+isskewl folds
+bridges48 refunded 0.60
+bridges48 wins Pot (0.74)
+Rake (0.01)
+
+
+
+Hand #39410061-481 - 2015-02-01 00:53:46
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.86)
+Seat 2: hoopaholik91 (16.33)
+Seat 3: murrr (10.05)
+Seat 4: isskewl (10.09)
+Seat 5: keepfloppin (36.35)
+Seat 6: bridges48 (10.58)
+sevenk has the dealer button
+hoopaholik91 posts small blind 0.05
+murrr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4h Jd]
+isskewl calls 0.10
+keepfloppin folds
+bridges48 folds
+sevenk folds
+hoopaholik91 folds
+murrr checks
+** Flop ** [Ah 4s Ts]
+murrr checks
+isskewl bets 0.19
+murrr folds
+isskewl refunded 0.19
+murrr adds 0.05 chips
+isskewl wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #39410091-482 - 2015-02-01 00:54:28
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.86)
+Seat 2: hoopaholik91 (16.28)
+Seat 3: murrr (10)
+Seat 4: isskewl (10.24)
+Seat 5: keepfloppin (36.35)
+Seat 6: bridges48 (10.58)
+hoopaholik91 has the dealer button
+murrr posts small blind 0.05
+isskewl posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3s Ac]
+keepfloppin raises to 0.30
+bridges48 folds
+sevenk folds
+hoopaholik91 folds
+murrr calls 0.25
+isskewl calls 0.20
+** Flop ** [8s 3h 2s]
+murrr checks
+isskewl checks
+keepfloppin bets 0.75
+murrr folds
+murrr adds 0.30 chips
+isskewl folds
+keepfloppin refunded 0.75
+keepfloppin wins Pot (0.88)
+Rake (0.02)
+
+
+
+Hand #39410126-483 - 2015-02-01 00:55:19
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.86)
+Seat 2: hoopaholik91 (16.28)
+Seat 3: murrr (10)
+Seat 4: isskewl (9.94)
+Seat 5: keepfloppin (36.93)
+Seat 6: bridges48 (10.58)
+murrr has the dealer button
+isskewl posts small blind 0.05
+keepfloppin posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qd 4d]
+bridges48 folds
+sevenk folds
+hoopaholik91 folds
+murrr folds
+isskewl folds
+keepfloppin refunded 0.05
+keepfloppin wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #39410138-484 - 2015-02-01 00:55:35
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #8
+Seat 1: sevenk (10.86)
+Seat 2: hoopaholik91 (16.28)
+Seat 3: murrr (10)
+Seat 4: isskewl (9.89)
+Seat 5: keepfloppin (36.98)
+Seat 6: bridges48 (10.58)
+isskewl has the dealer button
+keepfloppin posts small blind 0.05
+bridges48 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Kd 5c]
+sevenk folds
+hoopaholik91 raises to 0.30
+murrr folds
+isskewl folds
+keepfloppin folds
+bridges48 folds
+hoopaholik91 refunded 0.20
+hoopaholik91 wins Pot (0.25)
+Rake (0)

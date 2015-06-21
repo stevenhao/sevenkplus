@@ -1,0 +1,453 @@
+Hand #38622215-108 - 2015-01-18 01:34:09
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: godchosen (3.80)
+Seat 2: corpsefly12 (0) - sitting out
+Seat 3: Fig (16.69)
+Seat 4: grnqrtr (9.50)
+Seat 5: sevenk (10) - waiting for big blind
+Seat 6: wsZWmd9SLxv (10)
+wsZWmd9SLxv has the dealer button
+godchosen posts small blind 0.05
+Fig posts big blind 0.10
+** Hole Cards **
+grnqrtr folds
+wsZWmd9SLxv folds
+godchosen raises to 0.20
+Fig calls 0.10
+** Flop ** [5d 6s 4h]
+godchosen bets 0.20
+Fig folds
+godchosen refunded 0.20
+godchosen wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38622257-109 - 2015-01-18 01:34:59
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: godchosen (3.99)
+Seat 3: Fig (16.49)
+Seat 4: grnqrtr (9.50)
+Seat 5: sevenk (10) - waiting for big blind
+Seat 6: wsZWmd9SLxv (10)
+godchosen has the dealer button
+Fig posts small blind 0.05
+grnqrtr posts big blind 0.10
+** Hole Cards **
+wsZWmd9SLxv raises to 0.30
+godchosen folds
+Fig folds
+grnqrtr folds
+wsZWmd9SLxv refunded 0.20
+wsZWmd9SLxv wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38622282-110 - 2015-01-18 01:35:25
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: godchosen (3.99)
+Seat 3: Fig (16.44)
+Seat 4: grnqrtr (9.40)
+Seat 5: sevenk (10) - waiting for big blind
+Seat 6: wsZWmd9SLxv (10.15)
+Fig has the dealer button
+grnqrtr posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc 7d]
+wsZWmd9SLxv folds
+godchosen folds
+Fig folds
+grnqrtr calls 0.05
+sevenk checks
+** Flop ** [3d 4c 8c]
+grnqrtr checks
+sevenk checks
+** Turn ** [3h]
+grnqrtr bets 0.20
+sevenk folds
+grnqrtr refunded 0.20
+grnqrtr wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #38622317-111 - 2015-01-18 01:36:04
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: godchosen (3.99)
+Seat 3: Fig (16.44)
+Seat 4: grnqrtr (9.50)
+Seat 5: sevenk (9.90)
+Seat 6: wsZWmd9SLxv (10.15)
+grnqrtr has the dealer button
+sevenk posts small blind 0.05
+wsZWmd9SLxv posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Td 6d]
+godchosen folds
+Fig calls 0.10
+grnqrtr calls 0.10
+sevenk calls 0.05
+wsZWmd9SLxv checks
+** Flop ** [Ks 7s 5c]
+sevenk checks
+wsZWmd9SLxv checks
+Fig checks
+grnqrtr checks
+** Turn ** [3s]
+sevenk checks
+wsZWmd9SLxv checks
+Fig checks
+grnqrtr bets 0.40
+sevenk folds
+wsZWmd9SLxv folds
+Fig folds
+grnqrtr refunded 0.40
+grnqrtr wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38622371-112 - 2015-01-18 01:37:12
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: godchosen (3.99)
+Seat 3: Fig (16.34)
+Seat 4: grnqrtr (9.79)
+Seat 5: sevenk (9.80)
+Seat 6: wsZWmd9SLxv (10.05)
+sevenk has the dealer button
+wsZWmd9SLxv posts small blind 0.05
+godchosen posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2s 5d]
+Fig folds
+grnqrtr calls 0.10
+sevenk folds
+wsZWmd9SLxv calls 0.05
+godchosen checks
+** Flop ** [7d 4s Td]
+wsZWmd9SLxv checks
+godchosen bets 0.20
+grnqrtr calls 0.20
+wsZWmd9SLxv calls 0.20
+** Turn ** [Ac]
+wsZWmd9SLxv checks
+godchosen checks
+grnqrtr bets 0.30
+wsZWmd9SLxv folds
+wsZWmd9SLxv adds 0.25 chips
+godchosen folds
+grnqrtr refunded 0.30
+grnqrtr wins Pot (0.88)
+Rake (0.02)
+
+
+
+Hand #38622446-113 - 2015-01-18 01:38:38
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: godchosen (3.69)
+Seat 2: conebone69 (4)
+Seat 3: Fig (16.34)
+Seat 4: grnqrtr (10.37)
+Seat 5: sevenk (9.80)
+Seat 6: wsZWmd9SLxv (10)
+wsZWmd9SLxv has the dealer button
+godchosen posts small blind 0.05
+conebone69 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c 7s]
+Fig calls 0.10
+grnqrtr calls 0.10
+sevenk calls 0.10
+wsZWmd9SLxv folds
+godchosen calls 0.05
+conebone69 checks
+** Flop ** [2d 9h 3s]
+godchosen checks
+conebone69 checks
+Fig checks
+grnqrtr bets 0.30
+sevenk calls 0.30
+godchosen folds
+conebone69 folds
+Fig folds
+** Turn ** [3h]
+grnqrtr checks
+sevenk checks
+** River ** [As]
+grnqrtr bets 0.50
+sevenk calls 0.50
+** Pot Show Down ** [2d 9h 3s 3h As]
+grnqrtr shows [Ad Js] (Two Pair, Aces and Threes +J)
+sevenk shows [9c 7s] (Two Pair, Nines and Threes +A)
+grnqrtr wins Pot (2.05) with Two Pair
+Rake (0.05)
+
+
+
+Hand #38622531-114 - 2015-01-18 01:40:17
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: godchosen (3.59)
+Seat 2: conebone69 (3.90)
+Seat 3: Fig (16.24)
+Seat 4: grnqrtr (11.52)
+Seat 5: sevenk (8.90)
+Seat 6: wsZWmd9SLxv (10)
+godchosen has the dealer button
+conebone69 posts small blind 0.05
+Fig posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3d Td]
+grnqrtr calls 0.10
+sevenk folds
+wsZWmd9SLxv folds
+godchosen folds
+conebone69 raises to 0.20
+Fig calls 0.10
+grnqrtr calls 0.10
+** Flop ** [Kd Ts Jc]
+conebone69 bets 0.41
+Fig folds
+grnqrtr folds
+conebone69 refunded 0.41
+conebone69 wins Pot (0.59)
+Rake (0.01)
+
+
+
+Hand #38622585-115 - 2015-01-18 01:41:18
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 2: conebone69 (4.29)
+Seat 3: Fig (16.04)
+Seat 4: grnqrtr (11.32)
+Seat 5: sevenk (8.90)
+Seat 6: wsZWmd9SLxv (10)
+conebone69 has the dealer button
+Fig posts small blind 0.05
+grnqrtr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [4c 9h]
+sevenk folds
+wsZWmd9SLxv folds
+conebone69 raises to 0.30
+Fig folds
+grnqrtr calls 0.20
+** Flop ** [Ad Ts Js]
+grnqrtr checks
+conebone69 bets 0.20
+grnqrtr calls 0.20
+** Turn ** [6s]
+grnqrtr checks
+conebone69 bets 0.51
+grnqrtr folds
+conebone69 refunded 0.51
+conebone69 wins Pot (1.03)
+Rake (0.02)
+
+
+
+Hand #38622633-116 - 2015-01-18 01:42:21
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: blunderdog82 (10) - waiting for big blind
+Seat 2: conebone69 (4.82)
+Seat 3: Fig (15.99)
+Seat 4: grnqrtr (10.82)
+Seat 5: sevenk (8.90)
+Seat 6: wsZWmd9SLxv (10)
+Fig has the dealer button
+grnqrtr posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6h Jc]
+wsZWmd9SLxv folds
+conebone69 calls 0.10
+Fig folds
+grnqrtr calls 0.05
+sevenk checks
+** Flop ** [Th 3c 9h]
+grnqrtr bets 0.30
+sevenk folds
+conebone69 calls 0.30
+** Turn ** [Ah]
+grnqrtr bets 0.40
+conebone69 calls 0.40
+** River ** [Kh]
+grnqrtr checks
+conebone69 bets 1.30
+grnqrtr folds
+conebone69 refunded 1.30
+conebone69 wins Pot (1.66)
+Rake (0.04)
+
+
+
+Hand #38622712-117 - 2015-01-18 01:43:46
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: blunderdog82 (10) - waiting for big blind
+Seat 2: conebone69 (5.68)
+Seat 3: Fig (15.99)
+Seat 4: grnqrtr (10.02)
+Seat 5: sevenk (8.80)
+Seat 6: wsZWmd9SLxv (10)
+grnqrtr has the dealer button
+sevenk posts small blind 0.05
+wsZWmd9SLxv posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6h Td]
+conebone69 calls 0.10
+Fig calls 0.10
+grnqrtr calls 0.10
+sevenk folds
+wsZWmd9SLxv checks
+** Flop ** [6c 3c 9d]
+wsZWmd9SLxv checks
+conebone69 checks
+Fig bets 0.20
+grnqrtr folds
+wsZWmd9SLxv folds
+wsZWmd9SLxv adds 0.10 chips
+conebone69 folds
+Fig refunded 0.20
+Fig wins Pot (0.44)
+Rake (0.01)
+
+
+
+Hand #38622757-118 - 2015-01-18 01:44:44
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: blunderdog82 (10) - waiting for big blind
+Seat 2: conebone69 (5.58)
+Seat 3: Fig (16.33)
+Seat 4: grnqrtr (9.92)
+Seat 5: sevenk (8.75)
+Seat 6: wsZWmd9SLxv (10)
+sevenk has the dealer button
+wsZWmd9SLxv posts small blind 0.05
+blunderdog82 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ks Qd]
+conebone69 raises to 0.52
+Fig folds
+grnqrtr calls 0.52
+sevenk calls 0.52
+wsZWmd9SLxv folds
+wsZWmd9SLxv adds 0.05 chips
+blunderdog82 folds
+** Flop ** [Jd 2s 3c]
+conebone69 bets 0.80
+grnqrtr calls 0.80
+sevenk folds
+** Turn ** [7s]
+conebone69 checks
+grnqrtr checks
+** River ** [4h]
+conebone69 checks
+grnqrtr bets 0.40
+conebone69 calls 0.40
+** Pot Show Down ** [Jd 2s 3c 7s 4h]
+conebone69 shows [8s As] (High Card Ace +J874)
+grnqrtr shows [3d Ad] (a Pair of Threes +AJ7)
+grnqrtr wins Pot (4.01) with a Pair
+Rake (0.10)
+
+
+
+Hand #38622839-119 - 2015-01-18 01:46:01
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: blunderdog82 (9.90)
+Seat 2: conebone69 (3.86)
+Seat 3: Fig (16.33)
+Seat 4: grnqrtr (12.21)
+Seat 5: sevenk (8.23)
+Seat 6: wsZWmd9SLxv (10)
+wsZWmd9SLxv has the dealer button
+blunderdog82 posts small blind 0.05
+conebone69 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c 2c]
+Fig folds
+grnqrtr calls 0.10
+sevenk folds
+wsZWmd9SLxv calls 0.10
+blunderdog82 folds
+conebone69 checks
+** Flop ** [8d 3c Kh]
+conebone69 checks
+grnqrtr checks
+wsZWmd9SLxv checks
+** Turn ** [Kd]
+conebone69 checks
+grnqrtr checks
+wsZWmd9SLxv checks
+** River ** [3h]
+conebone69 checks
+grnqrtr checks
+wsZWmd9SLxv checks
+** Pot Show Down ** [8d 3c Kh Kd 3h]
+conebone69 shows [7d Js] (Two Pair, Kings and Threes +J)
+grnqrtr shows [6s Ts] (Two Pair, Kings and Threes +T)
+wsZWmd9SLxv shows [7c Qh] (Two Pair, Kings and Threes +Q)
+wsZWmd9SLxv wins Pot (0.35) with Two Pair
+Rake (0)
+
+
+
+Hand #38622899-120 - 2015-01-18 01:47:04
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: blunderdog82 (9.85)
+Seat 3: Fig (16.33)
+Seat 4: grnqrtr (12.11)
+Seat 5: sevenk (8.23)
+Seat 6: wsZWmd9SLxv (10.25)
+blunderdog82 has the dealer button
+Fig posts small blind 0.05
+grnqrtr posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9d 2h]
+sevenk folds
+wsZWmd9SLxv folds
+blunderdog82 folds
+Fig raises to 0.20
+grnqrtr calls 0.10
+** Flop ** [Ts 9h Jd]
+Fig bets 0.50
+grnqrtr calls 0.50
+** Turn ** [Qc]
+Fig checks
+grnqrtr bets 0.40
+Fig calls 0.40
+** River ** [Th]
+Fig bets 0.10
+grnqrtr calls 0.10
+** Pot Show Down ** [Ts 9h Jd Qc Th]
+Fig shows [As Ad] (Two Pair, Aces and Tens +Q)
+grnqrtr shows [Js 5c] (Two Pair, Jacks and Tens +Q)
+Fig wins Pot (2.34) with Two Pair
+Rake (0.06)

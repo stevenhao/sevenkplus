@@ -1,0 +1,885 @@
+Hand #38452456-947 - 2015-01-15 00:44:24
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (44.70)
+Seat 2: btcpokerfund (22.81)
+Seat 3: crackrock (10.23)
+Seat 4: david513 (13.92)
+Seat 5: agpgodbot (3.87)
+Seat 6: sevenk (10) - waiting for big blind
+crackrock has the dealer button
+david513 posts small blind 0.05
+agpgodbot posts big blind 0.10
+** Hole Cards **
+amigo009 folds
+btcpokerfund folds
+crackrock folds
+david513 folds
+agpgodbot refunded 0.05
+agpgodbot wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38452474-948 - 2015-01-15 00:44:45
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (44.70)
+Seat 2: btcpokerfund (22.81)
+Seat 3: crackrock (10.23)
+Seat 4: david513 (13.87)
+Seat 5: agpgodbot (3.92)
+Seat 6: sevenk (10) - waiting for big blind
+david513 has the dealer button
+agpgodbot posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qd 3h]
+amigo009 folds
+btcpokerfund folds
+crackrock folds
+david513 folds
+agpgodbot folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38452496-949 - 2015-01-15 00:45:06
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (44.70)
+Seat 2: btcpokerfund (22.81)
+Seat 3: crackrock (10.23)
+Seat 4: david513 (13.87)
+Seat 5: agpgodbot (3.87)
+Seat 6: sevenk (10.05)
+agpgodbot has the dealer button
+sevenk posts small blind 0.05
+amigo009 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8s 5s]
+btcpokerfund folds
+crackrock folds
+david513 folds
+agpgodbot raises to 0.30
+sevenk folds
+amigo009 calls 0.20
+** Flop ** [2c 7d Jd]
+amigo009 checks
+agpgodbot bets 0.50
+amigo009 calls 0.50
+** Turn ** [2s]
+amigo009 checks
+agpgodbot bets 0.90
+amigo009 calls 0.90
+** River ** [7c]
+amigo009 checks
+agpgodbot checks
+** Pot Show Down ** [2c 7d Jd 2s 7c]
+amigo009 shows [3d Td] (Two Pair, Sevens and Deuces +J)
+agpgodbot shows [Jh Qc] (Two Pair, Jacks and Sevens +Q)
+agpgodbot wins Pot (3.37) with Two Pair
+Rake (0.08)
+
+
+
+Hand #38452555-950 - 2015-01-15 00:46:07
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (43)
+Seat 2: btcpokerfund (22.81)
+Seat 3: crackrock (10.23)
+Seat 4: david513 (13.87)
+Seat 5: agpgodbot (5.54)
+Seat 6: sevenk (10)
+sevenk has the dealer button
+amigo009 posts small blind 0.05
+btcpokerfund posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6c Ad]
+crackrock folds
+david513 calls 0.10
+agpgodbot folds
+sevenk raises to 0.35
+amigo009 folds
+btcpokerfund folds
+david513 calls 0.25
+** Flop ** [5s Ks Jd]
+david513 checks
+sevenk bets 0.50
+david513 calls 0.50
+** Turn ** [9s]
+david513 bets 1.10
+sevenk folds
+david513 refunded 1.10
+david513 wins Pot (1.81)
+Rake (0.04)
+
+
+
+Hand #38452615-951 - 2015-01-15 00:47:09
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (42.95)
+Seat 2: btcpokerfund (22.71)
+Seat 3: crackrock (10.23)
+Seat 4: david513 (14.83)
+Seat 5: agpgodbot (5.54)
+Seat 6: sevenk (9.15)
+amigo009 has the dealer button
+btcpokerfund posts small blind 0.05
+crackrock posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qh Kh]
+david513 calls 0.10
+agpgodbot folds
+sevenk raises to 0.40
+amigo009 folds
+btcpokerfund folds
+crackrock folds
+david513 calls 0.30
+** Flop ** [Js Qc 2h]
+david513 bets 1.10
+sevenk calls 1.10
+** Turn ** [9s]
+david513 bets 3.10
+sevenk calls 3.10
+** River ** [8s]
+david513 bets 9.10
+sevenk calls 4.55 (All-in)
+david513 refunded 4.55
+** Pot Show Down ** [Js Qc 2h 9s 8s]
+david513 shows [Ac Jc] (a Pair of Jacks +AQ9)
+sevenk shows [Qh Kh] (a Pair of Queens +KJ9)
+sevenk wins Pot (17.99) with a Pair
+Rake (0.46)
+
+
+
+Hand #38452742-952 - 2015-01-15 00:49:42
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (42.95)
+Seat 2: btcpokerfund (22.66)
+Seat 3: crackrock (10.13)
+Seat 4: david513 (5.68)
+Seat 5: agpgodbot (5.54)
+Seat 6: sevenk (17.99)
+btcpokerfund has the dealer button
+crackrock posts small blind 0.05
+david513 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2c Tc]
+agpgodbot folds
+sevenk folds
+amigo009 folds
+btcpokerfund folds
+crackrock calls 0.05
+david513 checks
+** Flop ** [As 6c 2s]
+crackrock bets 0.20
+david513 calls 0.20
+** Turn ** [7s]
+crackrock bets 0.30
+david513 calls 0.30
+** River ** [Td]
+crackrock checks
+david513 checks
+** Pot Show Down ** [As 6c 2s 7s Td]
+crackrock shows [9h Ac] (a Pair of Aces +T97)
+david513 shows [5c 4d] (High Card Ace +T765)
+crackrock wins Pot (1.17) with a Pair
+Rake (0.03)
+
+
+
+Hand #38452786-953 - 2015-01-15 00:50:38
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (42.95)
+Seat 2: btcpokerfund (22.66)
+Seat 3: crackrock (10.70)
+Seat 4: david513 (5.08)
+Seat 5: agpgodbot (5.54)
+Seat 6: sevenk (17.99)
+crackrock has the dealer button
+david513 posts small blind 0.05
+agpgodbot posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2c 8h]
+sevenk folds
+amigo009 calls 0.10
+btcpokerfund folds
+crackrock folds
+david513 calls 0.05
+agpgodbot checks
+** Flop ** [Th 2d 7h]
+david513 checks
+agpgodbot checks
+amigo009 checks
+** Turn ** [3d]
+david513 checks
+agpgodbot checks
+amigo009 checks
+** River ** [3h]
+david513 bets 0.10
+agpgodbot folds
+amigo009 calls 0.10
+** Pot Show Down ** [Th 2d 7h 3d 3h]
+amigo009 shows [9s Ad] (a Pair of Threes +AT9)
+david513 shows [Ts 8d] (Two Pair, Tens and Threes +8)
+david513 wins Pot (0.49) with Two Pair
+Rake (0.01)
+
+
+
+Hand #38452828-954 - 2015-01-15 00:51:35
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (42.75)
+Seat 2: btcpokerfund (22.66)
+Seat 4: david513 (5.37)
+Seat 5: agpgodbot (5.44)
+Seat 6: sevenk (17.99)
+david513 has the dealer button
+agpgodbot posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2h Ks]
+amigo009 folds
+btcpokerfund folds
+david513 folds
+agpgodbot folds
+sevenk refunded 0.05
+sevenk wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38452843-955 - 2015-01-15 00:51:52
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (42.75)
+Seat 2: btcpokerfund (22.66)
+Seat 4: david513 (5.37)
+Seat 5: agpgodbot (5.39)
+Seat 6: sevenk (18.04)
+agpgodbot has the dealer button
+sevenk posts small blind 0.05
+amigo009 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jd Qd]
+btcpokerfund folds
+david513 calls 0.10
+agpgodbot calls 0.10
+sevenk raises to 0.45
+amigo009 folds
+david513 calls 0.35
+agpgodbot calls 0.35
+** Flop ** [2s Ad Ac]
+sevenk bets 0.70
+david513 folds
+agpgodbot folds
+sevenk refunded 0.70
+sevenk wins Pot (1.42)
+Rake (0.03)
+
+
+
+Hand #38452890-956 - 2015-01-15 00:52:57
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (42.65)
+Seat 2: btcpokerfund (22.66)
+Seat 4: david513 (4.92)
+Seat 5: agpgodbot (4.94)
+Seat 6: sevenk (19.01)
+sevenk has the dealer button
+amigo009 posts small blind 0.05
+btcpokerfund posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Js 2c]
+david513 calls 0.10
+agpgodbot folds
+sevenk calls 0.10
+amigo009 calls 0.05
+btcpokerfund checks
+** Flop ** [6h Jc 4h]
+amigo009 bets 0.20
+btcpokerfund folds
+david513 folds
+sevenk calls 0.20
+** Turn ** [Qc]
+amigo009 bets 0.40
+sevenk folds
+amigo009 refunded 0.40
+amigo009 wins Pot (0.78)
+Rake (0.02)
+
+
+
+Hand #38452926-957 - 2015-01-15 00:53:49
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (43.13)
+Seat 2: btcpokerfund (22.56)
+Seat 4: david513 (4.82)
+Seat 5: agpgodbot (4.94)
+Seat 6: sevenk (18.71)
+amigo009 has the dealer button
+btcpokerfund posts small blind 0.05
+david513 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2h 6d]
+agpgodbot raises to 0.30
+sevenk folds
+amigo009 folds
+btcpokerfund folds
+david513 folds
+agpgodbot refunded 0.20
+agpgodbot wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38452942-958 - 2015-01-15 00:54:11
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (43.13)
+Seat 2: btcpokerfund (22.51)
+Seat 4: david513 (4.72)
+Seat 5: agpgodbot (5.09)
+Seat 6: sevenk (18.71)
+btcpokerfund has the dealer button
+david513 posts small blind 0.05
+agpgodbot posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ks 6h]
+sevenk folds
+amigo009 folds
+btcpokerfund folds
+david513 folds
+agpgodbot refunded 0.05
+agpgodbot wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38452960-959 - 2015-01-15 00:54:32
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (43.13)
+Seat 2: btcpokerfund (22.51)
+Seat 4: david513 (4.67)
+Seat 5: agpgodbot (5.14)
+Seat 6: sevenk (18.71)
+david513 has the dealer button
+agpgodbot posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [As Ah]
+amigo009 folds
+btcpokerfund folds
+david513 folds
+agpgodbot raises to 0.40
+sevenk calls 0.30
+** Flop ** [Kh 2h 8c]
+agpgodbot checks
+sevenk bets 0.40
+agpgodbot calls 0.40
+** Turn ** [7s]
+agpgodbot checks
+sevenk bets 0.80
+agpgodbot folds
+sevenk refunded 0.80
+sevenk wins Pot (1.56)
+Rake (0.04)
+
+
+
+Hand #38453004-960 - 2015-01-15 00:55:32
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (43.13)
+Seat 2: btcpokerfund (22.51)
+Seat 3: Indamuck (10) - waiting for big blind
+Seat 4: david513 (4.67)
+Seat 5: agpgodbot (4.34)
+Seat 6: sevenk (19.47)
+agpgodbot has the dealer button
+sevenk posts small blind 0.05
+amigo009 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7d Jc]
+btcpokerfund folds
+david513 folds
+agpgodbot raises to 0.30
+sevenk folds
+amigo009 calls 0.20
+** Flop ** [5h Qd Ts]
+amigo009 checks
+agpgodbot bets 0.40
+amigo009 calls 0.40
+** Turn ** [Qh]
+amigo009 checks
+agpgodbot checks
+** River ** [Kc]
+amigo009 checks
+agpgodbot checks
+** Pot Show Down ** [5h Qd Ts Qh Kc]
+amigo009 shows [2s As] (a Pair of Queens +AKT)
+agpgodbot shows [Th 8h] (Two Pair, Queens and Tens +K)
+agpgodbot wins Pot (1.42) with Two Pair
+Rake (0.03)
+
+
+
+Hand #38453052-961 - 2015-01-15 00:56:34
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (42.43)
+Seat 2: btcpokerfund (22.51)
+Seat 3: Indamuck (10) - waiting for big blind
+Seat 4: david513 (4.67)
+Seat 5: agpgodbot (5.06)
+Seat 6: sevenk (19.42)
+sevenk has the dealer button
+amigo009 posts small blind 0.05
+btcpokerfund posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5h 5d]
+david513 folds
+agpgodbot folds
+sevenk raises to 0.25
+amigo009 folds
+btcpokerfund folds
+sevenk refunded 0.15
+sevenk wins Pot (0.25)
+Rake (0)
+
+
+
+Hand #38453066-962 - 2015-01-15 00:56:56
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (42.38)
+Seat 2: btcpokerfund (22.41)
+Seat 3: Indamuck (10) - waiting for big blind
+Seat 4: david513 (4.67)
+Seat 5: agpgodbot (5.06)
+Seat 6: sevenk (19.57)
+amigo009 has the dealer button
+btcpokerfund posts small blind 0.05
+Indamuck posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8d 2h]
+david513 folds
+agpgodbot folds
+sevenk folds
+amigo009 folds
+btcpokerfund folds
+Indamuck refunded 0.05
+Indamuck wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38453086-963 - 2015-01-15 00:57:21
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (42.38)
+Seat 2: btcpokerfund (22.36)
+Seat 3: Indamuck (10.05)
+Seat 4: david513 (4.67)
+Seat 5: agpgodbot (5.06)
+Seat 6: sevenk (19.57)
+btcpokerfund has the dealer button
+Indamuck posts small blind 0.05
+david513 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8h 7h]
+agpgodbot folds
+sevenk raises to 0.30
+amigo009 calls 0.30
+btcpokerfund folds
+Indamuck folds
+david513 raises to 1.50
+sevenk folds
+amigo009 folds
+david513 refunded 1.20
+david513 wins Pot (0.95)
+Rake (0)
+david513 shows [Th Tc]
+
+
+
+Hand #38453123-964 - 2015-01-15 00:57:59
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (42.08)
+Seat 2: btcpokerfund (22.36)
+Seat 3: Indamuck (10)
+Seat 4: david513 (5.32)
+Seat 5: agpgodbot (5.06)
+Seat 6: sevenk (19.27)
+Indamuck has the dealer button
+david513 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6c 4s]
+amigo009 calls 0.10
+btcpokerfund calls 0.10
+Indamuck calls 0.10
+david513 calls 0.05
+sevenk checks
+** Flop ** [3c Kd 2h]
+david513 checks
+sevenk checks
+amigo009 checks
+btcpokerfund checks
+Indamuck checks
+** Turn ** [8s]
+david513 bets 0.10
+sevenk calls 0.10
+amigo009 calls 0.10
+btcpokerfund raises to 0.79
+Indamuck folds
+david513 folds
+sevenk folds
+amigo009 raises to 1.48
+btcpokerfund raises to 4.44
+amigo009 raises to 9.20
+btcpokerfund raises to 22.26 (All-in)
+amigo009 calls 13.06
+** River ** [Qc]
+** Pot Show Down ** [3c Kd 2h 8s Qc]
+amigo009 shows [Kc Ks] (Three of a Kind, Kings +Q8)
+btcpokerfund shows [8c 8d] (Three of a Kind, Eights +KQ)
+amigo009 wins Pot (44.72) with Three of a Kind
+Rake (0.50)
+
+
+
+Hand #38453219-965 - 2015-01-15 01:00:23
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (64.44)
+Seat 3: Indamuck (9.90)
+Seat 4: david513 (5.12)
+Seat 6: sevenk (19.07)
+david513 has the dealer button
+sevenk posts small blind 0.05
+amigo009 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qs Qc]
+Indamuck calls 0.10
+david513 calls 0.10
+sevenk raises to 0.45
+amigo009 folds
+Indamuck folds
+david513 calls 0.35
+** Flop ** [3h 5s 2d]
+sevenk checks
+david513 bets 0.54
+sevenk calls 0.54
+** Turn ** [As]
+sevenk checks
+david513 bets 1.10
+sevenk calls 1.10
+** River ** [8d]
+sevenk checks
+david513 checks
+** Pot Show Down ** [3h 5s 2d As 8d]
+david513 shows [7d Ac] (a Pair of Aces +875)
+sevenk shows [Qs Qc] (a Pair of Queens +A85)
+david513 wins Pot (4.28) with a Pair
+Rake (0.10)
+
+
+
+Hand #38453289-966 - 2015-01-15 01:01:57
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (64.34)
+Seat 2: SteveZ (10)
+Seat 3: Indamuck (9.80)
+Seat 4: david513 (7.31)
+Seat 6: sevenk (16.98)
+sevenk has the dealer button
+amigo009 posts small blind 0.05
+SteveZ posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [8d 3c]
+Indamuck raises to 0.30
+david513 calls 0.30
+sevenk folds
+amigo009 folds
+SteveZ calls 0.20
+** Flop ** [7d 4d 9c]
+SteveZ checks
+Indamuck checks
+david513 bets 1.10
+SteveZ raises to 2.20
+Indamuck folds
+david513 raises to 7.01 (All-in)
+SteveZ folds
+david513 refunded 4.81
+david513 wins Pot (5.22)
+Rake (0.13)
+david513 shows [Ks Kh]
+
+
+
+Hand #38453330-967 - 2015-01-15 01:02:52
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (64.29)
+Seat 2: SteveZ (7.50)
+Seat 3: Indamuck (9.50)
+Seat 4: david513 (10.03)
+Seat 6: sevenk (16.98)
+amigo009 has the dealer button
+SteveZ posts small blind 0.05
+Indamuck posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Tc Js]
+david513 folds
+sevenk raises to 0.30
+amigo009 folds
+SteveZ folds
+Indamuck calls 0.20
+** Flop ** [Ah 9s 8h]
+Indamuck checks
+sevenk bets 0.40
+Indamuck folds
+sevenk refunded 0.40
+sevenk wins Pot (0.64)
+Rake (0.01)
+
+
+
+Hand #38453354-968 - 2015-01-15 01:03:27
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (64.29)
+Seat 2: SteveZ (7.45)
+Seat 3: Indamuck (9.20)
+Seat 4: david513 (10.03)
+Seat 6: sevenk (17.32)
+SteveZ has the dealer button
+Indamuck posts small blind 0.05
+david513 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Th 3c]
+sevenk folds
+amigo009 folds
+SteveZ calls 0.10
+Indamuck calls 0.05
+david513 checks
+** Flop ** [Qd 4c 2h]
+Indamuck checks
+david513 bets 0.30
+SteveZ folds
+Indamuck calls 0.30
+** Turn ** [Qh]
+Indamuck checks
+david513 bets 1.10
+Indamuck folds
+david513 refunded 1.10
+david513 wins Pot (0.88)
+Rake (0.02)
+david513 shows [Qc Jh]
+
+
+
+Hand #38453402-969 - 2015-01-15 01:04:28
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (64.29)
+Seat 2: SteveZ (7.35)
+Seat 3: Indamuck (8.80)
+Seat 4: david513 (10.51)
+Seat 5: sevenk (17.32)
+Indamuck has the dealer button
+david513 posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2d 6s]
+amigo009 folds
+SteveZ raises to 0.40
+Indamuck calls 0.40
+david513 folds
+sevenk folds
+** Flop ** [Qc Kc Ac]
+SteveZ bets 0.48
+Indamuck calls 0.48
+** Turn ** [Td]
+SteveZ checks
+Indamuck bets 2.10
+SteveZ folds
+Indamuck refunded 2.10
+Indamuck wins Pot (1.87)
+Rake (0.04)
+SteveZ adds 3.53 chips
+
+
+
+Hand #38453449-970 - 2015-01-15 01:05:34
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (64.29)
+Seat 2: SteveZ (10)
+Seat 3: Indamuck (9.79)
+Seat 4: david513 (10.46)
+Seat 5: sevenk (17.22)
+Seat 6: compsix (10) - waiting for big blind
+david513 has the dealer button
+sevenk posts small blind 0.05
+compsix posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Jd Jh]
+amigo009 folds
+SteveZ folds
+Indamuck raises to 0.30
+david513 calls 0.30
+sevenk raises to 1.20
+compsix folds
+Indamuck folds
+david513 calls 0.90
+** Flop ** [As Jc 5s]
+sevenk checks
+david513 bets 3.10
+sevenk calls 3.10
+** Turn ** [5c]
+sevenk checks
+david513 bets 6.10
+sevenk calls 6.10
+** River ** [8d]
+sevenk bets 0.10
+david513 calls 0.06 (All-in)
+sevenk refunded 0.04
+** Pot Show Down ** [As Jc 5s 5c 8d]
+david513 shows [9h Kd] (a Pair of Fives +AKJ)
+sevenk shows [Jd Jh] (a Full House, Jacks full of Fives)
+sevenk wins Pot (20.82) with a Full House
+Rake (0.50)
+
+
+
+Hand #38453549-971 - 2015-01-15 01:07:43
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (64.29)
+Seat 2: SteveZ (10)
+Seat 3: Indamuck (9.49)
+Seat 5: sevenk (27.58)
+Seat 6: compsix (9.90)
+sevenk has the dealer button
+compsix posts small blind 0.05
+amigo009 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [5c Qc]
+SteveZ folds
+Indamuck calls 0.10
+sevenk calls 0.10
+compsix folds
+amigo009 checks
+** Flop ** [Jh 7h 9d]
+amigo009 bets 0.50
+Indamuck folds
+sevenk folds
+amigo009 refunded 0.50
+amigo009 wins Pot (0.35)
+Rake (0)
+
+
+
+Hand #38453587-972 - 2015-01-15 01:08:32
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (64.54)
+Seat 2: SteveZ (10)
+Seat 3: Indamuck (9.39)
+Seat 5: sevenk (27.48)
+Seat 6: compsix (9.85)
+compsix has the dealer button
+amigo009 posts small blind 0.05
+SteveZ posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3h Qc]
+Indamuck folds
+sevenk folds
+compsix folds
+amigo009 folds
+SteveZ refunded 0.05
+SteveZ wins Pot (0.10)
+Rake (0)
+
+
+
+Hand #38453605-973 - 2015-01-15 01:09:00
+Game: NL Hold'em (2 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6max .05/.10 #1
+Seat 1: amigo009 (64.49)
+Seat 2: SteveZ (10.05)
+Seat 3: Indamuck (9.39)
+Seat 5: sevenk (27.48)
+Seat 6: compsix (9.85)
+amigo009 has the dealer button
+SteveZ posts small blind 0.05
+Indamuck posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2d 2h]
+sevenk calls 0.10
+compsix folds
+amigo009 raises to 0.20
+SteveZ raises to 0.60
+Indamuck calls 0.50
+sevenk calls 0.50
+amigo009 calls 0.40
+** Flop ** [3s Kc Qc]
+SteveZ checks
+Indamuck bets 1.30
+sevenk folds
+amigo009 folds
+SteveZ calls 1.30
+** Turn ** [3c]
+SteveZ checks
+Indamuck checks
+** River ** [7c]
+SteveZ bets 2.10
+Indamuck calls 2.10
+** Pot Show Down ** [3s Kc Qc 3c 7c]
+SteveZ shows [Js Ad] (a Pair of Threes +AKQ)
+Indamuck shows [Kh 9h] (Two Pair, Kings and Threes +Q)
+Indamuck wins Pot (8.97) with Two Pair
+Rake (0.23)

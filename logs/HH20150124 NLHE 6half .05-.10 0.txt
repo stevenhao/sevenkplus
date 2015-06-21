@@ -1,0 +1,483 @@
+Hand #38994957-493 - 2015-01-24 16:53:08
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (15.55)
+Seat 2: SmallZombie (13.09)
+Seat 3: womcs (26.92)
+Seat 4: SpaceCase (11.90)
+Seat 5: rotter (4.45)
+Seat 6: sevenk (10) - waiting for big blind
+womcs has the dealer button
+SpaceCase posts small blind 0.05
+rotter posts big blind 0.10
+** Hole Cards **
+hoopaholik91 raises to 0.30
+SmallZombie folds
+womcs calls 0.30
+SpaceCase folds
+rotter folds
+** Flop ** [8d 3h Qs]
+hoopaholik91 bets 0.50
+womcs calls 0.50
+** Turn ** [Th]
+hoopaholik91 bets 1
+womcs raises to 2
+hoopaholik91 calls 1
+** River ** [4c]
+hoopaholik91 checks
+womcs bets 6
+hoopaholik91 folds
+womcs refunded 6
+womcs wins Pot (5.61)
+Rake (0.14)
+
+
+
+Hand #38995010-494 - 2015-01-24 16:54:10
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (12.75)
+Seat 2: SmallZombie (13.09)
+Seat 3: womcs (29.73)
+Seat 4: SpaceCase (11.85)
+Seat 5: rotter (4.35)
+Seat 6: sevenk (10) - waiting for big blind
+SpaceCase has the dealer button
+rotter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Qh 5h]
+hoopaholik91 folds
+SmallZombie folds
+womcs calls 0.10
+SpaceCase calls 0.10
+rotter calls 0.05
+sevenk checks
+** Flop ** [2h 9d Ad]
+rotter checks
+sevenk checks
+womcs checks
+SpaceCase bets 0.30
+rotter folds
+sevenk folds
+womcs folds
+SpaceCase refunded 0.30
+SpaceCase wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #38995047-495 - 2015-01-24 16:54:57
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (12.75)
+Seat 2: SmallZombie (13.09)
+Seat 3: womcs (29.63)
+Seat 4: SpaceCase (12.14)
+Seat 5: rotter (4.25)
+Seat 6: sevenk (9.90)
+rotter has the dealer button
+sevenk posts small blind 0.05
+hoopaholik91 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2s As]
+SmallZombie raises to 0.30
+womcs calls 0.30
+SpaceCase folds
+rotter folds
+sevenk folds
+hoopaholik91 calls 0.20
+** Flop ** [Qh 9h Th]
+hoopaholik91 checks
+SmallZombie bets 0.70
+womcs folds
+hoopaholik91 folds
+SmallZombie refunded 0.70
+SmallZombie wins Pot (0.93)
+Rake (0.02)
+
+
+
+Hand #38995082-496 - 2015-01-24 16:55:44
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (12.45)
+Seat 2: SmallZombie (13.72)
+Seat 3: womcs (29.33)
+Seat 4: SpaceCase (12.14)
+Seat 5: rotter (4.25)
+Seat 6: sevenk (9.85)
+sevenk has the dealer button
+hoopaholik91 posts small blind 0.05
+SmallZombie posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [3c 7h]
+womcs calls 0.10
+SpaceCase calls 0.10
+rotter calls 0.10
+sevenk folds
+hoopaholik91 folds
+SmallZombie raises to 0.30
+womcs calls 0.20
+SpaceCase raises to 2
+rotter folds
+SmallZombie folds
+womcs folds
+SpaceCase refunded 1.70
+SpaceCase wins Pot (1.05)
+Rake (0)
+
+
+
+Hand #38995143-497 - 2015-01-24 16:56:56
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (12.40)
+Seat 2: SmallZombie (13.42)
+Seat 3: womcs (29.03)
+Seat 4: SpaceCase (12.89)
+Seat 5: rotter (4.15)
+Seat 6: sevenk (9.85)
+hoopaholik91 has the dealer button
+SmallZombie posts small blind 0.05
+womcs posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ks Jc]
+SpaceCase folds
+rotter calls 0.10
+sevenk raises to 0.40
+hoopaholik91 folds
+SmallZombie raises to 1
+womcs folds
+rotter folds
+sevenk folds
+SmallZombie refunded 0.60
+SmallZombie wins Pot (1)
+Rake (0)
+
+
+
+Hand #38995180-498 - 2015-01-24 16:57:50
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (12.40)
+Seat 2: SmallZombie (14.02)
+Seat 3: womcs (28.93)
+Seat 4: SpaceCase (12.89)
+Seat 5: rotter (4.05)
+Seat 6: sevenk (9.45)
+SmallZombie has the dealer button
+womcs posts small blind 0.05
+SpaceCase posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6d Tc]
+rotter folds
+sevenk folds
+hoopaholik91 folds
+SmallZombie raises to 0.30
+womcs calls 0.25
+SpaceCase calls 0.20
+** Flop ** [3h 9s 8c]
+womcs bets 0.88
+SpaceCase calls 0.88
+SmallZombie calls 0.88
+** Turn ** [4s]
+womcs bets 3.50
+SpaceCase folds
+SmallZombie calls 3.50
+** River ** [Qs]
+womcs bets 6
+SmallZombie raises to 9.34 (All-in)
+womcs calls 3.34
+** Pot Show Down ** [3h 9s 8c 4s Qs]
+SmallZombie shows [Qh Qc] (Three of a Kind, Queens +98)
+womcs shows [8s 3d] (Two Pair, Eights and Threes +Q)
+SmallZombie wins Pot (28.72) with Three of a Kind
+Rake (0.50)
+
+
+
+Hand #38995272-499 - 2015-01-24 16:59:33
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (12.40)
+Seat 2: SmallZombie (28.72)
+Seat 3: womcs (14.91)
+Seat 4: SpaceCase (11.71)
+Seat 5: rotter (4.05)
+Seat 6: sevenk (9.45)
+womcs has the dealer button
+SpaceCase posts small blind 0.05
+rotter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2c Jh]
+sevenk folds
+hoopaholik91 folds
+SmallZombie folds
+womcs calls 0.10
+SpaceCase calls 0.05
+rotter checks
+** Flop ** [Qd Qh Jd]
+SpaceCase checks
+rotter checks
+womcs checks
+** Turn ** [8s]
+SpaceCase checks
+rotter checks
+womcs bets 0.30
+SpaceCase calls 0.30
+rotter folds
+** River ** [Js]
+SpaceCase checks
+womcs checks
+** Pot Show Down ** [Qd Qh Jd 8s Js]
+womcs shows [8h 2s] (Two Pair, Queens and Jacks +8)
+SpaceCase shows [9d 7h] (Two Pair, Queens and Jacks +9)
+SpaceCase wins Pot (0.88) with Two Pair
+Rake (0.02)
+
+
+
+Hand #38995332-500 - 2015-01-24 17:00:35
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (12.40)
+Seat 2: SmallZombie (28.72)
+Seat 3: womcs (14.51)
+Seat 4: SpaceCase (12.19)
+Seat 5: rotter (3.95)
+Seat 6: sevenk (9.45)
+SpaceCase has the dealer button
+rotter posts small blind 0.05
+sevenk posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7h 3d]
+hoopaholik91 folds
+SmallZombie folds
+womcs calls 0.10
+SpaceCase folds
+rotter calls 0.05
+sevenk checks
+** Flop ** [Ts 9s 9d]
+rotter checks
+sevenk checks
+womcs checks
+** Turn ** [4d]
+rotter checks
+sevenk checks
+womcs checks
+** River ** [4c]
+rotter checks
+sevenk checks
+womcs checks
+** Pot Show Down ** [Ts 9s 9d 4d 4c]
+womcs shows [5c Kh] (Two Pair, Nines and Fours +K)
+rotter shows [Ad 3c] (Two Pair, Nines and Fours +A)
+sevenk shows [7h 3d] (Two Pair, Nines and Fours +T)
+rotter wins Pot (0.30) with Two Pair
+Rake (0)
+
+
+
+Hand #38995386-501 - 2015-01-24 17:01:36
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (12.40)
+Seat 2: SmallZombie (28.72)
+Seat 3: womcs (14.41)
+Seat 4: SpaceCase (12.19)
+Seat 5: rotter (4.15)
+Seat 6: sevenk (9.35)
+rotter has the dealer button
+sevenk posts small blind 0.05
+hoopaholik91 posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [6s 6d]
+SmallZombie folds
+womcs calls 0.10
+SpaceCase folds
+rotter folds
+sevenk raises to 0.40
+hoopaholik91 folds
+womcs calls 0.30
+** Flop ** [Ah 2s 4s]
+sevenk bets 0.50
+womcs folds
+sevenk refunded 0.50
+sevenk wins Pot (0.88)
+Rake (0.02)
+
+
+
+Hand #38995436-502 - 2015-01-24 17:02:27
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (12.30)
+Seat 2: SmallZombie (28.72)
+Seat 3: womcs (14.01)
+Seat 4: SpaceCase (12.19)
+Seat 5: rotter (4.15)
+Seat 6: sevenk (9.83)
+sevenk has the dealer button
+hoopaholik91 posts small blind 0.05
+SmallZombie posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [2d 2h]
+womcs calls 0.10
+SpaceCase calls 0.10
+rotter calls 0.10
+sevenk calls 0.10
+hoopaholik91 folds
+SmallZombie checks
+** Flop ** [6c 5c Ts]
+SmallZombie checks
+womcs bets 0.54
+SpaceCase folds
+rotter calls 0.54
+sevenk folds
+SmallZombie folds
+** Turn ** [8c]
+womcs bets 1
+rotter calls 1
+** River ** [Ks]
+womcs checks
+rotter bets 0.70
+womcs calls 0.70
+** Pot Show Down ** [6c 5c Ts 8c Ks]
+womcs shows [Td 3s] (a Pair of Tens +K86)
+rotter shows [4c 3c] (a Flush, Eight high +6543)
+rotter wins Pot (4.91) with a Flush
+Rake (0.12)
+
+
+
+Hand #38995523-503 - 2015-01-24 17:03:53
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (12.25)
+Seat 2: SmallZombie (28.62)
+Seat 3: womcs (11.67)
+Seat 4: SpaceCase (12.09)
+Seat 5: rotter (6.72)
+Seat 6: sevenk (9.73)
+hoopaholik91 has the dealer button
+SmallZombie posts small blind 0.05
+womcs posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [Ah 6c]
+SpaceCase calls 0.10
+rotter folds
+sevenk folds
+hoopaholik91 folds
+SmallZombie folds
+womcs checks
+** Flop ** [3d 2d Qs]
+womcs bets 0.25
+SpaceCase calls 0.25
+** Turn ** [7c]
+womcs checks
+SpaceCase checks
+** River ** [Kh]
+womcs checks
+SpaceCase bets 0.50
+womcs calls 0.50
+** Pot Show Down ** [3d 2d Qs 7c Kh]
+womcs shows [Qd Th] (a Pair of Queens +KT7)
+SpaceCase shows [Ts Ks] (a Pair of Kings +QT7)
+SpaceCase wins Pot (1.71) with a Pair
+Rake (0.04)
+
+
+
+Hand #38995600-504 - 2015-01-24 17:05:14
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (12.25)
+Seat 2: SmallZombie (28.57)
+Seat 3: womcs (10.82)
+Seat 4: SpaceCase (12.95)
+Seat 5: rotter (6.72)
+Seat 6: sevenk (9.73)
+SmallZombie has the dealer button
+womcs posts small blind 0.05
+SpaceCase posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [7h 3h]
+rotter folds
+sevenk folds
+hoopaholik91 raises to 0.30
+SmallZombie folds
+womcs calls 0.25
+SpaceCase folds
+** Flop ** [Kd 4c 8h]
+womcs checks
+hoopaholik91 bets 0.30
+womcs calls 0.30
+** Turn ** [3c]
+womcs checks
+hoopaholik91 checks
+** River ** [Ks]
+womcs checks
+hoopaholik91 bets 0.60
+womcs calls 0.60
+** Pot Show Down ** [Kd 4c 8h 3c Ks]
+hoopaholik91 shows [Ac Kh] (Three of a Kind, Kings +A8)
+womcs shows [8d Ad] (Two Pair, Kings and Eights +A)
+hoopaholik91 wins Pot (2.44) with Three of a Kind
+Rake (0.06)
+womcs adds 0.38 chips
+
+
+
+Hand #38995721-505 - 2015-01-24 17:07:15
+Game: NL Hold'em (5 - 10) - Blinds 0.05/0.10
+Site: Seals With Clubs
+Table: NLHE 6half .05/.10 #0
+Seat 1: hoopaholik91 (13.49)
+Seat 2: SmallZombie (28.57)
+Seat 3: womcs (10)
+Seat 4: SpaceCase (12.85)
+Seat 5: rotter (6.72)
+Seat 6: sevenk (9.73)
+womcs has the dealer button
+SpaceCase posts small blind 0.05
+rotter posts big blind 0.10
+** Hole Cards **
+Dealt to sevenk [9c 6c]
+sevenk folds
+hoopaholik91 folds
+SmallZombie folds
+womcs calls 0.10
+SpaceCase calls 0.05
+rotter checks
+** Flop ** [8c Jh 7h]
+SpaceCase bets 0.20
+rotter calls 0.20
+womcs calls 0.20
+** Turn ** [9s]
+SpaceCase bets 0.40
+rotter calls 0.40
+womcs calls 0.40
+** River ** [6d]
+SpaceCase checks
+rotter checks
+womcs checks
+** Pot Show Down ** [8c Jh 7h 9s 6d]
+womcs shows [Ac 8s] (a Pair of Eights +AJ9)
+SpaceCase shows [Jc As] (a Pair of Jacks +A98)
+rotter shows [8h Js] (Two Pair, Jacks and Eights +9)
+rotter wins Pot (2.05) with Two Pair
+Rake (0.05)
+womcs adds 0.70 chips

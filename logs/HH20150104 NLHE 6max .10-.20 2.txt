@@ -1,0 +1,893 @@
+Hand #37833476-190 - 2015-01-04 16:52:39
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (10)
+Seat 2: nicocoins (49.31)
+Seat 3: sevenk (20) - waiting for big blind
+Seat 4: Duncan (7.80)
+Seat 5: packrat3 (22.26)
+Seat 6: drew62h (3.82)
+TRUTRUhuho has the dealer button
+nicocoins posts small blind 0.10
+sevenk posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Kd Ks]
+Duncan calls 0.20
+packrat3 folds
+drew62h folds
+TRUTRUhuho folds
+nicocoins folds
+sevenk raises to 0.70
+Duncan calls 0.50
+** Flop ** [As Jh 3d]
+sevenk bets 0.80
+Duncan folds
+sevenk refunded 0.80
+sevenk wins Pot (1.47)
+Rake (0.03)
+
+
+
+Hand #37833536-191 - 2015-01-04 16:53:35
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (10)
+Seat 2: nicocoins (49.21)
+Seat 3: sevenk (20.77)
+Seat 4: Duncan (7.10)
+Seat 5: packrat3 (22.26)
+Seat 6: drew62h (3.82)
+nicocoins has the dealer button
+sevenk posts small blind 0.10
+Duncan posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Tc As]
+packrat3 raises to 0.60
+drew62h calls 0.60
+TRUTRUhuho calls 0.60
+nicocoins folds
+sevenk folds
+Duncan folds
+** Flop ** [9h 8s 5h]
+packrat3 checks
+drew62h checks
+TRUTRUhuho checks
+** Turn ** [3h]
+packrat3 bets 1.20
+drew62h folds
+TRUTRUhuho folds
+packrat3 refunded 1.20
+TRUTRUhuho adds 0.60 chips
+packrat3 wins Pot (2.05)
+Rake (0.05)
+
+
+
+Hand #37833591-192 - 2015-01-04 16:54:39
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (10)
+Seat 2: nicocoins (49.21)
+Seat 3: sevenk (20.67)
+Seat 4: Duncan (6.90)
+Seat 5: packrat3 (23.71)
+Seat 6: drew62h (3.22)
+sevenk has the dealer button
+Duncan posts small blind 0.10
+packrat3 posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Jh As]
+drew62h folds
+TRUTRUhuho folds
+nicocoins folds
+sevenk raises to 0.50
+Duncan folds
+packrat3 calls 0.30
+** Flop ** [5c 9c Js]
+packrat3 checks
+sevenk bets 0.60
+packrat3 calls 0.60
+** Turn ** [Kh]
+packrat3 bets 1.40
+sevenk calls 1.40
+** River ** [8d]
+packrat3 bets 5
+sevenk folds
+packrat3 refunded 5
+packrat3 wins Pot (4.98)
+Rake (0.12)
+
+
+
+Hand #37833681-193 - 2015-01-04 16:56:22
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (10)
+Seat 2: nicocoins (49.21)
+Seat 3: sevenk (18.17)
+Seat 4: Duncan (6.80)
+Seat 5: packrat3 (26.19)
+Seat 6: drew62h (3.22)
+Duncan has the dealer button
+packrat3 posts small blind 0.10
+drew62h posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [3h Td]
+TRUTRUhuho folds
+nicocoins raises to 0.64
+sevenk folds
+Duncan folds
+Duncan adds 4 chips
+packrat3 calls 0.54
+drew62h folds
+** Flop ** [2c Jh Qs]
+packrat3 bets 1.40
+nicocoins folds
+packrat3 refunded 1.40
+packrat3 wins Pot (1.45)
+Rake (0.03)
+
+
+
+Hand #37833729-194 - 2015-01-04 16:57:11
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (10)
+Seat 2: nicocoins (48.57)
+Seat 3: sevenk (18.17)
+Seat 4: Duncan (10.80)
+Seat 5: packrat3 (27)
+Seat 6: drew62h (3.02)
+packrat3 has the dealer button
+drew62h posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [7c 5d]
+nicocoins raises to 0.52
+sevenk folds
+Duncan folds
+packrat3 folds
+drew62h folds
+TRUTRUhuho folds
+nicocoins refunded 0.32
+TRUTRUhuho adds 0.20 chips
+nicocoins wins Pot (0.50)
+Rake (0)
+
+
+
+Hand #37833770-195 - 2015-01-04 16:57:47
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (10)
+Seat 2: nicocoins (48.87)
+Seat 3: sevenk (18.17)
+Seat 4: Duncan (10.80)
+Seat 5: packrat3 (27)
+Seat 6: drew62h (2.92)
+drew62h has the dealer button
+TRUTRUhuho posts small blind 0.10
+nicocoins posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Ts Qs]
+sevenk raises to 0.65
+Duncan calls 0.65
+packrat3 folds
+drew62h folds
+TRUTRUhuho folds
+TRUTRUhuho adds 0.10 chips
+nicocoins folds
+** Flop ** [8c 4s Th]
+sevenk bets 0.80
+Duncan calls 0.80
+** Turn ** [9h]
+sevenk checks
+Duncan bets 1.60
+sevenk calls 1.60
+** River ** [Qd]
+sevenk checks
+Duncan checks
+** Pot Show Down ** [8c 4s Th 9h Qd]
+sevenk shows [Ts Qs] (Two Pair, Queens and Tens +9)
+Duncan shows [5c 5h] (a Pair of Fives +QT9)
+sevenk wins Pot (6.24) with Two Pair
+Rake (0.16)
+
+
+
+Hand #37833852-196 - 2015-01-04 16:59:15
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (10)
+Seat 2: nicocoins (48.67)
+Seat 3: sevenk (21.36)
+Seat 4: Duncan (7.75)
+Seat 5: packrat3 (27)
+Seat 6: drew62h (2.92)
+TRUTRUhuho has the dealer button
+nicocoins posts small blind 0.10
+sevenk posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [4c Kd]
+Duncan calls 0.20
+packrat3 folds
+drew62h calls 0.20
+TRUTRUhuho raises to 0.80
+nicocoins folds
+sevenk folds
+Duncan calls 0.60
+drew62h calls 0.60
+** Flop ** [2s 9d 3d]
+Duncan checks
+drew62h checks
+TRUTRUhuho bets 1.20
+Duncan calls 1.20
+drew62h folds
+** Turn ** [5d]
+Duncan checks
+TRUTRUhuho checks
+** River ** [5c]
+Duncan checks
+TRUTRUhuho bets 4
+Duncan calls 4
+** Pot Show Down ** [2s 9d 3d 5d 5c]
+TRUTRUhuho shows [Ad 6d] (a Flush, Ace high +9653)
+Duncan shows [6c 6h] (Two Pair, Sixes and Fives +9)
+TRUTRUhuho wins Pot (12.78) with a Flush
+Rake (0.32)
+
+
+
+Hand #37833954-197 - 2015-01-04 17:01:01
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (16.78)
+Seat 2: nicocoins (48.57)
+Seat 3: sevenk (21.16)
+Seat 4: Duncan (1.75)
+Seat 5: packrat3 (27)
+Seat 6: drew62h (2.12)
+nicocoins has the dealer button
+sevenk posts small blind 0.10
+Duncan posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Ac 7s]
+packrat3 folds
+drew62h calls 0.20
+TRUTRUhuho folds
+nicocoins folds
+sevenk raises to 21.16 (All-in)
+Duncan folds
+drew62h calls 1.92 (All-in)
+sevenk refunded 19.04
+** Flop ** [4h Kd Th]
+** Turn ** [3c]
+** River ** [Ts]
+** Pot Show Down ** [4h Kd Th 3c Ts]
+sevenk shows [Ac 7s] (a Pair of Tens +AK7)
+drew62h shows [9s Jd] (a Pair of Tens +KJ9)
+sevenk wins Pot (4.33) with a Pair
+Rake (0.11)
+
+
+
+Hand #37834022-198 - 2015-01-04 17:02:06
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (16.78)
+Seat 2: nicocoins (48.57)
+Seat 3: sevenk (23.37)
+Seat 4: Duncan (1.55)
+Seat 5: packrat3 (27)
+Seat 6: drew62h (0) - sitting out
+sevenk has the dealer button
+Duncan posts small blind 0.10
+packrat3 posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Th 3s]
+TRUTRUhuho folds
+nicocoins raises to 0.64
+sevenk folds
+Duncan calls 0.54
+packrat3 folds
+** Flop ** [Js 2h Kc]
+Duncan checks
+nicocoins checks
+** Turn ** [5c]
+Duncan checks
+nicocoins bets 0.56
+Duncan calls 0.56
+** River ** [4d]
+Duncan checks
+nicocoins bets 0.44
+Duncan folds
+nicocoins refunded 0.44
+nicocoins wins Pot (2.54)
+Rake (0.06)
+
+
+
+Hand #37834075-199 - 2015-01-04 17:03:04
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (16.78)
+Seat 2: nicocoins (49.91)
+Seat 3: sevenk (23.37)
+Seat 4: Duncan (0.35)
+Seat 5: packrat3 (26.80)
+Duncan has the dealer button
+packrat3 posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Ks 2s]
+nicocoins folds
+sevenk folds
+Duncan folds
+packrat3 calls 0.10
+TRUTRUhuho checks
+** Flop ** [7c 6h 6d]
+packrat3 checks
+TRUTRUhuho checks
+** Turn ** [5h]
+packrat3 bets 0.40
+TRUTRUhuho folds
+packrat3 refunded 0.40
+packrat3 wins Pot (0.39)
+Rake (0.01)
+
+
+
+Hand #37834112-200 - 2015-01-04 17:03:46
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (16.58)
+Seat 2: nicocoins (49.91)
+Seat 3: sevenk (23.37)
+Seat 5: packrat3 (26.99)
+packrat3 has the dealer button
+TRUTRUhuho posts small blind 0.10
+nicocoins posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [5s 8s]
+sevenk folds
+packrat3 folds
+TRUTRUhuho folds
+nicocoins refunded 0.10
+nicocoins wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #37834134-201 - 2015-01-04 17:04:06
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (16.48)
+Seat 2: nicocoins (50.01)
+Seat 3: sevenk (23.37)
+Seat 5: packrat3 (26.99)
+TRUTRUhuho has the dealer button
+nicocoins posts small blind 0.10
+sevenk posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [6h Ts]
+packrat3 raises to 0.60
+TRUTRUhuho folds
+nicocoins folds
+sevenk folds
+packrat3 refunded 0.40
+packrat3 wins Pot (0.50)
+Rake (0)
+
+
+
+Hand #37834162-202 - 2015-01-04 17:04:30
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (16.48)
+Seat 2: nicocoins (49.91)
+Seat 3: sevenk (23.17)
+Seat 5: packrat3 (27.29)
+nicocoins has the dealer button
+sevenk posts small blind 0.10
+packrat3 posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [5d 7c]
+TRUTRUhuho raises to 0.60
+nicocoins folds
+sevenk folds
+packrat3 folds
+TRUTRUhuho refunded 0.40
+TRUTRUhuho wins Pot (0.50)
+Rake (0)
+
+
+
+Hand #37834184-203 - 2015-01-04 17:04:58
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (16.78)
+Seat 2: nicocoins (49.91)
+Seat 3: sevenk (23.07)
+Seat 5: packrat3 (27.09)
+sevenk has the dealer button
+packrat3 posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Th 6s]
+nicocoins folds
+sevenk raises to 0.50
+packrat3 calls 0.40
+TRUTRUhuho raises to 1.60
+sevenk folds
+packrat3 folds
+TRUTRUhuho refunded 1.10
+TRUTRUhuho wins Pot (1.50)
+Rake (0)
+
+
+
+Hand #37834219-204 - 2015-01-04 17:05:40
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (17.78)
+Seat 2: nicocoins (49.91)
+Seat 3: sevenk (22.57)
+Seat 5: packrat3 (26.59)
+packrat3 has the dealer button
+TRUTRUhuho posts small blind 0.10
+nicocoins posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Kd 8s]
+sevenk raises to 0.60
+packrat3 calls 0.60
+TRUTRUhuho folds
+nicocoins folds
+** Flop ** [Kc 6c 8c]
+sevenk bets 1
+packrat3 calls 1
+** Turn ** [7h]
+sevenk bets 1.80
+packrat3 calls 1.80
+** River ** [Ac]
+sevenk checks
+packrat3 checks
+** Pot Show Down ** [Kc 6c 8c 7h Ac]
+sevenk shows [Kd 8s] (Two Pair, Kings and Eights +A)
+packrat3 shows [Ks Qd] (a Pair of Kings +AQ8)
+sevenk wins Pot (6.93) with Two Pair
+Rake (0.17)
+
+
+
+Hand #37834295-205 - 2015-01-04 17:07:08
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (17.68)
+Seat 2: nicocoins (49.71)
+Seat 3: sevenk (26.10)
+Seat 5: packrat3 (23.19)
+TRUTRUhuho has the dealer button
+nicocoins posts small blind 0.10
+sevenk posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Qh 3s]
+packrat3 folds
+TRUTRUhuho raises to 0.60
+nicocoins folds
+sevenk folds
+TRUTRUhuho refunded 0.40
+TRUTRUhuho wins Pot (0.50)
+Rake (0)
+
+
+
+Hand #37834318-206 - 2015-01-04 17:07:32
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (17.98)
+Seat 2: nicocoins (49.61)
+Seat 3: sevenk (25.90)
+Seat 5: packrat3 (23.19)
+nicocoins has the dealer button
+sevenk posts small blind 0.10
+packrat3 posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [8h Qs]
+TRUTRUhuho folds
+nicocoins folds
+sevenk raises to 0.70
+packrat3 calls 0.50
+** Flop ** [5c Ts 8s]
+sevenk bets 0.80
+packrat3 calls 0.80
+** Turn ** [Ah]
+sevenk checks
+packrat3 checks
+** River ** [Qh]
+sevenk bets 2
+packrat3 raises to 5.20
+sevenk calls 3.20
+** Pot Show Down ** [5c Ts 8s Ah Qh]
+sevenk shows [8h Qs] (Two Pair, Queens and Eights +A)
+packrat3 shows [9c Jc] (a Straight, Eight to Queen)
+packrat3 wins Pot (13.07) with a Straight
+Rake (0.33)
+
+
+
+Hand #37834403-207 - 2015-01-04 17:09:02
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (17.98)
+Seat 2: nicocoins (49.61)
+Seat 3: sevenk (19.20)
+Seat 4: kimackau (4) - waiting for big blind
+Seat 5: packrat3 (29.56)
+sevenk has the dealer button
+packrat3 posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Ks Kd]
+nicocoins folds
+sevenk raises to 0.50
+packrat3 folds
+TRUTRUhuho folds
+sevenk refunded 0.30
+sevenk wins Pot (0.50)
+Rake (0)
+
+
+
+Hand #37834437-208 - 2015-01-04 17:09:32
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (17.78)
+Seat 2: nicocoins (49.61)
+Seat 3: sevenk (19.50)
+Seat 4: kimackau (4) - waiting for big blind
+Seat 5: packrat3 (29.46)
+packrat3 has the dealer button
+TRUTRUhuho posts small blind 0.10
+nicocoins posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Th 3c]
+sevenk folds
+packrat3 folds
+TRUTRUhuho folds
+nicocoins refunded 0.10
+nicocoins wins Pot (0.20)
+Rake (0)
+
+
+
+Hand #37834458-209 - 2015-01-04 17:09:54
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (17.68)
+Seat 2: nicocoins (49.71)
+Seat 3: sevenk (19.50)
+Seat 4: kimackau (4) - waiting for big blind
+Seat 5: packrat3 (29.46)
+TRUTRUhuho has the dealer button
+nicocoins posts small blind 0.10
+sevenk posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Qd Jd]
+packrat3 raises to 0.40
+TRUTRUhuho raises to 1.20
+nicocoins folds
+sevenk calls 1
+packrat3 calls 0.80
+** Flop ** [4c 4s 4h]
+sevenk checks
+packrat3 checks
+TRUTRUhuho bets 1.60
+sevenk folds
+packrat3 folds
+TRUTRUhuho refunded 1.60
+TRUTRUhuho wins Pot (3.61)
+Rake (0.09)
+
+
+
+Hand #37834524-210 - 2015-01-04 17:10:59
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (20.09)
+Seat 2: nicocoins (49.61)
+Seat 3: sevenk (18.30)
+Seat 4: kimackau (4) - waiting for big blind
+Seat 5: packrat3 (28.26)
+Seat 6: DUSTPAN (20) - waiting for big blind
+nicocoins has the dealer button
+sevenk posts small blind 0.10
+kimackau posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Td 8c]
+packrat3 raises to 0.60
+TRUTRUhuho folds
+nicocoins folds
+sevenk folds
+kimackau raises to 1
+packrat3 calls 0.40
+** Flop ** [2s 4d Ad]
+kimackau checks
+packrat3 bets 2.20
+kimackau folds
+packrat3 refunded 2.20
+packrat3 wins Pot (2.05)
+Rake (0.05)
+
+
+
+Hand #37834563-211 - 2015-01-04 17:11:41
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (20.09)
+Seat 2: nicocoins (49.61)
+Seat 3: sevenk (18.20)
+Seat 4: kimackau (3)
+Seat 5: packrat3 (29.31)
+Seat 6: DUSTPAN (20) - waiting for big blind
+sevenk has the dealer button
+kimackau posts small blind 0.10
+packrat3 posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [8s Kh]
+TRUTRUhuho folds
+nicocoins folds
+sevenk raises to 0.50
+kimackau folds
+packrat3 folds
+sevenk refunded 0.30
+sevenk wins Pot (0.50)
+Rake (0)
+
+
+
+Hand #37834590-212 - 2015-01-04 17:12:11
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (20.09)
+Seat 2: nicocoins (49.61)
+Seat 3: sevenk (18.50)
+Seat 4: kimackau (2.90)
+Seat 5: packrat3 (29.11)
+kimackau has the dealer button
+packrat3 posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Js 7s]
+nicocoins folds
+sevenk raises to 0.60
+kimackau calls 0.60
+packrat3 folds
+TRUTRUhuho raises to 1.80
+sevenk folds
+kimackau folds
+TRUTRUhuho refunded 1.20
+TRUTRUhuho wins Pot (1.90)
+Rake (0)
+
+
+
+Hand #37834644-213 - 2015-01-04 17:13:04
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (21.39)
+Seat 2: nicocoins (49.61)
+Seat 3: sevenk (17.90)
+Seat 4: kimackau (2.30)
+Seat 5: packrat3 (29.01)
+Seat 6: DUSTPAN (20) - waiting for big blind
+packrat3 has the dealer button
+TRUTRUhuho posts small blind 0.10
+nicocoins posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [3c 9c]
+sevenk folds
+kimackau folds
+packrat3 folds
+TRUTRUhuho raises to 0.60
+nicocoins folds
+TRUTRUhuho refunded 0.40
+TRUTRUhuho wins Pot (0.40)
+Rake (0)
+
+
+
+Hand #37834672-214 - 2015-01-04 17:13:30
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (21.59)
+Seat 2: nicocoins (49.41)
+Seat 3: sevenk (17.90)
+Seat 4: kimackau (2.30)
+Seat 5: packrat3 (29.01)
+Seat 6: DUSTPAN (20)
+TRUTRUhuho has the dealer button
+nicocoins posts small blind 0.10
+sevenk posts big blind 0.20
+DUSTPAN posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [6c 7d]
+kimackau calls 0.20
+packrat3 folds
+DUSTPAN checks
+TRUTRUhuho folds
+nicocoins folds
+sevenk checks
+** Flop ** [Js As 7s]
+sevenk checks
+kimackau checks
+DUSTPAN checks
+** Turn ** [2h]
+sevenk checks
+kimackau checks
+DUSTPAN checks
+** River ** [Jh]
+sevenk checks
+kimackau checks
+DUSTPAN checks
+** Pot Show Down ** [Js As 7s 2h Jh]
+sevenk shows [6c 7d] (Two Pair, Jacks and Sevens +A)
+kimackau shows [9d 9h] (Two Pair, Jacks and Nines +A)
+DUSTPAN shows [8s 4h] (a Pair of Jacks +A87)
+kimackau wins Pot (0.69) with Two Pair
+Rake (0.01)
+
+
+
+Hand #37834758-215 - 2015-01-04 17:14:45
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (21.59)
+Seat 2: nicocoins (49.31)
+Seat 3: sevenk (17.70)
+Seat 4: kimackau (2.79)
+Seat 5: packrat3 (29.01)
+Seat 6: DUSTPAN (19.80)
+nicocoins has the dealer button
+sevenk posts small blind 0.10
+kimackau posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [2h 5s]
+packrat3 folds
+DUSTPAN raises to 0.60
+TRUTRUhuho folds
+nicocoins folds
+sevenk folds
+kimackau folds
+DUSTPAN refunded 0.40
+DUSTPAN wins Pot (0.50)
+Rake (0)
+
+
+
+Hand #37834804-216 - 2015-01-04 17:15:25
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (21.59)
+Seat 3: sevenk (17.60)
+Seat 4: kimackau (2.59)
+Seat 5: packrat3 (29.01)
+Seat 6: DUSTPAN (20.10)
+sevenk has the dealer button
+kimackau posts small blind 0.10
+packrat3 posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Kh 4d]
+DUSTPAN raises to 0.60
+TRUTRUhuho folds
+sevenk folds
+kimackau folds
+packrat3 folds
+DUSTPAN refunded 0.40
+DUSTPAN wins Pot (0.50)
+Rake (0)
+
+
+
+Hand #37834840-217 - 2015-01-04 17:15:53
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (21.59)
+Seat 3: sevenk (17.60)
+Seat 4: kimackau (2.49)
+Seat 5: packrat3 (28.81)
+Seat 6: DUSTPAN (20.40)
+kimackau has the dealer button
+packrat3 posts small blind 0.10
+DUSTPAN posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Ah 7h]
+TRUTRUhuho folds
+sevenk raises to 0.60
+kimackau folds
+packrat3 folds
+DUSTPAN calls 0.40
+** Flop ** [8d 6c Qh]
+DUSTPAN checks
+sevenk bets 0.70
+DUSTPAN calls 0.70
+** Turn ** [8s]
+DUSTPAN checks
+sevenk checks
+** River ** [6s]
+DUSTPAN checks
+sevenk checks
+** Pot Show Down ** [8d 6c Qh 8s 6s]
+sevenk shows [Ah 7h] (Two Pair, Eights and Sixes +A)
+DUSTPAN shows [Kc Ac] (Two Pair, Eights and Sixes +A)
+sevenk splits Pot (1.32) with Two Pair
+DUSTPAN splits Pot (1.32) with Two Pair
+Rake (0.06)
+
+
+
+Hand #37834917-218 - 2015-01-04 17:17:03
+Game: NL Hold'em (4 - 20) - Blinds 0.10/0.20
+Site: Seals With Clubs
+Table: NLHE 6max .10/.20 #2
+Seat 1: TRUTRUhuho (21.59)
+Seat 3: sevenk (17.62)
+Seat 4: kimackau (2.49)
+Seat 5: packrat3 (28.71)
+Seat 6: DUSTPAN (20.42)
+packrat3 has the dealer button
+DUSTPAN posts small blind 0.10
+TRUTRUhuho posts big blind 0.20
+** Hole Cards **
+Dealt to sevenk [Jc As]
+sevenk raises to 0.60
+kimackau folds
+packrat3 calls 0.60
+DUSTPAN folds
+TRUTRUhuho calls 0.40
+** Flop ** [Ad 8s 2h]
+TRUTRUhuho checks
+sevenk bets 0.90
+packrat3 folds
+TRUTRUhuho calls 0.90
+** Turn ** [Qh]
+TRUTRUhuho checks
+sevenk bets 1.80
+TRUTRUhuho raises to 4.45
+sevenk calls 2.65
+** River ** [7d]
+TRUTRUhuho bets 12
+sevenk calls 11.67 (All-in)
+TRUTRUhuho refunded 0.33
+** Pot Show Down ** [Ad 8s 2h Qh 7d]
+TRUTRUhuho shows [8c 8h] (Three of a Kind, Eights +AQ)
+sevenk shows [Jc As] (a Pair of Aces +QJ8)
+TRUTRUhuho wins Pot (35.34) with Three of a Kind
+Rake (0.60)
