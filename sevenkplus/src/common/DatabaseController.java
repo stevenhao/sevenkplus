@@ -112,16 +112,20 @@ public class DatabaseController {
   }
 
   public int getHands(int playerId) {
-    return db.selectCount().from(Play.PLAY).where(Play.PLAY.PLAYERID.equal(playerId)).execute();
+    Record1<Integer> record =
+        db.selectCount().from(Play.PLAY).where(Play.PLAY.PLAYERID.equal(playerId)).fetchOne();
+    return (int) record.getValue(0);
   }
 
   public int getHandsVPIP(int playerId) {
-    return db.selectCount().from(Play.PLAY).where(Play.PLAY.PLAYERID.equal(playerId))
-        .and(Play.PLAY.VPIP.equal((byte) 1)).execute();
+    Record1<Integer> record = db.selectCount().from(Play.PLAY)
+        .where(Play.PLAY.PLAYERID.equal(playerId)).and(Play.PLAY.VPIP.equal((byte) 1)).fetchOne();
+    return (int) record.getValue(0);
   }
 
   public int getHandsPFR(int playerId) {
-    return db.selectCount().from(Play.PLAY).where(Play.PLAY.PLAYERID.equal(playerId))
-        .and(Play.PLAY.PFR.equal((byte) 1)).execute();
+    Record1<Integer> record = db.selectCount().from(Play.PLAY)
+        .where(Play.PLAY.PLAYERID.equal(playerId)).and(Play.PLAY.PFR.equal((byte) 1)).fetchOne();
+    return (int) record.getValue(0);
   }
 }
