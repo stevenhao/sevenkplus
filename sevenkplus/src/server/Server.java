@@ -37,10 +37,10 @@ public class Server {
   }
 
   private String executeStatCommand(String[] params) {
-    String statName = params[1];
+    String statName = params[0];
     if ("VPIP".equals(statName)) {
-      if (params.length == 3) {
-        Integer playerId = db.getPlayer(params[2]);
+      if (params.length == 2) {
+        Integer playerId = db.getPlayer(params[1]);
 
         if (playerId != null) {
           int hands = db.getHands(playerId);
@@ -52,8 +52,8 @@ public class Server {
         return "wrong number of tokens";
       }
     } else if ("PFR".equals(statName)) {
-      if (params.length == 3) {
-        Integer playerId = db.getPlayer(params[2]);
+      if (params.length == 2) {
+        Integer playerId = db.getPlayer(params[1]);
         if (playerId != null) {
           int hands = db.getHands(playerId);
           int handsPFR = db.getHandsPFR(playerId);
