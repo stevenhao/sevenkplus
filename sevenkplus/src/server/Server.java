@@ -39,11 +39,47 @@ public class Server {
   }
 
   private String executeServerCall(String command) {
-    if ("getPlayerList".equals(command)) {
-      return join(db.getPlayers());
-    } else {
-      return "invalid command";
+    String[] tokens = command.split("\\s+");
+    if ("getPlayerList".equals(tokens[0])) {
+      if (tokens.length == 1) {
+        return join(db.getPlayers());
+      }
+    } else if ("getVPIP".equals(tokens[0])) {
+      if (tokens.length == 2) {
+        Integer playerId = db.getPlayer(tokens[1]);
+
+        if (playerId != null) {
+          int hands = db.getHands(playerId);
+          int handsVPIP = db.getHandsVPIP(playerId);
+
+          if (hands == 0) {
+            return "0 / 0";
+          }
+
+          double ratio = handsVPIP / ((double) hands);
+          return handsVPIP + " / " + hands + " (" + ratio * 100d + "%)";
+        }
+      }
+    } else if ("getPFR".equals(tokens[0])) {
+      if (tokens.length == 2) {
+        Integer playerId = db.getPlayer(tokens[1]);
+
+        if (playerId != null) {
+          int hands = db.getHands(playerId);
+          int handsPFR = db.getHandsPFR(playerId);
+
+          if (hands == 0) {
+            return "0 / 0";
+          }
+
+          double ratio = handsPFR / ((double) hands);
+          return handsPFR + " / " + hands + " (" + ratio * 100d + "%)";
+        }
+      }
     }
+
+    logger.warning("Invalid command from client: " + command);
+    return "invalid command";
   }
 
   private boolean acceptClient() {

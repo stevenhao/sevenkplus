@@ -50,7 +50,7 @@ public class DatabaseController {
     return list;
   }
 
-  protected Integer getPlayer(String playerName) {
+  public Integer getPlayer(String playerName) {
     Result<Record1<Integer>> playerIds = db.select(Player.PLAYER.ID).from(Player.PLAYER).where(
         Player.PLAYER.NAME.equal(playerName)).fetch();
 
@@ -111,7 +111,17 @@ public class DatabaseController {
         .and(Play.PLAY.HANDID.equal(handId))).execute();
   }
 
-  protected int getHands(int playerId) {
+  public int getHands(int playerId) {
     return db.selectCount().from(Play.PLAY).where(Play.PLAY.PLAYERID.equal(playerId)).execute();
+  }
+
+  public int getHandsVPIP(int playerId) {
+    return db.selectCount().from(Play.PLAY).where(Play.PLAY.PLAYERID.equal(playerId))
+        .and(Play.PLAY.VPIP.equal((byte) 1)).execute();
+  }
+
+  public int getHandsPFR(int playerId) {
+    return db.selectCount().from(Play.PLAY).where(Play.PLAY.PLAYERID.equal(playerId))
+        .and(Play.PLAY.PFR.equal((byte) 1)).execute();
   }
 }
