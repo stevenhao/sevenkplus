@@ -4,98 +4,15 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.SQLException;
-
-import org.jooq.DSLContext;
-import org.jooq.Record1;
-import org.jooq.Result;
-import org.jooq.SQLDialect;
-import org.jooq.generated.tables.Hand;
-import org.jooq.generated.tables.Play;
-import org.jooq.generated.tables.Player;
-import org.jooq.impl.DSL;
 
 public class Parser {
   private final File logsDir;
-  private DSLContext db;
+  private final DatabaseController db;
 
-  public Parser(File logsDir) {
+  public Parser(File logsDir) throws SQLException {
     this.logsDir = logsDir;
-  }
-
-  private DSLContext getDatabaseContext() throws SQLException {
-    // TODO: move these to config file
-    String userName = "root";
-    String password = "";
-    String url = "jdbc:mysql://localhost:3306/sevenkplus";
-
-    // Connection is the only JDBC resource that we need
-    // PreparedStatement and ResultSet are handled by jOOQ, internally
-    Connection conn = DriverManager.getConnection(url, userName, password);
-    return DSL.using(conn, SQLDialect.MYSQL);
-  }
-
-  private Integer getOrInsertHand(String handTag) {
-    Result<Record1<Integer>> handIds =
-        db.select(Hand.HAND.ID).from(Hand.HAND).where(Hand.HAND.TAG.equal(handTag)).fetch();
-    if (handIds.isEmpty()) {
-      db.insertInto(Hand.HAND, Hand.HAND.TAG).values(handTag).execute();
-      System.out.println("Added new hand: " + handTag);
-      handIds = db.select(Hand.HAND.ID).from(Hand.HAND).where(Hand.HAND.TAG.equal(handTag)).fetch();
-    }
-
-    if (handIds.size() > 1) {
-      throw new IllegalArgumentException("More than one ID found for hand tag!");
-    }
-
-    return handIds.get(0).value1();
-  }
-
-  private Integer getPlayer(String playerName) {
-    Result<Record1<Integer>> playerIds = db.select(Player.PLAYER.ID).from(Player.PLAYER).where(
-        Player.PLAYER.NAME.equal(playerName)).fetch();
-
-    if (playerIds.isEmpty()) {
-      // No record in the DB for this player yet
-      return null;
-    } else if (playerIds.size() > 1) {
-      throw new IllegalArgumentException("More than one ID found for player name!");
-    }
-
-    return playerIds.get(0).value1();
-  }
-
-  private Integer getOrInsertPlayer(String playerName) {
-    // TODO: Represent player/hand data with local java objects and only update the DB at the end of
-    // each file. Cleaner and significantly improves performance
-    if (getPlayer(playerName) == null) {
-      db.insertInto(Player.PLAYER, Player.PLAYER.NAME).values(playerName).execute();
-      System.out.println("Added new player: " + playerName);
-    }
-
-    return getPlayer(playerName);
-  }
-
-  private void addToHand(int playerId, int handId) {
-    if (!db.select().from(Play.PLAY).where(Play.PLAY.PLAYERID.equal(playerId))
-        .and(Play.PLAY.HANDID.equal(handId)).fetch().isEmpty()) {
-      return;
-    }
-
-    db.insertInto(Play.PLAY, Play.PLAY.PLAYERID, Play.PLAY.HANDID).values(playerId, handId)
-        .execute();
-  }
-
-  private void updateVPIP(int playerId, int handId) {
-    db.update(Play.PLAY).set(Play.PLAY.VPIP, (byte) 1).where(Play.PLAY.PLAYERID.equal(playerId)
-        .and(Play.PLAY.HANDID.equal(handId))).execute();
-  }
-
-  private void updatePFR(int playerId, int handId) {
-    db.update(Play.PLAY).set(Play.PLAY.PFR, (byte) 1).where(Play.PLAY.PLAYERID.equal(playerId)
-        .and(Play.PLAY.HANDID.equal(handId))).execute();
+    this.db = new DatabaseController();
   }
 
   private void parseFile(BufferedReader in) throws IOException {
@@ -113,7 +30,7 @@ public class Parser {
         // Starting a new hand
 
         String hand = tokens[1];
-        currentHand = getOrInsertHand(hand);
+        currentHand = db.getOrInsertHand(hand);
         currentStreet = "";
       } else if ("Game:".equals(tokens[0])) {
         // Game type, buyins, blinds
@@ -144,10 +61,10 @@ public class Parser {
         if (!"out".equals(tokens[tokens.length - 1]) &&
             !"blind".equals(tokens[tokens.length - 1])) {
           String player = tokens[2]; // Format: "Seat #: (username)"
-          Integer playerId = getOrInsertPlayer(player);
+          Integer playerId = db.getOrInsertPlayer(player);
 
           // Add this pair to the plays table
-          addToHand(playerId, currentHand);
+          db.addToHand(playerId, currentHand);
         }
       } else {
         // Player actions (post, show, win, act)
@@ -157,9 +74,9 @@ public class Parser {
         if ("posts".equals(tokens[1])) {
           // We should have seen this player before in "Seat: ". However, it's possible for
           // the player to be waiting for the big blind or sitting out and then to post.
-          playerId = getOrInsertPlayer(player);
+          playerId = db.getOrInsertPlayer(player);
         } else {
-          playerId = getPlayer(player);
+          playerId = db.getPlayer(player);
         }
 
         if ("Hole".equals(currentStreet)) {
@@ -170,10 +87,10 @@ public class Parser {
 
           String action = tokens[1];
           if ("calls".equals(action)) {
-            updateVPIP(playerId, currentHand);
+            db.updateVPIP(playerId, currentHand);
           } else if ("raises".equals(action)) {
-            updateVPIP(playerId, currentHand);
-            updatePFR(playerId, currentHand);
+            db.updateVPIP(playerId, currentHand);
+            db.updatePFR(playerId, currentHand);
           }
         }
       }
@@ -184,12 +101,6 @@ public class Parser {
 
   public void run() throws IOException {
     System.out.println("Searching in " + logsDir.getPath());
-    try {
-      db = getDatabaseContext();
-    } catch (SQLException e) {
-      e.printStackTrace();
-      return;
-    }
 
     File[] listOfFiles = logsDir.listFiles();
     for (File file : listOfFiles) {
@@ -207,8 +118,8 @@ public class Parser {
   }
 
   public static void main(String[] args) {
-    Parser parser = new Parser(new File("../logs"));
     try {
+      Parser parser = new Parser(new File("../logs"));
       parser.run();
     } catch (Exception e) {
       e.printStackTrace();

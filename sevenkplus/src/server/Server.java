@@ -6,17 +6,10 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.util.ArrayList;
+import java.sql.SQLException;
 
+import data.DatabaseController;
 import org.apache.commons.lang3.StringUtils;
-import org.jooq.DSLContext;
-import org.jooq.Record;
-import org.jooq.Result;
-import org.jooq.SQLDialect;
-import org.jooq.generated.tables.Player;
-import org.jooq.impl.DSL;
 
 public class Server {
   private final int port;
@@ -24,58 +17,16 @@ public class Server {
   private ServerSocket serverSocket;
   private PrintWriter out;
   private BufferedReader in;
-  private DSLContext db;
+  private final DatabaseController db;
 
-  // TODO: move these to config file
-  private final static String userName = "root";
-  private final static String password = "";
-
-  public Server(int port) {
+  public Server(int port) throws SQLException {
     this.port = port;
-  }
-
-  public ArrayList<String> getPlayerList() {
-    String url = "jdbc:mysql://localhost:3306/sevenkplus";
-    ArrayList<String> list = new ArrayList<String>();
-
-    try (Connection conn = DriverManager.getConnection(url, userName, password)) {
-      db = DSL.using(conn, SQLDialect.MYSQL);
-      Result<Record> result = db.select().from(Player.PLAYER).fetch();
-      for (Record r : result) {
-        String name = r.getValue(Player.PLAYER.NAME);
-        list.add(name);
-      }
-
-    } catch (Exception e) {
-      e.printStackTrace();
-    }
-
-    return list;
-  }
-
-  private void connectToDB() {
-    String url = "jdbc:mysql://localhost:3306/sevenkplus";
-
-    // Connection is the only JDBC resource that we need
-    // PreparedStatement and ResultSet are handled by jOOQ, internally
-    try (Connection conn = DriverManager.getConnection(url, userName, password)) {
-      db = DSL.using(conn, SQLDialect.MYSQL);
-      Result<Record> result = db.select().from(Player.PLAYER).fetch();
-      for (Record r : result) {
-        Integer id = r.getValue(Player.PLAYER.ID);
-        String name = r.getValue(Player.PLAYER.NAME);
-        System.out.println("ID: " + id + " title: " + name);
-      }
-
-      System.out.println("Connected to database.");
-    } catch (Exception e) {
-      e.printStackTrace();
-    }
+    this.db = new DatabaseController();
   }
 
   private String executeServerCall(String command) {
     if ("getPlayerList".equals(command)) {
-      return StringUtils.join(getPlayerList(), ',');
+      return StringUtils.join(db.getPlayers(), ',');
     } else {
       return "invalid command";
     }
@@ -128,10 +79,15 @@ public class Server {
     int portNumber = args.length >= 1 ? Integer.parseInt(args[0]) : 5000;
     System.out.println("Serving at port " + portNumber);
 
-    Server server = new Server(portNumber);
+    Server server = null;
+    try {
+      server = new Server(portNumber);
+    } catch (SQLException e) {
+      System.out.println("ERROR: Failed to connect to database.");
+      e.printStackTrace();
+    }
     System.out.println("Server started.");
 
-    server.connectToDB();
     server.connectToClients();
   }
 }
