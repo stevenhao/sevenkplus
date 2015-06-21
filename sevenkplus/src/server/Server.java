@@ -26,13 +26,15 @@ public class Server {
   private BufferedReader in;
   private DSLContext db;
 
+  // TODO: move these to config file
+  private final static String userName = "root";
+  private final static String password = "";
+
   public Server(int port) {
     this.port = port;
   }
 
   public ArrayList<String> getPlayerList() {
-    String userName = "root";
-    String password = "";
     String url = "jdbc:mysql://localhost:3306/sevenkplus";
     ArrayList<String> list = new ArrayList<String>();
 
@@ -52,9 +54,6 @@ public class Server {
   }
 
   private void connectToDB() {
-    // TODO: move these to config file
-    String userName = "root";
-    String password = "";
     String url = "jdbc:mysql://localhost:3306/sevenkplus";
 
     // Connection is the only JDBC resource that we need
@@ -93,6 +92,7 @@ public class Server {
     }
     System.out.println("Connected to a client.");
     Thread t = new Thread() {
+      @Override
       public void run() {
         try {
           String line;
@@ -118,8 +118,9 @@ public class Server {
       return false;
     }
 
-    while (acceptClient())
-      ;
+    while (acceptClient()) {
+      // AC
+    }
     return true;
   }
 

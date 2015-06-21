@@ -68,6 +68,8 @@ public class Parser {
   }
 
   private Integer getOrInsertPlayer(String playerName) {
+    // TODO: Represent player/hand data with local java objects and only update the DB at the end of
+    // each file. Cleaner and significantly improves performance
     if (getPlayer(playerName) == null) {
       db.insertInto(Player.PLAYER, Player.PLAYER.NAME).values(playerName).execute();
       System.out.println("Added new player: " + playerName);
