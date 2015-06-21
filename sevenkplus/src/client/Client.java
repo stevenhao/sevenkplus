@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
+import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import javax.swing.JFrame;
@@ -29,6 +30,7 @@ public class Client {
   private PlayerView playerView;
   private JList<String> list;
   private Socket socket;
+  private String playerName;
   private final static Logger logger = Logger.getLogger(Client.class.getName());
 
   public Client(String host, int port) {
@@ -50,14 +52,16 @@ public class Client {
   }
 
   private String makeServerCall(String command) {
+    logger.info("Making server call [" + command + "]");
     try {
       out.println(command);
-      return in.readLine();
-    } catch (IOException e) {
-      e.printStackTrace();
+      String result = in.readLine();
+      logger.info("Received result [" + result + "]");
+      return result;
+    } catch (Exception e) {
+      logger.log(Level.SEVERE, "Not connected to server.");
+      return null;
     }
-
-    return null;
   }
 
   private String[] getPlayerList() {
@@ -74,17 +78,21 @@ public class Client {
   }
 
   private String getStatValue(String stat) {
-    String result = makeServerCall("getStat " + stat);
+    String result = makeServerCall("getStat " + stat + " " + this.playerName);
     return result;
   }
 
   private void selectPlayer(String name) {
-    logger.info("Selected Player " + name);
-    playerView.setPlayerName(list.getSelectedValue());
-    for (String statName : playerView.getStats()) {
-      playerView.setStat(statName, getStatValue(statName));
+    if (!name.equals(this.playerName)) {
+      this.playerName = name;
+      logger.info("Selected Player " + playerName);
+      playerView.setPlayerName(list.getSelectedValue());
+      for (String statName : playerView.getStats()) {
+        logger.info("Found stat " + statName);
+        playerView.setStat(statName, getStatValue(statName));
+      }
+      playerView.refresh();
     }
-    playerView.refresh();
   }
 
   private void makeGui() {

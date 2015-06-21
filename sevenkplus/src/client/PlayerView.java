@@ -28,11 +28,12 @@ public class PlayerView extends JPanel {
     statPanel = new JPanel();
     this.add(statPanel);
     this.addStat("VPIP");
+    this.addStat("PFR");
     this.refresh();
   }
 
   public Collection<String> getStats() {
-    return statValues.keySet();
+    return statViews.keySet();
   }
 
   public void setPlayerName(String name) {
@@ -41,7 +42,9 @@ public class PlayerView extends JPanel {
   }
 
   public void setStat(String stat, String statValue) {
-    statValues.put(stat, statValue);
+    if (statValue != null) {
+      statValues.put(stat, statValue);
+    }
   }
 
   public void refresh() {
