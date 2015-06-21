@@ -108,4 +108,8 @@ public class DatabaseController {
     db.update(Play.PLAY).set(Play.PLAY.PFR, (byte) 1).where(Play.PLAY.PLAYERID.equal(playerId)
         .and(Play.PLAY.HANDID.equal(handId))).execute();
   }
+
+  protected int getHands(int playerId) {
+    return db.selectCount().from(Play.PLAY).where(Play.PLAY.PLAYERID.equal(playerId)).execute();
+  }
 }
