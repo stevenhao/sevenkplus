@@ -7,6 +7,8 @@ import java.io.IOException;
 import java.sql.SQLException;
 import java.util.logging.Logger;
 
+import common.DatabaseController;
+
 public class Parser {
   private final File logsDir;
   private final DatabaseController db;

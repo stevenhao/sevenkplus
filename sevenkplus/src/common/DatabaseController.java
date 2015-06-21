@@ -1,4 +1,4 @@
-package data;
+package common;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -64,7 +64,7 @@ public class DatabaseController {
     return playerIds.get(0).value1();
   }
 
-  protected Integer getOrInsertPlayer(String playerName) {
+  public Integer getOrInsertPlayer(String playerName) {
     // TODO: Represent player/hand data with local java objects and only update the DB at the end of
     // each file. Cleaner and significantly improves performance
     if (getPlayer(playerName) == null) {
@@ -75,7 +75,7 @@ public class DatabaseController {
     return getPlayer(playerName);
   }
 
-  protected Integer getOrInsertHand(String handTag) {
+  public Integer getOrInsertHand(String handTag) {
     Result<Record1<Integer>> handIds =
         db.select(Hand.HAND.ID).from(Hand.HAND).where(Hand.HAND.TAG.equal(handTag)).fetch();
     if (handIds.isEmpty()) {
@@ -91,7 +91,7 @@ public class DatabaseController {
     return handIds.get(0).value1();
   }
 
-  protected void addToHand(int playerId, int handId) {
+  public void addToHand(int playerId, int handId) {
     if (!db.select().from(Play.PLAY).where(Play.PLAY.PLAYERID.equal(playerId))
         .and(Play.PLAY.HANDID.equal(handId)).fetch().isEmpty()) {
       return;
@@ -101,12 +101,12 @@ public class DatabaseController {
         .execute();
   }
 
-  protected void updateVPIP(int playerId, int handId) {
+  public void updateVPIP(int playerId, int handId) {
     db.update(Play.PLAY).set(Play.PLAY.VPIP, (byte) 1).where(Play.PLAY.PLAYERID.equal(playerId)
         .and(Play.PLAY.HANDID.equal(handId))).execute();
   }
 
-  protected void updatePFR(int playerId, int handId) {
+  public void updatePFR(int playerId, int handId) {
     db.update(Play.PLAY).set(Play.PLAY.PFR, (byte) 1).where(Play.PLAY.PLAYERID.equal(playerId)
         .and(Play.PLAY.HANDID.equal(handId))).execute();
   }
