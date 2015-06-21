@@ -19,8 +19,6 @@ import javax.swing.SwingConstants;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
-import org.apache.commons.lang3.StringUtils;
-
 public class Client {
   private final String host;
   private final int port;
@@ -63,7 +61,7 @@ public class Client {
   private String[] getPlayerList() {
     try {
       String result = makeServerCall("getPlayerList");
-      return StringUtils.split(result, ",");
+      return result.split(",");
     } catch (Exception e) {
       String[] defaultPlayerList = new String[200];
       for (int i = 0; i < 200; ++i) {
