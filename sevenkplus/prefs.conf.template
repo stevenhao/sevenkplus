@@ -1,0 +1,5 @@
+# copy this to prefs.conf
+mysql_username = root
+mysql_password = # need a whitespace so my config parser doesn't die
+mysql_url = jdbc:mysql://localhost:3306/sevenkplus
+
