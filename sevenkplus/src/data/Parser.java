@@ -8,6 +8,7 @@ import java.sql.SQLException;
 import java.util.logging.Logger;
 
 import common.DatabaseController;
+import common.PPlayer;
 
 public class Parser {
   private final File logsDir;
@@ -27,15 +28,15 @@ public class Parser {
     while (nextLine != null) {
       String[] tokens = nextLine.split("\\s+");
 
-      if ("".equals(tokens[0])) {
-        // Blank lines between hands, skip
-
-      } else if ("Hand".equals(tokens[0])) {
+      if ("Hand".equals(tokens[0])) {
         // Starting a new hand
 
         String hand = tokens[1];
         currentHand = db.getOrInsertHand(hand);
         currentStreet = "";
+      } else if ("".equals(tokens[0])) {
+        // Blank lines between hands, skip
+
       } else if ("Game:".equals(tokens[0])) {
         // Game type, buyins, blinds
 
@@ -64,37 +65,37 @@ public class Parser {
         // Ignore players at the table who are sitting out or waiting for a blind
         if (!"out".equals(tokens[tokens.length - 1]) &&
             !"blind".equals(tokens[tokens.length - 1])) {
-          String player = tokens[2]; // Format: "Seat #: (username)"
-          Integer playerId = db.getOrInsertPlayer(player);
+          String playerName = tokens[2]; // Format: "Seat #: (username)"
+          PPlayer player = db.getOrInsertPlayer(playerName);
 
           // Add this pair to the plays table
-          db.addToHand(playerId, currentHand);
+          db.addToHand(player.getId(), currentHand);
         }
       } else {
         // Player actions (post, show, win, act)
-        String player = tokens[0];
-        Integer playerId;
+        String playerName = tokens[0];
+        PPlayer player;
 
         if ("posts".equals(tokens[1])) {
           // We should have seen this player before in "Seat: ". However, it's possible for
           // the player to be waiting for the big blind or sitting out and then to post.
-          playerId = db.getOrInsertPlayer(player);
+          player = db.getOrInsertPlayer(playerName);
         } else {
-          playerId = db.getPlayer(player);
+          player = db.getPlayer(playerName);
         }
 
         if ("Hole".equals(currentStreet)) {
-          if (currentHand == null || playerId == null) {
+          if (currentHand == null || player == null) {
             throw new IllegalArgumentException("Bad parse or action from player not in data: "
                 + nextLine);
           }
 
           String action = tokens[1];
           if ("calls".equals(action)) {
-            db.updateVPIP(playerId, currentHand);
+            db.updateVPIP(player.getId(), currentHand);
           } else if ("raises".equals(action)) {
-            db.updateVPIP(playerId, currentHand);
-            db.updatePFR(playerId, currentHand);
+            db.updateVPIP(player.getId(), currentHand);
+            db.updatePFR(player.getId(), currentHand);
           }
         }
       }

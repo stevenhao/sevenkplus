@@ -59,13 +59,13 @@ public class Utils {
     return secrets.get("mysql_url");
   }
 
-  public static String join(Collection<String> strings) {
+  public static String join(Collection<?> objects) {
     String result = "";
-    for (String player : strings) {
+    for (Object obj : objects) {
       if (!result.equals("")) {
         result = result + ",";
       }
-      result = result + player;
+      result = result + obj.toString();
     }
     return result;
   }
