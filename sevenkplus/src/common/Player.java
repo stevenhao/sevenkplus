@@ -1,10 +1,10 @@
 package common;
 
-public class PPlayer {
+public class Player {
   private final String name;
   private final Integer id;
 
-  public PPlayer(String name, Integer id) {
+  public Player(String name, Integer id) {
     this.name = name;
     this.id = id;
   }
@@ -15,5 +15,10 @@ public class PPlayer {
 
   public Integer getId() {
     return id;
+  }
+
+  @Override
+  public String toString() {
+    return name;
   }
 }

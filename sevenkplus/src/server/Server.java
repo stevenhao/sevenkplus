@@ -12,7 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import common.DatabaseController;
-import common.PPlayer;
+import common.Player;
 import common.Utils;
 
 public class Server {
@@ -41,7 +41,7 @@ public class Server {
     String statName = params[0];
     if ("VPIP".equals(statName)) {
       if (params.length == 2) {
-        PPlayer player = db.getPlayer(params[1]);
+        Player player = db.getPlayer(params[1]);
 
         if (player != null) {
           int hands = db.getHands(player.getId());
@@ -54,7 +54,7 @@ public class Server {
       }
     } else if ("PFR".equals(statName)) {
       if (params.length == 2) {
-        PPlayer player = db.getPlayer(params[1]);
+        Player player = db.getPlayer(params[1]);
         if (player != null) {
           int hands = db.getHands(player.getId());
           int handsPFR = db.getHandsPFR(player.getId());

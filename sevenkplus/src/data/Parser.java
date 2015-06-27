@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.logging.Logger;
 
 import common.DatabaseController;
-import common.PPlayer;
+import common.Player;
 
 public class Parser {
   private final File logsDir;
@@ -66,7 +66,7 @@ public class Parser {
         if (!"out".equals(tokens[tokens.length - 1]) &&
             !"blind".equals(tokens[tokens.length - 1])) {
           String playerName = tokens[2]; // Format: "Seat #: (username)"
-          PPlayer player = db.getOrInsertPlayer(playerName);
+          Player player = db.getOrInsertPlayer(playerName);
 
           // Add this pair to the plays table
           db.addToHand(player.getId(), currentHand);
@@ -74,7 +74,7 @@ public class Parser {
       } else {
         // Player actions (post, show, win, act)
         String playerName = tokens[0];
-        PPlayer player;
+        Player player;
 
         if ("posts".equals(tokens[1])) {
           // We should have seen this player before in "Seat: ". However, it's possible for
