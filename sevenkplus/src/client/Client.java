@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
+import java.util.Arrays;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -67,7 +68,9 @@ public class Client {
   private String[] getPlayerList() {
     try {
       String result = makeServerCall("getPlayerList");
-      return result.split(",");
+      String[] ar = result.split(",");
+      Arrays.sort(ar);
+      return ar;
     } catch (Exception e) {
       String[] defaultPlayerList = new String[200];
       for (int i = 0; i < 200; ++i) {
